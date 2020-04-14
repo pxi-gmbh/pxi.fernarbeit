@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/build/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -478,6 +486,14 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/build/fernarbeit--familie.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fernarbeit--familie.html",
+		"oF": 0
+		},
 	"/build/fernarbeit--werkzeugsammlung.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -543,6 +559,25 @@
 		"oA": 0,
 		"oAP": "/build/werksschema--ausrichten.html",
 		"oF": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/source/_articles/_fernarbeit/_fernarbeit-nav.html": {
 		"cB": 0,
