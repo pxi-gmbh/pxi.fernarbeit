@@ -7,7 +7,7 @@
 <br><a href="#satz2">Klare Sprache pflegen</a> (Hilfsregeln. Sprach-Rhythmus)
 <br><a href="#satz3">Standards nutzen</a> (Formatierung. Schreibweisen. Komma-Setzung)
 <br><a href="#satz4">Wertschätzung ausdrücken</a> (Geschlecht. Bezeichnungen. Register)
-<br><span aria-hidden="true">⊗ </span><a href="/kompetenz/fernarbeit.html">zurück zum Leitfaden Fernarbeit</a>
+<br><span aria-hidden="true">⊗ </span><a href="/index.html">zurück zum Leitfaden Fernarbeit</a>
 </small>
 </blockquote>
 

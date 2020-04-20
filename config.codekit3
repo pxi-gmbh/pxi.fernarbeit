@@ -14,550 +14,13 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/.gitignore",
+		"oAP": "/build/.gitignore",
 		"oF": 0
 		},
-	"/build/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/404.html",
-		"oF": 0
-		},
-	"/build/assets/files/mind-map-laufzettel.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/files/mind-map-laufzettel.pdf",
-		"oF": 0
-		},
-	"/build/assets/files/powerpoint-startpaket.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/files/powerpoint-startpaket.zip",
-		"oF": 0
-		},
-	"/build/assets/files/tagesplan-familie-wegweiser.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/files/tagesplan-familie-wegweiser.pdf",
-		"oF": 0
-		},
-	"/build/assets/files/tagesplan-familie-werksschema.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/files/tagesplan-familie-werksschema.pdf",
-		"oF": 0
-		},
-	"/build/assets/images/clients/logo-bd.png": {
-		"ft": 32768,
-		"iS": 44004,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-bd.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/logo-berenbaum.png": {
-		"ft": 32768,
-		"iS": 9725,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-berenbaum.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/logo-boersenverein.png": {
-		"ft": 32768,
-		"iS": 18641,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-boersenverein.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/logo-ippen.png": {
-		"ft": 32768,
-		"iS": 45854,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-ippen.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/logo-jungeakademie.png": {
-		"ft": 32768,
-		"iS": 6715,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-jungeakademie.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/logo-roche.png": {
-		"ft": 32768,
-		"iS": 27503,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/logo-roche.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/clients/portrait-dorothee-werner.jpg": {
-		"ft": 16384,
-		"iS": 21760,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/portrait-dorothee-werner.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/clients/portrait-elena-appel.jpg": {
-		"ft": 16384,
-		"iS": 73090,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/portrait-elena-appel.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/clients/portrait-michael-liebmann.jpg": {
-		"ft": 16384,
-		"iS": 32855,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/portrait-michael-liebmann.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/clients/portrait-tom-polanski.jpg": {
-		"ft": 16384,
-		"iS": 63966,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/clients/portrait-tom-polanski.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/map-home.png": {
-		"ft": 32768,
-		"iS": 124003,
-		"oA": 0,
-		"oAP": "/build/assets/images/map-home.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/mind-map-1.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/mind-map-1.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/mind-map-2.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/mind-map-2.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/mind-map-3.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/mind-map-3.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/mind-map-4.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/mind-map-4.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/mind-map-laufzettel.jpg": {
-		"ft": 16384,
-		"iS": 301038,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/mind-map-laufzettel.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/platzhalter-besatzung.jpg": {
-		"ft": 16384,
-		"iS": 169411,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/platzhalter-besatzung.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-empty-240x300.jpg": {
-		"ft": 16384,
-		"iS": 32947,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-empty-240x300.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-jakob.jpg": {
-		"ft": 16384,
-		"iS": 52632,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-jakob.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-JJ-240x300.jpg": {
-		"ft": 16384,
-		"iS": 27085,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-JJ-240x300.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-jule.jpg": {
-		"ft": 16384,
-		"iS": 87744,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-jule.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-justus.jpg": {
-		"ft": 16384,
-		"iS": 97576,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-justus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/portrait-marie.jpg": {
-		"ft": 16384,
-		"iS": 41759,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/portrait-marie.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/ppt-demo.jpg": {
-		"ft": 16384,
-		"iS": 135853,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/ppt-demo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/ppt-demo.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/ppt-demo.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/praesentation-gorilla.jpg": {
-		"ft": 16384,
-		"iS": 86321,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/praesentation-gorilla.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/praesentation.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/praesentation.mp4",
-		"oF": 0
-		},
-	"/build/assets/images/pxi-progression.jpg": {
-		"ft": 16384,
-		"iS": 41151,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/pxi-progression.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/rhythmus-pxi.jpg": {
-		"ft": 16384,
-		"iS": 80993,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/rhythmus-pxi.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/stock-photos/scenery-ocean-slim.jpg": {
-		"ft": 16384,
-		"iS": 96126,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/stock-photos/scenery-ocean-slim.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/stock-photos/scenery-ocean.jpg": {
-		"ft": 16384,
-		"iS": 172300,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/stock-photos/scenery-ocean.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/stock-photos/scenery-stars.jpg": {
-		"ft": 16384,
-		"iS": 149916,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/stock-photos/scenery-stars.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/tagesplan-familie-wegweiser.jpg": {
-		"ft": 16384,
-		"iS": 608116,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/tagesplan-familie-wegweiser.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/tagesplan-familie-werksschema.jpg": {
-		"ft": 16384,
-		"iS": 740641,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/tagesplan-familie-werksschema.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/tagesplan-jj.jpg": {
-		"ft": 16384,
-		"iS": 230799,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/tagesplan-jj.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/build/assets/images/theme/apple-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 8142,
-		"oA": 0,
-		"oAP": "/build/assets/images/theme/apple-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/theme/apple-icon.png": {
-		"ft": 32768,
-		"iS": 8142,
-		"oA": 0,
-		"oAP": "/build/assets/images/theme/apple-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/build/assets/images/theme/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/assets/images/theme/favicon.ico",
-		"oF": 0
-		},
-	"/build/assets/images/theme/topography.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/assets/images/theme/topography.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/build/assets/js/helper.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/assets/js/helper-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/build/assets/js/viewport-buggyfill.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/assets/js/viewport-buggyfill-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/build/fernarbeit--familie.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/fernarbeit--familie.html",
-		"oF": 0
-		},
-	"/build/fernarbeit--werkzeugsammlung.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/fernarbeit--werkzeugsammlung.html",
-		"oF": 0
-		},
-	"/build/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/index.html",
-		"oF": 0
-		},
-	"/build/powerpoint--morph.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/powerpoint--morph.html",
-		"oF": 0
-		},
-	"/build/robots.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/robots.txt",
-		"oF": 0
-		},
-	"/build/schreiben.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/schreiben.html",
-		"oF": 0
-		},
-	"/build/styles/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/styles/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/build/visualisieren--mind-map.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/visualisieren--mind-map.html",
-		"oF": 0
-		},
-	"/build/werksschema--ausrichten.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/werksschema--ausrichten.html",
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
 		"oF": 0
 		},
 	"/README.md": {
@@ -570,7 +33,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/README.html",
+		"oAP": "/build/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -584,7 +47,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/_fernarbeit-nav.html",
+		"oAP": "/build/_articles/_fernarbeit/_fernarbeit-nav.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-arbeitsplatz.html": {
@@ -592,7 +55,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-arbeitsplatz.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-arbeitsplatz.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-arbeitsplatz.md": {
@@ -606,7 +69,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-arbeitsplatz.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -619,7 +82,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-einleitung.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-einleitung.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-einleitung.md": {
@@ -633,7 +96,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-einleitung.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -646,7 +109,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-familie.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-familie.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-familie.md": {
@@ -660,7 +123,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-familie.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -673,7 +136,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-konzepte.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-konzepte.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-konzepte.md": {
@@ -687,7 +150,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-konzepte.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -700,7 +163,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-motivation.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-motivation.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-motivation.md": {
@@ -714,7 +177,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-motivation.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -726,8 +189,8 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-nachsicht.html",
+		"oA": 1,
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-nachsicht.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-nachsicht.md": {
@@ -741,7 +204,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-nachsicht.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -754,7 +217,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-prinzipien.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-prinzipien.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-prinzipien.md": {
@@ -768,7 +231,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-prinzipien.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -781,7 +244,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-schnellstart.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-schnellstart.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-schnellstart.md": {
@@ -795,7 +258,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-schnellstart.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -808,7 +271,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-unternehmenskultur.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-unternehmenskultur.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-unternehmenskultur.md": {
@@ -822,7 +285,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-unternehmenskultur.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -835,7 +298,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit-werkzeug-praxis.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit-werkzeug-praxis.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit-werkzeug-praxis.md": {
@@ -849,7 +312,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit-werkzeug-praxis.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -862,7 +325,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_fernarbeit/fernarbeit_familie.html",
+		"oAP": "/build/_articles/_fernarbeit/fernarbeit_familie.html",
 		"oF": 0
 		},
 	"/source/_articles/_fernarbeit/fernarbeit_familie.md": {
@@ -876,7 +339,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/_fernarbeit/fernarbeit_familie.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -889,15 +352,15 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/_html-code.html",
+		"oAP": "/build/_articles/_html-code.html",
 		"oF": 0
 		},
 	"/source/_articles/datenschutz.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/source/_articles/datenschutz.html",
+		"oA": 1,
+		"oAP": "/build/_articles/datenschutz.html",
 		"oF": 0
 		},
 	"/source/_articles/datenschutz.md": {
@@ -911,7 +374,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/datenschutz.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -924,7 +387,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/fernarbeit_werkzeugsammlung.html",
+		"oAP": "/build/_articles/fernarbeit_werkzeugsammlung.html",
 		"oF": 0
 		},
 	"/source/_articles/fernarbeit_werkzeugsammlung.md": {
@@ -938,7 +401,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/fernarbeit_werkzeugsammlung.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -951,7 +414,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_articles/leitfaden-schreiben.html",
+		"oAP": "/build/_articles/leitfaden-schreiben.html",
 		"oF": 0
 		},
 	"/source/_articles/leitfaden-schreiben.md": {
@@ -965,7 +428,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/leitfaden-schreiben.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -977,8 +440,8 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/source/_articles/methoden.html",
+		"oA": 1,
+		"oAP": "/build/_articles/methoden.html",
 		"oF": 0
 		},
 	"/source/_articles/methoden.md": {
@@ -992,7 +455,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/methoden.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -1004,8 +467,8 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/source/_articles/visualisieren--mind-map.html",
+		"oA": 1,
+		"oAP": "/build/_articles/visualisieren--mind-map.html",
 		"oF": 0
 		},
 	"/source/_articles/visualisieren--mind-map.md": {
@@ -1019,7 +482,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/visualisieren--mind-map.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -1031,8 +494,8 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/source/_articles/werksschema--ausrichtung.html",
+		"oA": 1,
+		"oAP": "/build/_articles/werksschema--ausrichtung.html",
 		"oF": 0
 		},
 	"/source/_articles/werksschema--ausrichtung.md": {
@@ -1046,7 +509,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/_articles/werksschema--ausrichtung.html",
-		"oF": 0,
+		"oF": 2,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -1059,7 +522,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_garantie.html",
+		"oAP": "/build/_includes/_garantie.html",
 		"oF": 1
 		},
 	"/source/_includes/_itf-footer.kit": {
@@ -1067,7 +530,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_itf-footer.html",
+		"oAP": "/build/_includes/_itf-footer.html",
 		"oF": 1
 		},
 	"/source/_includes/_itf-header.kit": {
@@ -1075,7 +538,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_itf-header.html",
+		"oAP": "/build/_includes/_itf-header.html",
 		"oF": 1
 		},
 	"/source/_includes/_itf-navbar.kit": {
@@ -1083,7 +546,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_itf-navbar.html",
+		"oAP": "/build/_includes/_itf-navbar.html",
 		"oF": 1
 		},
 	"/source/_includes/_prozesse.kit": {
@@ -1091,7 +554,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_prozesse.html",
+		"oAP": "/build/_includes/_prozesse.html",
 		"oF": 1
 		},
 	"/source/_includes/_referenzen-icons.kit": {
@@ -1099,7 +562,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_referenzen-icons.html",
+		"oAP": "/build/_includes/_referenzen-icons.html",
 		"oF": 1
 		},
 	"/source/_includes/_referenzen-praesentation.kit": {
@@ -1107,7 +570,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_referenzen-praesentation.html",
+		"oAP": "/build/_includes/_referenzen-praesentation.html",
 		"oF": 1
 		},
 	"/source/_includes/_referenzen-strategie.kit": {
@@ -1115,7 +578,7 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_referenzen-strategie.html",
+		"oAP": "/build/_includes/_referenzen-strategie.html",
 		"oF": 1
 		},
 	"/source/_includes/_svg.html": {
@@ -1123,24 +586,8 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/_includes/_svg.html",
+		"oAP": "/build/_includes/_svg.html",
 		"oF": 0
-		},
-	"/source/fernarbeit--familie.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/fernarbeit--familie.html",
-		"oF": 2
-		},
-	"/source/fernarbeit--werkzeugsammlung.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/fernarbeit--werkzeugsammlung.html",
-		"oF": 2
 		},
 	"/source/fernarbeit.kit": {
 		"cB": 0,
@@ -1150,12 +597,28 @@
 		"oAP": "/build/index.html",
 		"oF": 2
 		},
-	"/source/schreiben.kit": {
+	"/source/kompetenz/fernarbeit--familie.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/schreiben.html",
+		"oAP": "/build/kompetenz/fernarbeit--familie.html",
+		"oF": 2
+		},
+	"/source/kompetenz/fernarbeit--werkzeugsammlung.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/kompetenz/fernarbeit--werkzeugsammlung.html",
+		"oF": 2
+		},
+	"/source/kompetenz/schreiben.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/kompetenz/schreiben.html",
 		"oF": 2
 		},
 	"/source/style.scss": {
@@ -1179,7 +642,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_buttons.css",
+		"oAP": "/build/style/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1192,7 +655,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_forms-progress.css",
+		"oAP": "/build/style/_forms-progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1205,7 +668,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_forms-slider.css",
+		"oAP": "/build/style/_forms-slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1218,7 +681,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_forms.css",
+		"oAP": "/build/style/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1231,7 +694,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_helper.css",
+		"oAP": "/build/style/_helper.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1244,7 +707,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_html-reset.css",
+		"oAP": "/build/style/_html-reset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1257,7 +720,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_landmarks.css",
+		"oAP": "/build/style/_landmarks.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1270,7 +733,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_layout.css",
+		"oAP": "/build/style/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1283,7 +746,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_links.css",
+		"oAP": "/build/style/_links.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1296,7 +759,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_media.css",
+		"oAP": "/build/style/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1309,7 +772,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_meta.css",
+		"oAP": "/build/style/_meta.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1322,7 +785,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_navmenu.css",
+		"oAP": "/build/style/_navmenu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1335,7 +798,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_typography.css",
+		"oAP": "/build/style/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1348,7 +811,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/source/style/_variables.css",
+		"oAP": "/build/style/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1657,7 +1120,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -3763,7 +3226,7 @@
 		},
 	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "/build"
 	},
 "settingsFileVersion": "3"
 }
