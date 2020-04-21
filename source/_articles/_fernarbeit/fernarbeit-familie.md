@@ -21,5 +21,5 @@ Wo Kinderbetreuung mit dem Arbeitsalltag koordiniert wird, ist eine Aufteilung v
 Eine Sammlung von Tricks zur Beschäftigung der Kinder oder zur Integration der Betreuung in den Arbeitsalltag finden Sie [auf Englisch](https://www.poynter.org/business-work/2020/how-to-work-from-home-with-kids-around/). Wenn Sie selbst Bildung und vor allem Forschung neu für sich entdecken mögen, probieren Sie doch ein paar [Experimente für Vorschule und Grundschule](https://www.bildungsserver.de/Praxishilfen-Experimentieranleitungen-5683-de.html) gemeinsam aus.
 
 <blockquote class="text-small contrast-bg-light">
-Ausführliche Gedanken zu gerechter Verteilung von Betreuung und Arbeit und eine Vorlage für einen Tages- und Wochenplan: <a href="/kompetenz/fernarbeit--familie.html" title="mehr über Tagesplanung und Struktur von Arbeit erfahren"><span aria-hidden="true">→ </span>mehr über Lösungen für Familien erfahren</a>
+Ausführliche Gedanken zu gerechter Verteilung von Betreuung und Arbeit und eine Vorlage für einen Tages- und Wochenplan: <a href="/familie" title="mehr über Tagesplanung und Struktur von Arbeit erfahren"><span aria-hidden="true">→ </span>mehr über Lösungen für Familien erfahren</a>
 </blockquote>

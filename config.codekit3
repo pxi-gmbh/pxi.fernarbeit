@@ -589,6 +589,22 @@
 		"oAP": "/build/_includes/_svg.html",
 		"oF": 0
 		},
+	"/source/datenschutz/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/datenschutz/index.html",
+		"oF": 0
+		},
+	"/source/familie/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/familie/index.html",
+		"oF": 2
+		},
 	"/source/fernarbeit.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -597,28 +613,12 @@
 		"oAP": "/build/index.html",
 		"oF": 2
 		},
-	"/source/kompetenz/fernarbeit--familie.kit": {
+	"/source/schreiben/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/kompetenz/fernarbeit--familie.html",
-		"oF": 2
-		},
-	"/source/kompetenz/fernarbeit--werkzeugsammlung.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/kompetenz/fernarbeit--werkzeugsammlung.html",
-		"oF": 2
-		},
-	"/source/kompetenz/schreiben.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/kompetenz/schreiben.html",
+		"oAP": "/build/schreiben/index.html",
 		"oF": 2
 		},
 	"/source/style.scss": {
@@ -815,6 +815,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/source/werkzeugsammlung/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/werkzeugsammlung/index.html",
+		"oF": 2
 		}
 	},
 "hooks": [

@@ -13,7 +13,7 @@ Text ist ein scheinbar triviales Werkzeug. Dabei ist es die entscheidende Kultur
 Suchen Sie sich Anleitung und Werkzeuge zur inhaltlichen Strukturierung von Text und zur Gestaltung durch Formatierung. Überlegen Sie sich Regeln für gutes, wertschätzendes, inklusives Formulieren. Text ist die Kulturtechnik, die gleichzeitig Kultur bildende Technik für Ihr Unternehmen sein wird.
 
 <blockquote class="text-small contrast-bg-light">
-Einen eigenen Leitfaden zur Anleitung für verständliches, einnehmendes Schreiben stellen wir hier zusammen: <a href="/kompetenz/schreiben.html" title="Schreiben ist lernbar"><span aria-hidden="true">→ </span>zum Leitfaden für Text-Produktion</a>
+Einen eigenen Leitfaden zur Anleitung für verständliches, einnehmendes Schreiben stellen wir hier zusammen: <a href="/schreiben" title="Schreiben ist lernbar"><span aria-hidden="true">→ </span>zum Leitfaden für Text-Produktion</a>
 </blockquote>
 
 ### Video-Konferenz als Ersatz für Besprechungen
@@ -109,5 +109,5 @@ Je nachdem, wie groß ein Team ist, kann es sich anbieten, einen offenen Gruppen
 Und wenn Sie sich doch wieder treffen können, feiern Sie Momente des Beisammenseins besonders ausgiebig. Planen Sie vielleicht jetzt schon einen gemeinsamen Arbeits-Urlaub mit Ihren Brieffreundschaften.
 
 <blockquote class="text-small contrast-bg-light">
-Eine Sammlung mit kurzer Einordnung von Online-Werkzeugen für vernetzte Zusammenarbeit stellen wir hier zusammen: <a href="/kompetenz/fernarbeit--werkzeugsammlung.html" title="mehr Werkzeuge für Fernarbeit"><span aria-hidden="true">→ </span>zur Übersicht von Online-Werkzeugen</a>
+Eine Sammlung mit kurzer Einordnung von Online-Werkzeugen für vernetzte Zusammenarbeit stellen wir hier zusammen: <a href="/werkzeugsammlung" title="mehr Werkzeuge für Fernarbeit"><span aria-hidden="true">→ </span>zur Übersicht von Online-Werkzeugen</a>
 </blockquote>
