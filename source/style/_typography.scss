@@ -44,6 +44,9 @@ section {
 	padding-top: #{$line-height}em;
 	padding-bottom: #{$line-height}em;
 }
+article section:first-of-type{
+	margin-top: 0;
+}
 
 h1,
 .header-1 {

@@ -1,17 +1,7 @@
 <small>Schreiben ist Handwerk. Das kann jeder Mensch lernen, dafür müssen Sie nur üben. Also schreiben Sie viel und regelmäßig, wenn Sie besser schreiben lernen wollen. Stilvorgaben helfen, die Holprigkeiten aus dem Sprachbild zu glätten. So werden Texte flüssiger und lesbarer. Mit regelmäßiger Arbeit am Text entwickelt sich in der Schriftsprache ein persönlicher Stil, der mühelos seinen Ausdruck findet. Die hier vorgestellten Regeln und Leitsätze bieten einen Rahmen, in dem Sie zu Ihrem Stil finden.</small>
 
-<blockquote><!-- @todo nav gestalten -->
-<strong>Inhalt:</strong>
-<small>
-<br><a href="#satz1">Schreiben, wie wir sprechen</a> (Entwurf; Redaktion)
-<br><a href="#satz2">Klare Sprache pflegen</a> (Hilfsregeln. Sprach-Rhythmus)
-<br><a href="#satz3">Standards nutzen</a> (Formatierung. Schreibweisen. Komma-Setzung)
-<br><a href="#satz4">Wertschätzung ausdrücken</a> (Geschlecht. Bezeichnungen. Register)
-<br><span aria-hidden="true">⊗ </span><a href="/">zurück zum Leitfaden Fernarbeit</a>
-</small>
-</blockquote>
-
-## <span id="satz1">Leitsatz 1:</span><br> Wir wollen schreiben, wie wir sprechen
+<span id="satz1"></span>
+## Leitsatz 1:<br> Wir wollen schreiben, wie wir sprechen
 
 *… allerdings mit weniger Fehlern und ohne Stocken.*
 
@@ -29,7 +19,8 @@ Wenn wir einen Entwurf schreiben, suchen wir den ungehemmten Fluss. Ausdruck, Re
 Die einleitenden Sätze entpuppen sich beim Korrekturlesen oft als „Warmschreiben.“ Hier nähern wir uns mit Allgemeinplätzen den eigentlich wichtigen Gedanken. Suchen Sie nach der ersten konkreten Aussage und arbeiten von dort aus am Argument.</span>
 Beim Korrekturlesen sind wir dann gnadenlos. Füllwörter, Ungereimtheiten, Ungenauigkeiten streichen wir aus dem Text, bis die Klarheit der Gedanken frei liegt. Dabei hilft es, wenn Sie vor dem Korrekturlesen Abstand gewinnen. Eine Nacht voll Schlaf bringt Gelassenheit. Für besondere Texte darf es gerne mehr Abstand sein.
 
-## <span id="satz2">Leitsatz 2:</span><br> Wir wollen klare Sprache pflegen
+<span id="satz2"></span>
+## Leitsatz 2:<br> Wir wollen klare Sprache pflegen
 
 Handlungen sind die Dreh- und Angelpunkte von Erzählungen. Beim Lesen wollen wir verstehen, wer etwas tut und warum Dinge geschehen. So begreifen wir die Sinn-Zusammenhänge. Deswegen sollten Handlungen all Ihre Texte prägen. 
 
@@ -77,8 +68,8 @@ Dieser Satz hat fünf Worte. Hier sind weitere fünf Worte. Solche Sätze sind g
 
 Darum: Spielen Sie mit dem Rhythmus der Worte und der Text beginnt zu singen. Komponieren Sie Musik für Augen und Ohren. Variieren Sie, setzen Sie Akzente, Pausen. Wählen Sie Sätze von mittlerer Länge und Nebensätze, um Zusammenhänge herzustellen. Kurze Sätze entspannen. Und manchmal, wenn Sie ganz sicher sind, dass Ihr Publikum ausgeruht ist, servieren Sie ihm einen Satz von formidabler Länge, dessen Sinn es sich erarbeiten muss, der in seiner Wortgewalt und Intensität brennt und beim Lesen herausschreit, dass dieses Crescendo von Ideen Aufmerksamkeit verdient, dass dieses Textereignis wichtig ist.
 
-
-## <span id="satz3">Leitsatz 3:</span><br>Wir wollen Standards nutzen
+<span id="satz3"></span>
+## Leitsatz 3:<br>Wir wollen Standards nutzen
 
 Wir können Texte leichter lesen, wenn sie sich an gewohnte Regeln halten. Dazu gehören Formatierung, Rechtschreibung und Grammatik der Standardsprache. Dieser Text richtet sich an Menschen, die Standard-Deutsch schreiben. Dafür, und für jede weitere Standardsprache, gibt es offizielle Regelwerke. Für unsere Texte gelten die neue deutsche Rechtschreibung und entsprechende Empfehlungen aus dem Duden.
 
@@ -210,8 +201,8 @@ Das kalte und klare Wasser löscht den Durst, der alte und französischen Rotwei
 8.	Kommas stehen nach **wörtlichen Reden**, **Anreden** (auch Briefanreden aber nicht nach Abschiedsformeln in Briefen) und **Ausrufen**.<br><br>
 9.	Kommas und andere Satzzeichen innerhalb von **wörtlicher Rede** (durch Anführungszeichen gekennzeichnet) und Klammern wirken nur nach innen. Zur Einbettung in weitere Sätze werden Satzzeichen außerhalb der Anführungszeichen oder Klammern gesetzt.
 
-
-## <span id="satz4">Leitsatz 4:</span><br>Wir wollen Wertschätzung ausdrücken 
+<span id="satz4"></span>
+## Leitsatz 4:<br>Wir wollen Wertschätzung ausdrücken 
 
 Überzeugender Text ist für jedes Publikum zugänglich. Eine wertschätzende Sprache lädt Menschen mit unterschiedlichen Bedürfnissen und Perspektiven zur Verständigung ein. Zeigen Sie Wertschätzung für diese Menschen, indem Sie respektvolle Formulierungen, Anreden und Bezeichnungen wählen.
 

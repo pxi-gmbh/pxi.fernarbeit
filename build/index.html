@@ -27,39 +27,92 @@
 
 	<body>
 		<a class="skip-link" href="#main">Direkt zum Inhalt springen</a>
-<header id="nav-header">
-	<nav role="navigation">
-		<ul class="nav-menu">
-			<li class="nav-logo">
-				<a href="index.html">PX<span class="nav-logoslash">|</span>I &nbsp;<i class="nav-brand"> Agentur</i></a>
-			</li>
-			<li>
-				<a href="betrieb.html">
-					<span class="nav-full">Besatzung</span>
-					<span class="nav-small">Besatzung</span></a>
-			</li>
-			<li>
-				<a href="methoden.html">
-					<span class="nav-full">Kurs</span>
-					<span class="nav-small">Kurs</span>
-				</a>
-			</li>
-			<li>
-				<a href="wissen.html">
-					<span class="nav-full">Manifest</span>
-					<span class="nav-small">Manifest</span></a>
-			</li>
-			<li>
-				<a href="logbuch.html">Logbuch</a>
-				
-			</li>
-			<li class="nav-mobile-logo">
-				<a href="/">PX <span class="nav-mobile-logoslash">|</span> I
-				</a>
-			</li>
-		</ul>
+<header id="nav-header" class="grid grid-margin">
+	<nav role="navigation" class="nav-dropdown-container">
+		<button onclick="navDropdownFunction()" class="dropbutton">Inhalt <small style="pointer-events: none">&#9660;</small></button>
+		<div id="nav-dropdown" class="nav-dropdown-content">
+			<ul>
+				<li>Inhaltsverzeichnis<br><small>(aktualisiert: 2020-04)</small></li>
+				<li>
+					<br>
+					<a href="#prinzipien">Prinzipien zum Loslegen</a>
+					<br>… Absprachen sind wichtiger als Werkzeuge
+					<br>… Vertrauen ist das Fundament, Schreiben die Kulturtechnik
+					<br>… Information wird zentralisiert
+					<br>… Wohlwollen und Wertschätzung werden Bringschuld
+					<br>
+					<br>
+				</li>
+				<li>
+					<a href="#konzepte">Konzepte zur Arbeits-Struktur</a>
+					<br>… Gleichzeitigkeit und Nachzeitigkeit
+					<br>… Konzentration und Geschäftigkeit
+					<br>… Autonomie
+					<br>… Rhythmus
+					<br>… Transparenz
+					<br>… Präsenz
+					<br>… Fehlerkultur
+					<br>
+					<br>
+				</li>
+				<li>
+					<a href="#werkzeuge">Werkzeug-Praxis</a>
+					<br>… Text
+					<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/schreiben">Leitfaden Text-Produktion</a> (neu)
+					<br>… Video-Konferenz (für Meetings)
+					<br>… Video-Konferenz (für Workshops)
+					<br>… Dateiverwaltung
+					<br>… Aufgabenverwaltung
+					<br>… E-Mail
+					<br>… Chat
+					<br>… Briefpost
+					<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/werkzeugsammlung">Übersicht Online-Werkzeuge</a> (neu)
+					<br>
+					<br>
+				</li> 
+				<li>
+					<a href="#arbeitsplatz">Arbeitsplatz zu Hause</a>
+					<br>… Arbeitsumgebung
+					<br>… Soziales Umfeld
+					<br>
+					<br>
+				</li>
+				<li>
+					<a href="#kultur">Unternehmenskultur</a>
+					<br>… Wandel
+					<br>… Führungsaufgaben
+					<br>
+					<br>
+				</li>
+				<li>
+					<a href="#motivation">Gesundheit und Selbstmotivation</a>
+					<br>… Arbeit und Privatleben
+					<br>… Aufmerksamkeit verteilen
+					<br>… Dranbleiben
+					<br>… Gemeinschaftsgefühl stärken
+					<br>… Unruhiges Arbeitsumfeld
+					<br>
+					<br>
+				</li>
+				<li>
+					<a href="#familie">Familie und Beruf</a>
+					<br>… Projekt Familie
+					<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/familie">Tagesplan Arbeit und Betreuung</a> (neu)
+					<br>
+					<br><a href="#erste-schritte">Schnellstart</a> (neu)
+					<br>
+					<br>
+				</li>
+			</ul>
+		    
+	  	</div>
+
+
+		
 	</nav>
 </header>
+
+
 <main id="main" role="main">		
 	<header role="banner" class="grid grid-margin">
 		<h1>Fernarbeit</h1>
@@ -74,77 +127,6 @@
 		<p class="text-small"><em>Wenn Sie die Prinzipien und Erläuterungen lieber später lesen und jetzt schnell die wichtigsten Grundlagen zur Umstellung schaffen wollen, springen Sie ans Ende des Dokuments</em>:</p>
 		<p class="text-small text-right" style="margin-top:0;"><a href="#erste-schritte"><span aria-hidden="true">→ </span>die ersten Schritte</a></p>
 		
-		<style>
-		.toc-popout {
-			display: none;
-		}
-		#inhalt:target .toc-popout {
-		  display: block;
-		  animation: pulse 0.5s linear 1;
-		}
-		@keyframes pulse {
-			0% { transform: scale(1) }
-			50% { transform: scale(1.05) }
-			100% { transform: scale(1) }
-		}
-		</style>
-		
-		<div id="inhalt">
-		<blockquote>
-		<strong>Inhaltsverzeichnis<br><small>(aktualisiert: 2020-04)</small><br><br><a href="#inhalt" style="padding:0.75em;color:white;background:rgba(15,15,15,.8);text-decoration:none;"><span aria-hidden="true">⨭ … </span>ausklappen</a></strong>
-		<nav class="toc-popout text-small"><!-- @todo nav gestalten -->
-		<br><a href="#prinzipien">Prinzipien zum Loslegen</a>
-		<br>… Absprachen sind wichtiger als Werkzeuge
-		<br>… Vertrauen ist das Fundament, Schreiben die Kulturtechnik
-		<br>… Information wird zentralisiert
-		<br>… Wohlwollen und Wertschätzung werden Bringschuld
-		<br>
-		<br><a href="#konzepte">Konzepte zur Arbeits-Struktur</a>
-		<br>… Gleichzeitigkeit und Nachzeitigkeit
-		<br>… Konzentration und Geschäftigkeit
-		<br>… Autonomie
-		<br>… Rhythmus
-		<br>… Transparenz
-		<br>… Präsenz
-		<br>… Fehlerkultur
-		<br>
-		<br><a href="#werkzeuge">Werkzeug-Praxis</a>
-		<br>… Text
-		<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/schreiben">Leitfaden Text-Produktion</a> (neu)
-		<br>… Video-Konferenz (für Meetings)
-		<br>… Video-Konferenz (für Workshops)
-		<br>… Dateiverwaltung
-		<br>… Aufgabenverwaltung
-		<br>… E-Mail
-		<br>… Chat
-		<br>… Briefpost
-		<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/werkzeugsammlung">Übersicht Online-Werkzeuge</a> (neu)
-		<br>
-		<br><a href="#arbeitsplatz">Arbeitsplatz zu Hause</a>
-		<br>… Arbeitsumgebung
-		<br>… Soziales Umfeld
-		<br>
-		<br><a href="#kultur">Unternehmenskultur</a>
-		<br>… Wandel
-		<br>… Führungsaufgaben
-		<br>
-		<br><a href="#motivation">Gesundheit und Selbstmotivation</a>
-		<br>… Arbeit und Privatleben
-		<br>… Aufmerksamkeit verteilen
-		<br>… Dranbleiben
-		<br>… Gemeinschaftsgefühl stärken
-		<br>… Unruhiges Arbeitsumfeld
-		<br>
-		<br><a href="#familie">Familie und Beruf</a>
-		<br>… Projekt Familie
-		<br><span aria-hidden="true">⊕ </span><em>Extra</em>: <a href="/familie">Tagesplan Arbeit und Betreuung</a> (neu)
-		<br>
-		<br><a href="#erste-schritte">Schnellstart</a> (neu)
-		<br>
-		<br><a href="#" style="padding:0.75em;color:white;background:rgba(15,15,15,.8);text-decoration:none;"><span aria-hidden="true">⨵ … </span>einklappen</a>
-		</nav>
-		</blockquote>
-		</div>
 		<section>	
 			<!DOCTYPE html>
 			<html xmlns="http://www.w3.org/1999/xhtml" lang="en">

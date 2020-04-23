@@ -541,12 +541,12 @@
 		"oAP": "/build/_includes/_itf-header.html",
 		"oF": 1
 		},
-	"/source/_includes/_itf-navbar.kit": {
+	"/source/_includes/_main-navbar.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/build/_includes/_itf-navbar.html",
+		"oAP": "/build/_includes/_main-navbar.html",
 		"oF": 1
 		},
 	"/source/_includes/_prozesse.kit": {
@@ -589,12 +589,28 @@
 		"oAP": "/build/_includes/_svg.html",
 		"oF": 0
 		},
+	"/source/datenschutz/_datenschutz-navbar.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/datenschutz/_datenschutz-navbar.html",
+		"oF": 0
+		},
 	"/source/datenschutz/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/datenschutz/index.html",
+		"oF": 0
+		},
+	"/source/familie/_familie-navbar.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/familie/_familie-navbar.html",
 		"oF": 0
 		},
 	"/source/familie/index.kit": {
@@ -612,6 +628,14 @@
 		"oA": 0,
 		"oAP": "/build/index.html",
 		"oF": 2
+		},
+	"/source/schreiben/_schreiben-navbar.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/schreiben/_schreiben-navbar.html",
+		"oF": 0
 		},
 	"/source/schreiben/index.kit": {
 		"cB": 0,
@@ -815,6 +839,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/source/werkzeugsammlung/_werkzeugsammlung-navbar.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/werkzeugsammlung/_werkzeugsammlung-navbar.html",
+		"oF": 0
 		},
 	"/source/werkzeugsammlung/index.kit": {
 		"cB": 0,

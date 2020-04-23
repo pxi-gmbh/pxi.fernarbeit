@@ -26,39 +26,61 @@
 
 	<body>
 		<a class="skip-link" href="#main">Direkt zum Inhalt springen</a>
-<header id="nav-header">
-	<nav role="navigation">
-		<ul class="nav-menu">
-			<li class="nav-logo">
-				<a href="index.html">PX<span class="nav-logoslash">|</span>I &nbsp;<i class="nav-brand"> Agentur</i></a>
-			</li>
-			<li>
-				<a href="betrieb.html">
-					<span class="nav-full">Besatzung</span>
-					<span class="nav-small">Besatzung</span></a>
-			</li>
-			<li>
-				<a href="methoden.html">
-					<span class="nav-full">Kurs</span>
-					<span class="nav-small">Kurs</span>
-				</a>
-			</li>
-			<li>
-				<a href="wissen.html">
-					<span class="nav-full">Manifest</span>
-					<span class="nav-small">Manifest</span></a>
-			</li>
-			<li>
-				<a href="logbuch.html">Logbuch</a>
-				
-			</li>
-			<li class="nav-mobile-logo">
-				<a href="/">PX <span class="nav-mobile-logoslash">|</span> I
-				</a>
-			</li>
-		</ul>
+<header id="nav-header" class="grid grid-margin">
+	<nav role="navigation" class="nav-dropdown-container">
+		<button onclick="navDropdownFunction()" class="dropbutton">Fernarbeit | Rechtliches <small style="pointer-events: none">&#9660;</small></button>
+		<div id="nav-dropdown" class="nav-dropdown-content">
+			<ul>
+				<li>
+					<br>
+					<a href="#grundsatze">Grundsätze</a>
+				</li>
+				<li>
+					<a href="#dienste">Dienste</a>
+					<br>
+				</li>
+				<li>
+					<a href="#daten">Personenbezogene Daten</a> 
+					<br>
+				</li> 
+				<li>
+					<a href="#sicherheit">Sicherheitsmaßnahmen</a>
+					<br>
+				</li>
+				<li>
+					<a href="#datenloeschung">Löschung von Daten</a>
+					<br>
+				</li>
+				<li>
+					<a href="#kontaktdaten">Unsere Kontaktdaten</a>
+					<br>
+				</li>
+				<li>
+					<a href="#aktualisierung">Aktualisierung der Datenschutzerklärung</a>
+					<br>
+				</li>
+				<li>
+					<a href="#rechte">Ihre Rechte</a>
+					<br>
+				</li>
+				<li>
+					<a href="#ansprechpartner">Ansprechpartner für Datenschutz</a>
+					<br>
+				</li>
+				<li>
+					<span aria-hidden="true">⊗ </span><a href="/">zurück zum Leitfaden Fernarbeit</a>
+					<br>
+				</li>
+			</ul>
+		    
+	  	</div>
+
+
+		
 	</nav>
 </header>
+
+
 <main id="main" role="main">		
 	<header role="banner" class="grid grid-margin">
 		<h1>Rechtliches</h1>
@@ -75,9 +97,13 @@
 		
 		<p>Mit der folgenden Erklärung möchten wir Sie aufklären, welche Daten wir erheben und verarbeiten und wofür. Die Erklärung gilt für all unsere Aktivitäten.</p>
 		
+		<p><span id="grundsaetze"></span></p>
+		
 		<h3 id="grundsätze">Grundsätze</h3>
 		
 		<p>Wir arbeiten so datensparsam wie möglich und erheben Daten möglichst nur auf freiwilliger Basis. Wir verzichten auf <em>Cookies</em>, <em>Tracking Analytics</em> und <em>Social-Media Share-Buttons</em> und beschränken uns bei Dienstleistern für Kommunikationstechnologie auf das Notwendigste: Auf der Webseite und im E-Mail-Verkehr werden Daten nur von uns und unserem Anbieter für Webhosting erfasst. E-Mail-Listen verwalten wir selbst. Ausnahmen gibt es für einzelne Seiten und Kanäle mit weiterführenden Angeboten jenseits unseres Webauftritts, zum Beispiel Videokonferenzen oder Messenger-Dienste. Details finden Sie im Folgenden.</p>
+		
+		<p><span id="dienste"></span></p>
 		
 		<h3 id="dienste">Dienste</h3>
 		
@@ -96,31 +122,45 @@
 		
 		<p>Wir beschränken uns bei der Arbeit und Planung mit personenbezogenen Daten auf die Nutzung von Microsoft Office und der Microsoft Cloud über die jeweiligen Endgeräte der Belegschaft der Ideentransfer GmbH und für die Arbeit relevanten Partnerunternehmen. Physisch liegen Informationen aus Geschäftsprozessen und Korrespondenz in den Geschäftsräumen der Ideentransfer GmbH.</p>
 		
+		<p><span id="daten"></span></p>
+		
 		<h3 id="verarbeitungundÜbermittlungpersonenbezogenerdaten">Verarbeitung und Übermittlung personenbezogener Daten</h3>
 		
 		<p>Bei der Kontaktaufnahme und der Arbeit mit uns verarbeiten wir Angaben zur anfragenden Person, die zur Beantwortung und zur eventuell angefragten Arbeit notwendig sind.</p>
 		
 		<p>Im Rahmen unserer Arbeit müssen wir für den Zahlungsverkehr oder die Kommunikation personenbezogene Daten an die dafür notwendigen Institutionen und Personen übermitteln. Wir halten uns dabei an die gesetzlichen Vorgaben und treffen entsprechende Vorkehrungen und Vereinbarungen zum Schutz Ihrer Informationen.</p>
 		
+		<p><span id="sicherheit"></span></p>
+		
 		<h3 id="sicherheitsmaßnahmen">Sicherheitsmaßnahmen</h3>
 		
 		<p>Wir behandeln Ihre Daten vertraulich und haben Prozesse eingerichtet, die Integrität der Daten zu schützen. Für den Kontakt über unsere Webseite verschlüsseln wir jeden Datentransfer mit dem SSL-Protokoll über https.</p>
+		
+		<p><span id="datenloeschung"></span></p>
 		
 		<h3 id="löschungvondaten">Löschung von Daten</h3>
 		
 		<p>Sofern wir Ihre Daten nicht für die Arbeit oder die Kommunikation benötigen, löschen wir verarbeitete Daten alsbald im Rahmen der gesetzlichen Vorgaben.</p>
 		
+		<p><span id="kontaktdaten"></span></p>
+		
 		<h3 id="unserekontaktdaten">Unsere Kontaktdaten</h3>
 		
 		<p>Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten sind ausdrücklich keine Einladung zur Übersendung unangeforderten Informationsmaterials. Wenn Sie uns trotzdem Werbung schicken, behalten wir uns rechtliche Schritte vor.</p>
+		
+		<p><span id="aktualisierung"></span></p>
 		
 		<h3 id="aktualisierungderdatenschutzerklärung">Aktualisierung der Datenschutzerklärung</h3>
 		
 		<p>Wir informieren Sie über die personenbezogene Datenverarbeitung nach bestem Wissen und Gewissen. Wenn wir oder unsere dienstleistenden Unternehmen Änderungen in der Datenverarbeitung vornehmen, werden wir Sie an dieser Stelle informieren.</p>
 		
+		<p><span id="rechte"></span></p>
+		
 		<h3 id="ihrerechte">Ihre Rechte</h3>
 		
 		<p>Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie gegebenenfalls ein Recht auf Widerspruch, Widerruf, Berichtigung, Sperrung, Einschränkung oder Löschung dieser Daten. Sie haben außerdem das Recht, sich bei einer Aufsichtsbehörde zu beschweren, wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen die DSGVO verstößt.</p>
+		
+		<p><span id="ansprechpartner"></span></p>
 		
 		<h4 id="ansprechpartnerfürdatenschutz">Ansprechpartner für Datenschutz</h4>
 		

@@ -48,6 +48,9 @@ $text-size-adjust: 100%; // prevent adjustments of font size after orientation c
 // 0.865	1	1.4	1.618	2.265	2.618	3.665	4.236
 $type-scale-base: .7; //adjust universal base-unit for type size
 $type-scale-small:  $type-scale-base * 0.865;
+
+$type-scale-extra-small:  $type-scale-base * 0.4;
+
 $type-scale-normal: $type-scale-base * 1;
 $type-scale-h4:     $type-scale-base * 1.4;
 $type-scale-h3:     $type-scale-base * 1.618;

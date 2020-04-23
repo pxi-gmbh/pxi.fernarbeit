@@ -1,21 +1,8 @@
 <small>Eine Auswahl der populärsten Dienste für dezentrales Arbeiten.<br>(★) markiert Dienste, die wir aktuell selbst nutzen.</small>
 
-<blockquote><!-- @todo nav gestalten -->
-<strong>Inhalt:</strong>
-<small>
-<br><a href="#office">Cloud & Office-Anwendungen</a>
-<br><a href="#video">Video & Fernzugriff</a>
-<br><a href="#aufgaben">Aufgabenverwaltung</a>
-<br><a href="#text">Text & Wissensverwaltung</a>
-<br><a href="#whiteboards">Whiteboards</a>
-<br><a href="#chat">Chat</a>
-<br><a href="#crypto">Verschlüsselung, Passwörter, Buchhaltung</a>
-<br><span aria-hidden="true">⊗ </span><a href="/">zurück zum Leitfaden Fernarbeit</a>
-</small>
-</blockquote>
 
-
-## <span id="office">Integration von Cloud und Office-Anwendungen</span>
+<span id="office"></span>
+## Integration von Cloud und Office-Anwendungen
 
 **[Box](https://www.box.com/de-de/for-enterprise)** bietet  per App oder Browser Cloud-Content-Management und Schnittstellen der Zusammenarbeit mit anderen Plattformen und Diensten für Ihre Dateien. Kein Gratisangebot.
 
@@ -36,8 +23,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[WebEx](https://gblogs.cisco.com/de/coronavirus-cisco-erweitert-kostenloses-webex-angebot/)** integriert Meetings und Dateiverwaltung kostenlos für Unternehmen mit Ciscos angeschlossenen Lösungen (die sind nicht kostenlos).
 
-
-## <span id="video">Video & Fernzugriff</span>
+<span id="video"></span>
+## Video & Fernzugriff
 
 **[AnyDesk](https://anydesk.com/de)** ist Fernzugriff aus Deutschland, gratis zu Testen in der privaten Nutzung.
 
@@ -57,8 +44,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Zoom](https://zoom.us)** macht nur Video, das macht es aber ziemlich robust. Gute Funktionalität für größere Veranstaltungen durch Verwaltung von Bild und Ton der Teilnehmenden und integrierten Umfragen. Ist allerdings wegen Problemen mit Sicherheit und Datenschutz in seinen Apps bisweilen auffällig. Als Teilnehmende am besten im Browser verwenden, dann erledigen sich die meisten dieser Probleme.
 
-
-## <span id="aufgaben">Aufgabenverwaltung & Kommunikation</span>
+<span id="aufgaben"></span>
+## Aufgabenverwaltung & Kommunikation
 
 **[Airtable](https://airtable.com)**. Wer von Tabellenkalkulation zur Planung und Verwaltung einfach nicht genug bekommen kann und gleich eine ganze Datenbank darauf aufsetzen will. Basisfunktion gratis. Erweiterte Möglichkeiten zur Zusammenarbeit nur in der bezahlten Version.
 
@@ -74,8 +61,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Trello](https://trello.com/de)** (★) lässt Ihnen alle Freiheiten, Listen in Listen anzulegen. Basiert auf dem Kanban-Prinzip zur Strukturierung von Arbeit. Sehr schlank zum Start. Gratis in der Grundfunktion, Schnittstellen kosten extra.
 
-
-## <span id="text">Text & Wissens-Verwaltung</span>
+<span id="text"></span>
+## Text & Wissens-Verwaltung
 
 **[Confluence](https://www.atlassian.com/de/software/confluence)** Zusammenarbeit an Dokumenten und Wissen in einer zentralen Datenbank. Bei der Mutterfirma Atlassian sind seit März 2020 die Werkzeuge für kleine Teams bis 10 Personen gratis.
 
@@ -85,8 +72,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Etherpad](https://etherpad.org)** ist ein Werkzeug zur ad-hoc Text-Kollaboration. Einfach eine der angebotenen Instanzen im Browser starten. Autorschaft wird farblich markiert, mit einer Zeitleiste können Änderungen vor- und zurück-gespult werden. Datensparsames Open-Source-Projekt mit vielen Erweiterungen und Geschmacksrichtungen. Eventuell kurzfristig die [Corona-Edition](https://video.etherpad.com) mit integriertem Video-Chat nutzen.
 
-
-## <span id="whiteboards">Whiteboards</span>
+<span id="whiteboards"></span>
+## Whiteboards
 
 **[Concept Board](https://conceptboard.com)** Ist ein Multimedia-Whiteboard mit Schemata und Vorlagen zur Strukturierung der Inhalte. Die Gratisversion erlaubt nur Lesezugriff für Gäste, nur 50 Objekte pro Board.
 
@@ -102,8 +89,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Witeboard](https://witeboard.com/)** Whiteboard im Browser, ohne Anmeldung nutzbar, für schnelle Skizzen URL teilbar. Interessant vielleicht als Erweiterung (Plug-In) für Slack.
 
-
-## <span id="chat">Chat</span>
+<span id="chat"></span>
+## Chat
 
 **[Discord](https://discordapp.com)** bietet kostenfrei eine Plattform für Chats, Video und Voicechat und funktioniert auch ohne App-Installation im Browser. Strukturiert in thematischen Servern richtet sich das Angebot ursprünglich an die Gemeinde für Online-Computerspiele, wo sich auch künftige Bezahlmodelle für Premium-Funktionen anknüpfen. Die Kernfunktion ist gratis und mittlerweile auch außerhalb der Spiele-Szene verbreitet.
 
@@ -115,8 +102,8 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Twist](https://twist.com/?lang=de)** ist auch ein Chat, aber für nicht-synchrone Kommunikation optimiert. Geld kostet es, sobald die gesendeten Nachrichten und Texte länger als einen Monat verfügbar bleiben sollen.
 
-
-## <span id="crypto">Verschlüsselung</span>
+<span id="crypto"></span>
+## Verschlüsselung
 
 **[boxcryptor](https://www.boxcryptor.com/de/)** Ende-zu-Ende Verschlüsselung von Dateien in Cloud-Speichern wie Dropbox, OneDrive und Co. Gratis für private Nutzung (ein Cloud-Dienst). Eine nutzungsfreundliche Lösung aus Deutschland mit Apps auch für mobile Verwaltung und Zugriff.
 

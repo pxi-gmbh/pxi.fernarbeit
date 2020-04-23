@@ -1,9 +1,11 @@
 ## Datenschutzerklärung
 Mit der folgenden Erklärung möchten wir Sie aufklären, welche Daten wir erheben und verarbeiten und wofür. Die Erklärung gilt für all unsere Aktivitäten.
 
+<span id="grundsaetze"></span>
 ### Grundsätze
 Wir arbeiten so datensparsam wie möglich und erheben Daten möglichst nur auf freiwilliger Basis. Wir verzichten auf *Cookies*, *Tracking Analytics* und *Social-Media Share-Buttons* und beschränken uns bei Dienstleistern für Kommunikationstechnologie auf das Notwendigste: Auf der Webseite und im E-Mail-Verkehr werden Daten nur von uns und unserem Anbieter für Webhosting erfasst. E-Mail-Listen verwalten wir selbst. Ausnahmen gibt es für einzelne Seiten und Kanäle mit weiterführenden Angeboten jenseits unseres Webauftritts, zum Beispiel Videokonferenzen oder Messenger-Dienste. Details finden Sie im Folgenden.
 
+<span id="dienste"></span>
 ### Dienste
 Sie können unser Angebot ohne Angabe personenbezogener Daten wie Name, Anschrift oder E-Mail-Adresse nutzen. Wir erheben Daten, soweit möglich, nur auf freiwilliger Basis. Wenn Sie uns schon Ihre Daten anvertrauen, werden wir diese nicht ohne Not und Ihre ausdrückliche Zustimmung an Dritte weitergeben. Wir müssen leider darauf hinweisen, dass die Datenübertragung im Internet immer Sicherheitslücken aufweisen kann und ein lückenloser Schutz dieser Daten vor externem Zugriff nicht möglich ist. Wenn Sie sich nicht ausdrücklich bei uns gegen unsere hier beschriebenen Datenverarbeitungs-Strukturen aussprechen, gehen wir von Ihrem Einverständnis aus.
 
@@ -20,26 +22,33 @@ WhatsApp; Dienstanbieter: WhatsApp Inc. WhatsApp Legal 1601 Willow Road Menlo Pa
 
 Wir beschränken uns bei der Arbeit und Planung mit personenbezogenen Daten auf die Nutzung von Microsoft Office und der Microsoft Cloud über die jeweiligen Endgeräte der Belegschaft der Ideentransfer GmbH und für die Arbeit relevanten Partnerunternehmen. Physisch liegen Informationen aus Geschäftsprozessen und Korrespondenz in den Geschäftsräumen der Ideentransfer GmbH.
 
+<span id="daten"></span>
 ### Verarbeitung und Übermittlung personenbezogener Daten
 Bei der Kontaktaufnahme und der Arbeit mit uns verarbeiten wir Angaben zur anfragenden Person, die zur Beantwortung und zur eventuell angefragten Arbeit notwendig sind.
 
 Im Rahmen unserer Arbeit müssen wir für den Zahlungsverkehr oder die Kommunikation personenbezogene Daten an die dafür notwendigen Institutionen und Personen übermitteln. Wir halten uns dabei an die gesetzlichen Vorgaben und treffen entsprechende Vorkehrungen und Vereinbarungen zum Schutz Ihrer Informationen.
 
+<span id="sicherheit"></span>
 ### Sicherheitsmaßnahmen
 Wir behandeln Ihre Daten vertraulich und haben Prozesse eingerichtet, die Integrität der Daten zu schützen. Für den Kontakt über unsere Webseite verschlüsseln wir jeden Datentransfer mit dem SSL-Protokoll über https.
 
+<span id="datenloeschung"></span>
 ### Löschung von Daten
 Sofern wir Ihre Daten nicht für die Arbeit oder die Kommunikation benötigen, löschen wir verarbeitete Daten alsbald im Rahmen der gesetzlichen Vorgaben.
 
+<span id="kontaktdaten"></span>
 ### Unsere Kontaktdaten
 Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten sind ausdrücklich keine Einladung zur Übersendung unangeforderten Informationsmaterials. Wenn Sie uns trotzdem Werbung schicken, behalten wir uns rechtliche Schritte vor.
 
+<span id="aktualisierung"></span>
 ### Aktualisierung der Datenschutzerklärung
 Wir informieren Sie über die personenbezogene Datenverarbeitung nach bestem Wissen und Gewissen. Wenn wir oder unsere dienstleistenden Unternehmen Änderungen in der Datenverarbeitung vornehmen, werden wir Sie an dieser Stelle  informieren.
 
+<span id="rechte"></span>
 ### Ihre Rechte
 Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie gegebenenfalls ein Recht auf Widerspruch, Widerruf, Berichtigung, Sperrung, Einschränkung oder Löschung dieser Daten. Sie haben außerdem das Recht, sich bei einer Aufsichtsbehörde zu beschweren, wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen die DSGVO verstößt.
 
+<span id="ansprechpartner"></span>
 #### Ansprechpartner für Datenschutz
 Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Sperrung oder Löschung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an:
 
