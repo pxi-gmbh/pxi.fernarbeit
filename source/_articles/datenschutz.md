@@ -20,7 +20,7 @@ Sie können uns auch auf alternativen Wegen kontaktieren. Hierzu zählen Messeng
 WhatsApp; Dienstanbieter: WhatsApp Inc. WhatsApp Legal 1601 Willow Road Menlo Park, California 94025, USA; <a href="https://www.whatsapp.com/legal">Datenschutzerklärung</a>; <a href="https://www.privacyshield.gov/participant?id=a2zt0000000TSnwAAG&status=Active">Privacy Shield</a> (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA).
 </span> Nach Absprache nutzen wir auch Cloud-Dienste zur gemeinsamen Arbeit an Dokumenten. Im Zweifel behalten wir uns für besonders sensitive Informationen vor, sie nach Rückfrage nur auf ausgewählten Kanälen zu übermitteln.
 
-Wir beschränken uns bei der Arbeit und Planung mit personenbezogenen Daten auf die Nutzung von Microsoft Office und der Microsoft Cloud über die jeweiligen Endgeräte der Belegschaft der Ideentransfer GmbH und für die Arbeit relevanten Partnerunternehmen. Physisch liegen Informationen aus Geschäftsprozessen und Korrespondenz in den Geschäftsräumen der Ideentransfer GmbH.
+Wir beschränken uns bei der Arbeit und Planung mit personenbezogenen Daten auf die Nutzung von Microsoft Office und der Microsoft Cloud über die jeweiligen Endgeräte der Belegschaft der pixelcraft innovation GmbH und für die Arbeit relevanten Partnerunternehmen. Physisch liegen Informationen aus Geschäftsprozessen und Korrespondenz in den Geschäftsräumen der pixelcraft innovation GmbH.
 
 <span id="daten"></span>
 ### Verarbeitung und Übermittlung personenbezogener Daten
