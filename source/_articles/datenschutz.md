@@ -53,4 +53,4 @@ Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft
 Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Sperrung oder Löschung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an:
 
 Jakob Jochmann | Karl-Heine-Straße 99 | 04229 Leipzig |
-<span class="js-dataemail">datenschutz [at] ideentransfer.de</span>
+<span class="js-dataemail">datenschutz [at] pixelcraft.pub</span>
