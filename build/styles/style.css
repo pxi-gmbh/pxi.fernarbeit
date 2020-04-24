@@ -917,11 +917,13 @@ q {
   div.nav-dropdown-content {
     line-height: 2.5em;
     font-size: calc(0.6055em + 1vh);
-    min-width: 75vw;
+    min-width: 80vw;
     white-space: unset; }
   .nav-dropdown-container button {
     font-size: calc(0.28em + 1vh);
-    margin-top: 0; } }
+    margin-top: 0; }
+  ol {
+    padding-left: 1.5em; } }
 
 /* for links as cells limit link underline and color to last child elements */
 a.flex-table-cell {
@@ -1087,7 +1089,6 @@ label.margin-toggle:not(.sidenote-number) {
   -webkit-background-clip: text;
   /* clip in supporting browsers only */
   background-image: url(../assets/images/theme/topography.svg);
-  background-attachment: fixed;
   background-size: 100%;
   background-repeat: no-repeat; }
 

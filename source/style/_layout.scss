@@ -159,13 +159,16 @@
 	div.nav-dropdown-content{
 		line-height: 2.5em;
 		font-size: calc(#{$type-scale-small}em + 1vh);
-		min-width: 75vw;
+		min-width: 80vw;
 		white-space: unset;
 	}
 
 	.nav-dropdown-container button{
 		font-size: calc(#{$type-scale-extra-small}em + 1vh);
 		margin-top: 0;
+	}
+	ol{
+		padding-left: 1.5em;
 	}
 
 }
