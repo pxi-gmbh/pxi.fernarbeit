@@ -51,6 +51,10 @@
   font-size: calc(#{$type-scale-extra-small}em + 1vw);
 }
 
+.nav-dropdown-content small{
+  white-space: normal;
+}
+
 .nav-dropdown-content a {
   color: $color-contrast;
   text-decoration: none;
