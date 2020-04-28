@@ -1162,9 +1162,6 @@ label.margin-toggle:not(.sidenote-number) {
   margin-top: 0.7em;
   font-size: calc(0.28em + 1vw); }
 
-.nav-dropdown-content small {
-  white-space: normal; }
-
 .nav-dropdown-content a {
   color: #30737c;
   text-decoration: none;
