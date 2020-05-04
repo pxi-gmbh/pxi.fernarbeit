@@ -18,7 +18,7 @@ Setzen Sie ein Werkzeug zur Video-Konferenz auf und laden Sie Ihr Team oder eine
 - Wo, auf welchen Kanälen, erwarte ich die Zuarbeit?
 - Wann erwarte ich die Zuarbeit?
 	
-*Nehmen Sie sich 20 Minuten, um die individuellen Antworten zu vergleichen und aus übereinstimmenden Erwartungen eine erste Grundlage für die Übergangszeit zu formulieren. Arbeiten Sie dann gemeinsam an Ihrem Manifest aus Schritt 1. Versuchen Sie, unausgesprochene Vermutungen, Erwartungen und Annahmen durch schriftlichen Ausdruck zu ersetzen. Erzielen Sie wenigstens Übereinkunft zu:* 
+Nehmen Sie sich 20 Minuten, um die individuellen Antworten zu vergleichen und aus übereinstimmenden Erwartungen eine erste Grundlage für die Übergangszeit zu formulieren. Arbeiten Sie dann gemeinsam an Ihrem Manifest aus Schritt 1. Versuchen Sie, unausgesprochene Vermutungen, Erwartungen und Annahmen durch schriftlichen Ausdruck zu ersetzen. Erzielen Sie wenigstens Übereinkunft zu:
 	
 Rhythmus. *Wer ist wann verfügbar? Wie viel Arbeitszeit gibt die Situation überhaupt her? Wann findet Gleichzeitigkeit statt?*
 - Präsenz. *Wie signalisieren Sie sich, wenn Sie füreinander da und verfügbar sind?*
@@ -29,21 +29,21 @@ Rhythmus. *Wer ist wann verfügbar? Wie viel Arbeitszeit gibt die Situation übe
 
 Passen Sie Erwartungen an Leistungsvermögen in der neuen Situation familienfreundlich und bedürfnisgerecht an. Gemeinsam. Vereinbaren Sie einen regelmäßigen Termin, diese Erwartungen durch gewonnene Erfahrungen zu hinterfragen und weiter anzupassen.
 
-*Setzen Sie wenigstens eine halbe Stunde für eine gemeinsame Rückschau und Änderung des Manifests in der Fernkonferenz für (bis zu) zwölf Teilnehmende an. Zunächst einmal pro Woche, dann einmal pro Monat. Teilen Sie größere Gruppen entsprechend auf, damit alle Raum bekommen, Ihre Erfahrungen mitzuteilen.*
+Setzen Sie wenigstens eine halbe Stunde für eine gemeinsame Rückschau und Änderung des Manifests in der Fernkonferenz für (bis zu) zwölf Teilnehmende an. Zunächst einmal pro Woche, dann einmal pro Monat. Teilen Sie größere Gruppen entsprechend auf, damit alle Raum bekommen, Ihre Erfahrungen mitzuteilen.
 
 
 ### 4. Zusammenhalt digital gestalten
 
-Etablieren Sie eine robuste Lernkultur, indem Sie zum Ende der Woche gewonnene Erfahrung (auch aus Fehlern) als Erfolge feiern.
+Vermitteln Sie Zusammengehörigkeitsgefühl, indem Sie ein tägliches Ritual des Teilens von Status und Befindlichkeit einrichten.
 
-*Sie können ein eigenes Ritual daraus machen, bei dem jede Person im Wechsel ihr Projekt und besondere Erfolge vorstellt, damit sich alle zwischenfreuen können. Dazu geben alle jeweils eine Erfahrung mit, was im Umgang mit der Heimarbeit gut oder schlecht funktioniert hat. Hierzu bietet sich eine gemeinsame Video-Konferenz an, die zum virtuellen Schulterklopfen und Durchatmen da ist. Da dürfen auch mehr als 12 Menschen dabei sein. Dann sollten Sie allerdings Redebeiträge begrenzen, so dass Sie in nur 30 Minuten die positive Energie aufrecht erhalten.*
+Sie können parallele, konzentrierte Arbeit fördern, indem Sie diesen sozialen Teil der Arbeit aus der Gleichzeitigkeit rausnehmen. Also jeden Tag ein geteiltes Dokument oder einen Chat-Verlauf einrichten, wo alle sich kurz mit Zeit-Signatur anmelden und ihre wichtigsten Aufgaben und Bedürfnisse für den Tag notieren. Teilen Sie zwischendurch auch mal eine witzige Anekdote oder eine inspirierende Entdeckung aus den Medien. Noch mehr Zusammenhalt schaffen Sie, wenn alle gemeinsam in einer Video-Konferenz den Tag beginnen.
 
 
 ### 5. Zwischenfreuen
 
 Etablieren Sie eine robuste Lernkultur, indem Sie zum Ende der Woche gewonnene Erfahrung (auch aus Fehlern) als Erfolge feiern.
 
-*Sie können ein eigenes Ritual daraus machen, dass jede Person im Wechsel ihr Projekt und besondere Erfolge vorstellt, damit sich alle zwischenfreuen können. Dazu geben alle jeweils eine Erfahrung mit, was im Umgang mit der Heimarbeit gut oder schlecht funktioniert hat. Hierzu bietet sich eine gemeinsame Videokonferenz an, die zum virtuellen Schulterklopfen und Durchatmen da ist. Da dürfen auch mehr als 12 Menschen dabei sein, dann sollten Sie allerdings Redebeiträge begrenzen, dass Sie in nur 30 Minuten die positive Energie aufrecht erhalten.*
+Sie können ein eigenes Ritual daraus machen, bei dem jede Person im Wechsel ihr Projekt und besondere Erfolge vorstellt, damit sich alle zwischenfreuen können. Dazu geben alle jeweils eine Erfahrung mit, was im Umgang mit der Heimarbeit gut oder schlecht funktioniert hat. Hierzu bietet sich eine gemeinsame Video-Konferenz an, die zum virtuellen Schulterklopfen und Durchatmen da ist. Da dürfen auch mehr als 12 Menschen dabei sein. Dann sollten Sie allerdings Redebeiträge begrenzen, so dass Sie in nur 30 Minuten die positive Energie aufrecht erhalten.
 
 
 ### 6. Austausch suchen
