@@ -26,8 +26,8 @@ Multitasking sollten Sie ab sofort vermeiden. Das ist eine schädliche Angewohnh
 
 Auch Ruhe hat Aufmerksamkeit verdient. Konzentration lässt sich nicht ständig aufrechterhalten. Planen Sie deswegen Momente der Ruhe und Inspiration, wo Sie sich neue Energie für die nächste Aufgabe holen. Vergeuden Sie diese Ruhe nicht auf die unersättlichen Aufmerksamkeits-Schlünde der sozialen Medien. Verbannen Sie diese Apps am besten von Arbeitsgeräten, die Sie für fokussierte Arbeit nutze. Schauen Sie nur mit Stoppuhr bewaffnet in einen Feed. Nehmen Sie sich lieber gezielt Zeit für einen Kaffee oder Ihr Lieblingsgetränk und gehen Sie ein paar Schritte.
 
-<label for="23" class="margin-toggle">⨭ …</label>
-<input type="checkbox" id="23" class="margin-toggle"/>
+<label for="28" class="margin-toggle">⨭ …</label>
+<input type="checkbox" id="28" class="margin-toggle"/>
 <span class="marginnote">**Jule**: *Zu viele kleine Pausen, die ohne vorher festgesetzte Struktur mit privater Hausarbeit gefüllt werden, können dazu führen, dass Sie sich in Ablenkung verlieren: Beim Geschirrspülen gesehen, dass die Topfpflanze trocken ist, und eigentlich müssten Sie die alle mal wieder gießen, huch da ist eine Spinnenwebe, schnell noch den Besen aus der Kammer holen, die Sie sowieso mal aufräumen wollten und schon haben Sie ungewollt eine Stunde weg prokrastiniert.*</span> Finden Sie Ihren eigenen Rhythmus. Für manche ist es hilfreich, Hausarbeit in den Arbeitstakt zu integrieren: Waschmaschine laden, arbeiten, Wäsche in den Trockner packen, arbeiten, Wäsche falten. Andere brauchen vielleicht einen einheitlichen Rahmen um die Arbeit herum, ein Zeitfenster in dem keine Hausarbeit oder Privatleben Platz haben, weil Sie sonst den Bezug zur Arbeit verlieren. Finden Sie auf jeden Fall einen Takt, in dem Zeit für Essen bleibt, um Energie zu tanken.
 
 
@@ -35,8 +35,8 @@ Auch Ruhe hat Aufmerksamkeit verdient. Konzentration lässt sich nicht ständig 
 
 Der Albtraum vieler selbstverantwortlich Arbeitenden heißt Prokrastination. Sie stehlen sich mit Aufschieben selbst Zeit für produktives Arbeiten, obwohl Sie es besser wissen. Dabei gibt es Gründe, warum Prokrastination so eine psychologische Macht entwickelt und manchmal kann sie sogar hilfreich sein.
 
-<label for="24" class="margin-toggle">⨭ …</label>
-<input type="checkbox" id="24" class="margin-toggle"/>
+<label for="29" class="margin-toggle">⨭ …</label>
+<input type="checkbox" id="29" class="margin-toggle"/>
 <span class="marginnote">**Jakob**: *Mir hilft es manchmal, den größten Brocken oder unangenehmsten Teil gleich zu Beginn des Tages zu erledigen, wo ich noch Energie für anstrengende Entscheidungen habe.*</span> Aufgaben mit hoher Eigenkreativität sind besonders anfällig für Prokrastination. Generell hilft: Erstmal irgendwie anfangen, egal wie - keine Ansprüche an die Qualität der Arbeit haben, denn die entwickelt sich von alleine, wenn Sie erstmal reingekommen sind. Dementsprechend macht es auch Sinn, sich Aufgaben, die einfach nur abgearbeitet werden müssen (Mails checken z.B.) bewusst auf den Anfang der Bürozeit zu legen. Das stuft die Hürde herunter, sich an den Schreibtisch zu setzen.
 
 Hier kann auch die Gemeinschaft per Fernarbeit sich gegenseitig unterstützen. Helfen Sie einander, dran zu bleiben mit gemeinsamer Parallel-Arbeit: Wir nutzen regelmäßig unsere Video-Konferenz, um schweigend nebeneinander zu arbeiten. Gerade, wenn dabei unterschiedliche Rollen zusammenkommen, simulieren wir dabei auch so etwas wie die Politik der offenen Tür oder personalisierte Sprechstundenzeit. Haben Sie Respekt vor dem Konzentrationsbedürfnis der anderen Person, aber seien Sie ansprechbar, wenn die gerade Hilfe braucht, sich neu zu fokussieren. Oder vereinbaren Sie, wann es Zeit ist, Ablage zu machen und dabei nebenher einen Schwatz zu halten.

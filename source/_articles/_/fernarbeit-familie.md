@@ -9,8 +9,8 @@ Schauen Sie, inwiefern Ihr Unternehmen hier einen Beitrag leisten kann. Wir biet
 
 ### Das Projekt Familie
 
-<label for="26" class="margin-toggle">⨭ …</label>
-<input type="checkbox" id="26" class="margin-toggle"/>
+<label for="30" class="margin-toggle">⨭ …</label>
+<input type="checkbox" id="30" class="margin-toggle"/>
 <span class="marginnote">**Jakob**: *Meine Partnerin und ich arbeiten beide gleichberechtigt Vollzeit und stimmen unsere Kalender im Viertelstundentakt ab, um Verantwortung aus Privatleben und Arbeit auf passende Zeitfenster zu verteilen.*</span> Die Bedürfnisse einer Familie bringen eine neue Planungskategorie für Arbeit hinzu, die Sie nur durch noch mehr Absprachen und Ausweichzonen mit anderen Bedürfnissen vereinbaren können. Sie müssen hier echte Kompromisse machen und manche Aufgaben zu Lasten anderer Aufgaben bevorzugen. Trennen Sie das Notwendige vom Wichtigen.
 
 Seien Sie nachsichtig mit sich selbst, wenn Sie nicht all Ihren Vorstellungen gerecht werden. Seien Sie großzügig bei der Planung von Zeit-Puffern. Seien Sie konsequent bei der Verhandlung von Verantwortung und Zeitbudgets mit Mitmenschen aus Ihrem Privatleben. Auch hier bietet es sich an, Vereinbarungen schriftlich festzuhalten, Erfahrungen zu protokollieren und darauf zu verweisen. Niemand ist objektiv in der qualitativen Bewertung von Zeit und besonders Männern fehlt systematisch die Erfahrung, sich anhand der Bedürfnisse anderer zu disziplinieren.
