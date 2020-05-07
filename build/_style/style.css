@@ -1088,7 +1088,7 @@ label.margin-toggle:not(.sidenote-number) {
   /* clip in supporting browsers only */
   -webkit-background-clip: text;
   /* clip in supporting browsers only */
-  background-image: url("/assets/topography.svg");
+  background-image: url("/_assets/topography.svg");
   background-size: 100%;
   background-repeat: no-repeat; }
 
