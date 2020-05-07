@@ -148,7 +148,7 @@ Je nachdem, wie groß ein Team ist, bieten offene Gruppenchats sich an, in denen
 
 <label for="24" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="24" class="margin-toggle"/>
-<span class="marginnote">**Jakob**: *Jakob: Ich habe Wertschätzung bislang hauptsächlich in persönlicher Anwesenheit ausgedrückt, indem ich jede Woche quer durch Deutschland gefahren bin, um jedem Mitglied meiner Belegschaft als Mentor zur Verfügung zu stehen. Vielleicht können handgeschriebene Briefe dieses Gefühl künftig transportieren.*</span> 
+<span class="marginnote">**Jakob**: *Ich habe Wertschätzung bislang hauptsächlich in persönlicher Anwesenheit ausgedrückt, indem ich jede Woche quer durch Deutschland gefahren bin, um jedem Mitglied meiner Belegschaft als Mentor zur Verfügung zu stehen. Vielleicht können handgeschriebene Briefe dieses Gefühl künftig transportieren.*</span> 
 Die Briefpost könnte für die neue Normalität der Heimarbeit besondere Bedeutung bekommen. Zumindest, so lange persönlicher Kontakt vermieden wird, können Sie physische Artefakte miteinander austauschen. Als Zeichen von Wertschätzung oder für neue Wege, Greifbarkeit in die virtuell vernetzte Welt zu holen. Schicken Sie einander Bücher zur Inspiration und Fortbildung oder Artefakte, die aus der konzeptionellen Zusammenarbeit entstehen.
 
 Und wenn Sie sich doch wieder treffen können, feiern Sie Momente des Beisammenseins besonders ausgiebig. Planen Sie vielleicht jetzt schon einen gemeinsamen Arbeits-Urlaub mit Ihren Brieffreundschaften.

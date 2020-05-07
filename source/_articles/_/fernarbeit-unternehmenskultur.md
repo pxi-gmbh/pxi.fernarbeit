@@ -12,7 +12,7 @@ Die Hoffnung für Sie und Ihr Unternehmen im Chaos der Krise: Wenn Sie durch erz
 
 Wahrscheinlich muss Führung sich in dieser Veränderung neu definieren. Vertrauen wird einen neuen Stellenwert bekommen müssen. Transparenz muss über alle Hierarchien und Richtungen hinweg gleichermaßen hergestellt werden.
 
-Das bedeutet mehr Arbeit an Klarheit der Vision und Strategie. Das bedeutet eine höhere Anforderung an Verständlichkeit und Verlässlichkeit von Aussagen für gemeinsames Verständnis. Das bedeutet neue Aufgaben, Ihre Belegschaft für eigenständiges arbeiten vorzubereiten, damit alle selbständig zielführende Beiträge für den Unternehmenserfolg leisten können. Das bedeutet Reflektion, Erfolg überhaupt in einem gemeinschaftlich verteilten Sinn zu definieren.
+Das bedeutet mehr Arbeit an Klarheit der Vision und Strategie. Das bedeutet eine höhere Anforderung an Verständlichkeit und Verlässlichkeit von Aussagen für gemeinsames Verständnis. Das bedeutet neue Aufgaben, Ihre Belegschaft für eigenständiges Arbeiten vorzubereiten, damit alle selbständig zielführende Beiträge für den Unternehmenserfolg leisten können. Das bedeutet Reflektion darüber, wie Erfolg in einem gemeinschaftlich verteilten Sinn definiert werden kann.
 
 In der Krise muss die Unternehmensleitung eine besondere Vorbildrolle einnehmen. Selbst vorleben, was als neue Normalität gewünscht und erwartet wird.
 
