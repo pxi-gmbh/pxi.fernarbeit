@@ -355,6 +355,33 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/source/_articles/_bafa-corona/_navbar-bafa-corona.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/_articles/_bafa-corona/_navbar-bafa-corona.html",
+		"oF": 0
+		},
+	"/source/_articles/_bafa-corona/bafa-corona.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/_articles/_bafa-corona/bafa-corona.html",
+		"oF": 2,
+		"oFM": 0,
+		"oS": 1,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/source/_articles/_datenschutz/_navbar-datenschutz.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -803,6 +830,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/source/bafa-corona/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/bafa-corona/index.html",
+		"oF": 0
 		},
 	"/source/datenschutz/index.kit": {
 		"cB": 0,
