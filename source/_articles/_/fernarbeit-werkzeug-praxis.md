@@ -1,10 +1,5 @@
 ## Werkzeug-Praxis für Fernarbeit
 
-<blockquote class="text-small contrast-bg-light">
-Weiterführendes: Eine Sammlung und Einordnung von Werkzeugen stellen wir hier zusammen:<br>
-<a href="/werkzeugsammlung/" title="mehr über Werkzeuge für Fernarbeit erfahren"><span aria-hidden="true">→ </span>zur Werkzeug-Sammlung</a>
-</blockquote>
-
 Experimentieren mit Produktivitäts-Werkzeugen kann entspannen. Probieren Sie ruhig verschiedene Angebote aus. Es gibt im Moment sehr viele davon und oft sind sie zum Testen gratis. Aber warten Sie lieber erste Erfahrungen ab, bevor Sie ein Werkzeug offiziell für die ganze Firma einführen, denn ein erzwungener Umgang ist stressig. 
 
 Und denken Sie daran: Auch Sparsamkeit ist entspannend. Nutzen Sie bevorzugt, womit Sie schon umgehen können. So brauchen Sie sich weniger Gedanken um Verwaltung und Schulung zu neuen Technologien machen. Information muss schließlich irgendwie zwischen all ihren Werkzeugen bewegt werden und dann den Weg in die Dokumentation finden. Außerdem haben Sie weniger Aufwand, sich mit der Datenschutz-Gesetzgebung für verschiedene Werkzeuge zu befassen, wenn Sie sich zunächst auf die wichtigsten, hilfreichsten Werkzeuge beschränken.
@@ -69,7 +64,7 @@ Wenn Sie gemeinsam gestalterische Arbeit leisten wollen, können Sie die Fernkon
 Wir haben immer mindestens ein weiteres Werkzeug parallel zur Video-Konferenz in Gebrauch. Für unsere Arbeit und Bedürfnisse greifen wir dafür fast ausschließlich auf Werkzeuge aus dem Microsoft-Office-Universum zurück. Es gibt allerdings viele Alternativen für die meisten Anwendungen. Zwei Arten von Werkzeugen eignen sich besonders gut für gemeinsame, synchrone Gestaltung:
 
 1. **Whiteboard (für gemeinsam gestaltete Skizzen)**. Wichtig ist, dass eine riesige Fläche gemeinsam mit virtuellen Stiften und Klebezetteln gefüllt werden kann und dass Änderungen mit nur ganz wenig Zeitverzögerung bei den anderen sichtbar werden. So können wir unsere eigenen Strukturen und Schemata zeichnen und darin produktiv arbeiten. Hilfreich ist, wenn angezeigt wird, welcher Beitrag von wem stammt.
-2. **Textverarbeitung (für gemeinsame redaktionelle Arbeit)**. Wichtig ist, dass eine festgelegte Struktur von Überschriften-Hierarchie uns Orientierung verschafft. Eine eigene Ebene für Kommentar-Diskussionen sollte sich mit den geschriebenen Inhalten verknüpfen lassen. Am Besten synchronisieren Kommentare und Änderungen mit möglichst niedriger Zeitverzögerung bei allen Beteiligten.
+2. **Textverarbeitung (für gemeinsame redaktionelle Arbeit)**. Wichtig ist, dass eine festgelegte Struktur von Überschriften-Hierarchie uns Orientierung verschafft. Eine eigene Ebene für Kommentar-Diskussionen sollte sich mit den geschriebenen Inhalten verknüpfen lassen. Am besten synchronisieren sich Kommentare und Änderungen mit möglichst niedriger Zeitverzögerung bei allen Beteiligten.
 
 
 <label for="18" class="margin-toggle">⨭ …</label>

@@ -59,12 +59,12 @@ Suchen Sie Anschluss an andere Organisationen und Menschen, die ihre Erfahrungen
 **Aufgabenverwaltung**: [Trello](https://trello.com/de) lässt Ihnen alle Freiheiten, Listen innerhalb von Listen anzulegen. Starten Sie einfach mit einer geteilten Liste, wo alle ihre jeweiligen Aufgaben festhalten. Anleitungen: https://trello.com/de/teams
 <br>
 <br>
-**Datei-Synchronisation** [Dropbox](https://www.dropbox.com/de/basic) ist der Platzhirsch und hat immer noch 2GB Speicherplatz gratis zum Einstieg. Dazu gehört mit [Dropbox Paper](https://www.dropbox.com/de/paper) eine sehr übersichtliche Oberfläche zur gemeinsamen Arbeit an Text-Dokumenten.
+**Datei-Synchronisation**: [Dropbox](https://www.dropbox.com/de/basic) ist der Platzhirsch und hat immer noch 2GB Speicherplatz gratis zum Einstieg. Dazu gehört mit [Dropbox Paper](https://www.dropbox.com/de/paper) eine sehr übersichtliche Oberfläche zur gemeinsamen Arbeit an Text-Dokumenten.
 
 
 **Minimalismus**
  
-**Text** **und** **Video-Konferenz in einem** [Etherpad](https://video.etherpad.com) ist eine Open-Source-Anwendung, die auf verschiedenen Instanzen die sofortige Zusammenarbeit an Texten erlaubt. Es gibt sogar ein angeschlossenes Video und einen Chat. Legen Sie einfach einen neuen Raum an und laden Sie andere Personen dazu ein.
+**Text** **und** **Video-Konferenz in einem**: [Etherpad](https://video.etherpad.com) ist eine Open-Source-Anwendung, die auf verschiedenen Instanzen die sofortige Zusammenarbeit an Texten erlaubt. Es gibt sogar ein angeschlossenes Video und einen Chat. Legen Sie einfach einen neuen Raum an und laden Sie andere Personen dazu ein.
 
 
 **Datenschutz**
