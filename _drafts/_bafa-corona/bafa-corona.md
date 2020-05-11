@@ -43,6 +43,8 @@ Speichern Sie ein entsprechend formuliertes Dokument unter dem Namen "Corona bet
 
 Sie finden das Antragsformular <a href="https://fms.bafa.de/BafaFrame/unternehmensberatung"><span aria-hidden="true">→ </span>online bei der BAFA</a>.
 
+![beispiel-start](start.jpg)
+
 <img src="start.jpg" alt="Bildschirmansicht Antragsformular" class="drop-shadow">
 
 Sie können erst starten, wenn Sie anklicken, dass Sie mit den Datenschutz-Bestimmungen einverstanden sind. Wenn Sie anklicken, dass Sie von der Corona-Krise betroffen sind, passt sich das Formular dementsprechend an.
@@ -76,5 +78,5 @@ Schon fertig. Nach dem Klick werden Sie zum Portal weiter geleitet, wo Sie Ihre 
 <em>Gemeinsam schaffen wir das. Wir stehen für Rückfragen und professionelle Unterstützung in der schwierigen Zeit gern zur Verfügung. Wir finden schon eine Lösung, auch für besondere Bedürfnisse zu Umsetzung und Bezahlung.</em>
 
 <p class="text-center"><span class="js-cta">Kontakt: jakob [at] pixelcraft.pub</span></p>
-		
+
 <p><em>Bleiben Sie optimistisch, bleiben Sie pragmatisch, bleiben Sie solidarisch!</em></p>
