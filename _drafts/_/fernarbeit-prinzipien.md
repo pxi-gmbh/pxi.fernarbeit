@@ -18,6 +18,8 @@ Wenn die dezentrale Situation neu für einige oder alle Teammitglieder ist, soll
 
 ### Schreiben ist die Kulturtechnik des Vertrauens!
 
+![](Folie03.png)
+
 Stellen Sie sich darauf ein, dass Sie viel mehr „ausdrücklich“ absprechen und aufschreiben müssen, als innerhalb eines gemeinsamen Büros. Es fehlen die unbewussten Signale und Rückmeldungen, mit denen Menschen sich abstimmen. Arbeit, die Ihre Arbeit erst möglich macht, war bislang unsichtbar oder flüchtig, versteckt in Köpfen und Unterhaltungen auf dem Flur. Oder analog auf Klebezetteln an Bildschirmen. Dieser Arbeit müssen Sie jetzt Raum und Gestalt geben. 
 
 Das wird Sie einiges an Aufwand kosten, aber dafür gewinnen Sie an anderer Stelle Freiheiten, die nur ohne räumliche Anwesenheit möglich sind.
@@ -30,6 +32,9 @@ Gemeinsam Gemeintes wird klarer ausgesprochen und für Rückverweise aufgeschrie
 
 
 ### Information wird zentralisiert!
+
+![](Folie04.png)
+
 
 Vertrauen braucht eine gemeinsame Quelle der Wahrheit, auf die sich alle berufen können. Halten Sie Informationen bei verteilter Fernarbeit deshalb immer zentral und eindeutig fest. Vermeiden Sie abweichende Kopien und Varianten. Verdoppelung und Abweichungen sind Auslöser für Missverständnisse, und Missverständnisse sind teuer.
 
@@ -46,6 +51,9 @@ Falls Sie noch kein gemeinsames Manifest und keine verbindliche Quelle für die 
 
 
 ### Wohlwollen und Wertschätzung werden Bringschuld!
+
+![](Folie05.png)
+
 
 Auch für uns läuft Fernarbeit nicht perfekt. Menschliche Bedürfnisse und Umstände ändern sich ständig, also gilt: Permanent dazulernen, nachsichtig mit sich selbst sein und wohlwollend mit anderen kommunizieren.
 

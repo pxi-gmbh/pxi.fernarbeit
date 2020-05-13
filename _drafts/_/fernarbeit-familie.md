@@ -9,6 +9,9 @@ Schauen Sie, inwiefern Ihr Unternehmen hier einen Beitrag leisten kann. Wir biet
 
 ### Das Projekt Familie
 
+![](Folie30.png)
+
+
 <label for="30" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="30" class="margin-toggle"/>
 <span class="marginnote">**Jakob**: *Meine Partnerin und ich arbeiten beide gleichberechtigt Vollzeit und stimmen unsere Kalender im Viertelstundentakt ab, um Verantwortung aus Privatleben und Arbeit auf passende Zeitfenster zu verteilen.*</span> Die Bedürfnisse einer Familie bringen eine neue Planungskategorie für Arbeit hinzu, die Sie nur durch noch mehr Absprachen und Ausweichzonen mit anderen Bedürfnissen vereinbaren können. Sie müssen hier echte Kompromisse machen und manche Aufgaben zu Lasten anderer Aufgaben bevorzugen. Trennen Sie das Notwendige vom Wichtigen.

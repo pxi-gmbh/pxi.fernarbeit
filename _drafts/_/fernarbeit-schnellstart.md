@@ -1,5 +1,7 @@
 # Schnellstart
 
+![](Folie31.png)
+
 <small><em>Wenn die Umstellung auf dezentrale Fernarbeit noch neu für Sie ist, folgen Sie unseren Empfehlungen, wie Sie sich schnell zurecht finden.</em></small>
 
 
@@ -53,6 +55,9 @@ Suchen Sie Anschluss an andere Organisationen und Menschen, die ihre Erfahrungen
 ---
 
 **Basis-Werkzeuge ohne Budget und Erfahrung**
+
+![](Folie32.png)
+
 **Video-Konferenz**: Wir empfehlen, private Rufnummern von der Arbeit zu trennen. Also auch kein WhatsApp. Richten Sie lieber einen eigenen Arbeits-Kanal ein. Wenn Sie bereits [Skype](https://www.skype.com/de/) verwenden, können Sie das für bis zu 10 Personen in Video-Konferenzen nutzen und haben gleichzeitig einen Chat.
 <br>
 <br>

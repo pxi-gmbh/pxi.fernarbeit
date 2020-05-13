@@ -3,6 +3,8 @@
 
 ### Arbeitsumgebung
 
+![](Folie21.png)
+
 Ihre Arbeitsumgebung hat einen großen Einfluss darauf, wie wohl Sie sich fühlen und wie produktiv Sie sein können. Schaffen Sie möglichst Raum für sich alleine, wenigstens einen Platz, den Sie ganz gezielt als Arbeitsbereich einrichten. Dort finden Sie Fokus und etablieren eine Grenze zwischen Ihrem Privatleben und der Arbeit.
 
 <label for="25" class="margin-toggle">⨭ …</label>
@@ -15,6 +17,8 @@ Ein Fensterplatz ist hilfreich für gute Beleuchtung. Natürliches Licht ist bes
 
 
 ### Ausstattung
+
+![](Folie22.png)
 
 Die Technologie für den Kontakt zu den übrigen Mitgliedern der Belegschaft sollte vor allem robust sein. Ein extra WLAN-Router kann (am besten mit einem Kabel) als Access Point an Ihre private Internet-Box angeschlossen werden und ein eigenes, stabiles WLAN nur für die Arbeit senden. So können Sie mit mehreren Geräten gleichzeitig an Fernkonferenzen teilnehmen. Mehrere Bildschirme oder Endgeräte helfen, Räumlichkeit für verschiedene Aufgabenbereiche und Kommunikation herzustellen. Hier kann ein Unternehmen viel Unterstützung leisten und Arbeitsgeräte stellen, damit die Arbeit zu Hause angenehmer und produktiver wird.
 
