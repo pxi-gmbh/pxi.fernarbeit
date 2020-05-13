@@ -5,6 +5,8 @@ Prinzipien leiten uns dabei, die richtigen Regeln zu finden und eventuell auch z
 
 ### Absprachen sind wichtiger als Werkzeuge!
 
+![](Folie02.png)
+
 Lassen Sie sich von Empathie und Mitgefühl leiten. Fragen Sie sich nicht: Welche Technologie macht uns sofort dezentral vernetzt? Fragen Sie lieber: Welche Strukturen und Informationen kann ich der Belegschaft, Freunden und Familie bieten, damit wir uns aneinander aufrichten können? 
 
 Suchen Sie Halt in vertrauten Strukturen: Vergeuden Sie keine Zeit mit der Suche nach dem perfekten neuen Werkzeug, sondern passen Sie bestehende Werkzeuge an neue Arbeitsformen an. Die Lernkurve der Anpassung wird steil genug, da müssen Sie Ihre Belegschaft nicht noch zusätzlich mit Lernaufwand für neue Software belasten. 
@@ -15,6 +17,8 @@ Wenn die dezentrale Situation neu für einige oder alle Teammitglieder ist, soll
 
 
 ### Schreiben ist die Kulturtechnik des Vertrauens!
+
+![](Folie03.png)
 
 Stellen Sie sich darauf ein, dass Sie viel mehr „ausdrücklich“ absprechen und aufschreiben müssen, als innerhalb eines gemeinsamen Büros. Es fehlen die unbewussten Signale und Rückmeldungen, mit denen Menschen sich abstimmen. Arbeit, die Ihre Arbeit erst möglich macht, war bislang unsichtbar oder flüchtig, versteckt in Köpfen und Unterhaltungen auf dem Flur. Oder analog auf Klebezetteln an Bildschirmen. Dieser Arbeit müssen Sie jetzt Raum und Gestalt geben. 
 
@@ -28,6 +32,9 @@ Gemeinsam Gemeintes wird klarer ausgesprochen und für Rückverweise aufgeschrie
 
 
 ### Information wird zentralisiert!
+
+![](Folie04.png)
+
 
 Vertrauen braucht eine gemeinsame Quelle der Wahrheit, auf die sich alle berufen können. Halten Sie Informationen bei verteilter Fernarbeit deshalb immer zentral und eindeutig fest. Vermeiden Sie abweichende Kopien und Varianten. Verdoppelung und Abweichungen sind Auslöser für Missverständnisse, und Missverständnisse sind teuer.
 
@@ -44,6 +51,9 @@ Falls Sie noch kein gemeinsames Manifest und keine verbindliche Quelle für die 
 
 
 ### Wohlwollen und Wertschätzung werden Bringschuld!
+
+![](Folie05.png)
+
 
 Auch für uns läuft Fernarbeit nicht perfekt. Menschliche Bedürfnisse und Umstände ändern sich ständig, also gilt: Permanent dazulernen, nachsichtig mit sich selbst sein und wohlwollend mit anderen kommunizieren.
 

@@ -2,6 +2,8 @@
 
 ### Gleichzeitigkeit und Nachzeitigkeit
 
+![](Folie06.png)
+
 Kommunikation braucht Aufmerksamkeit. Und Aufmerksamkeit ist eine kostbare Ressource - vor allem bei verteilten Arbeitsplätzen. Verlangen Sie von anderen also nur dann Aufmerksamkeit, wenn es für den gemeinsamen Erfolg wichtig ist. Respektieren Sie, wenn jemand seine Aufmerksamkeit gerade für Fokus-Arbeit benötigt und keine Zeit für Absprachen hat.
 
 Wir trennen unsere Arbeit dafür strikt in gleichzeitige (synchrone) Kommunikation und versetzte (asynchrone) Kommunikation.
@@ -21,6 +23,8 @@ Vermeiden Sie die Todeszone der Benachrichtigungen. Halb-gleichzeitige Arbeit un
 Es gibt Arbeitsphasen, in die gleichzeitiges Hintergrundrauschen und ein wenig ablenkende oder zerstreuende Kommunikation passen. Schaffen Sie extra dafür Freiräume. So schützen Sie die Arbeit, die ungestörte Konzentration verlangt.
 
 ### Konzentration und Geschäftigkeit
+
+![](Folie07.png)
 
 <label for="10" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="10" class="margin-toggle"/>
@@ -45,12 +49,16 @@ Wertschätzen Sie notwendige Geschäftigkeit, die den Raum für Konzentrations-A
 
 ### Autonomie
 
+![](Folie08.png)
+
 Wenn Ihre Belegschaft eigenständig Entscheidungen treffen kann, verwendet sie weniger Zeit mit der Abstimmung von Zuständigkeiten und Vorbereitung, und mehr Zeit mit der Arbeit an Aufgaben. Dazu müssen Sie Zuständigkeit transparent machen und Kompetenz als gemeinsamen Wissensschatz verfügbar machen. Schaffen Sie einen Ort, wo neue Erfahrungen und Erkenntnisse für alle dokumentiert werden, damit jeder sich weiter bilden kann.  Sie können langfristig Rollen und Aufgabenbereiche für gemeinsames Arbeiten definieren und Ihre Belegschaft mit Mentorenprogrammen und Fortbildung zu Selbstverantwortung und Kompetenz ermächtigen.
 
 Geben Sie allen in der Belegschaft für den Anfang klar umgrenzte persönliche Projekte vor. Die können jederzeit bearbeitet werden, wenn jemand für ein gemeinschaftliches Projekt erst noch auf Zuarbeit einer anderen Person wartet. Schon haben Sie Leerlauf in produktive Zeit umgewandelt, in der die Belegschaft Fortschritt erzielen und erleben kann. Wählen Sie dazu Projekte, die der persönlichen Entwicklung genauso dienen wie der Entwicklung von Unternehmenszielen.
 
 
 ### Rhythmus
+
+![](Folie09.png)
 
 Der Takt der Anwesenheit im Büro fehlt der Arbeit zu Hause. Die verteilt arbeitende Belegschaft findet für sich und ihre Bedürfnisse individuellere Taktung der Arbeit. Dennoch sind Arbeitsphasen auch bei verteilter Arbeit wichtig für Übergaben und Abstimmungen. Da hilft ein Metronom, an dem sich alle auch von zu Hause aus richten können, ohne darüber die neu gewonnenen Vorteile aufzugeben.
 
@@ -61,11 +69,15 @@ Finden Sie den Rhythmus, der Ihnen hilfreich erscheint. Im Moment der Krise gibt
 
 ### Transparenz
 
+![](Folie10.png)
+
 Ein notwendiger Baustein für Vertrauen ist Transparenz. Bei räumlich verteilter Arbeit wird nicht länger Arbeitszeit durch Anwesenheit demonstriert, sondern Ergebnisse der Arbeit durch Dokumentation. Umgekehrt müssen Ziele und die unternehmerische Vision, Rahmenbedingungen und Erwartungen ausdrücklich und verlässlich festgeschrieben werden.
 Wenn Sie nicht bereits ein Werkzeug dafür haben, sollten Sie bald mit der Belegschaft eine Form der Aufgabenverwaltung beschließen, aus der Fortschritt in irgendeiner Form für alle jederzeit sichtbar wird.
 
 
 ### Präsenz-Kennzeichnung
+
+![](Folie11.png)
 
 Für die Abgrenzung von Konzentrations-Arbeit, aber auch für die Abgrenzung von Privatleben und Beruf müssen Sie in der Fernarbeit Ihre Verfügbarkeiten transparent machen. Alle signalisieren einander, ob Sie für Rückfragen zur Verfügung stehen, gerade beschäftigt sind oder sich vielleicht über etwas Zerstreuung und Inspiration freuen würden.
 
@@ -73,6 +85,8 @@ Werkzeuge zur Fernarbeit haben meist eine Einstellung, worüber Sie Ihren Status
 
 
 ### Fehlerkultur
+
+![](Folie12.png)
 
 Bei der Arbeit an einer neuen Form von Arbeit bleibt es nicht aus, dass Sie Frustration und Scheitern erleben werden. Sie müssen vieles noch ausprobieren. Da gehören Enttäuschungen dazu.
 

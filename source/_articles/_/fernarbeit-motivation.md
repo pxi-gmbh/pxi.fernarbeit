@@ -7,6 +7,8 @@ Selbstsorge und Fürsorge ist wichtiges Element der Arbeit zu Hause. Denken Sie 
 
 ### Trennung von Arbeit und Privatleben
 
+![](Folie25.png)
+
 Grenzen sind wichtig. Besonders, weil der Wechsel ins Büro als Grenze fehlt, müssen Sie aktiv 
 Alternativen dazu suchen. Schaffen Sie sich einen Bereich, den Sie nur für Arbeit aufsuchen. Vielleicht sogar verschiedene Bereiche für verschiedene Arten von Arbeit. Nehmen Sie Ihre Arbeit auf keinen Fall mit ins Bett.
 
@@ -21,6 +23,8 @@ Gleiches gilt für den Nachhauseweg, der den Übergang zum Feierabend markiert: 
 
 ### Aufmerksamkeit gezielt vergeben
 
+![](Folie26.png)
+
 Sie haben jetzt die Gelegenheit, Ablenkung besser und aus eigener Kraft zu kontrollieren. Nutzen Sie das, in dem Sie Ihre Arbeit selbst in Phasen der ungestörten Konzentration bündeln.
 Multitasking sollten Sie ab sofort vermeiden. Das ist eine schädliche Angewohnheit und eine Selbstlüge obendrein. Echte Gleichzeitigkeit von Aufmerksamkeit gibt es nicht. Wenn Sie mehrere Aufgaben jonglieren, verlieren Sie bei jedem Wechsel von Fokus wertvolle Zeit, in der Sie den passenden Kontext erst wieder herstellen.
 
@@ -33,6 +37,8 @@ Auch Ruhe hat Aufmerksamkeit verdient. Konzentration lässt sich nicht ständig 
 
 ### Dranbleiben
 
+![](Folie27.png)
+
 Der Albtraum vieler selbstverantwortlich Arbeitenden heißt Prokrastination. Sie stehlen sich mit Aufschieben selbst Zeit für produktives Arbeiten, obwohl Sie es besser wissen. Dabei gibt es Gründe, warum Prokrastination so eine psychologische Macht entwickelt und manchmal kann sie sogar hilfreich sein.
 
 <label for="29" class="margin-toggle">⨭ …</label>
@@ -44,10 +50,14 @@ Hier kann auch die Gemeinschaft per Fernarbeit sich gegenseitig unterstützen. H
 
 ### Gemeinschaftsgefühl stärken
 
+![](Folie28.png)
+
 Zeigen Sie Solidarität beim Sich-Voll-Reinhängen in die neue Situation. Sie können sich gegenseitig virtuell auf die Schultern klopfen. Sie können auch unter ungewohnten Umständen konsequent und jetzt-erst-recht durchziehen, was offline geplant war. Sie können gemeinsam Schulterzucken, wenn die Lernkurve steil ist und Dinge und Absprachen nicht beim ersten Mal klappen. Nicht ärgern. Nur wundern. Und ab und zu gemeinsam lachen.
 
 
 ### Unruhiges Arbeitsumfeld
+
+![](Folie29.png)
 
 Mit der Wohnung als Arbeitsraum geht oft das Problem eines lebendigen Umfelds einher. Das Leben in Wohneinheiten und Nachbarschaften hält andere Widrigkeiten bereit, als es eine gewöhnliche Bürosituation tut. Ungewünschte Ablenkungen sind vor allem:
 

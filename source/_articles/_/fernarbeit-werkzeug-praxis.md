@@ -6,6 +6,8 @@ Und denken Sie daran: Auch Sparsamkeit ist entspannend. Nutzen Sie bevorzugt, wo
 
 ### Text
 
+![](Folie13.png)
+
 <label for="26" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="26" class="margin-toggle"/>
 <span class="marginnote">**Weiterführendes**: Einen eigenen Leitfaden zur Anleitung für verständliches, einnehmendes Schreiben stellen wir hier zusammen: <a href="/schreiben/" title="mehr über Text-Produktion erfahren"><span aria-hidden="true">→ </span>zum Leitfaden für Text-Produktion</a>
@@ -20,6 +22,8 @@ Betrachten Sie Text wie eine Benutzer-Oberfläche: Je einfacher sie gestaltet is
 Suchen Sie sich Anleitung und Werkzeuge zur inhaltlichen Strukturierung von Text und zur Gestaltung durch Formatierung. Überlegen Sie sich Regeln für gutes, wertschätzendes, inklusives Formulieren. Text ist die Kulturtechnik, die gleichzeitig Kultur bildende Technik für Ihr Unternehmen sein wird.
 
 ### Video-Konferenz als Ersatz für Besprechungen
+
+![](Folie14.png)
 
 Schaffen Sie sich Strukturen für jede Konferenz. Sie sollten einen guten Grund und eine klare Absicht schon im Vorfeld formulieren, damit alle Teilnehmenden sich darauf einstellen können. Gerne auch mit immer wieder kehrenden Mustern. Daran sollten sich Begrenzungen anschließen: Vorgaben für Zeit und Inhalt, auf die sich alle einigen und verlassen können.
 
@@ -53,6 +57,8 @@ Sie haben kein Konferenz-Werkzeug? Bis zu fünf Teilnehmende können Sie in viel
 
 ### Video-Konferenz als Raumersatz (Workshops)
 
+![](Folie15.png)
+
 <label for="17" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="17" class="margin-toggle"/>
 <span class="marginnote">**Werkzeugempfehlung**: Wenn Sie mit mehreren Leuten für nur 40 Minuten gemeinsam arbeiten wollen, probieren Sie Zoom. Das geht kostenlos und kann mit eingeschränkter Funktion auch ohne App im Browser genutzt werden. Für größere Gruppen müssen Sie irgendwann in Infrastruktur investieren. Wir arbeiten intern mit Microsoft Teams. Parallel zum Video-Signal findet die gemeinsame Arbeit dann in einer Web-App oder über synchronisierte Apps auf mobilen Geräten statt. Für Skizzen nutzen wir Microsoft Whiteboard, das hat sehr niedrige Verzögerung. <br><br>
@@ -77,6 +83,8 @@ Gleichzeitig können Sie mit dem Stift auf einem Tablet auf dem Whiteboard zeich
 
 ### Dateiverwaltung
 
+![](Folie16.png)
+
 <label for="19" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="19" class="margin-toggle"/>
 <span class="marginnote">**Werkzeugempfehlung**: Wenn Sie sich eine zentrale Dateiablage neu schaffen müssen, probieren Sie es mal mit Dropbox. Dort sind die ersten zwei GB Speicher gratis. Wenn Sie ohnehin schon eine Office-Lösung nutzen, richten Sie einfach einen geteilten Ordner in OneDrive für alle Beteiligten ein. <br><br>
@@ -97,6 +105,8 @@ Professionelle Dienste zur Dateiverwaltung nehmen Ihnen viel Arbeit zur Versions
 
 ### Aufgabenverwaltung
 
+![](Folie17.png)
+
 <label for="21" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="21" class="margin-toggle"/>
 <span class="marginnote">**Werkzeugempfehlung**: Wenn Sie sich zum ersten mal mit einer virtuellen Pinnwand für Aufgaben-Verteilung anfreunden müssen, bietet Trello einen leicht verständlichen Einstieg. <br><br>
@@ -109,6 +119,8 @@ Sie haben noch keine zentrale Aufgabenverwaltung? Verwenden Sie das verfügbare 
 
 
 ### E-Mail
+
+![](Folie18.png)
 
 <label for="22" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="22" class="margin-toggle"/>
@@ -123,6 +135,8 @@ Mittelfristig finden Sie wahrscheinlich in den Werkzeugen zur verteilten Zusamme
 
 
 ### Chat
+
+![](Folie19.png)
 
 <label for="23" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="23" class="margin-toggle"/>
@@ -140,6 +154,8 @@ Je nachdem, wie groß ein Team ist, bieten offene Gruppenchats sich an, in denen
 
 
 ### Briefpost
+
+![](Folie20.png)
 
 <label for="24" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="24" class="margin-toggle"/>

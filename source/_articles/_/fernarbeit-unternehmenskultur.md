@@ -1,5 +1,7 @@
 ## Unternehmenskultur
 
+![](Folie23.png)
+
 Der Übergang in die verteilte Arbeit bringt neue kulturelle Anforderungen und Prägungen. Die gemeinsame Kultur muss und wird sich neu finden. Sie werden eigene Symbole und Zeichen und deren Bedeutung erschließen. Sie erschaffen gemeinsam mit der gesamtem Belegschaft Ihr eigenes Bedeutungsgewebe der Unternehmenskultur.
 
 Haben Sie womöglich schon eine eigene Emoji-Sprache, die außerhalb Ihres Unternehmens niemand versteht? Diese und andere Formen der eigenen Sprache schweißen Menschen zusammen.
@@ -9,6 +11,8 @@ Meetings werden anders geführt werden müssen und darüber neue Bedeutung erhal
 Die Hoffnung für Sie und Ihr Unternehmen im Chaos der Krise: Wenn Sie durch erzwungene Übung effizienter in der verteilten Arbeit geworden sind, haben Sie neue Fähigkeiten und Kompetenzen für strukturierte Zusammenarbeit und Teamfähigkeit gewonnen. Sie können Talente künftig ortsunabhängig für Ihr Unternehmen gewinnen. Sie können viel direkter mit anderen Interessen-Tragenden, Zuliefer-Betrieben oder Partner-Organisationen kommunizieren und Externe ohne aufwändige Vermittlung in Ihre neuen Prozesse zur Zusammenarbeit einbinden. Sie können nachhaltiger und krisenresistenter wirtschaften.
 
 ### Führungsaufgaben
+
+![](Folie24.png)
 
 Wahrscheinlich muss Führung sich in dieser Veränderung neu definieren. Vertrauen wird einen neuen Stellenwert bekommen müssen. Transparenz muss über alle Hierarchien und Richtungen hinweg gleichermaßen hergestellt werden.
 
