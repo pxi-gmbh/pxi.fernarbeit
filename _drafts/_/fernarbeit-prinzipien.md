@@ -5,6 +5,8 @@ Prinzipien leiten uns dabei, die richtigen Regeln zu finden und eventuell auch z
 
 ### Absprachen sind wichtiger als Werkzeuge!
 
+![](Folie02.png)
+
 Lassen Sie sich von Empathie und Mitgefühl leiten. Fragen Sie sich nicht: Welche Technologie macht uns sofort dezentral vernetzt? Fragen Sie lieber: Welche Strukturen und Informationen kann ich der Belegschaft, Freunden und Familie bieten, damit wir uns aneinander aufrichten können? 
 
 Suchen Sie Halt in vertrauten Strukturen: Vergeuden Sie keine Zeit mit der Suche nach dem perfekten neuen Werkzeug, sondern passen Sie bestehende Werkzeuge an neue Arbeitsformen an. Die Lernkurve der Anpassung wird steil genug, da müssen Sie Ihre Belegschaft nicht noch zusätzlich mit Lernaufwand für neue Software belasten. 
