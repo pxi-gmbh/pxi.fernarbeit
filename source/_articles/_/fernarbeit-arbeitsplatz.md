@@ -9,7 +9,7 @@ Ihre Arbeitsumgebung hat einen großen Einfluss darauf, wie wohl Sie sich fühle
 
 <label for="25" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="25" class="margin-toggle"/>
-<span class="marginnote">**Jakob**: *Seilspringen bringt super das Herz auf Touren und schüttelt die angespannten Muskeln durch. Spazierengehen lockert die Wirbel und macht den Kopf und die Atemwege frei.*</span> Spezielle Sitzgelegenheiten sind gar nicht so wichtig, so lange kein medizinischer Bedarf besteht. Der teure Bürostuhl kann warten. Für den Einstig viel hilfreicher und kostengünstiger sind ständige Veränderung der Sitzposition und regelmäßige, aktive Bewegung. Positionieren Sie den Bildschirm auf Augenhöhe, so dass Sie den Hals nicht verrenken. Wenn Sie die Tastatur bedienen, sollten sich Ihre Handgelenke entspannt können. 
+<span class="marginnote">**Jakob**: *Seilspringen bringt super das Herz auf Touren und schüttelt die angespannten Muskeln durch. Spazierengehen lockert die Wirbel und macht den Kopf und die Atemwege frei.*</span> Spezielle Sitzgelegenheiten sind gar nicht so wichtig, so lange kein medizinischer Bedarf besteht. Der teure Bürostuhl kann warten. Für den Einstig viel hilfreicher und kostengünstiger sind ständige Veränderung der Sitzposition und regelmäßige, aktive Bewegung. Positionieren Sie den Bildschirm auf Augenhöhe, so dass Sie den Hals nicht verrenken. Wenn Sie die Tastatur bedienen, sollten sich Ihre Handgelenke entspannen können. 
 
 Ein wenig Grün wirkt Wunder. Am schönsten ist natürlich ein Blick nach draußen, aber eine strategisch platzierte Pflanze oder Schnittblumen sind auch ein schönes Geschenk an Sie selbst.
 
