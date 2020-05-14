@@ -122,9 +122,9 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 <a id="chat"></a>
 ## Chat
 
-**[Discord](https://discordapp.com)** bietet kostenfrei eine Plattform für Chats, Video und Voicechat und funktioniert auch ohne App-Installation im Browser. Strukturiert in thematischen Servern richtet sich das Angebot ursprünglich an die Gemeinde für Online-Computerspiele, wo sich auch künftige Bezahlmodelle für Premium-Funktionen anknüpfen. Die Kernfunktion ist gratis und mittlerweile auch außerhalb der Spiele-Szene verbreitet.
+**[Discord](https://discordapp.com)** bietet kostenfrei eine Plattform für Chats und Voicechat und funktioniert auch ohne App-Installation im Browser. Strukturiert in thematischen Servern richtet sich das Angebot ursprünglich an die Gemeinde für Online-Computerspiele, wo sich auch künftige Bezahlmodelle für Premium-Funktionen anknüpfen. Die Kernfunktion ist gratis und mittlerweile auch außerhalb der Spiele-Szene verbreitet.
 
-**[rocket.chat](https://rocket.chat)** ist eine Open-Source-Lösung für Chats mit Archivierung der enthaltenen Information: Selbst hosten ist gratis, fertig eingerichtete Installationen als Service kosten Geld. 
+**[rocket.chat](https://rocket.chat)** ist eine Open-Source-Lösung für Chats mit Archivierung der enthaltenen Information: Selbst hosten ist gratis, fertig eingerichtete Installationen als Service kosten Geld.
 
 **[Slack](https://slack.com/intl/de-de/)** hat Chats als zentrale Kommunikations-Plattform für Zusammenarbeit etabliert. Drängt Nutzende in Richtung permanenter synchroner Kommunikation. Mit Themenstruktur und Suchfunktionen, Information aus Unterhaltungen zu strukturieren und zu finden. Kostenlos mit eingeschränkten Funktionen, so lange die Information nicht langfristig verfügbar bleiben muss.
 
@@ -161,104 +161,144 @@ Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, 
 
 **[Loom](https://www.loom.com/blog/coronavirus-response)** ist ein Werkzeug zum Teilen und Erläutern von Bildschirminhalten, einen Monat gratis und für ein paar Monate kostenreduziert
 
-- [https://obsproject.com](https://obsproject.com/)
-- xsplit vcam
+**[OBS](https://obsproject.com)** ist eine freie Software, um Webcam- und Bildschirminhalte eines PCs aufzuzeichnen oder für Live-Übertragungen im Internet zu gestalten.
 
-Mauszeiger-Highlighter (und Tastatur)
-[http://www.markuswelz.de/software/features_de.html](http://www.markuswelz.de/software/features_de.html)
-Pointerfocus
-Simple Mouse Locator reveals the mouse position via a momentary or permanent locator. Hook up to a hot key or gesture; the trigger will cause a customizable ring to be displayed around the current mouse position. für Mac; kostenpflichtig
+**[XSplit VCam](https://xsplit.com)** ist eine Software zur Entfernung und Bearbeitung des Hintergrundes einer Webcamaufzeichnung. Das ganze funktioniert ohne zusätzlichen Greenscreen und aufwändige Lichtinstallation und unterstützt viele Video-Chat-Anwedungen und Programme wie Zoom, Skype, Hangouts und OBS. In der kostenlosen Nutzungslizenz erscheint ein Wasserzeichen auf dem Kamerafeed.
+
+**[Spot on the Mouse](http://www.markuswelz.de/software/features_de.html)** macht die Maus besonders gut sichtbar und Mausaktionen wie Klicken und Mausrad-Drehungen aber auch Tastatureingaben für Zuschauer sichtbar. Die kostenpflichtige Software eignet sich in geteilten Bildschirmpräsentationen und Software-Schulungen um die Aufmerksamkeit auf die Maus und deren Umgebung zu lenken und Aktionen von Maus und Tastatur nachvollziehbar zu machen. Für Mac und Windows verfügbar.
+
+**[Mouseposé](https://boinx.com/mousepose/)** visualisiert Mauszeiger-Aktionen und Tastatureingaben auf macOS. Bei Aktivierung wird der Bildschirm gedimmt und ein Spotlight rund um den Mauszeiger kreiert, um die Aufmerksamkeit der Zuschauer in den beleuchteten Bereich des Bildschirms zu lenken. Als freie Testversion verfügbar.
+
+### Video-Meetings
+**[Adobe Connect](https://www.adobe.com/products/adobeconnect.html?utm_source=tacv&utm_medium=website&utm_content=list)**  bietet neben Videokonferenzen auch Funktionalität für Webinare und E-Learning. Für 90 Tage steht ein freier Zugang der Angebote zur Verfügung.
+
+**[ClickMeeting](https://clickmeeting.com/)**  ist eine browserbasierte WebinarLösung mit Buchungsverwaltung. Nur 7 Tage Gratis-Test.
+
+**[BigBlueButton](https://bigbluebutton.org/)** ist ein System zur Umsetzung von Webinaren mit Fokus auf Online-Learning und Bildungsinstitutionen.
+
+**[videofacilitator](https://www.videofacilitator.com/)** ermöglicht Videokonferenzen mit Fokus auf deren Steuerbarkeit und guter Mobilität innerhalb verschiedener Braekoutrooms, also unterteilten Arbeitsräumen. Mit 30 Tagen freier Testnutzung.
+
+**[https://talque.com](https://talque.com/)** integriert jitsi-meet mit aufgeräumter Oberfläche in eine Konferenz-Management-App (Web und Mobile) und kann dadurch sowohl Präsenzveranstaltungen als auch virtuelle Konferenzen abbilden. Die Einladung gelingt allerdings nur per E-Mail, dann kann ein Share-Link aus der laufenden Instanz auch anonym weiter gegeben werden.
+
+
+
+
 
 Lupe Windows intern:**Bildschirmlupe öffnen und schließen**
 
-[Mousepose](https://boinx.com/mousepose/): für Mac kostet(gibtaber testversion), kann highlight, mause und keytracking
 
 
-#### Video-Meetings
 
-*   [Adobe Connect](https://www.adobe.com/products/adobeconnect.html?utm_source=tacv&utm_medium=website&utm_content=list)ermöglicht einen freien Zugang der Angebote für 90 Tage. Neben Videokonferenzen bietet Adobe hier Funktionalität für Webinare und E-Learning.
-*   [ClickMeeting](https://clickmeeting.com/)\- Browserbasierte WebinarLösung(mitBuchungsverwaltung). Nur 7 Tage Gratis-Test.
-*   [BigBlueButton](https://bigbluebutton.org/): Webinare mit Fokus auf Bildungsinstitutionen
-*   [https://www.videofacilitator.com](https://www.videofacilitator.com/)
-*   [https://talque.com](https://talque.com/)integriert jitsi-meet mit aufgeräumter Oberfläche(allerdingsEinladung nur per E-Mail, dann kann share-link aus der laufenden Instanz auch anonym weiter gegeben werden) in eine Konferenz-Management-App(Webund Mobile) kann dadurch sowohl Präsenzveranstaltungen als auch virtuelle Konferenzen abbilden.
+
+
+
+
 
 
 
 #### Zeitmessung
 
-*   [Toggl](https://toggl.com/)ist ein Zeiterfassungs-Werkzeug, welches plattformübergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Basic-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahlplans. 
-*   [Harvest](https://www.getharvest.com/)ist ein Zeiterfassungs-Werkzeug, welches die Arbeitszeit von Freelancern oder Teams erfasst. Neben einer Analyse der Arbeitszeit lässt sich die Erfassung auch mit Rechnungen verknüpfen und so eine genaue Kostenaufstellung bewerkstelligen. Die ersten 30 Tage steht Harvest kostenlos zur Verfügung.
-*   [Clockify](https://clockify.me/)ist ein simples Zeiterfassungs-Werkzeug, welches komplett kostenlos ist. Es ist zeitlich unbegrenzt für Teams jeder Größe einsetzbar.
-*  [https://cuckoo.team](https://cuckoo.team/)
+**[Toggl](https://toggl.com/)** ist ein Zeiterfassungs-Werkzeug, welches plattformübergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Basic-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahlplans. 
+
+**[Harvest](https://www.getharvest.com/)** ist ein Zeiterfassungs-Werkzeug, welches die Arbeitszeit von Freelancern oder Teams erfasst. Neben einer Analyse der Arbeitszeit lässt sich die Erfassung auch mit Rechnungen verknüpfen und so eine genaue Kostenaufstellung bewerkstelligen. Die ersten 30 Tage steht Harvest kostenlos zur Verfügung.
+
+**[Clockify](https://clockify.me/)** ist ein simples Zeiterfassungs-Werkzeug, welches komplett kostenlos ist. Es ist zeitlich unbegrenzt für Teams jeder Größe einsetzbar.
+
+**[cuckoo.team](https://cuckoo.team/)** ist ein kostenloser, browserbasierter Timer, der mit Teams teilbar die Produktivität in Online-Meetings steigert.
 
 
 #### Whiteboards & Co-Creation
 
-*   [**Freehand von Invision **](https://freehand.invisionapp.com/freehand/)
-*   [Cardsmith](https://cardsmith.co/)ist inspiriert von der Arbeit mit Klebezetteln auf Whiteboards. Es bietet online auf diese Weise gemeinsames Brainstorming oder Erarbeiten von Themen in Echtzeit und die optische Weiterverabeitung und Ordnung der einzelnen Zettel. Das ganze gelingt im Team oder mit Kunden und ist in der Basisform kostenlos. Weitere kostenpflichtige Feature, wie der Datei-Export der erarbeiteten Boards, ist 30 Tage lang kostenlos zu testen.
-*   [Boldaretro Sprint Retrospective Tool](https://www.boldare.com/sprint-retrospective-tool/)ist eine kostenlose online App, mit der gemeinsam Scrums, Brainstorming und Entscheidungen gelingen. Die Funktionalität umfasst geheime Abstimmungen über Ideen, Ordnung der auf Karten hinterlegten Ideen und Teilen der Ergebnisse im Team.
-*   [AWW](https://awwapp.com/?ref=producthunt)kostenlos, webbasiert, touchfreundlich
-*   [Hoylu](https://www.hoylu.com/)bietet 4 Boards gratis in der Einsteigerversion
-*   [metroretro](https://metroretro.io/)ist ein auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen(könnenauch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Kostenlos. Browserbasiert, optimiert für Desktop-Browser, auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
-* https://padlet.com
+**[Freehand von Invision](https://freehand.invisionapp.com/freehand/)** bietet einen endlose Leinwand auf der Teams gemeinsam in Echtzeit Designs und Ideen visualisieren können. Browserbasiert lassen sich die Ergebnisse einfach mit Sketch oder Photoshop synchronisieren.
+
+**[Cardsmith](https://cardsmith.co/)** ist inspiriert von der Arbeit mit Klebezetteln auf Whiteboards. Es bietet online auf diese Weise gemeinsames Brainstorming oder Erarbeiten von Themen in Echtzeit und die optische Weiterverabeitung und Ordnung der einzelnen Zettel. Das ganze gelingt im Team oder mit Kunden und ist in der Basisform kostenlos. Weitere kostenpflichtige Feature, wie der Datei-Export der erarbeiteten Boards, ist 30 Tage lang kostenlos zu testen.
+
+**[Boldaretro Sprint Retrospective Tool](https://www.boldare.com/sprint-retrospective-tool/)** ist eine kostenlose online App, mit der gemeinsam Scrums, Brainstorming und Entscheidungen gelingen. Die Funktionalität umfasst geheime Abstimmungen über Ideen, Ordnung der auf Karten hinterlegten Ideen und Teilen der Ergebnisse im Team.
+
+**[AWW](https://awwapp.com/?ref=producthunt)** ist ein touchfreundliches webbasiertes Whiteboard mit kostenloser Basisversion.
+
+**[Hoylu](https://www.hoylu.com/)** dient als digitaler Raum für standortübergreifende, interaktive Zusammenarbeit, für strukturiertere Online-Meetings. Geboten werden vier Boards gratis in der Einsteigerversion. Als App lässt es sich mitlerweile in die Dienste von Microsoft Teams integrieren.
+
+**[Metro Retro](https://metroretro.io/)** ist ein kostenloses, auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen (können auch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden, für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Es ist browserbasiert und optimiert für Desktop-Browser. Auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
+
+**[padlet](https://padlet.com)** bietet die Möglichkeit, in Teams besonders intuitiv Boards, Dokumente und Websites zu erstellen. Dies gelingt mit allen Endgeräten, unterstützt viele Dateitypen und ist in 29 Sprachen verfügbar.
 
 
 
 #### Verschlüsselung
 
-- 7zip (★)
-- keepassxc (★)
-- *   [KeePass](https://keepass.info/index.html)FOSS(freeand open source software) für alle Betriebssysteme, auch ohne Installation nutzbar(aufUSB-Stick selbstgenügsam) - nur auf Windows mit freier App, die anderen Nutzungen sind Frickelarbeit oder draufgesetzte Lösungen(bezahlteund kostenlose) z.B.[https://keepassxc.org](https://keepassxc.org/)
-*   Dashlane für mehr Admin-Optionen für Unternehmen, Zugriffsrechte und Regeln feinkörnig vorzugeben
+**[7zip](https://www.7-zip.de/)** (★) ist eine freies Packprogramm, mit dem Dateiarchive verschiedener Formate gepackt, entpackt und verschlüsselt werden können.
+
+**[KeePass](https://keepass.info/index.html)** (★) ist eine FOSS(free and open source software) für alle Betriebssysteme, auch ohne Installation nutzbar (auf USB-Stick selbstgenügsam). Auf Windows mit freier App nutzbar, die anderen Nutzungen sind Frickelarbeit oder draufgesetzte Lösungen (bezahlte und kostenlose) - durchaus brauchbar ist z.B. [https://keepassxc.org](https://keepassxc.org/)
+
+**[Dashlane](https://www.dashlane.com/de)** ist ein plattformübergreifender Passwortmanager. In der Freien Version lassen sich bis zu 50 Passwörter sicher verwalten. Darüber hinaus sind mehr Admin-Optionen für Unternehmen, Zugriffsrechte und Regeln feinkörnig vorzugeben.
+
+
 
 
 
 #### Versionskontrolle
 
 Interessant sind die Services, die Versionskontrolle als Prinzip auch jenseits von Code und Programmieren zugänglich machen.
-- GitHub (★)
-- Bitbucket
-- GitLab
-- SourceTree
+
+**[GitHub](https://github.com/)** (★) ist ein webbasierter Dienst zur Versionsverwaltung im Prozess der kollaborativen Software-Entwicklung aber auch in gemeinsam bearbeiteten Dokumenten einsetzbar.
+
+**[Bitbucket](https://bitbucket.org/product/)** ist ein Git Code Managementsystem zur gemeinsamen Bearbeitung von Codes mit integrierter Funktion für Inline-Kommentare.
+
+**[GitLab](https://about.gitlab.com/)** ist eine Webanwendung zur Versionsverwaltung von kollaborativen Softwareprojekten auf Basis von Git.
+
+**[SourceTree](https://www.sourcetreeapp.com/)** ist ein kostenloser Git Client für Windows und Mac, der Repositories zur vereinfachten Interaktion optisch darstellt.
 
 
 ## Produktivität
 
-*   [SelfControl](https://selfcontrolapp.com/)ist eine kostenlose open-source-App für macOS, die Ablenkung im Homeoffice minimieren soll. Sie sperrt die Nutzenden von Websites, Mail-Servern und allem ablenkenden aus dem Internet. Dabei lassen sich die Zeit und genauen Orte bestimmen, für welche eine Sperrung vorgesehen ist. Erst mit dem Ablaufen eines Timers wird erneuter Zugang zu den Orten der Ablenkung gewährt.
-*   [Cold Turkey](https://getcoldturkey.com/)ist eine App für Windows und macOS, die jegliche Ablenkung durch Apps oder Websites minimiert. Über Timer lässt sich bestimmen, welche Apps oder Websites für diesen Zeitraum nicht nutzbar und erreichbar  sind. Eine zu bezahlende Pro-Variante bietet weitere Anwendungsmöglichkeiten wie den zeitlich begrenzten Zugriff auf einen Computer.
-*   [FocusMate](https://www.focusmate.com/?utm_source=tacv&utm_medium=website&utm_content=list)ist ein Virtueller Coworkingspace, der Prokrastination den Kampf ansagt. Über den Browser finden sich andere Personen, die sich in Einheiten von 50 Minuten gemeinsam konzentrierter Arbeit widmen wollen. Dabei kommunizieren die Teilnehmenden nur zur Begrüßung per Chat und sind im Verlauf der Einheit per Webcam verbunden, mit dem Ziel gegenseitiger sozialer Kontrolle und Motivation. Pro Woche gibt es 3 Einheiten kostenfrei.
-*   ? Zero Willpower
-*   Forest
+**[SelfControl](https://selfcontrolapp.com/)** ist eine kostenlose open-source-App für macOS, die Ablenkung im Homeoffice minimieren soll. Sie sperrt die Nutzenden von Websites, Mail-Servern und allem Ablenkenden aus dem Internet. Dabei lassen sich die Zeit und genauen Orte bestimmen, für welche eine Sperrung vorgesehen ist. Erst mit dem Ablaufen eines Timers wird erneuter Zugang zu den Orten der Ablenkung gewährt.
+
+**[Cold Turkey](https://getcoldturkey.com/)** ist eine App für Windows und macOS, die jegliche Ablenkung durch Apps oder Websites minimiert. Über Timer lässt sich bestimmen, welche Apps oder Websites für diesen Zeitraum nicht nutzbar und erreichbar sind. Eine zu bezahlende Pro-Variante bietet weitere Anwendungsmöglichkeiten wie den zeitlich begrenzten Zugriff auf einen Computer.
+
+**[FocusMate](https://www.focusmate.com/?utm_source=tacv&utm_medium=website&utm_content=list)** ist ein Virtueller Coworkingspace, der Prokrastination den Kampf ansagt. Über den Browser finden sich andere Personen, die sich in Einheiten von 50 Minuten gemeinsam konzentrierter Arbeit widmen wollen. Dabei kommunizieren die Teilnehmenden nur zur Begrüßung per Chat und sind im Verlauf der Einheit per Webcam verbunden, mit dem Ziel gegenseitiger sozialer Kontrolle und Motivation. Pro Woche gibt es 3 Einheiten kostenfrei.
+
+**[Zero Willpower](https://apps.apple.com/us/app/zero-willpower-block-distracting-websites/id1045944416)** blockt auf macOS Geräten ab iOS 9 den Zugriff auf ablenkende, selbstgewählte Websites, die über den Browser erreichbar wären.
+
+**[Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=de)** ist eine Android-App, die spielerisch hilft, das Handy vorrübergehend wegzulegen, um sich besser auf die aktuelle Arbeit konzentrieren zu können. Konzentriertes Arbeiten ohne den Griff zum Handy wird in dieser App belohnt - die App dient so gleichzeitig als Motivationshilfe. Auch in der kostenlosen Version ansprechend.
 
 
 ## Netz-Test & Infrastruktur
 
-*   [Fast.com](https://fast.com/de/)bietet eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick kommt in Sekunden  die Information über die lokale Downloadgeschwindigkeit. Ping und Upload werden hier nicht getestet. 
-*   [Wieistmeineip.de](https://www.wieistmeineip.de/)bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Videokonferenz ausreichend, hängt die Synchronisation von Daten  durch mangelnde Datengeschwindigkeit hinterher? Hier finden sich detallierte Antworten.
+**[Fast.com](https://fast.com/de/)** bietet eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick kommt in Sekunden  die Information über die lokale Downloadgeschwindigkeit. Ping und Upload werden hier nicht getestet.
+ 
+**[Wieistmeineip.de](https://www.wieistmeineip.de/)** von ComputerBild bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Videokonferenz ausreichend, hängt die Synchronisation von Daten  durch mangelnde Datengeschwindigkeit hinterher? Hier finden sich detallierte Antworten.
 
-eigene kurz-URLs erstellen
+## Eigene kurz-URLs erstellen
 
-[https://yourls.org](https://yourls.org/)(freeopen source, auf eigenem server, auch shared host, schnell zu installieren)
-
-hilfreich, lange links von diversen Web-Apps(unddirekt-links auf untermenüs oder laufende live-sessions) unter einer Haupt-Domain zu versammeln und mit leicht zu merkenden links zu
+**[yourls](https://yourls.org/)** ist eine freie Open-Source-Lösung, um lange Links und URLs einzukürzen. Links aus diversen Web-Apps auf Untermenüs oder für Live-Sessions lassen sich unter einer Hauptdomain sammeln und praktisch, leicht zu merken darstellen.
 
 
 ## Audience-Interaction
 
-- [https://www.limesurvey.org/de/](https://www.limesurvey.org/de/)zum selber hosten von Umfragen, Datenschutztechnisch interessant
-- https://crowdsignal.com
-- einfach und gut zu bedienen https://www.strawpoll.me
-- BSI geprüft, Datenschutz im Fokus, auch kostenlose Version für bis zu 50 Teilnehmer https://www.lamapoll.de
-- Deutsch, kostenlos, ohne Registrierung nutzbar https://erhebung.de
-- [Mentimeter](https://www.mentimeter.com/): Online-Live-Umfragen und Präsentationen
-- [VOXR](https://voxr.org/de/)Umfragen im Browser. Gute Frageprinzipien mit Vereinfachungsalgorithmus, der die Eingaben in Interaktionen und Fragen zusammenfasst. Sperriges Design mit sehr beschränkten Anpassungsmöglichkeiten dazu, was die Nutzenden angezeigt bekommen. Ausgabe auf eigener Show-Seite(hiermit Browser-CSS in Firefox oder Chrome ein ordentliches Design drüberschreiben). Diese Seite kann als Webseite in einen Video-Feed eingespielt werden oder mittels Live-Slides in ppt und Keynote integriert werden. Gratis für bis zu 20 Teilnehmende.
-- [LiveSlides](https://www.liveslides.com/)ist ein Plugin für PowerPoint und Keynote, mit dem Webseiten als Browseransicht in einer Präsentation angezeigt werden können - darüber können also z.B. Ergebnisse von parallel statt findenden Online-Umfragen zu einer Veranstaltung in der Präsentation live angezeigt werden. Aber auch YouTube-Videos oder Kalenderansichten. Kostenlos(voneinem Anbieter für Online-Umfragen:[poll everywhere](https://polleverywhere.com/))
-- [oncoo](https://oncoo.de/): eine kleine Auswahl von kollaborativen Schul-Übungen. Lehr-Ansicht und Lern-Ansicht auf eine ad-hoc-generierte URL. browserbasiert, kostenlos, anonyme Nutzung möglich. Die Bewertungsumfrage(Visualisiertals Punkte auf Zielscheibe) ist eventuell nützlich, Lehr-Ansicht kann über CSS gehackt werden.
-- 
+**[limesurvey](https://www.limesurvey.org/de/)** ist eine freie Open-Source-Software, mit welcher Online-Umfragen ohne Programmierkenntnisse gelingen, veröffentlicht und in einer Datenbank erfasst werden können. Eigene Hostmöglichkeiten und Datenschutztechnische Anpassungsmöglichkeiten machen dieses Werkzeug besonders interessant.
+
+**[crowdsignal.com](https://crowdsignal.com/)** bietet mittels Drag-And-Drop die Möglichkeit, Umfragen innerhalb von Minuten einzurichten und optischen Vorstellungen anzupassen.
+
+**[strawpoll.me](https://www.strawpoll.me)** ermöglich browserbasiert und kostenlos in kürzester Zeit über einen geteilten Link in Echtzeit Umfragen und Abstimmungen durchzuführen. Es zeichnet sich durch besonders einfache Bedienung aus und funktioniert ohne Anmeldung.
+
+**[Lamapoll](https://www.lamapoll.de/)** ist BSI geprüft und damit 100% DSGVO-konform. Der Datenschutz liegt bei diesem Umfrage-Tool im Fokus. Eine kostenlose Version steht für bis zu 50 Teilnehmer bereit.
+
+**[Erhebung.de](https://erhebung.de)** ist ein kostenloses Tool für Online-Umfragen. Es funktioniert ohne Anmeldung, eine Umfrage wird Online erstellt, per Link geteilt und online ausgewertet.
+
+**[Mentimeter](https://www.mentimeter.com/)** bietet Online-Live-Umfragen und Präsentationen für den Einsatz in Remote-Teams und Online-Schulungen.
+
+**[VOXR](https://voxr.org/de/)** leistet Umfragen im Browser. Gute Frageprinzipien mit einem Vereinfachungsalgorithmus, der die Eingaben in Interaktionen und Fragen zusammenfasst. Sperriges Design mit sehr beschränkten Anpassungsmöglichkeiten dazu, was die Nutzenden angezeigt bekommen. Die Ausgabe gelingt auch auf eigenen Show-Seiten (hier mit Browser-CSS in Firefox oder Chrome ein ordentliches Design drüberschreiben). Diese Seite kann als Webseite in einen Video-Feed eingespielt werden oder mittels Live-Slides in ppt und Keynote integriert werden. Gratis für bis zu 20 Teilnehmende.
+
+**[LiveSlides](https://www.liveslides.com/)** ist ein Plugin für PowerPoint und Keynote, mit dem Webseiten als Browseransicht in einer Präsentation angezeigt werden können - darüber können also z.B. Ergebnisse von parallel statt findenden Online-Umfragen zu einer Veranstaltung in der Präsentation live angezeigt werden. Aber auch YouTube-Videos oder Kalenderansichten sind darstellbar.
+
+**[poll everywhere](https://polleverywhere.com/)** ermöglicht in Meetings oder Online-Kursen interaktive Echtzeitumfragen. Kostenlos für eine Gruppengröße von bis zu 25 Teilnehmenden.
+
+**[oncoo](https://oncoo.de/)** bietet eine kleine Auswahl von kollaborativen Schulübungen mit Lehr-Ansicht und Lern-Ansicht auf eine ad-hoc-generierte URL. Es ist browserbasiert, kostenlos und die anonyme Nutzung ist möglich. Die Bewertungsumfrage (visualisiert als Punkte auf Zielscheibe) ist eventuell nützlich, die Lehr-Ansicht kann über CSS eigenen Anpassungen unterworfen werden.
+
 
 
 
 ### VR
 
-[MozillaHubs](https://hubs.mozilla.com/)Soziale VR-Begegnungs-Umgebung. Kostenlos, erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung(insbesondere,wenn wir den Raum einrichten und Interaktionsmöglichkeiten beschränken können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchenbildung um Gespräche ab
-
+**[MozillaHubs](https://hubs.mozilla.com/)** ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung (insbesondere, wenn der Raum eingerichtet wird und Interaktionsmöglichkeiten beschränken werden können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchenbildung um Gespräche ab.
