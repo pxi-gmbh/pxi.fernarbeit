@@ -1,0 +1,17 @@
+on: push
+name: Publish Website
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.1.0
+      with:
+        fetch-depth: 2
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@3.1.0
+      with:
+        ftp-server: ftp://f012c16b.kasserver.com
+        ftp-username: f012c16b
+        ftp-password: pRUM6dCQWAtL3L4P
+	git-ftp-args: --remote-root 'leitfaden-fernarbeit.de/test'
