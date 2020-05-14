@@ -1,0 +1,7 @@
+.gitignore
+*/.git
+.git-ftp-ignore
+*/.github
+*/_drafts
+.config.codekit3
+*/source
