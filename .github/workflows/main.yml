@@ -14,4 +14,4 @@ jobs:
         ftp-server: ftp://f012c16b.kasserver.com
         ftp-username: f012c16b
         ftp-password: pRUM6dCQWAtL3L4P
-	git-ftp-args: --remote-root 'leitfaden-fernarbeit.de/test'
+	git-ftp-args: --remote-root leitfaden-fernarbeit.de/test
