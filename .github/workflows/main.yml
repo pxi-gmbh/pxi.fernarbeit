@@ -14,5 +14,5 @@ jobs:
         ftp-server: ftp://w00b16a0.kasserver.com
         ftp-username: f012c16b
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --remote-root ftp://w00b16a0.kasserver.com/fernarbeit/test
+        git-ftp-args: --remote-root /test
         local-dir: build
