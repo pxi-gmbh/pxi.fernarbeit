@@ -11,8 +11,8 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.0
       with:
-        ftp-server: ftp://w00b16a0.kasserver.com
-        ftp-username: f012c16b
+        ftp-server: ${{ secrets.FTP_SERVER }}
+        ftp-username: ${{ secrets.FTP_NAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --remote-root /test
         local-dir: build
