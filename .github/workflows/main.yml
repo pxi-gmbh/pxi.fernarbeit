@@ -1,0 +1,18 @@
+on: push
+name: Publish Website
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.1.0
+      with:
+        fetch-depth: 2
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@3.1.0
+      with:
+        ftp-server: ftp://w00b16a0.kasserver.com
+        ftp-username: f012c16b
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --remote-root /test
+        local-dir: build
