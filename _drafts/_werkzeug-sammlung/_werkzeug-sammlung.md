@@ -26,7 +26,7 @@
 **[CryptPad](https://cryptpad.fr)** ist eine
 Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, Office-Anwendungen und Aufgabenverwaltung. Gratis mit 50MB Speicherplatz.
 
-**[Circuit](https://www.circuit.com/)** ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen(Chats,Videokonferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
+**[Circuit](https://www.circuit.com/)** ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen (Chats,Videokonferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
 
 **[Dropbox](https://www.dropbox.com/de/basic)** ist der Platzhirsch der Cloud-Speicher und hat immer noch 2GB Speicherplatz gratis zum Einstieg. Dazu gehört mit [Dropbox Paper](https://www.dropbox.com/de/paper) (★) eine übersichtliche Oberfläche zur gemeinsamen Arbeit an Text-Dokumenten. Entwickelt sich mit Lösungen zum Austausch und Arbeiten an Dateien zur Schnittstelle zwischen verschiedenen Ökosystemen. Die Business-Variante erlaubt Verwaltung von Zugriffsrechten.
 
