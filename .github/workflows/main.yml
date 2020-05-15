@@ -14,5 +14,5 @@ jobs:
         ftp-server: ${{ secrets.FTP_SERVER }}
         ftp-username: ${{ secrets.FTP_NAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --remote-root /test
+        # git-ftp-args: --remote-root /test
         local-dir: build
