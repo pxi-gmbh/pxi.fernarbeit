@@ -1,66 +1,86 @@
-<small>Eine Auswahl der populärsten Dienste für dezentrales Arbeiten.
-<br>(★) markiert Dienste, die wir aktuell selbst nutzen.</small>
+{>>@jakob: es bleibt nicht aus, dass Dienste und Software mit verschiedenen Funktionen in verschiedenen Kategorien auftaucht. Lösen wir das Problem lieber mit aussagekräftigen Kategorien und dort Querverweisen, wenn ein Dienst auch woanders autaucht. Nutze z.B. [Cryptpad][] im Text, um zur Überschrift gleichen Namens zu verweisen.<<}
 
-<blockquote><!-- @todo nav gestalten -->
-<strong>Inhalt:</strong>
-<small>
-<br><a href="#office">Cloud & Office-Anwendungen</a>
-<br><a href="#video">Video & Fernzugriff</a>
-<br><a href="#aufgaben">Aufgabenverwaltung</a>
-<br><a href="#text">Text & Wissensverwaltung</a>
-<br><a href="#whiteboards">Whiteboards</a>
-<br><a href="#chat">Chat</a>
-<br><a href="#crypto">Verschlüsselung, Passwörter, Buchhaltung</a>
-<br><span aria-hidden="true">⊗ </span><a href="/kompetenz/fernarbeit.html">zurück zum Leitfaden Fernarbeit</a>
-</small>
-</blockquote>
+- [ ] TODO: nav gestalten
+
+<header role="banner" class="grid grid-margin">
+<h1>Arbeit gerecht verteilen</h1>
+</header>
+
+*Eine Auswahl der populärsten Dienste für dezentrales Arbeiten.*  
+*★ markiert Dienste, die wir aktuell selbst nutzen.*
 
 
-# Kollaborations-Werkzeuge
-
-<a id="office"></a>
-## Integration von Cloud und Office-Anwendungen
-
-**[Box](https://www.box.com/de-de/for-enterprise)** bietet  per App oder Browser Cloud-Content-Management und Schnittstellen der Zusammenarbeit mit anderen Plattformen und Diensten für Ihre Dateien. Kein Gratisangebot.
-
-**[CryptPad](https://cryptpad.fr)** ist eine
-Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, Office-Anwendungen und Aufgabenverwaltung. Gratis mit 50MB Speicherplatz.
-
-**[Circuit](https://www.circuit.com/)** ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen (Chats,Videokonferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
-
-**[Dropbox](https://www.dropbox.com/de/basic)** ist der Platzhirsch der Cloud-Speicher und hat immer noch 2GB Speicherplatz gratis zum Einstieg. Dazu gehört mit [Dropbox Paper](https://www.dropbox.com/de/paper) (★) eine übersichtliche Oberfläche zur gemeinsamen Arbeit an Text-Dokumenten. Entwickelt sich mit Lösungen zum Austausch und Arbeiten an Dateien zur Schnittstelle zwischen verschiedenen Ökosystemen. Die Business-Variante erlaubt Verwaltung von Zugriffsrechten.
-
-**[Google G-Suite](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus)** ist mit Premium-Features in der Gratisversion bis Juli verfügbar. Meetings mit bis zu 250 Personen abhalten und in Google Drive abspeichern, Videos live streamen.
-
-**[Lark](https://www.larksuite.com)**; wer Video-Konferenz, Arbeit an Texten, Terminplanung und Messenger in eine App bündeln will, kann sich das mal ansehen. Derzeit Gratis. Vielleicht mal fragen, was denn genau Geld kosten soll.
-
-**[Microsoft Teams](https://products.office.com/de-de/microsoft-teams/free)** (★) ist als Integrations-Plattform für Office-Anwendungen mit Kommunikation für ein halbes Jahr kostenlos. OneDrive, SharePoint und die daran gekoppelte Dateiverwaltung von Office-Paketen bekommen hier eine neue Oberfläche.
-
-**[Notion](https://www.notion.so)** ist ein Text-zentriertes Schweizer Taschenmesser unter den Kollaborations-Werkzeugen. Für Leute, die wissen was Markdown ist und sich eine minimalistische Oberfläche für diverse Online-Werkzeuge in nur einer App wünschen.
-
-**[Smartsheet](https://www.smartsheet.com)**, wenn Zusammenarbeit eigentlich immer Tabellenkalkulation ist.
-
-**[WebEx](https://gblogs.cisco.com/de/coronavirus-cisco-erweitert-kostenloses-webex-angebot/)** integriert Meetings und Dateiverwaltung kostenlos für Unternehmen mit Ciscos angeschlossenen Lösungen (die sind nicht kostenlos).
+**Inhalt**
+- [Datei-Verwaltung][](Cloud-Speicher)
+- [Office-Anwendungen][]
+- [Video-Produktion][]
+- [Video-Konferenz][]
+- [Aufgaben-Verwaltung][]
+- [Wissens-Verwaltung][]
+- [Fern-Gestaltung][](Whiteboards & ?)
+- [Halb-Synchrone Kommunikation][](Chat)
+- [Daten-Verwaltung][](Crypto, Passwörter)
+- [Finanz-Verwaltung][](LexOffice)
+[<span aria-hidden="true">⊗ </span> zurück zur Übersicht](/)
 
 
-<a id="aufgaben"></a>
-## Aufgabenverwaltung & Kommunikation
+## Datei-Verwaltung
 
-**[Airtable](https://airtable.com)**. Wer von Tabellenkalkulation zur Planung und Verwaltung einfach nicht genug bekommen kann und gleich eine ganze Datenbank darauf aufsetzen will. Basisfunktion gratis. Erweiterte Möglichkeiten zur Zusammenarbeit nur in der bezahlten Version.
+##### [Box](https://www.box.com/de-de/for-enterprise)
+bietet  per App oder Browser Cloud-Content-Management und Schnittstellen der Zusammenarbeit mit anderen Plattformen und Diensten für Ihre Dateien. Kein Gratisangebot.
 
-**[Asana](https://asana.com/de)** ist eine Arbeitsmanagement-Plattform. Allein das Wort schon. Für kleinere Teams gratis, vermutlich aber auch zu viel.
+##### Basecamp [siehe unter Aufgaben-Verwaltung][Basecamp]
+ist eine integrierte Lösung zu Projekt-Management, Dateiverwaltung und interner Kommunikation. Lohnt sich anzuschauen. {>>@jakob: hier ein Beispiel für einen Querverweis<<}
 
-**[Basecamp](https://basecamp.com)** ist eine integrierte Lösung zu Projektmanagement, Dateiverwaltung und interner Kommunikation. Für kleinere Teams eine Möglichkeit, die Bedürfnisse der Fernarbeit auf einen Schlag zu verwirklichen mit vielen Anleitungen zur Umstellung - leider nur auf Englisch. Kostenlos in sehr reduzierter Funktion.
+##### [CryptPad](https://cryptpad.fr)
+ist eine Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiaustausch, Office-Anwendungen und Aufgabenverwaltung. Gratis mit 50MB Speicherplatz.
+
+##### [Circuit](https://www.circuit.com/)
+ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen (Chats, Videokonferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
+
+##### [Dropbox](https://www.dropbox.com/de/basic)
+ist der Platzhirsch der Cloud-Speicher und hat immer noch 2GB Speicherplatz gratis zum Einstieg. Dazu gehört mit [Dropbox Paper](https://www.dropbox.com/de/paper) eine übersichtliche Oberfläche zur gemeinsamen Arbeit an Text-Dokumenten. Entwickelt sich mit Lösungen zum Austausch und Arbeiten an Dateien zur Schnittstelle zwischen verschiedenen Ökosystemen. Die Business-Variante erlaubt Verwaltung von Zugriffsrechten.
+
+##### [Google G-Suite](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus)
+bietet Datei-Austausch und Zusammenarbeit an den Dateien in der Cloud. Premium-Features sind in der Gratisversion bis Juli 2020 verfügbar: Meetings mit bis zu 250 Personen abhalten und in Google Drive abspeichern, Videos live streamen.
+
+##### [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/free) (★)
+ist als Integrations-Plattform für Office-Anwendungen mit Kommunikation für ein halbes Jahr kostenlos. OneDrive, SharePoint und die daran gekoppelte Dateiverwaltung von Office-Paketen bekommen hier eine neue Oberfläche.
+
+
+
+
+
+
+
+## Aufgaben-Verwaltung
+
+##### [Airtable](https://airtable.com)
+Wer von Tabellen-Kalkulation zur Planung und Verwaltung einfach nicht genug bekommen kann und gleich eine ganze Datenbank darauf aufsetzen will: die Basisfunktion ist gratis. Erweiterte Möglichkeiten zur Zusammenarbeit nur in der bezahlten Version.
+
+##### [Asana](https://asana.com/de)
+ist eine „Arbeitsmanagement-Plattform“. Allein das Wort schon. Für kleinere Teams gratis, vermutlich aber auch zu viel.
+
+##### [Basecamp](https://basecamp.com)
+ist eine integrierte Lösung zu Projektmanagement, Dateiverwaltung und interner Kommunikation. Für kleinere Teams eine Möglichkeit, die Bedürfnisse der Fernarbeit auf einen Schlag zu verwirklichen mit vielen Anleitungen zur Umstellung - leider nur auf Englisch. Kostenlos in sehr reduzierter Funktion.
 
 **[ClickUp](https://clickup.com)** vereint in einer App Aufgabenverwaltung und Kommunikation in Teams mit Fokus auf Planung und Integration mit verschiedenen anderen Apps. Die Integrationen sind erst in der bezahlten Version verfügbar.
 
 **[Jira](https://www.atlassian.com/de/software/jira)** ist Projektmanagement mit Fokus auf Agilität. Mit großem A, da bleibt agiles Arbeiten manchmal auf der Strecke. Bei der Mutterfirma Atlassian sind seit März 2020 die Werkzeuge für kleine Teams bis 10 Personen gratis.
+
+##### [Lark](https://www.larksuite.com)
+Wer Video-Konferenz, Arbeit an Texten, Terminplanung und Messenger in eine App bündeln will, kann sich das mal ansehen. Derzeit Gratis. Vielleicht mal fragen, was denn genau Geld kosten soll.
+
+**[Notion](https://www.notion.so)** ist ein Text-zentriertes Schweizer Taschenmesser unter den Kollaborations-Werkzeugen. Für Leute, die wissen was Markdown ist und sich eine minimalistische Oberfläche für diverse Online-Werkzeuge in nur einer App wünschen.
 
 **[TeamSuccess](https://teamsuccess.io/)** ist eine kostenlose und simple Plattform, auf der Mitglieder eines Teams die Ziele ihrer Woche hinterlegen können und  ihren Fortschritt für alle sichtbar machen.
 
 **[Todoist Business](https://todoist.com/business)**. GTD für Teams. Wenn Sie wissen, was GTD ist, kennen Sie Todoist wahrscheinlich längst. Getting Things Done ist ein Prinzip der Aufgabenverwaltung in Themen-Ordnern und Kontexten. Probemonat kostenlos.
 
 **[Trello](https://trello.com/de)** (★) lässt Ihnen alle Freiheiten, Listen in Listen anzulegen. Basiert auf dem Kanban-Prinzip zur Strukturierung von Arbeit. Sehr schlank zum Start. Gratis in der Grundfunktion, Schnittstellen kosten extra.
+
+
+**[Smartsheet](https://www.smartsheet.com)**, wenn Zusammenarbeit eigentlich immer Tabellenkalkulation ist.
 
 
 
@@ -131,6 +151,9 @@ Interessant sind die Services, die Versionskontrolle als Prinzip auch jenseits v
 **[TeamViewer](https://www.pcwelt.de/news/Teamviewer-jetzt-fuer-alle-gratis-wegen-Coronavirus-10771656.html)** ist Fernsteuerung für Rechner und erlaubt anscheinend momentan die Ausweitung des kostenlosen Ausprobierens für Privatanwendung auf berufliche Nutzung
 
 **[videofacilitator](https://www.videofacilitator.com/)** ermöglicht Videokonferenzen mit Fokus auf deren Steuerbarkeit und guter Mobilität innerhalb verschiedener Braekoutrooms, also unterteilten Arbeitsräumen. Mit 30 Tagen freier Testnutzung.
+
+##### [WebEx](https://gblogs.cisco.com/de/coronavirus-cisco-erweitert-kostenloses-webex-angebot/)
+integriert Video-Konferenzen zu Meetings und Austausch. Kostenlos für Unternehmen mit Ciscos angeschlossenen Lösungen (die sind nicht kostenlos).
 
 **[Whereby](whereby.com)** bietet Video-Konferenz ohne Anmeldung oder Konto, Fokus auf den Browser, mit individuell wählbaren URLs. Freundlicher zur Datensparsamkeit. App gibt es auch. Gratisversion ist mit bis zu 4 Personen in einem virtuellen Konferenzraum nutzbar.
 
