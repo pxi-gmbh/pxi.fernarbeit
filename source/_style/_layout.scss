@@ -276,3 +276,47 @@ label.margin-toggle:not(.sidenote-number) {
 		cursor: pointer;
 	}
 }
+
+/* universal margin-notes: designed to work as snippets in markdown documents */
+// <label for="$NAME" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+// <input type="checkbox" id="$NAME" class="aside-toggle"/>
+// whatever element comes next will be turned into a margin note. A (markdown-generated) paragraph or a video or figure alike
+input.aside-toggle + * {
+	float: right;
+	clear: right;
+	margin-right: calc(-5 * #{$line-height}em - 20vw);
+	width: calc(3 * #{$line-height}em + 20vw);
+	margin-top: 1.7em;
+	margin-bottom: calc(2em * 1.25);
+	font-size: 0.8em;
+	line-height: calc(#{$line-height} * 1.25);
+	vertical-align: baseline;
+	position: relative; 
+}
+input.aside-toggle {
+	display: none;
+}
+label.aside-toggle { 
+	display: none;
+	color: $color-contrast;
+	cursor: pointer;
+}
+/* collapse sidenotes on small screens */
+@media all and (max-width: $break-wide) {
+	label.aside-toggle { 
+		display: inline;
+	}
+	input.aside-toggle + * { 
+		display: none; 
+	}
+	input.aside-toggle:checked + * { 
+		display: block;
+		float: left;
+		left: #{$line-height}em;
+		clear: both;
+		width: 95%;
+		margin: #{$line-height}em;
+		vertical-align: baseline;
+		position: relative;
+	}
+}
