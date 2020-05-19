@@ -11,6 +11,7 @@
 
 
 **Inhalt**
+
 - [Datei-Verwaltung][](Cloud-Speicher)
 - [Office-Anwendungen][]
 - [Video-Produktion][]
@@ -21,6 +22,7 @@
 - [Halb-Synchrone Kommunikation][](Chat)
 - [Daten-Verwaltung][](Crypto, Passwörter)
 - [Finanz-Verwaltung][](LexOffice)
+
 [<span aria-hidden="true">⊗ </span> zurück zur Übersicht](/)
 
 

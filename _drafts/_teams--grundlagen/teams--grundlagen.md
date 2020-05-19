@@ -17,4 +17,6 @@ Bilder müssen ![Bezeichnung für das gewünschte Bild einfügen kann abweichen]
 
 Datei speichern, damit es in der Github-App aktualisiert, dort kommentiert und dann gepusht werden kann.
 
-Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M 
+Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
+
+{>>@jakob: hier ein Beispiel für einen Querverweis<<} So werden Kommentare erstellt, sie werden leicht grau dargestellt.
