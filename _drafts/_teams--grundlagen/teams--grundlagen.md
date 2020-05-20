@@ -3,9 +3,9 @@
 
 ## wichtige Konventionen:
 
-Keine Sachen im Dateinamen groß schreiben !
+Keine Sachen im Dateinamen groß schreiben (gilt auch für Bilder) !
 
-Keine Sonderzeichen in den datei- und ordnernamen und Bildern!
+Keine Sonderzeichen in den datei- und ordnernamen und Bildern! Also keine Unterstriche! Bindestriche ersetzen Leerzeichen!
 
 Datei muss den gleichen Namen wie der übergeordnete Ordner haben, allerdings ohne das vorangestellte "_ "" !
 Ordnername hat immer ein vorangestelltes _ "
