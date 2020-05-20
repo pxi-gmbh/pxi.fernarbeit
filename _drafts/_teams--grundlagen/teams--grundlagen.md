@@ -210,3 +210,117 @@ Die Kanalinterne Kommunikation ermöglicht, Information gezielt mit den Richtige
 Auch eine E-Mail lässt sich in eine Unterhaltung umwandeln und so in die Teamsumgebung integrieren. Über das jeweilige Kontextmenü [Weitere Optionen] eines Kanals lässt sich eine [E-Mail-Adresse abrufen]. An diese lassen sich E-Mails inklusive Anhang weiterleiten. Die E-Mails werden dann im Kanal als Unterhaltung dargestellt, auf welche die Kanalmitglieder dort antworten können. Gleichzeitig werden dadurch die Anhänge der E-Mails in SharePoint der Teamseite gespeichert und so für alle verfügbar.
 
 ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](UnterhaltungEmailImport.png)
+
+
+# Chat
+
+Außerhalb der Kanäle findet sich im Bereich [Chat] der Ort, an dem sich Mitglieder in Teams persönlich austauschen können. Er befindet sich in der Seitenleiste der Teams-App.
+Chats sind ebenso wie Kanäle in Tabs aufgeteilt und beinhalten immer die Registrierkarten [Chat], also den eigentlichen Chatverlauf, [Dateien] die nur mit den am Chat Teilnehmenden geteilt werden und in Einzelchats den Bereich [Aktivität], der über die Aktivitäten des Chat-Gegenübers in allen mit Ihnen gemeinsam geteilten Kanälen  informiert.
+Es lassen sich auch in Chats weitere Registrierkarten einfügen.
+Chats können zwischen zwei oder mehr Personen geführt werden, können stumm geschaltet, zur besseren Navigation angeheftet und gezielt durchsucht werden. Für jede neue Personenkonstellation mit Chatinteraktion wird ein neuer Bereich angelegt, den Sie immer wieder erreichen können, um das Gespräch fortzuführen oder auf Informationen erneut zuzugreifen.
+Die Nachrichten in Chats laufen durchgängig weiter, eine Ordnung wie in Kanalunterhaltungen ist hier also nicht möglich.
+Hier geteilte Dateien sind nur den Chatmitgliedern zugänglich und werden in den persönlichen OneDrive-For-Business-Ordnern gespeichert. Zu diesen Dateien gelangen Sie über den zugehörigen Reiter/Tab [Dateien], der auch über den Absender und damit über den Speicherort Auskunft gibt.
+Auch eine Videokonferenz bzw. [Besprechung] oder ein Anruf in der Teams-App beinhaltet einen eigenen Chatbereich, über den zusätzliche Infos oder auch Bilder und andere Dateien geteilt werden können. Auch diese Chatverläufe inklusive ihrer Dateien werden der Speicherlogik von Teams-Chats nach in den privaten One-Drive-For-Business-Ordnern der Teilnehmenden gespeichert.
+Besprechungs-Chats verfügen neben den üblichen Registrierkarten [Chat] und [Dateien] noch über die Bereiche [Whiteboard] und [Besprechungsnotizen]. Das Whiteboard ist eine Integration der Whiteboard Web App von Microsoft, um es in einer [Besprechung] zu nutzen, muss eine Person im laufenden Videocall ein Whiteboard freigeben. Dies gelingt über die Schaltfläche [Teilen] im Besprechungsmenü.
+[Besprechungsnotizen] können zur Vor- und Nachbereitung genutzt und bearbeitet werden. Sie sind nur für Personen zugänglich, die zuvor zu der zugehörigen [Besprechung] eingeladen worden sind. Vor der Besprechung lassen sich Notizen im Bereich [Kalender] starten und vorbereiten. Während der [Besprechung] können Sie im Besprechungsmenü über [Weitere Aktionen] [Besprechungsnotizen] starten und anzeigen.
+
+Alle diese Chats werden im Bereich [Chat] aufgeführt und lassen sich dort weiternutzen, dies gilt auch für die darin integrierten Whiteboards und Notizen.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](ChatMitAllenBereichen.png)
+
+
+# Videotelefonie
+
+Teams hat ein interne Lösung für Videotelefonie und Anrufe. Es steht Lösungen wie Skype for Business in nichts nach und ist laut Microsoft auch als dessen Nachfolgelösung gedacht, soll doch Skype for Business im Sommer 2021 den Dienst einstellen.
+Videoanrufe und Anrufe können in Teams über [Anrufe], aus [Chats] heraus, über die Befehlszeile oder über die Profilbilder der zu kontaktierenden Teammitglieder getätigt werden.
+Besonders praktisch sind die Videoanrufe allerdings innerhalb der [Besprechung], der Videokonferenz in der Teams-App. So können [Besprechungen] über den [Kalender], in der linken Seitenleiste zu finden, geplant und wahrgenommen werden.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BesprechungÜberKalender.png)
+
+Hinweise mit Teilnahmemöglichkeit auf Besprechungen finden sich auch in den Kanälen wieder.
+Die Videoanrufe und Anrufe verfügen über eigene Chats, und eine komfortable Möglichkeit, den eigenen Bildschirm oder einzelne Programmfenster anderer Apps zu teilen.
+Videoanrufe lassen sich über den integrierten Dienst [Stream] aufzeichnen und teilen.
+Je nach Lizenz bietet Teams auch die Möglichkeit, per Telefon an Besprechungen teilzunehmen und damit auf diesem Weg weitere Gäste und Teammitglieder ohne Internetanbindung in die [Besprechung] zu integrieren.
+Mittlerweile verfügt die Videotelefonie in Teams auch die Möglichkeit, künstlich den Hintergrund  des Videos zu bestimmen. Neben der Möglichkeit, Ihren von der Webcam aufgezeichneten Hintergrund unkenntlich zu machen und so den Teilnehmenden unerwünschte Einblicke in Ihre Umgebung zu gewähren, kann nun auch ohne zusätzliche technische Voraussetzungen eine Art Greenscreen-Effekt genutzt werden. Während Sie im Vordergrund sichtbar bleiben, wird Ihr Hintergrund durch eine wählbare Grafik ersetzt. Vor dem Betreten einer Besprechung oder eines Videocalls bietet sich Ihnen die Möglichkeit, genaue Einstellungen ihres Mikrofons und der Kamera vorzunehmen. Hier finden Sie zwischen der Funktion, die Kamera und das Mikrofon an und abzuschalten, die Möglichkeit, die Hintergrundeinstellungen vorzunehmen. Während eines Anrufes erreichen Sie diese Funktion über die darin mit drei Punkten dargestellte Schaltfläche [Weitere Aktionen] und dann unter [Hintergrundeffekte anzeigen].
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AnrufVoreinstellung.png)
+
+Teams bietet einige Hintergrundbilder, um einen eigenen Hintergrund in Teams zu integrieren, müssen Sie jedoch einen kleinen Umweg nehmen. Die gewünschte Bilddatei muss in den entsprechenden Teams-Ordner eingefügt werden.
+Unter Windows ist der Ordner über den Pfad C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Teams\Backgrounds\Uploads zu erreichen, oder indem Sie im Windows Startsuchfeld %APPDATA%\Microsoft\Teams\Backgrounds suchen. Ihnen wird dann der Ordner Uploads angezeigt, in welchen die gewünschten Bilddateien kopiert werden müssen.
+Unter MacOS finden Sie einen versteckten Ordner unter dem Pfad ~/Library/Application Support/Microsoft/Teams/Backgrounds/Uploads.
+Bilder werden hier in Teams in 1920x1080 px dargestellt und abweichende Formate auf dieses automatisch zurechtgeschnitten.
+Vor jedem Beitritt eines Anrufs wird der Bereich der Audio- und Videoeinstellungen aufgerufen. Nutzen Sie diesen Bereich und stellen Sie über die Geräteeinstellungen sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Diese Einstellungen erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen]. Ob alle vorgenommenen Einstellungen wie gewünscht funktionieren, lässt sich hier durch einen kurzen Testanruf überprüfen.
+Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audioqualität. Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Videospur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer Besprechung an. Diese können Sie auch ohne weitere Teilnehmer immer starten. Eine Aufzeichnung starten Sie, indem Sie in den Besprechungssteuerelementen einer laufenden Besprechung unter [weitere Optionen], dargestellt mit drei Punkten, [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert und dem [Besprechungschat] hinzugefügt und im Kanal, in dem die Besprechung stattgefunden hat als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet, es kann eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist. Beachten Sie, dass nur Besprechungen und Gruppenanrufe aufgezeichnet werden können.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BesprechungAufzeichnungStarten.png)
+
+
+# Benachrichtigung / Erwähnungen
+
+Teams hat den Anspruch, ein digitales Arbeitsumfeld zu schaffen, welches die Produktivität seiner Anwendenden steigert. Um dies zu erreichen, soll die in Teams stattfindende Kommunikation funktional sein, ohne durch die örtliche Nähe der Kommunikationswerkzeuge und der Arbeitswerkzeuge für zu viel Ablenkung zu sorgen. Damit die Kommunikation in Teams dem Spagat gerecht wird, eine notwendige Aufmerksamkeit der gewünschten Person zu erreichen, ohne dabei unangemessen aufdringlich zu sein, arbeitet Teams mit einer eigenen Benachrichtigungslogik, mit der sich steuern lässt, was, wann und wie eine Benachrichtigung durchdringt.
+Über das eigene Profilbild oben rechts sind die [Einstellungen] zu erreichen. Dort kann unter [Benachrichtigungen] genau bestimmt werden, wie Erwähnungen, Nachrichten und Sonstiges kommuniziert werden.
+Auswählbar sind Benachrichtigungen über Banner, Feed und E-Mail.
+Ein Banner ist ein kleines Pop-Up, welches unter Windows im unteren rechten Bereich des Bildschirms und auf einem Mac in der oberen rechten Ecke für eine kurze Weile auftaucht und selbstständig wieder unsichtbar wird.
+Per Feed werden im Bereich [Aktivität], zu erreichen über das Glockensymbol oben links, dauerhaft und dank Filterfunktionen übersichtliche Informationen und Erwähnungen gesammelt und angezeigt. Alle geteilten Aktivitäten der Mitarbeitenden und eigene Aktivitäten in Teams, Kanälen, Unterhaltungen, Chats und integrierten Apps werden hier zusammengefasst und können mit einem Mausklick angesteuert werden.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BenachrichtigungenEinstellungen.png)
+
+Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Benachrichtigungsart lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der hier stattfindenden Kommunikation rauszuhalten und nur als Stütze für das eigene Benachrichtigungsprinzip zu verwenden.
+
+Die größtmögliche Aufmerksamkeit der Mitarbeitenden erregen in Teams Erwähnungen, die @mentions. Mit diesen lassen sich einzelne Personen aber auch ganze Teams oder Kanäle und deren Mitglieder gezielt anschreiben, diese Kontaktaufnahme wird besonders auffällig
+gekennzeichnet. Im Chat oder Unterhaltungen muss ein @ vor den gewünschten Namen einer Person oder eines ganzen Kanals geschrieben werden, ohne durch ein Leerzeichen getrennt zu werden. Wird ein @ geschrieben, bietet [Teams] direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll, ein @team und @kanal öffnen entsprechende Vorschläge. Die Benachrichtigung der Person oder des Kanals wird im Aktivitätsfeed angezeigt. Ein roter Punkt auf dem Glockensymbol des Aktivitätsfeeds weist auf solche @Mentions oder eine Antwort hin, die noch nicht bemerkt oder bearbeitet wurde.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BenachrichtigungMitErwähnung.png)
+
+Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App lassen sich mit den Befehlen /ungelesen und /erwähnungen ungelesene Kanalbenachrichtigungen und eigene @mentions anzeigen.
+Die Teilnahme an einem Kanal ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden.
+Als Mitglied eines Kanals ist es möglich, einen Kanal komplett auszublenden und so über die darin stattfindende Aktivität nicht weiter informiert zu werden. Jeder Kanal hat ein eigenes Kontextmenü, welches mit drei nebeneinanderliegenden Punkten gekennzeichnet ist. Hier befindet sich die Funktion [Ausblenden]. Ein ausgeblendeter Kanal taucht dann nicht mehr direkt in der Kanalübersicht auf, sondern wird unter [ausgeblendete Kanäle] in der gleichen Übersicht geführt und lässt sich darüber auch wieder sichtbar machen. Eine @mention oder eine als wichtig gekennzeichnete Nachricht wird allerdings dennoch angezeigt.
+Neue Aktivitäten in einem Kanal ohne eine @mention werden angezeigt, indem der Name des Kanals in der Kanalliste fett gedruckt erscheint, bis der Kanal aufgesucht wurde.
+Im Kontextmenü eines Kanals lässt sich über [Kanalbenachrichtigungen] weiter bestimmen, wie dort die Benachrichtigung stattfinden sollen. Über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] lässt sich bestimmen, wie Kanalnutzende über neue Beiträge in diesem Kanal oder Kanalerwähnungen informiert werden. Das Banner erscheint als Pop-Up unten rechts auf dem Bildschirm für eine kurze Zeit, die Information im Feed wird im Bereich [Aktivität] dauerhaft und dank Filterfunktionen übersichtlich gesammelt und angezeigt.
+
+Über den Anwesenheitsstatus [Nicht stören] lassen sich alle Benachrichtigungen komplett stummschalten, bis der Anwesenheitsstatus wieder geändert wird.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AnwesenheitsstatusNichtStören.png)
+
+
+# Der Dateien-Tab
+
+Der Tab [Dateien] bietet Zugriff auf alle Dateien, die auf der SharePoint Teamsseite gespeichert sind. Die Ordnung der Dateien funktioniert dabei automatisch, jeder Kanal besitzt einen zugehörigen Ordner, der automatisch bei Kanalgründung auf SharePoint erstellt wird. Alle Dateien, die in einem Kanal auftauchen, landen in diesem Ordner. Neben dem Zugriff über die Teams-App und die Teilnahme an einem Kanal, lässt sich mit diesen Dateien natürlich auch über die SharePoint-Seite direkt arbeiten.
+Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App lassen sich auch weitere Cloud-Speicher integrieren.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](DateienTab.png)
+
+
+# Aufbau eines Teams/ Vor dem Start
+
+Alle Nutzenden von Office 365 können ein Microsoft [Team] starten bzw. aufbauen. Die einzelnen [Teams] in Microsoft Teams sind auf Office 365 Gruppen aufgebaut, wird ein neues Team gegründet, wird automatisch eine neue Office365 Gruppe gegründet. Es lohnt sich im Vorhinein zu überlegen, ob allen Teammitgliedern die Berechtigung gegeben wird, neue Teams anzulegen, oder dies in der Hand ausgewählter Personen liegen soll, der IT oder Administratoren, um das Teamsumfeld übersichtlicher zu gestalten. Alle diese Berechtigungen innerhalb von Microsoft Teams lassen sich nach den eigenen Bedürfnissen bestimmen, was auch für Entscheidungen gilt, ob Emojis genutzt werden können, welche Apps hinzugefügt werden dürfen, wer Kanäle gründen und verwalten kann und vieles mehr.
+Gründen Sie ein neues Team, werden folgende Elemente automatisch erstellt:
+
+- Eine neue Office 365-Gruppe
+- Eine SharePoint Online Website und eine SharePoint Online-Dokumentbibliothek (hier werden die Teamdateien gespeichert, jeder Kanal erhält hier seine Dateiablage)
+- Ein OneNote Notizbuch für das Team (wird in SharePoint Online gespeichert)
+- Ein Exchange Online Postfach
+- Ein Exchange Online-Kalender
+
+Ein Team, welches auf Basis einer bestehenden Gruppe gegründet wird, übernimmt Mitgliedschaften, Website, Postfächer und Notizbuch der Gruppe und überführt diese in Microsoft Teams.
+Bevor ein neues Team gegründet wird, muss der Name des Teams geprüft werden: Microsoft warnt leider nicht davor, sollte ein Team mit gleichem Namen in Ihrer Organisation bereits bestehen. Das Team lässt sich zwar namensgleich gründen, die zugehörigen SharePoint-Bereiche dürfen jedoch nicht den gleichen Namen aufweisen. Microsoft würde in einem solchen Fall randomisierte Zahlen an den neu geründeten Bereich mit gleichem Namen hängen, die Verwirrung wäre groß.
+
+Ein neues Team „Vertrieb“ bei bereits bestehendem Team „Vertrieb“, würde etwa seine Dateiablage unter https://beispiel.sharepoint.com/sites/Vertrieb314 finden.
+In größeren Firmen wären denkbare Fälle, dass es gleiche oder ähnliche Arbeitsbereiche mehrfach gibt. Gibt es eine Sales-Abteilung einmal in Deutschland und eine in den USA und beide entscheiden sich, innerhalb einer Organisation und einer Office365-Lizenz ein Team namens „Sales“ aufzumachen, weist Teams beim zweiten Gründen nicht auf das bereits bestehende namensgleiche Team hin, sondern ergänzt im zweiten Fall die Benennung durch eine randomisierte Zahlenfolge. Die SharePoint-Teamwebsite und Emailadresse des später gegründeten Teams würden entsprechend inklusive der zufälligen Zahlenfolge erscheinen.
+(Beispiel: https://Beispielfirma.sharpoint.com/Sites/Salesteam367)
+
+Um herauszufinden, welche Namen die bestehenden Teams bereits haben, kann in der Teams App im Bereich [Teams] unten links über das Zahnradsymbol neben [Team beitreten oder erstellen] eine Übersicht der bestehenden Teams inklusive einer Suchfunktion genutzt werden.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](TeamsSuchenVorBeginn2.png)
+
+Da auch die von Teams erstellten Outlook Email-Adressen von der ursprünglichen Namenswahl bestimmt sind, gilt es ebenso auf eine allzu sperrige Benennung eines Teams zu verzichten. Wird das Team beim Erstellen „das Team zur Evaluation Betatest“ genannt, so wird die zugehörige Email entsprechen „dasTeamZurEvaluationBetatest@yourdomain.com“.
+Vor Gründung eines neuen Teams sollte also eine durchdachte Namenskonvention bestehen und im Organisationsinternen Teamsbereich via Suchfunktion abgeklärt werden, ob ein wie geplant zu benennendes Team bereits besteht.
+
+Mit einem gefundenen Namen im Gepäck bestehen zwei Optionen, auf welcher Grundlage ein neues Team aufgebaut wird: Von Grund auf neu oder auf Grundlage eines bereits existierenden Office 365 Gruppe oder Teams.
+Bei einem völlig neu erstelltes Team muss zunächst bestimmt werden, wie neue Mitglieder in das Team gelangen können: Bei der Einstellung [Privat] müssen Mitarbeitende eingeladen werden. [Öffentlich] können alle Mitgliedere einer Organisation dem Team beitreten, [Organisationsweit] werden alle Mitglieder einer Organisation automatisch Teil des Teams.
+Mit Gründung auf Basis einer Office 365 Gruppe kann auf bereits bestehende Strukturen und Einstellungen zurückgegriffen werden.
+
+![Bezeichnung für das gewünschte Bild einfügen kann abweichen](NeuesTeamErstellen.png)
+
+Nun müssen als letzter Schritt dem Team gegebenenfalls Mitglieder und diesen dann Rollen zugewiesen werden. Als Rollen steht die Wahl zwischen [Mitglied] und [Besitzer] an. Es empfiehlt sich als Backup, pro Team mehr als nur einen Besitzer oder Besitzerin zu bestimmen.
+Teambesitzer können die teamweiten Einstellungen in Microsoft Teams verwalten.
