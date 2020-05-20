@@ -3,7 +3,7 @@
 
 ## wichtige Konventionen:
 
-Keine Sachen im Dateinamen groß schreiben (gilt auch für Bilder) !
+Keine Sachen im Dateinamen groß schreiben, keine Umlaute nutzen (gilt auch für Bilder) !
 
 Keine Sonderzeichen in den datei- und ordnernamen und Bildern! Also keine Unterstriche! Bindestriche ersetzen Leerzeichen!
 
@@ -88,14 +88,14 @@ Diese Ebenen sind in Microsoft Teams wiefolgt aufgebaut:
 
 Auf der linken Seite von Teams lassen sich Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. Sie sind so in der linken Seite eingebunden schnell und kanalunabhängig verfügbar.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AppsÜbersicht.png)
+![](apps-uebersicht.png)
 
 Für die Zusammenarbeit mit unterschiedlichen Personen oder in bestimmten Aufgabenbereichen, lassen sich Apps in den Registrierkarten der Kanäle oder auch Chats einbinden.
 
 Die oben angeordneten Registrierkarten sind in Chats und Kanälen die Orte, an denen Apps platziert und über die Schaltfläche „+“ neu hinzugefügt werden können. Auf diese Weise lassen sich auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
 RegistrierkartenInKanalZufügen
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](RegistrierkartenInKanalZufügen.png)
+![](registrierkarten-in-kanal-zufuegen.png)
 
 Für jeden Kanal lassen sich auch über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] wird dann im Kanal für alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
 
@@ -103,13 +103,13 @@ Apps können auch in Unterhaltungen integriert werden und deren Inhalte direkt i
 Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben, über die Schaltfläche der drei Punkte [Messaging-Erweiterungen]. Einzelne Apps lassen sich unter dem Nachrichtenfeld auch anheften und ermöglichen so eine schnellere Verfügbarkeit für Nachrichten in Unterhaltungen.
 
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AppInUnterhaltungEinfügen.png)
+![](app-in-unterhaltung-einfuegen.png)
 
 Die Entscheidung darüber, welches Werkzeug zum Einsatz kommt, ist somit unproblematisch. Ist die Wahl einmal getroffen, sollte dieser auch konsequent gefolgt werden und deren durch Teams gebotenen Vorteile der Kollaboration Anwendung finden.
 
 Ein gemeinsam zu bearbeitendes Word-Dokument etwa, kann in Teams für alle optimal erreichbar und sichtbar integriert werden. Ist dies einmal geschehen, sollte dieses Dokument nun auch konsequent über Teams gemeinsam bearbeitet und kommentiert werden. Kommentare bleiben auf diese weise nicht in einem Dokument eingesperrt und warten dort auf Aufmerksamkeit, sie können ohne weiteren Aufwand öffentlich und gezielt in der Kanalkommunikation auftauchen.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](WordDokumentInKanalEingefügt2.png)
+![](word-dokument-in-kanal-eingefuegt2.png)
 
 Ein Beispiel nicht gelungener Adaption wäre hier, dass jedes Teammitglied weiterhin in einem eigenen Dokument arbeitet, es lokal speichert und innerhalb der Teams-App lediglich in Chats die übrigen Mitarbeitenden über Veränderungen informiert, um später ein Dokument aus unzähligen Dokumenten wieder zusammenzufügen und auch die Kommunikation zum Dokument in verschiedensten Chats verteilt zu haben. So wäre Teams aller kollaborativer Stärken beraubt und würde als Ort einer so stattfindenden suboptimalen Kommunikation wohl eher auf negative Wahrnehmung der Anwendenden treffen.
 Optimal wäre Teams eingesetzt, indem das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen SharePoint hinterlegt wird. Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams Kanälen dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation.
@@ -122,43 +122,43 @@ Die linke Spalte ist mit den Schaltflächen der Hauptkategorien versehen.
 
 - Aktivität (ein Feed, der chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in eigenen Teams informiert)
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AktivitätFeedUndSchaltfläche.png)
+![](aktivität-feed-und-schaltflaeche.png)
 
 - Chat (ermöglicht den schnellen Austausch mit Teammitgliedern)
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](ChatBereich.png)
+![](chat-bereich.png)
 
 - Teams (listet alle Teams auf, an denen Sie beteiligt sind. In diesen sind wiederum die einzelnen Kanäle zu finden)
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](TeamsKategorieListe.png)
+![](teams-kategorie-liste.png)
 
 Kalender (hier werden Besprechungen geplant, in einem Kalender aufgeführt und können über diesen betreten werden)
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](KalenderBesprechung.png)
+![](kalender-besprechung.png)
 
 - Anrufe (bietet die Möglichkeit, mit Teammitgliedern per Video- oder Audiocall zu kommunizieren, Kontakte, Verlauf und eine Art Anrufbeantworter sind hier zu finden)
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AnrufeKategorie.png)
+![](anrufe-kategorie.png)
 
 - Dateien (hier finden Sie alle mit Ihnen im Team geteilten Dateien.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](DateienKategorie.png)
+![](dateien-kategorie.png)
 
 In der linken Spalte lassen sich unterhalb der Hauptkategorien außerdem noch weitere Apps zum Schnellzugriff platzieren.
 
 Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zurückfunktion. Diese ist besonders praktisch, um schneller wieder in den Bereich zurückzukommen, aus dem Sie beispielsweise durch einen Chat herausgerissen wurden. Über die Zurückfunktion gelangen Sie dorthin wieder zurück, ohne den Umweg über die Schaltflächen Teams und Kanäle nehmen zu müssen.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](KopfzeileVorUndZurückFunktion.png)
+![](kopfzeile-vor-und-zurueck-funktion.png)
 
 In der Mitte der Kopfzeile kann eine allgemeine Suche darüber hinaus aber auch Befehle ausgeführt werden. Befehle dienen als Kurzbefehle, mit denen allgemeinere Aufgaben in Teams erledigt werden können. Um einen Befehl zu verwenden geben Sie ein / in das Befehlsfeld ein. Eine Liste taucht auf und gibt Ihnen einen Überblick der möglichen Befehle. Auf das / müssen Sie dann noch ohne trennendes Leerzeichen den gewünschten Befehl eingeben und mit Enter bestätigen.
 
 Mit einem vorangestellten @ und darauf folgendem Namen können Sie im Befehlsfeld direkt Nachrichten an Personen und bestehende Gruppenchats senden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](KopfzeileSucheUndBefehleMitKontextmenü.png)
+![](kopfzeile-suche-und-befehle-mit-kontextmenue.png)
 
  Im Rechten Bereich der Kopfzeile sind über das runde Profilbild Ihre Grundeinstellungen der Teams-App zu erreichen. Neben den Einstellungen, kann hier auch der den anderen Teammitgliedern angezeigte Status eingestellt werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](KopfzeileGrundeinstellungProfilbildStatusanzeige.png)
+![](kopfzeile-grundeinstellung-profilbild-statusanzeige.png)
 
 Der Aufbau der einzelnen Hauptkategorien ist in den jeweiligen Passagen beschrieben.
 
@@ -175,20 +175,20 @@ Für jedes Team lassen sich für bestimmte Projekte oder als Arbeitsumgebung fü
 Wird ein Kanal nicht mehr benötigt, lässt er sich löschen. Dabei bleiben die dort geteilten Dateien auf der zum Kanal gehörigen SharePoint Teamseite gespeichert, die Unterhaltungen gehen jedoch verloren.
 Ein Kanal besteht aus Tabs bzw. Registrierkarten, die in der Menüleiste oben im Kanal zu finden sind und dort auch erweitert werden können. Jeder Kanal hat dabei zwei Tabs, die dauerhaft bestehen, nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Wird ein Kanal betreten, ist automatisch der Tab [Beiträge] geöffnet. In diesem befinden sich alle [Unterhaltungen] des Kanals. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AufbauKanalBeiträge.png)
+![](aufbau-kanal-beitraege.png)
 
 Der Tab [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf SharePoint und somit auf alle Dateien, die über [Unterhaltungen] innerhalb des Kanals geteilt oder direkt bei SharePoint hochgeladen wurden. Geteilt wird die Datei, indem sie über die Schaltfläche [Anfügen] oder Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integriert wird. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen Kanals erstellt und mit dem Dateientab des Kanals verknüpft.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AufbauKanalDateien.png)
+![](aufbau-kanal-dateien.png)
 
 Für jeden Kanal lassen sich mit der als Plus dargestellten Schaltfläche weitere [Registrierkarten hinzufügen]. [Teams] bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Websites und einzelne Dokumente mittels eines Tabs in einem Kanal platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Websites oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt, und lassen sich nutzen, ohne die Teams-App verlassen zu müssen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App in deren Onlineansicht dargestellt werden. Ebenfalls mit einem Klick lässt sich jedoch aus diesem in ein Tab eingefügten Dokument in die vollständige Applikation wechseln.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](WordDokumentInKanalEingefügt.png)
+![](word-dokument-in-kanal-eingefuegt.png)
 
 Die Kanäle lassen sich in der App zur verbesserten Übersicht sortieren: mit der gedrückten Maustaste lassen sie sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
 Kanäle stehen zunächst allen Mitgliedern eines Teams offen. Um selektiv Mitgliedern Zugriff zu gewähren, lassen sich private Kanäle gründen. Sie werden in der Kanalübersicht Ihres Teams mit einem Schloss symbolisch gekennzeichnet und auch nur den Mitgliedern angezeigt. Unterhaltungen, Mitgliederlisten und eine separate Websitesammlung auf SharePoint zur Dateiablage sind nur Mitgliedern des privaten Kanals zugänglich. Wer private Kanäle erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen Teammitgliedern zu, Gäste haben hierzu keine Berechtigung.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](PrivaterKanal.png)
+![](privater-kanal.png)
 
 Die Person, die einen privaten Kanal erstellt, kann beliebig Teammitglieder und auch Gäste zum privaten Kanal hinzufügen. Um einen Privaten Kanal zu erstellen, muss im Erstellungsfenster unter [Datenschutz] die Auswahl [Standard - für alle Teammitglieder zugänglich] auf [Privat - nur für bestimmte Personengruppe im Team zugänglich] verändert werden. Anschließend lassen sich erwünschte Personen hinzufügen, oder nachträglich über das Kontextmenü des Kanals [weitere Optionen] ergänzen.
 
@@ -198,22 +198,22 @@ Die Person, die einen privaten Kanal erstellt, kann beliebig Teammitglieder und 
 Der größte Teil der Kommunikation innerhalb von [Teams] findet in der sogenannten [Unterhaltung] statt. Unterhaltungen Sind Teil eines jeden Teams [Kanal] und unter der Registrierkarte [Beiträge] zu finden. Wird ein Kanal betreten, so ist dieser Reiter automatisch ausgewählt. Jeder Kanal eines Teams hat seinen eigenen Bereich der [Beiträge].  Wird eine Unterhaltung gestartet, können alle Mitglieder des Teams und Personen mit Zugangsberechtigung auf diese Antworten oder eine eigene Unterhaltung starten. Dabei können Unterhaltungen neben Text auch Dateianhänge, Emojis, Gifs, Sticker, Bilder, Videos und App-Inhalte beinhalten.
 Eine [Unterhaltung] dient als Ordnungsinstanz und kann durch eine Formatierungsfunktion, zu erreichen über das große A unterhalb des Texteingabefeldes, optisch Wünschen und Notwendigkeiten angepasst werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](UnterhaltungAntwortFormatieren.png)
+![](unterhaltung-antwort-formatieren.png)
 
 Eine Unterhaltung folgt dem Prinzip eines Threads: Diskussionsbeiträge werden hierarchisch organisiert. Der Anfangsbeitrag einer Unterhaltung gibt das Thema vor, welchem die weiteren Beiträge folgen. Ist ein Thema für Einzelne nicht von Belang oder Interesse, kann so schneller über die Unterhaltung hinweggesehen werden, als es in einer Chatkommunikation mit ihrer durchlaufenden, ungeordneten Gesprächsführung der Fall wäre. Es sollte darauf geachtet werden, die Unterhaltungen und damit den Thread zu einem Thema weiter für dieses Thema zu nutzen und dort für weitere Beiträge auf [Antworten] zurückzugreifen, anstatt eine Antwort oder Fortsetzung des Themas durch eine [Neue Unterhaltung] anzugehen und den Kanal so aufzublasen. Umfangreiche Unterhaltungen mit vielen Antworten werden zur verbesserten Übersicht zusammenklappt und lassen sich bei Bedarf wieder ausklappen.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](UnterhaltungAntwortZusammenklappen.png)
+![](unterhaltung-antwort-zusammenklappen.png)
 
 Auf eine [Unterhaltung] und deren Beiträge lässt sich schnell per Emoji reagieren und so Kenntnisnahme oder Feedback öffentlich kommunizieren, ohne besonderen Einsatz abzuverlangen.  Diese simple Funktion stellt sich als äußerst nützlichen Teil der Kommunikation in Remoteteams dar. Diese kurze Interaktion fördert den Austausch zwischen Teammitgliedern immer dann, wenn aus Zeitmangel oder anderen Gründen eine detailliertere Reaktion nicht möglich ist. Diese Kurzreaktion per Emoji kann den Austausch verstärken und darüber hinaus als Bindeglied zwischen den Teammitgliedern fungieren: Jemand ist da, Jemand nimmt wahr, Jemand weiß zu schätzen.  
 
 Unterhaltungen lassen sich über Lesezeichen für später speichern und per Link oder Email teilen. Besonders die Funktion, Unterhaltungen zu speichern ist eine nützliche Funktion, um wichtige Unterhaltungen schnell wieder verfügbar zu machen oder diese zu fokussieren. Die Funktion ist über  das Kontextmenü [Weitere Optionen] der Unterhaltung zu erreichen, welches auftaucht, sobald Sie den Mauszeiger über der Unterhaltung platzieren. Zu den gespeicherten Nachrichten und Unterhaltungen gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Über das Kontextmenü lassen sich die Speicherungen wieder aufheben.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](UnterhaltungGespeichertEmojireaktion2.png)
+![](unterhaltung-gespeichert-emojireaktion2.png)
 
 Die Kanalinterne Kommunikation ermöglicht, Information gezielt mit den Richtigen zu teilen, ohne Anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Es lässt sich genau bestimmen, wer zu einem Kanal Zutritt hat und dort eine [Unterhaltung] beginnen kann. Jedes einzelne Teammitglied kann darüber hinaus bestimmen, in welcher Art die einzelnen Kanäle sich bemerkbar machen: ist ein Kanal für eine Weile nicht von Belang für eine Person, kann dieser ausgeblendet werden und so keine weitere ungewollte Aufmerksamkeit provozieren.
 Auch eine E-Mail lässt sich in eine Unterhaltung umwandeln und so in die Teamsumgebung integrieren. Über das jeweilige Kontextmenü [Weitere Optionen] eines Kanals lässt sich eine [E-Mail-Adresse abrufen]. An diese lassen sich E-Mails inklusive Anhang weiterleiten. Die E-Mails werden dann im Kanal als Unterhaltung dargestellt, auf welche die Kanalmitglieder dort antworten können. Gleichzeitig werden dadurch die Anhänge der E-Mails in SharePoint der Teamseite gespeichert und so für alle verfügbar.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](UnterhaltungEmailImport.png)
+![](unterhaltung-emailimport.png)
 
 
 # Chat
@@ -230,7 +230,7 @@ Besprechungs-Chats verfügen neben den üblichen Registrierkarten [Chat] und [Da
 
 Alle diese Chats werden im Bereich [Chat] aufgeführt und lassen sich dort weiternutzen, dies gilt auch für die darin integrierten Whiteboards und Notizen.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](ChatMitAllenBereichen.png)
+![](chat-mit-allen-bereichen.png)
 
 
 # Videotelefonie
@@ -239,7 +239,7 @@ Teams hat ein interne Lösung für Videotelefonie und Anrufe. Es steht Lösungen
 Videoanrufe und Anrufe können in Teams über [Anrufe], aus [Chats] heraus, über die Befehlszeile oder über die Profilbilder der zu kontaktierenden Teammitglieder getätigt werden.
 Besonders praktisch sind die Videoanrufe allerdings innerhalb der [Besprechung], der Videokonferenz in der Teams-App. So können [Besprechungen] über den [Kalender], in der linken Seitenleiste zu finden, geplant und wahrgenommen werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BesprechungÜberKalender.png)
+![](besprechung-ueber-kalender.png)
 
 Hinweise mit Teilnahmemöglichkeit auf Besprechungen finden sich auch in den Kanälen wieder.
 Die Videoanrufe und Anrufe verfügen über eigene Chats, und eine komfortable Möglichkeit, den eigenen Bildschirm oder einzelne Programmfenster anderer Apps zu teilen.
@@ -247,7 +247,7 @@ Videoanrufe lassen sich über den integrierten Dienst [Stream] aufzeichnen und t
 Je nach Lizenz bietet Teams auch die Möglichkeit, per Telefon an Besprechungen teilzunehmen und damit auf diesem Weg weitere Gäste und Teammitglieder ohne Internetanbindung in die [Besprechung] zu integrieren.
 Mittlerweile verfügt die Videotelefonie in Teams auch die Möglichkeit, künstlich den Hintergrund  des Videos zu bestimmen. Neben der Möglichkeit, Ihren von der Webcam aufgezeichneten Hintergrund unkenntlich zu machen und so den Teilnehmenden unerwünschte Einblicke in Ihre Umgebung zu gewähren, kann nun auch ohne zusätzliche technische Voraussetzungen eine Art Greenscreen-Effekt genutzt werden. Während Sie im Vordergrund sichtbar bleiben, wird Ihr Hintergrund durch eine wählbare Grafik ersetzt. Vor dem Betreten einer Besprechung oder eines Videocalls bietet sich Ihnen die Möglichkeit, genaue Einstellungen ihres Mikrofons und der Kamera vorzunehmen. Hier finden Sie zwischen der Funktion, die Kamera und das Mikrofon an und abzuschalten, die Möglichkeit, die Hintergrundeinstellungen vorzunehmen. Während eines Anrufes erreichen Sie diese Funktion über die darin mit drei Punkten dargestellte Schaltfläche [Weitere Aktionen] und dann unter [Hintergrundeffekte anzeigen].
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AnrufVoreinstellung.png)
+![](anruf-voreinstellung.png)
 
 Teams bietet einige Hintergrundbilder, um einen eigenen Hintergrund in Teams zu integrieren, müssen Sie jedoch einen kleinen Umweg nehmen. Die gewünschte Bilddatei muss in den entsprechenden Teams-Ordner eingefügt werden.
 Unter Windows ist der Ordner über den Pfad C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Teams\Backgrounds\Uploads zu erreichen, oder indem Sie im Windows Startsuchfeld %APPDATA%\Microsoft\Teams\Backgrounds suchen. Ihnen wird dann der Ordner Uploads angezeigt, in welchen die gewünschten Bilddateien kopiert werden müssen.
@@ -256,7 +256,7 @@ Bilder werden hier in Teams in 1920x1080 px dargestellt und abweichende Formate 
 Vor jedem Beitritt eines Anrufs wird der Bereich der Audio- und Videoeinstellungen aufgerufen. Nutzen Sie diesen Bereich und stellen Sie über die Geräteeinstellungen sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Diese Einstellungen erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen]. Ob alle vorgenommenen Einstellungen wie gewünscht funktionieren, lässt sich hier durch einen kurzen Testanruf überprüfen.
 Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audioqualität. Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Videospur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer Besprechung an. Diese können Sie auch ohne weitere Teilnehmer immer starten. Eine Aufzeichnung starten Sie, indem Sie in den Besprechungssteuerelementen einer laufenden Besprechung unter [weitere Optionen], dargestellt mit drei Punkten, [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert und dem [Besprechungschat] hinzugefügt und im Kanal, in dem die Besprechung stattgefunden hat als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet, es kann eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist. Beachten Sie, dass nur Besprechungen und Gruppenanrufe aufgezeichnet werden können.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BesprechungAufzeichnungStarten.png)
+![](besprechung-aufzeichnung-starten.png)
 
 
 # Benachrichtigung / Erwähnungen
@@ -267,14 +267,14 @@ Auswählbar sind Benachrichtigungen über Banner, Feed und E-Mail.
 Ein Banner ist ein kleines Pop-Up, welches unter Windows im unteren rechten Bereich des Bildschirms und auf einem Mac in der oberen rechten Ecke für eine kurze Weile auftaucht und selbstständig wieder unsichtbar wird.
 Per Feed werden im Bereich [Aktivität], zu erreichen über das Glockensymbol oben links, dauerhaft und dank Filterfunktionen übersichtliche Informationen und Erwähnungen gesammelt und angezeigt. Alle geteilten Aktivitäten der Mitarbeitenden und eigene Aktivitäten in Teams, Kanälen, Unterhaltungen, Chats und integrierten Apps werden hier zusammengefasst und können mit einem Mausklick angesteuert werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BenachrichtigungenEinstellungen.png)
+![](benachrichtigungen-einstellungen.png)
 
 Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Benachrichtigungsart lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der hier stattfindenden Kommunikation rauszuhalten und nur als Stütze für das eigene Benachrichtigungsprinzip zu verwenden.
 
 Die größtmögliche Aufmerksamkeit der Mitarbeitenden erregen in Teams Erwähnungen, die @mentions. Mit diesen lassen sich einzelne Personen aber auch ganze Teams oder Kanäle und deren Mitglieder gezielt anschreiben, diese Kontaktaufnahme wird besonders auffällig
 gekennzeichnet. Im Chat oder Unterhaltungen muss ein @ vor den gewünschten Namen einer Person oder eines ganzen Kanals geschrieben werden, ohne durch ein Leerzeichen getrennt zu werden. Wird ein @ geschrieben, bietet [Teams] direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll, ein @team und @kanal öffnen entsprechende Vorschläge. Die Benachrichtigung der Person oder des Kanals wird im Aktivitätsfeed angezeigt. Ein roter Punkt auf dem Glockensymbol des Aktivitätsfeeds weist auf solche @Mentions oder eine Antwort hin, die noch nicht bemerkt oder bearbeitet wurde.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](BenachrichtigungMitErwähnung.png)
+![](benachrichtigung-mit-erwaehnung.png)
 
 Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App lassen sich mit den Befehlen /ungelesen und /erwähnungen ungelesene Kanalbenachrichtigungen und eigene @mentions anzeigen.
 Die Teilnahme an einem Kanal ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden.
@@ -284,7 +284,7 @@ Im Kontextmenü eines Kanals lässt sich über [Kanalbenachrichtigungen] weiter 
 
 Über den Anwesenheitsstatus [Nicht stören] lassen sich alle Benachrichtigungen komplett stummschalten, bis der Anwesenheitsstatus wieder geändert wird.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](AnwesenheitsstatusNichtStören.png)
+![](anwesenheitsstatus-nicht-stoeren.png)
 
 
 # Der Dateien-Tab
@@ -292,7 +292,7 @@ Im Kontextmenü eines Kanals lässt sich über [Kanalbenachrichtigungen] weiter 
 Der Tab [Dateien] bietet Zugriff auf alle Dateien, die auf der SharePoint Teamsseite gespeichert sind. Die Ordnung der Dateien funktioniert dabei automatisch, jeder Kanal besitzt einen zugehörigen Ordner, der automatisch bei Kanalgründung auf SharePoint erstellt wird. Alle Dateien, die in einem Kanal auftauchen, landen in diesem Ordner. Neben dem Zugriff über die Teams-App und die Teilnahme an einem Kanal, lässt sich mit diesen Dateien natürlich auch über die SharePoint-Seite direkt arbeiten.
 Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App lassen sich auch weitere Cloud-Speicher integrieren.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](DateienTab.png)
+![](dateien-tab.png)
 
 
 # Aufbau eines Teams/ Vor dem Start
@@ -315,7 +315,7 @@ In größeren Firmen wären denkbare Fälle, dass es gleiche oder ähnliche Arbe
 
 Um herauszufinden, welche Namen die bestehenden Teams bereits haben, kann in der Teams App im Bereich [Teams] unten links über das Zahnradsymbol neben [Team beitreten oder erstellen] eine Übersicht der bestehenden Teams inklusive einer Suchfunktion genutzt werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](TeamsSuchenVorBeginn2.png)
+![](teams-suchen-vor-beginn2.png)
 
 Da auch die von Teams erstellten Outlook Email-Adressen von der ursprünglichen Namenswahl bestimmt sind, gilt es ebenso auf eine allzu sperrige Benennung eines Teams zu verzichten. Wird das Team beim Erstellen „das Team zur Evaluation Betatest“ genannt, so wird die zugehörige Email entsprechen „dasTeamZurEvaluationBetatest@yourdomain.com“.
 Vor Gründung eines neuen Teams sollte also eine durchdachte Namenskonvention bestehen und im Organisationsinternen Teamsbereich via Suchfunktion abgeklärt werden, ob ein wie geplant zu benennendes Team bereits besteht.
@@ -324,7 +324,7 @@ Mit einem gefundenen Namen im Gepäck bestehen zwei Optionen, auf welcher Grundl
 Bei einem völlig neu erstelltes Team muss zunächst bestimmt werden, wie neue Mitglieder in das Team gelangen können: Bei der Einstellung [Privat] müssen Mitarbeitende eingeladen werden. [Öffentlich] können alle Mitgliedere einer Organisation dem Team beitreten, [Organisationsweit] werden alle Mitglieder einer Organisation automatisch Teil des Teams.
 Mit Gründung auf Basis einer Office 365 Gruppe kann auf bereits bestehende Strukturen und Einstellungen zurückgegriffen werden.
 
-![Bezeichnung für das gewünschte Bild einfügen kann abweichen](NeuesTeamErstellen.png)
+![](neues-team-erstellen.png)
 
 Nun müssen als letzter Schritt dem Team gegebenenfalls Mitglieder und diesen dann Rollen zugewiesen werden. Als Rollen steht die Wahl zwischen [Mitglied] und [Besitzer] an. Es empfiehlt sich als Backup, pro Team mehr als nur einen Besitzer oder Besitzerin zu bestimmen.
 Teambesitzer können die teamweiten Einstellungen in Microsoft Teams verwalten.
