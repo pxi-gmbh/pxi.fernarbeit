@@ -15,6 +15,9 @@ nach einer Überschrift muss eine leerzeile eingefügt werden
 wir arbeiten mit vielen Absätzen - wird mit einer leerzeile dargestellt
 Bilder müssen ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](lilli.png) erst in den Ordner der md-Datei gespeichert werden, dann mit dem Markdown Befehl:
 ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](lilli.png)
+Darf keinen Platzhaltertext beinhalten, besser leer halten. Dieser Text wird Blinden vorgelesen! Die eckigen Klammern und ! muss aber da seine
+
+Zeilenumbruch siehe Zettlr Notizen - werkzeuge
 
 Datei speichern, damit es in der Github-App aktualisiert, dort kommentiert und dann gepusht werden kann.
 
@@ -22,7 +25,7 @@ Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 
 {>>@jakob: hier ein Beispiel für einen Querverweis<<} So werden Kommentare erstellt, sie werden leicht grau dargestellt.
 
-
+Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet)
 
 
 # Was ist MS-Teams:
@@ -91,6 +94,7 @@ Für die Zusammenarbeit mit unterschiedlichen Personen oder in bestimmten Aufgab
 
 Die oben angeordneten Registrierkarten sind in Chats und Kanälen die Orte, an denen Apps platziert und über die Schaltfläche „+“ neu hinzugefügt werden können. Auf diese Weise lassen sich auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
 RegistrierkartenInKanalZufügen
+
 ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](RegistrierkartenInKanalZufügen.png)
 
 Für jeden Kanal lassen sich auch über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] wird dann im Kanal für alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
