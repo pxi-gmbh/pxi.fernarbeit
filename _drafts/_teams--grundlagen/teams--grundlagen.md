@@ -23,7 +23,7 @@ Datei speichern, damit es in der Github-App aktualisiert, dort kommentiert und d
 
 Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 
-{>>@jakob: hier ein Beispiel für einen Querverweis<<} So werden Kommentare erstellt, sie werden leicht grau dargestellt.
+{>>jakob: hier ein Beispiel für einen Querverweis<<} So werden Kommentare erstellt, sie werden leicht grau dargestellt. der vorangestellte Name kennzeichnet den Autor!
 
 Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet)
 
