@@ -3,34 +3,42 @@
 
 ## wichtige Konventionen:
 
-Keine Sachen im Dateinamen groß schreiben, keine Umlaute nutzen (gilt auch für Bilder) !
+Keine Großbuchstaben in Dateinamen verwenden, keine Umlaute nutzen (gilt auch für Bilder) !
 
-Keine Sonderzeichen in den datei- und ordnernamen und Bildern! Also keine Unterstriche! Bindestriche ersetzen Leerzeichen!
+Keine Sonderzeichen in den Datei- und Ordnernamen oder Bildern verwenden! Also keine Unterstriche! Bindestriche ersetzen Leerzeichen!
 
-Datei muss den gleichen Namen wie der übergeordnete Ordner haben, allerdings ohne das vorangestellte "_ "" !
-Ordnername hat immer ein vorangestelltes _ "
+Datei muss den gleichen Namen haben wie der übergeordnete Ordner, allerdings ohne das vorangestellte "_ "!
+Ordnername hat immer ein vorangestelltes "_ "
 
-nach einer Überschrift muss eine leerzeile eingefügt werden
+Nach einer Überschrift muss eine Leerzeile eingefügt werden.
 
-wir arbeiten mit vielen Absätzen - wird mit einer leerzeile dargestellt
+Wir arbeiten mit vielen Absätzen - werden jeweils mit einer Leerzeile dargestellt.
 Bilder müssen ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](lilli.png) erst in den Ordner der md-Datei gespeichert werden, dann mit dem Markdown Befehl:
 ![Bezeichnung für das gewünschte Bild einfügen kann abweichen](lilli.png)
-Darf keinen Platzhaltertext beinhalten, besser leer halten. Dieser Text wird Blinden vorgelesen! Die eckigen Klammern und ! muss aber da seine
+Darf keinen Platzhaltertext beinhalten, besser leer halten. Dieser Text wird blinden Menschen vorgelesen! Die eckigen Klammern und ! müssen aber da sein.
 
 Zeilenumbruch siehe Zettlr Notizen - werkzeuge
 
-Datei speichern, damit es in der Github-App aktualisiert, dort kommentiert und dann gepusht werden kann.
+Datei speichern, damit sie in der Github-App aktualisiert, dort kommentiert und dann gepusht werden kann.
 
 Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 
 {>>jakob: hier ein Beispiel für einen Querverweis<<} So werden Kommentare erstellt, sie werden leicht grau dargestellt. der vorangestellte Name kennzeichnet den Autor!
 
-Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet)
+Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet).
 
 
 # Was ist MS-Teams:
 
-Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe, geeignet für Frimen, Projekte aber durch einen Fokus auf eine effektive Arbeitsumgebung auch eigenständig Tätige. Es bietet plattformübergreifend via App oder Browser einen zentralen Ort der Kommunikation, der Dateiverwaltung und Zusammenarbeit, offen für verschiedene Endgeräte und Betriebssysteme ob mobil oder lokal. Es eignet sich ideal für den Einsatz im Homeoffice oder zur strukturierten gemeinsamen Arbeit innerhalb einer Organisation. Als Cloudbasierter Dienst ermöglicht Teams den Zugriff auf Dateien und Dienste von überall. Der Cloudspeicher garantiert dabei gemeinsames, sicheres Bearbeiten von Dateien. Die Integration der Speicherorte in sogenannte Kanäle sorgt dafür, dass Sie nicht permanent in Dateiordnern arbeiten müssen, sondern bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld. Außerdem lassen sich in Teams neben den Microsoft Office Anwendungen viele der beliebtesten Apps integrieren, das zentrierte und damit effektive Arbeitsumfeld in Microsoft Teams lässt sich entsprechend eigenen Wünschen und Voraussetzungen anpassen und verschiedene Apps miteinander im Arbeitsalltag verbinden, ohne ständig die Programmanwendung wechseln zu müssen.
+Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe. Egal ob es um die Organisation ganzer Firmen, einzelner Projekte oder der Arbeit Selbstständiger geht - Microsoft Teams hilft dabei, eine effektive Arbeitsumgebung zu schaffen.
+
+Microsoft Teams bietet einen zentralen Ort der Kommunikation, der Dateiverwaltung und Zusammenarbeit. Es ist plattformübergreifend via App oder Browser abrufbar und sowohl mobil als auch lokal offen für verschiedene Endgeräte und Betriebssysteme. 
+
+Als cloudbasierter Dienst ermöglicht Microsoft Teams den Zugriff auf Dateien und Dienste von überall her. Daher eignet es sich ideal für den Einsatz im Home Office oder zur strukturierten gemeinsamen Arbeit innerhalb einer Organisation. Der Cloudspeicher garantiert ein gemeinsames und sicheres Bearbeiten von Dateien. 
+
+Die Integration der Speicherorte in sogenannte Kanäle bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld: Absprachen und Datei-Verlinkungen werden hier zu einzelnen Themen und Projekten gebündelt, sodass Sie nicht permanent zwischen Chats und Datei-Ordnern hin- und hersuchen müssen. 
+
+Außerdem lassen sich in Teams neben den Microsoft Office Anwendungen viele der beliebtesten Apps integrieren, das zentrierte und damit effektive Arbeitsumfeld in Microsoft Teams lässt sich entsprechend eigenen Wünschen und Voraussetzungen anpassen und verschiedene Apps miteinander im Arbeitsalltag verbinden, ohne ständig die Programmanwendung wechseln zu müssen.
 Microsoft Teams ist zunächst ein Chat-Programm. Gleichzeitig ist es ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration und geprägt ist, durch die Möglichkeit, das digitale Arbeitsumfeld individuell anpassen zu können aber auch für jede einzelne Person ein Umfeld gesteigerter Effektivität bedeuten kann.
 
 Dabei werden auch die Kommunikation, Zusammenarbeit und geteilte Speicherung von Dateien mit externen Personen durch Teams gefördert, Personen, die also nicht zu Ihrer Organisation gehören wie Kunden oder Partner, über eine gemeinsame Office365-Lizenz verbunden sind oder überhaupt über eine Office365-Lizenz verfügen. Die sogenannten [Teams] umfassen innerhalb der App Sammlungen von Personen, Inhalten und Tools für einzelne Projekte oder ganze Organisationen. Diese Teams lassen sich mit Kanälen noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden und die passende Arbeitsumgebung zu bieten.
