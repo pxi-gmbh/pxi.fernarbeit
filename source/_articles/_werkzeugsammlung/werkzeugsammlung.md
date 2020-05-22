@@ -3,23 +3,29 @@
 <h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
 
 - [Werkzeug-Sammlung][]
+- &nbsp;
     - [Datei-Verwaltung][] (Cloud-Speicher & Synchronisation)
-    - [Aufgaben-Verwaltung][] (Projektmanagement)
+    - [Aufgaben-Verwaltung][] (Projekt-Management)
     - [Wissens-Verwaltung][] (Dokumentation & Notizen)
-    - [Zeit-Verwaltung][] (Zeit messen, für andere transparent machen)
+    - [Zeit-Verwaltung][] (Zeit messen & gemeinsam anzeigen)
     - [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
     - [Infrastruktur-Verwaltung][] (Internet-Probleme beheben)
     - [Daten-Souveränität][] (Verschlüsselung & Passwörter)
+- &nbsp;
     - [Versions-Kontrolle][] (Änderungen transparent nachvollziehen)
     - [Parallel-Arbeit an Text][] (live editieren, kommentieren)
     - [Parallel-Arbeit mit Visualisierungen][] (Whiteboards & Post-Its)
-    - [Austausch in Text-Nachrichten][](Chat & Messenger-Dienste)
-    - [Austausch in Video-Konferenzen][](Video-Telefonate & Webinare)
-    - [Fern-Zugriff][] (Fernsteuerung eines anderen Computers)
+- &nbsp;
+    - [Austausch in Text-Nachrichten][] (Chat & Messenger-Dienste)
+    - [Austausch in Video-Konferenzen][] (Video-Telefonate & Webinare)
+    - [Fern-Zugriff][] (Fernsteuerung von Computern)
+- &nbsp;
     - [Publikums-Interaktion][] (Umfragen & Information für Konferenzen)
     - [Video-Produktions-Hilfen][] (für Aufzeichnungen & live-Webinare)
+- &nbsp;
     - [Prokrastinations-Bekämpfung][] (Ablenkung beschränken)
-    - [Virtuelle Realität][] (virtuelle Begegnungsräume)
+- &nbsp;
+    - [Virtuelle Realität][] (Simulierte Begegnungs-Räume)
 
 - [◀ zurück zum Leitfaden](/)
 
