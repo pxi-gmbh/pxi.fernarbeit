@@ -1,239 +1,78 @@
-.nav-header{
-	position:fixed;
-	top:0;
-	left: 0;
-}
+// this drop-down navigation menu is optimized for markdown-generated HTML
+// using unordered lists and H2 inside of a nav-element with class .nav--article
+// the drop-down effect works without JavaScript
+// links to the IDs "open" and "close" prompt a view change, using the hashchange in the URL
+// progressive enhancement:
+// a utility script triggers the "close"-link via JavaScript when clicking outside the drop-down element
 
-.nav-dropdown-container{
-	position:fixed;
-	top:0;
-	
-	z-index: 1;
-}
-
-.dropbutton {
-	display: inline-block;
-  	font-size: calc(#{$type-scale-extra-small}em + 1vw);
-	font-family: $font-sans;
-  	text-align: center;
-	text-transform: uppercase;
-	padding: 0.5em;
-  	border: none;
-  	cursor: pointer;
-  	background: white;
-  	box-shadow: 0.3em 0.3em 1.1em 0em rgba(0,0,0,0.15);
-
-  	transition: box-shadow 0.2s ease;
-}
-
-.dropbutton:hover, .dropbutton:focus {
-  box-shadow: 0.5em 0.5em 1.1em 0em rgba(0,0,0,0.2);
-}
-
-#nav-dropdown {
-  padding-right:1em;
-  max-height: 92vh;
-  overflow: auto;
-}
-
-.nav-dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: white;
-  min-width: 25em;
-  white-space: nowrap;
+.nav--article {
+  position: fixed;
+  top: 0;
+  left: 10px;
+  padding: 0.5em;
+  margin: 0;
+  max-height: 95vh;
+  min-width: 15vw;
   max-width: 75vw;
   overflow: auto;
+  border-radius: 0 0 $border-radius $border-radius;
+  background-color: $color-light;
   box-shadow: 0.3em 0.3em 1.1em 0em rgba(0,0,0,0.15);
   z-index: 1;
-  padding:0.4em;
-  margin-top: 0.7em;
-  font-size: calc(#{$type-scale-extra-small}em + 1vw);
 }
-
-
-.nav-dropdown-content a {
-  color: $color-contrast;
+.nav--article * {
+  margin: 0;
+  font-style: normal;
+  color: inherit;
+}
+.nav--article a:link {
   text-decoration: none;
-  display: inline;
+}
+.nav--article li {
+  margin-left: 1em;
+  margin-top: #{$line-height}em;
+  list-style-type: none;
+  color: $color-contrast;
+}
+.nav--article ul ul li {
+  margin-top: 0;
+  color: $color-dark;
+}
+.nav--article ul ul a:link {
   text-decoration: underline;
 }
-
-.nav-dropdown-content ul a:first-of-type{
-	padding-left: 1em;
+.nav--article ul ul ul li::before {
+  content: "▸ ";
 }
-
-
-.show {
-	display: block;
+.nav--article #open h2 { // the closing-linked title
+  margin: 0;
+  padding: 0;
+  font-family: $font-sans;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-size: #{$type-scale-normal}em;
 }
-
-#nav-header{
-	top:0;
-	margin:0;
+.nav--article #open h2::before {
+  content: "▴ ";
 }
-#dropbutton{
-	background:white;
-	background-image:none;
+.nav--article #open + h2 { // the opening-linked title
+  margin: 0;
+  padding: 0;
+  font-family: $font-sans;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-size: #{$type-scale-normal}em;
 }
-
-// #nav-header {
-// 	top: 0;
-// 	margin: 0;
-// 	width:100%;
-// 	height:60px;
-// 	background:#fff;
-// 	z-index: 10;
-// 	font-size:1rem;
-// 	text-align:center;
-// 	line-height:50px;
-// 	box-shadow: $drop-shadow;
-// }
-/* reset all li decorations and other pseudo-content */
-// #nav-header *::before,
-// #nav-header *::after {
-// 	content: none;
-// }
-// #nav-header nav {
-// 	margin:0 auto;
-// 	display:inline-block;
-// 	width:100%;
-// }
-// .nav-menu,
-// .nav-menu * {
-// 	margin:0;
-// 	padding:0;
-// 	list-style:none;
-// }
-// .nav-menu{
-// 	margin:0 auto;
-// 	display:flex;
-// 	flex-flow:row nowrap;
-// }
-// .nav-menu li {
-// 	line-height:40px;
-// 	letter-spacing:normal;
-// 	box-sizing:content-box;
-// 	text-align:center;
-// 	flex:1 1 25%;
-// 	border-right:1px solid $color-muted;
-// }
-// .nav-menu a {
-// 	display:block;
-// 	padding:10px 5px;
-// 	color: $color-dark;
-// 	font-family: $font-sans;
-// 	letter-spacing:normal;
-// 	font-size:14px;
-// 	font-weight:bolder;
-// 	text-transform:uppercase;
-// 	text-decoration:none;
-// 	zoom:1;
-// 	letter-spacing:0px;
-// 	text-rendering:optimizelegibility;
-// }	
-// .nav-menu a:hover {
-// 	color: rgb(48,115,124);
-// 	background-color: $color-light;
-// }
-// .nav-logo a {
-// 	letter-spacing: -2px;
-// 	font-size: 1.5em;
-// 	padding-top: 4px;
-// }
-// .nav-logoslash {
-// 	color: $color-contrast;
-// 	vertical-align: baseline;
-// 	position: relative;
-// 	top: 0.1em;
-// 	margin-left: 0.1em;
-// 	margin-right: 0.1em;
-// 	font-size: 1.5em;
-// 	font-weight: lighter;
-// 	font-family: serif;
-// }
-// .nav-small{
-// 	display:none;
-// }
-// #home-icon {
-// 	fill: white;
-// }
-// .nav-mobile-logo{
-// 	display:none;
-// }
-// .nav-brand {
-// 	font-family: $font-serif;
-// 	text-transform: none;
-// }
-// @media screen and (max-width:1162px) {
-// 	#nav-header {
-// 		height:61px;
-// 		line-height:15px;
-// 	}
-// 	.nav-menu {
-// 		display:flex;
-// 		flex-flow:row wrap;
-// 		position:relative;
-// 		top:0;
-// 	}
-// 	.nav-menu li {
-// 		flex:1 0 40%;
-// 		line-height:10px;
-// 	}
-// 	.nav-menu li:nth-child(4),
-// 	.nav-menu li:nth-child(5) {
-// 		border-top:1px solid $color-muted;
-// 	}
-// 	.nav-menu li:nth-child(even){
-// 		border-left:0;
-// 	}
-// 	.nav-menu li:nth-child(odd){
-// 		border-right:0;
-// 	}
-// 	.nav-logo {
-// 		display:none;
-// 	}
-// 	.nav-menu a {
-// 		padding:10px 5px;
-// 		vertical-align:middle;
-// 		text-align:center;
-// 		padding-left:0;
-// 		vertical-align:middle;
-// 	}
-// 	.nav-small {
-// 		display:block;
-// 	}
-// 	.nav-full {
-// 		display:none;
-// 	}
-// 	.nav-mobile-logo {
-// 		display:block;
-// 		position:absolute;
-// 		background:$color-contrast;
-// 		background-image: $color-gradient;
-// 		flex: none;
-// 		left:50%;
-// 		top:8px;
-// 		margin: 0;
-// 		padding: 0;
-// 		width: 45px;
-// 		height: 45px;
-// 		transform:translateX(-50%);
-// 	}
-// 	.nav-mobile-logo a {
-// 		color:#fff;
-// 		font-size:15px;
-// 		letter-spacing: -2px;
-// 		line-height: 20px;
-// 		padding-left: 2px;
-// 		padding-bottom: 10px;
-// 	}
-// 	.nav-mobile-logoslash {
-// 		vertical-align: baseline;
-// 		position: relative;
-// 		top: 5px;
-// 		font-size: 30px;
-// 		font-weight: lighter;
-// 		font-family: serif;
-// 	}
-// }
+.nav--article #open + h2::before {
+  content: "▾ ";
+}
+.nav--article #open:target + h2 { // the opening-linked title is hidden, when nav-content in view
+  display: none;
+}
+.nav--article #open { // the nav-content is hidden by default
+  display: none;
+}
+.nav--article #open:target { // the nav-content is visible when the corresponding opening-link puts it into the URL
+  display: block;
+  animation: fade-in 0.5s;
+}

@@ -1,4 +1,4 @@
-/* TYPOGRAPHY & VERTICAL RHYTHM 
+/* TYPOGRAPHY & VERTICAL RHYTHM
  * this section is to establish the vertical rhythm and the look of elements
  */
 
@@ -44,23 +44,24 @@ section {
 	padding-top: #{$line-height}em;
 	padding-bottom: #{$line-height}em;
 }
-article section:first-of-type{
+article:first-of-type,
+article section:first-of-type {
 	margin-top: 0;
 }
 
 h1,
 .header-1 {
-	font-family: $font-sans;
+	font-family: $font-body;
 	font-weight: bolder;
-	font-size: #{$type-scale-h1}em;
+	font-size: #{$type-scale-huge}em;
 	font-style: normal;
-	text-transform: uppercase;
+  letter-spacing: 0.02em;
+	//text-transform: uppercase;
 	clear: both;
 }
 h2,
 .header-2 {
 	font-size: #{$type-scale-h2}em;
-	font-style: italic;
 	font-variant: normal;
 }
 h3,
@@ -82,15 +83,28 @@ h4,
 	font-style: italic;
 	font-variant: normal;
 }
-* + h1,
+h5,
+.header-5 {
+	font-size: calc(#{$type-scale-normal}em + 1vw);
+	font-variant: normal;
+  margin-bottom:0;
+  padding: 0;
+}
+//* + h1,
 * + .header-1,
 * + h2,
 * + .header-2,
 * + h3,
 * + .header-3,
 * + h4,
-* + .header-4 {
+* + .header-4,
+* + h5,
+* + .header-5  {
 	margin-top: calc(#{$line-height}em * 2);
+}
+h5 + *,
+.header-5 + * {
+  margin-top: calc(#{$line-height}em * 0.5)
 }
 p,
 ul,
@@ -133,13 +147,13 @@ ol {
 }
 figure,
 table {
-	padding-top: 1em;
-	padding-bottom: 1em;
+	//padding-top: 1em;
+	//padding-bottom: 1em;
 	margin-left: auto;
 	margin-right: auto;
-	border-top: 1px $color-muted dotted;
-	border-bottom: 1px $color-muted dotted;
-	margin-bottom: - 2px; /* offset border height from vertical rhythm */
+	//border-top: 1px $color-muted dotted;
+	//border-bottom: 1px $color-muted dotted;
+	//margin-bottom: - 2px; /* offset border height from vertical rhythm */
 }
 table {
 	font: inherit;
@@ -180,7 +194,7 @@ blockquote {
 		display: block;
 		text-align: right;
 	}
-}	
+}
 figcaption,
 .caption {
 	font-style: normal;
@@ -196,7 +210,7 @@ sub {
 sup {
 	top: -0.4em;
 }
-sub {	
+sub {
 	top: 0.4em;
 	}
 hr {
@@ -307,7 +321,7 @@ q {
 	text-align: right;
 }
 .text-body {
-	font-family: $font-serif;
+	font-family: $font-body;
 	font-weight: normal;
 	font-variant: normal;
 	text-decoration: none;

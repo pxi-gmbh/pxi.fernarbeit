@@ -12,14 +12,17 @@
 html {
   color: #0f0f0f;
   background-color: white;
-  font-family: Times, "Times New Roman", Serif;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Times", "Times New Roman", serif;
   /* change default in all browsers to system font */
   font-size: 100%;
   /* start with browser default (16px) */
   font-size-adjust: 0.42;
   font-smoothing: auto;
   font-feature-settings: "calt" on, "liga" on, "dlig" on, "kern" on;
-  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+     -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%;
   max-width: 160em; }
 
 /* set all elements to border-box model for easier size calculations */
@@ -119,6 +122,12 @@ progress {
 svg:not(:root) {
   overflow: hidden; }
 
+::-moz-selection {
+  background: #aaa;
+  /* nicer text selection colors */
+  color: black;
+  /* nicer text selection colors */ }
+
 ::selection {
   background: #aaa;
   /* nicer text selection colors */
@@ -128,8 +137,10 @@ svg:not(:root) {
 /* disable animations for accessibility reasons (with tiny duration to keep JS-event listeners in tact */
 @media (prefers-reduced-motion: reduce) {
   * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
+    -webkit-animation-duration: 0.01ms !important;
+            animation-duration: 0.01ms !important;
+    -webkit-animation-iteration-count: 1 !important;
+            animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important; } }
 
@@ -150,12 +161,15 @@ svg:not(:root) {
   * - one selector per line, one rule per line
   */
 a {
-  color: #30737c;
+  color: #300fd4;
   text-decoration: none;
   cursor: pointer;
-  text-decoration-skip: objects;
-  text-decoration-skip-ink: auto;
-  text-decoration-color: gray;
+  -webkit-text-decoration-skip: objects;
+          text-decoration-skip: objects;
+  -webkit-text-decoration-skip: ink;
+          text-decoration-skip-ink: auto;
+  -webkit-text-decoration-color: gray;
+          text-decoration-color: gray;
   transition: all 0.3s ease; }
   a:hover, a:active, a:focus {
     text-decoration: underline; }
@@ -164,7 +178,7 @@ main a:not(.button) {
   text-decoration: underline; }
 
 sup a {
-  color: #30737c;
+  color: #300fd4;
   text-decoration: none; }
   sup a:hover {
     text-decoration: none; }
@@ -222,16 +236,16 @@ video {
   margin: 0;
   margin-left: auto;
   margin-right: auto;
-  font-size: calc(0.6055em + 1vw);
-  font-family: "Arial Black", "Avenir Next Heavy", Gadget, "Arial Bold", Sans-Serif;
+  font-size: calc(0.692em + 1vw);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   color: white;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   padding: 0.5em;
-  border-radius: 0;
+  border-radius: 10px;
   box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35);
-  background: #30737c;
+  background: #300fd4;
   background-image: linear-gradient(to right top, #6b4e71, #595980, #436386, #326c84, #30737c);
   cursor: pointer;
   transition: all 0.2s ease-in-out; }
@@ -291,14 +305,14 @@ input[type="checkbox"] {
     width: 1em;
     height: 1em;
     background: white;
-    border: 1px #30737c solid;
+    border: 1px #300fd4 solid;
     border-radius: 50%;
     position: absolute;
     left: 0;
     top: 0; }
   input[type="radio"]:checked::before,
   input[type="checkbox"]:checked::before {
-    background: #30737c; }
+    background: #300fd4; }
 
 input[type="checkbox"]::before {
   border-radius: 4px; }
@@ -328,11 +342,11 @@ form [role="button"] {
   width: 100%; }
 
 fieldset {
-  font-family: "Arial Black", "Avenir Next Heavy", Gadget, "Arial Bold", Sans-Serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   border: none; }
 
 legend {
-  font-size: 0.98em;
+  font-size: 1.12em;
   font-weight: lighter; }
 
 /* start slider section. needs review & cleanup */
@@ -349,7 +363,8 @@ input[type="range"] {
   box-shadow: none;
   cursor: pointer;
   -webkit-appearance: none;
-  appearance: none; }
+  -moz-appearance: none;
+       appearance: none; }
 
 input[type="range"]:focus {
   box-shadow: none; }
@@ -458,9 +473,11 @@ input[type="range"]::-ms-tooltip {
 
 /* end slider section */
 progress[value] {
-  appearance: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
   /* reset the default appearance */
-  color: #30737c;
+  color: #300fd4;
   /* For IE10 */
   border: none;
   /* get rid of default border in Firefox. */
@@ -468,7 +485,7 @@ progress[value] {
   height: 1em; }
 
 progress[value]::-moz-progress-bar {
-  background: #30737c;
+  background: #300fd4;
   border-radius: 4px; }
 
 progress[value]::-webkit-progress-bar {
@@ -477,10 +494,10 @@ progress[value]::-webkit-progress-bar {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset; }
 
 progress[value]::-webkit-progress-value {
-  background: #30737c;
+  background: #300fd4;
   border-radius: 4px; }
 
-/* TYPOGRAPHY & VERTICAL RHYTHM 
+/* TYPOGRAPHY & VERTICAL RHYTHM
  * this section is to establish the vertical rhythm and the look of elements
  */
 /* reset margins */
@@ -500,7 +517,7 @@ blockquote {
 
 /* set rhythm */
 body {
-  font-size: calc(0.7em + 1vw);
+  font-size: calc(0.8em + 1vw);
   line-height: 1.45;
   text-rendering: optimizeLegibility; }
   body * + * {
@@ -527,44 +544,56 @@ section {
   padding-top: 1.45em;
   padding-bottom: 1.45em; }
 
+article:first-of-type,
 article section:first-of-type {
   margin-top: 0; }
 
 h1,
 .header-1 {
-  font-family: "Arial Black", "Avenir Next Heavy", Gadget, "Arial Bold", Sans-Serif;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Times", "Times New Roman", serif;
   font-weight: bolder;
-  font-size: 1.8326em;
+  font-size: 2.932em;
   font-style: normal;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
   clear: both; }
 
 h2,
 .header-2 {
-  font-size: 1.5855em;
-  font-style: italic;
+  font-size: 1.812em;
   font-variant: normal; }
 
 h3,
 .header-3 {
-  font-size: 1.1326em;
+  font-size: 1.2944em;
   letter-spacing: 0.02em; }
 
 h4,
 .header-4 {
-  font-size: 0.98em;
+  font-size: 1.12em;
   font-style: italic;
   font-variant: normal; }
 
-* + h1,
+h5,
+.header-5 {
+  font-size: calc(0.8em + 1vw);
+  font-variant: normal;
+  margin-bottom: 0;
+  padding: 0; }
+
 * + .header-1,
 * + h2,
 * + .header-2,
 * + h3,
 * + .header-3,
 * + h4,
-* + .header-4 {
+* + .header-4,
+* + h5,
+* + .header-5 {
   margin-top: calc(1.45em * 2); }
+
+h5 + *,
+.header-5 + * {
+  margin-top: calc(1.45em * 0.5); }
 
 p,
 ul,
@@ -573,7 +602,9 @@ dd,
 blockquote {
   word-wrap: break-word;
   /* allow words to be broken outside of normal break points */
-  hyphens: manual; }
+  -webkit-hyphens: manual;
+      -ms-hyphens: manual;
+          hyphens: manual; }
 
 * + br,
 option + option,
@@ -595,14 +626,8 @@ ol {
 
 figure,
 table {
-  padding-top: 1em;
-  padding-bottom: 1em;
   margin-left: auto;
-  margin-right: auto;
-  border-top: 1px #cccccc dotted;
-  border-bottom: 1px #cccccc dotted;
-  margin-bottom: -2px;
-  /* offset border height from vertical rhythm */ }
+  margin-right: auto; }
 
 table {
   font: inherit;
@@ -729,7 +754,8 @@ abbr {
   /* browser fix */
   text-decoration: underline;
   /* browser fix */
-  text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
   /* browser fix */
   text-transform: uppercase;
   font-variant: small-caps; }
@@ -742,7 +768,7 @@ abbr {
 
 q {
   display: block;
-  font-size: 0.98em;
+  font-size: 1.12em;
   text-align: center;
   font-style: oblique;
   clear: both; }
@@ -752,7 +778,9 @@ q {
  */
 .text-justified {
   text-align: justify;
-  hyphens: auto; }
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto; }
 
 .text-small {
   font-size: 80%; }
@@ -767,7 +795,7 @@ q {
   text-align: right; }
 
 .text-body {
-  font-family: Times, "Times New Roman", Serif;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Times", "Times New Roman", serif;
   font-weight: normal;
   font-variant: normal;
   text-decoration: none;
@@ -833,7 +861,7 @@ q {
   clear: both; }
 
 .current {
-  border-bottom: 1px solid #30737c;
+  border-bottom: 1px solid #300fd4;
   /* for navigation links */ }
 
 .drop-shadow {
@@ -873,7 +901,9 @@ q {
   justify-content: space-between;
   margin: 0;
   padding: 0;
-  hyphens: auto; }
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto; }
 
 .flex-table-cell {
   box-sizing: border-box;
@@ -916,11 +946,11 @@ q {
 @media only screen and (max-width: 110vh) {
   div.nav-dropdown-content {
     line-height: 2.5em;
-    font-size: calc(0.6055em + 1vh);
+    font-size: calc(0.692em + 1vh);
     min-width: 80vw;
     white-space: unset; }
   .nav-dropdown-container button {
-    font-size: calc(0.28em + 1vh);
+    font-size: calc(0.32em + 1vh);
     margin-top: 0; }
   ol {
     padding-left: 1.5em; } }
@@ -933,7 +963,7 @@ a.flex-table-cell {
     transform: translateY(-2px);
     text-decoration: none; }
   a.flex-table-cell *:last-child {
-    color: #30737c; }
+    color: #300fd4; }
   a.flex-table-cell *:last-child:hover {
     text-decoration: underline; }
 
@@ -970,13 +1000,13 @@ main {
   font-size: 0.8em;
   top: -0.4em;
   left: -0.1em;
-  color: #30737c; }
+  color: #300fd4; }
 
 .sidenote:before {
   content: "[" counter(sidenote-counter) "]";
   top: -0.2em;
   left: -0.1em;
-  color: #30737c; }
+  color: #300fd4; }
 
 input.margin-toggle {
   display: none; }
@@ -986,7 +1016,7 @@ label.sidenote-number {
 
 label.margin-toggle:not(.sidenote-number) {
   display: none;
-  color: #30737c; }
+  color: #300fd4; }
 
 /* collapse sidenotes on small screens */
 @media all and (max-width: 1162px) {
@@ -1009,6 +1039,73 @@ label.margin-toggle:not(.sidenote-number) {
   label {
     cursor: pointer; } }
 
+/* universal margin-notes: designed to work as snippets in markdown documents */
+input.aside-toggle + * {
+  float: right;
+  clear: right;
+  margin-right: calc(-5 * 1.45em - 20vw);
+  width: calc(3 * 1.45em + 20vw);
+  margin-top: calc(-1em * 1.45);
+  margin-bottom: calc(1em * 1.45);
+  font-size: calc(1em * 0.75);
+  line-height: calc(1.45 * 1.25);
+  vertical-align: baseline;
+  position: relative; }
+
+input.aside-toggle {
+  display: none; }
+
+label.aside-toggle {
+  display: none;
+  color: #300fd4;
+  cursor: pointer; }
+
+/* collapse sidenotes on small screens */
+@media all and (max-width: 1162px) {
+  label.aside-toggle {
+    display: inline; }
+  input.aside-toggle + * {
+    display: none; }
+  input.aside-toggle:checked + * {
+    display: block;
+    clear: both;
+    width: 100%;
+    margin: 0;
+    margin-top: calc(0.5em * 1.45);
+    margin-bottom: calc(1em * 1.45);
+    vertical-align: baseline;
+    position: relative;
+    -webkit-animation: pop-in 0.3s;
+    animation: pop-in 0.3s; } }
+
+@-webkit-keyframes pop-in {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.7); }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1); } }
+
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.7); }
+  100% {
+    opacity: 1;
+    transform: scale(1); } }
+
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@keyframes fade-in {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
 /* UTILITY
  * - accessibility
  * - browser warning (modernizr/noscript/etc)
@@ -1025,7 +1122,8 @@ label.margin-toggle:not(.sidenote-number) {
   /* accessibility: text meant only for screen readers. */
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
-  clip-path: inset(50%);
+  -webkit-clip-path: inset(50%);
+          clip-path: inset(50%);
   height: 1px;
   margin: -1px;
   overflow: hidden;
@@ -1082,7 +1180,7 @@ label.margin-toggle:not(.sidenote-number) {
 
 [role="banner"] h1 {
   /* clip background image to header-text inside banner*/
-  font-size: 2.5655em;
+  font-size: 2.932em;
   letter-spacing: -0.05em;
   -webkit-text-fill-color: transparent;
   /* clip in supporting browsers only */
@@ -1114,72 +1212,77 @@ label.margin-toggle:not(.sidenote-number) {
   padding-left: 0.3em;
   padding-right: 0.3em;
   border-radius: 0.1em;
-  color: #30737c;
+  color: #300fd4;
   background-color: rgba(255, 255, 255, 0.1); }
 
-.nav-header {
+.nav--article {
   position: fixed;
   top: 0;
-  left: 0; }
-
-.nav-dropdown-container {
-  position: fixed;
-  top: 0;
-  z-index: 1; }
-
-.dropbutton {
-  display: inline-block;
-  font-size: calc(0.28em + 1vw);
-  font-family: "Arial Black", "Avenir Next Heavy", Gadget, "Arial Bold", Sans-Serif;
-  text-align: center;
-  text-transform: uppercase;
+  left: 10px;
   padding: 0.5em;
-  border: none;
-  cursor: pointer;
-  background: white;
-  box-shadow: 0.3em 0.3em 1.1em 0em rgba(0, 0, 0, 0.15);
-  transition: box-shadow 0.2s ease; }
-
-.dropbutton:hover, .dropbutton:focus {
-  box-shadow: 0.5em 0.5em 1.1em 0em rgba(0, 0, 0, 0.2); }
-
-#nav-dropdown {
-  padding-right: 1em;
-  max-height: 92vh;
-  overflow: auto; }
-
-.nav-dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: white;
-  min-width: 25em;
-  white-space: nowrap;
+  margin: 0;
+  max-height: 95vh;
+  min-width: 15vw;
   max-width: 75vw;
   overflow: auto;
+  border-radius: 0 0 10px 10px;
+  background-color: white;
   box-shadow: 0.3em 0.3em 1.1em 0em rgba(0, 0, 0, 0.15);
-  z-index: 1;
-  padding: 0.4em;
-  margin-top: 0.7em;
-  font-size: calc(0.28em + 1vw); }
+  z-index: 1; }
 
-.nav-dropdown-content a {
-  color: #30737c;
-  text-decoration: none;
-  display: inline;
+.nav--article * {
+  margin: 0;
+  font-style: normal;
+  color: inherit; }
+
+.nav--article a:link {
+  text-decoration: none; }
+
+.nav--article li {
+  margin-left: 1em;
+  margin-top: 1.45em;
+  list-style-type: none;
+  color: #300fd4; }
+
+.nav--article ul ul li {
+  margin-top: 0;
+  color: #0f0f0f; }
+
+.nav--article ul ul a:link {
   text-decoration: underline; }
 
-.nav-dropdown-content ul a:first-of-type {
-  padding-left: 1em; }
+.nav--article ul ul ul li::before {
+  content: "▸ "; }
 
-.show {
-  display: block; }
+.nav--article #open h2 {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-size: 0.8em; }
 
-#nav-header {
-  top: 0;
-  margin: 0; }
+.nav--article #open h2::before {
+  content: "▴ "; }
 
-#dropbutton {
-  background: white;
-  background-image: none; }
+.nav--article #open + h2 {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-size: 0.8em; }
 
-/* reset all li decorations and other pseudo-content */
+.nav--article #open + h2::before {
+  content: "▾ "; }
+
+.nav--article #open:target + h2 {
+  display: none; }
+
+.nav--article #open {
+  display: none; }
+
+.nav--article #open:target {
+  display: block;
+  -webkit-animation: fade-in 0.5s;
+          animation: fade-in 0.5s; }

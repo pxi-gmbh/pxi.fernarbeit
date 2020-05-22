@@ -110,35 +110,35 @@
   padding: 0.8em calc(#{$line-height}em * 0.5);
   overflow: hidden; // or flex might break
   border: none;
-  > h1, 
-  > h2, 
-  > h3, 
-  > h4, 
-  > h5, 
-  > h6 { 
-  	margin: 0; 
+  > h1,
+  > h2,
+  > h3,
+  > h4,
+  > h5,
+  > h6 {
+  	margin: 0;
   	}
-  > img { 
-  	margin: auto; 
+  > img {
+  	margin: auto;
   	}
 }
 /* table column sizing */
 .flex-table-twocols {
-	> .flex-table-cell  { 
+	> .flex-table-cell  {
 		width: calc(50% - #{$line-height}em);
-	}	
+	}
 }
 .flex-table-threecols {
 	> .flex-table-cell {
 		width: calc(33.33% - 1em);
-	}	
+	}
 }
-.flex-table-fourcols { 
+.flex-table-fourcols {
 	> .flex-table-cell {
 		width: calc(25% - #{$line-height}em);
 	}
 }
-.flex-table-fivecols { 
+.flex-table-fivecols {
 	> .flex-table-cell {
 		width: calc(20% - #{$line-height}em);
 	}
@@ -147,7 +147,7 @@
 @media all and (max-width: $break-narrow) {
 	.flex-table  {
 		display: block;
-		> .flex-table-cell { 
+		> .flex-table-cell {
 			width: 100%;
 		}
 	}
@@ -201,7 +201,7 @@ a.flex-table-cell {
 //<label for="ID" class="margin-toggle">⨭ …</label>
 //<input type="checkbox" id="ID" class="margin-toggle"/>
 //<span class="marginnote">
-.sidenote, 
+.sidenote,
 .marginnote,
 .marginbox {
 	float: right;
@@ -213,29 +213,29 @@ a.flex-table-cell {
 	font-size: 0.8em;
 	line-height: calc(#{$line-height} * 1.25);
 	vertical-align: baseline;
-	position: relative; 
+	position: relative;
 }
 main {
   counter-reset: sidenote-counter;
   margin-top: 3em;
 }
-.sidenote-number { 
-	counter-increment: sidenote-counter; 
+.sidenote-number {
+	counter-increment: sidenote-counter;
 }
-.sidenote-number:after, 
-.sidenote:before { 
+.sidenote-number:after,
+.sidenote:before {
 	font-family: inherit;
 	position: relative;
 	vertical-align: baseline;
 }
-.sidenote-number:after { 
+.sidenote-number:after {
 	content: "[" counter(sidenote-counter) "]";
 	font-size: 0.8em;
 	top: -0.4em;
 	left: -0.1em;
 	color: $color-contrast;
 }
-.sidenote:before { 
+.sidenote:before {
 	content: "[" counter(sidenote-counter) "]";
 	top: -0.2em;
 	left: -0.1em;
@@ -244,25 +244,25 @@ main {
 input.margin-toggle {
 	display: none;
 }
-label.sidenote-number { 
+label.sidenote-number {
 	display: inline;
 }
-label.margin-toggle:not(.sidenote-number) { 
+label.margin-toggle:not(.sidenote-number) {
 	display: none;
 	color: $color-contrast;
 }
 /* collapse sidenotes on small screens */
 @media all and (max-width: $break-wide) {
-	label.margin-toggle:not(.sidenote-number) { 
+	label.margin-toggle:not(.sidenote-number) {
 		display: inline;
 	}
 	.sidenote,
-	.marginnote { 
-		display: none; 
+	.marginnote {
+		display: none;
 	}
 	.margin-toggle:checked + .sidenote,
 	.margin-toggle:checked + .marginnote,
-	.marginbox { 
+	.marginbox {
 		display: block;
 		float: left;
 		left: #{$line-height}em;
@@ -272,7 +272,7 @@ label.margin-toggle:not(.sidenote-number) {
 		vertical-align: baseline;
 		position: relative;
 	}
-	label { 
+	label {
 		cursor: pointer;
 	}
 }
@@ -286,36 +286,36 @@ input.aside-toggle + * {
 	clear: right;
 	margin-right: calc(-5 * #{$line-height}em - 20vw);
 	width: calc(3 * #{$line-height}em + 20vw);
-	margin-top: 1.7em;
-	margin-bottom: calc(2em * 1.25);
-	font-size: 0.8em;
+	margin-top: calc(-1em * #{$line-height});
+	margin-bottom: calc(1em * #{$line-height});
+	font-size: calc(1em * 0.75);
 	line-height: calc(#{$line-height} * 1.25);
 	vertical-align: baseline;
-	position: relative; 
+	position: relative;
 }
 input.aside-toggle {
 	display: none;
 }
-label.aside-toggle { 
+label.aside-toggle {
 	display: none;
 	color: $color-contrast;
 	cursor: pointer;
 }
 /* collapse sidenotes on small screens */
 @media all and (max-width: $break-wide) {
-	label.aside-toggle { 
+	label.aside-toggle {
 		display: inline;
 	}
-	input.aside-toggle + * { 
-		display: none; 
+	input.aside-toggle + * {
+		display: none;
 	}
-	input.aside-toggle:checked + * { 
+	input.aside-toggle:checked + * {
 		display: block;
 		clear: both;
 		width: 100%;
 		margin: 0;
-		margin-top: 0.5em;
-		margin-bottom: 0.5em;
+		margin-top: calc(0.5em * #{$line-height});
+		margin-bottom: calc(1em * #{$line-height});
 		vertical-align: baseline;
 		position: relative;
 		-webkit-animation:pop-in 0.3s;
@@ -323,16 +323,4 @@ label.aside-toggle {
 		-ms-animation:    pop-in 0.3s;
 		animation:        pop-in 0.3s;
 	}
-}
-@-webkit-keyframes pop-in {
-0% { opacity: 0; -webkit-transform: scale(0.7); }
-100% { opacity: 1; -webkit-transform: scale(1); }
-}
-@-moz-keyframes pop-in {
-0% { opacity: 0; -moz-transform: scale(0.7); }
-100% { opacity: 1; -moz-transform: scale(1); }
-}
-@keyframes pop-in {
-0% { opacity: 0; transform: scale(0.7); }
-100% { opacity: 1; transform: scale(1); }
 }

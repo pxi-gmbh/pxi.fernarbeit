@@ -1,17 +1,48 @@
-<small>Schreiben ist Handwerk. Das kann jeder Mensch lernen, dafür müssen Sie nur üben. Also schreiben Sie viel und regelmäßig, wenn Sie besser schreiben lernen wollen. Stilvorgaben helfen, die Holprigkeiten aus dem Sprachbild zu glätten. So werden Texte flüssiger und lesbarer. Mit regelmäßiger Arbeit am Text entwickelt sich in der Schriftsprache ein persönlicher Stil, der mühelos seinen Ausdruck findet. Die hier vorgestellten Regeln und Leitsätze bieten einen Rahmen, in dem Sie zu Ihrem Stil finden.</small>
+<nav class="nav--article"><!-- leave this alone -->
+<div id="open"><!-- leave this alone -->
+<h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
 
-<span id="satz1"></span>
-## Leitsatz 1:<br> Wir wollen schreiben, wie wir sprechen
+  - [Wir wollen schreiben, wie wir sprechen][]
+      - [Erst schreiben, dann anpassen][]
+
+  - [Wir wollen klare Sprache pflegen][]
+      - [Hilfsregeln][]
+      - [Überlegung zum Sprach-Rhythmus][]
+
+  - [Wir wollen Standards nutzen][]
+      - [Formatierung][]
+      - [Schreibweisen][]
+      - [Die Grundlagen der Komma-Setzung][]
+
+  - [Wir wollen Wertschätzung ausdrücken][]
+      - [Geschlechter-gerechte Sprache][]
+      - [Respektvolle Ansprache und Bezeichnung][]
+      - [Einfache Sprache][]
+
+- [◀ zurück zum Leitfaden](/)
+
+</div><!-- leave this alone -->
+<h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
+</nav><!-- leave this alone -->
+
+
+
+# Text-Produktion
+
+*Schreiben ist Handwerk. Das kann jeder Mensch lernen, dafür müssen Sie nur üben. Also schreiben Sie viel und regelmäßig, wenn Sie besser schreiben lernen wollen. Stilvorgaben helfen, die Holprigkeiten aus dem Sprachbild zu glätten. So werden Texte flüssiger und lesbarer. Mit regelmäßiger Arbeit am Text entwickelt sich in der Schriftsprache ein persönlicher Stil, der mühelos seinen Ausdruck findet. Die hier vorgestellten Regeln und Leitsätze bieten einen Rahmen, in dem Sie zu Ihrem Stil finden.*
+
+
+## Wir wollen schreiben, wie wir sprechen
 
 *… allerdings mit weniger Fehlern und ohne Stocken.*
 
 Stolperer löschen wir aus unseren Texten, so dass nur die geschliffenen Gedanken übrig bleiben. Texte, die sich gut sprechen lassen, sind verständliche Texte. Im Zweifel können Sie sich selbst vorlesen. Hört sich der Satz an, als würden Sie ihn auch im Gespräch so sagen? Wenn es beim Vorlesen hakt, dann ist es auch nicht flüssig lesbar.
 
-### 1.1 | Erst schreiben, dann anpassen
+### Erst schreiben, dann anpassen
 
-Beim Schreiben gibt es zwei Entwicklungsschritte: Entwurf und Korrekturlesen. Diese Schritte erfolgen nie gleichzeitig. 
+Beim Schreiben gibt es zwei Entwicklungsschritte: Entwurf und Korrekturlesen. Diese Schritte erfolgen nie gleichzeitig.
 
-Wenn wir einen Entwurf schreiben, suchen wir den ungehemmten Fluss. Ausdruck, Rechtschreibung und Grammatik dürfen erstmal warten, bis die Gedanken in Worte gefasst sind. 
+Wenn wir einen Entwurf schreiben, suchen wir den ungehemmten Fluss. Ausdruck, Rechtschreibung und Grammatik dürfen erstmal warten, bis die Gedanken in Worte gefasst sind.
 
 <label for="1" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="1" class="margin-toggle"/>
@@ -19,10 +50,11 @@ Wenn wir einen Entwurf schreiben, suchen wir den ungehemmten Fluss. Ausdruck, Re
 Die einleitenden Sätze entpuppen sich beim Korrekturlesen oft als „Warmschreiben.“ Hier nähern wir uns mit Allgemeinplätzen den eigentlich wichtigen Gedanken. Suchen Sie nach der ersten konkreten Aussage und arbeiten von dort aus am Argument.</span>
 Beim Korrekturlesen sind wir dann gnadenlos. Füllwörter, Ungereimtheiten, Ungenauigkeiten streichen wir aus dem Text, bis die Klarheit der Gedanken frei liegt. Dabei hilft es, wenn Sie vor dem Korrekturlesen Abstand gewinnen. Eine Nacht voll Schlaf bringt Gelassenheit. Für besondere Texte darf es gerne mehr Abstand sein.
 
-<span id="satz2"></span>
-## Leitsatz 2:<br> Wir wollen klare Sprache pflegen
 
-Handlungen sind die Dreh- und Angelpunkte von Erzählungen. Beim Lesen wollen wir verstehen, wer etwas tut und warum Dinge geschehen. So begreifen wir die Sinn-Zusammenhänge. Deswegen sollten Handlungen all Ihre Texte prägen. 
+
+## Wir wollen klare Sprache pflegen
+
+Handlungen sind die Dreh- und Angelpunkte von Erzählungen. Beim Lesen wollen wir verstehen, wer etwas tut und warum Dinge geschehen. So begreifen wir die Sinn-Zusammenhänge. Deswegen sollten Handlungen all Ihre Texte prägen.
 
 <label for="2" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="2" class="margin-toggle"/>
@@ -47,7 +79,7 @@ Unklare Verallgemeinerungen und Behauptungen, die sich nicht überprüfen lassen
 > *Besser:* Supermärkte müssen seit 2019 Geld für Plastiktüten verlangen. Das soll Plastikmüll reduzieren und dadurch die Umwelt schonen.
 
 
-### 2.1 | Hilfsregeln
+### Hilfsregeln
 
 1.	Wenn es eine Unverschämtheit ist, andere zu unterbrechen, so ist es eine nicht mindere Unverschämtheit (damit womöglich auch schlechter Schreibstil), sich selbst mit Schachtelsätzen oder gar Klammern zu unterbrechen.<br><br>
 2.	Was Substantivierung betrifft, ist Verzicht zu üben.<br><br>
@@ -62,14 +94,16 @@ Unklare Verallgemeinerungen und Behauptungen, die sich nicht überprüfen lassen
 10.	Vermeiden Sie mögl. Abkürzungen, etc.
 
 
-### 2.2 | Überlegung zum Sprach-Rhythmus
 
-Dieser Satz hat fünf Worte. Hier sind weitere fünf Worte. Solche Sätze sind gut lesbar. Zu viele davon werden öde. Lesen Sie den Text vor. Der Text wird schnell langweilig. Klingt wie eine gesprungene Schallplatte. Ohr und Auge verlangen Abwechslung. 
+### Überlegung zum Sprach-Rhythmus
+
+Dieser Satz hat fünf Worte. Hier sind weitere fünf Worte. Solche Sätze sind gut lesbar. Zu viele davon werden öde. Lesen Sie den Text vor. Der Text wird schnell langweilig. Klingt wie eine gesprungene Schallplatte. Ohr und Auge verlangen Abwechslung.
 
 Darum: Spielen Sie mit dem Rhythmus der Worte und der Text beginnt zu singen. Komponieren Sie Musik für Augen und Ohren. Variieren Sie, setzen Sie Akzente, Pausen. Wählen Sie Sätze von mittlerer Länge und Nebensätze, um Zusammenhänge herzustellen. Kurze Sätze entspannen. Und manchmal, wenn Sie ganz sicher sind, dass Ihr Publikum ausgeruht ist, servieren Sie ihm einen Satz von formidabler Länge, dessen Sinn es sich erarbeiten muss, der in seiner Wortgewalt und Intensität brennt und beim Lesen herausschreit, dass dieses Crescendo von Ideen Aufmerksamkeit verdient, dass dieses Textereignis wichtig ist.
 
-<span id="satz3"></span>
-## Leitsatz 3:<br>Wir wollen Standards nutzen
+
+
+## Wir wollen Standards nutzen
 
 Wir können Texte leichter lesen, wenn sie sich an gewohnte Regeln halten. Dazu gehören Formatierung, Rechtschreibung und Grammatik der Standardsprache. Dieser Text richtet sich an Menschen, die Standard-Deutsch schreiben. Dafür, und für jede weitere Standardsprache, gibt es offizielle Regelwerke. Für unsere Texte gelten die neue deutsche Rechtschreibung und entsprechende Empfehlungen aus dem Duden.
 
@@ -80,14 +114,15 @@ Lesen Sie viel und bewusst! Dabei üben und verinnerlichen Sie automatisch die R
 </span> Rechtschreibregeln sollen nicht vom Schreiben ablenken. Versuchen Sie, erst beim Korrekturlesen gezielt nach Abweichungen vom Standard zu suchen. Fehler machen ist menschlich, mit der Zeit lernen wir alle stets dazu.  
 
 
-### 3.1 | Formatierung
+
+### Formatierung
 
 #### Absätze
 Absätze sollen abgeschlossene Gedankengänge oder Argumente voneinander trennen. Leerzeilen als Markierung von Absätzen gliedern den Text visuell und schaffen Platz für Pausen, das Gelesene zu verarbeiten.
- 
+
 #### Zwischenüberschriften
 Neue Themen oder Einordnungen eines Themas im Text kündigen wir mit Zwischenüberschriften an. Die sichtbaren Ankerpunkte helfen Leserinnen und Lesern, sich zu orientieren und den Text zu erschließen.
- 
+
 #### Abschnitte und Ebenen
 Gliedern Sie Information in maximal zwei Ebenen. Mit wachsender Verschachtelung wird die Bedeutung der Untergliederung unklar. Jedes Mal, wenn Sie sich für eine Untergliederung in Überschriften oder Aufzählungen entscheiden, bestimmen Sie über die Komplexität Ihres Textes. Geben Sie Ihren Informationen eine Form, die Ihr Publikum gut lesen kann.
 
@@ -115,7 +150,7 @@ Alle Zahlen bis einschließlich zehn schreiben wir aus, alle weiteren als Ziffer
 > Mit dem zweiten Update des Programms gibt es 12 neue Befehle.
 
 
-### 3.2 | Schreibweisen
+### Schreibweisen
 
 Wir wollen unsere Texte lesbar machen. Im Schriftbild können Sie Lesbarkeit fördern, indem Sie vertraute Wortformen nutzen. Wir erkennen Wörter nicht an den einzelnen Buchstaben, sondern an ihren Umrissen. Es gibt aber Regeln zu Schreibweisen im Standard-Deutschen, die hierbei nicht eindeutig oder nicht hilfreich sind.
 
@@ -139,7 +174,7 @@ Komposita, die zwei selbständige deutschsprachige Begriffe kombinieren, schreib
 
 > die Rechtschreibung, der Leitfaden
 
-Komposita, die mehr als zwei Begriffe zusammenfassen, trennen wir jeweils nach dem zweiten Wort in der Wortgruppe mit einem Bindestrich. Sinn-Zusammenhänge trennen wir dabei nie. 
+Komposita, die mehr als zwei Begriffe zusammenfassen, trennen wir jeweils nach dem zweiten Wort in der Wortgruppe mit einem Bindestrich. Sinn-Zusammenhänge trennen wir dabei nie.
 
 > die Rechtschreib-Regel, der Redaktions-Leitfaden
 
@@ -163,7 +198,7 @@ Auf lange Wortkonstruktionen verzichten wir, indem wir sie als Satz umformuliere
 
 > *Schlecht:* Ein *Uniform Ressource Locator* sollte möglichst einprägsam sein.<br>
 > *Besser:* Eine URL sollte möglichst einprägsam sein.<br>
-> Ein *Laser* ist ursprünglich ein englisches Akronym für „light amplification by stimulated emission of radiation”. 
+> Ein *Laser* ist ursprünglich ein englisches Akronym für „light amplification by stimulated emission of radiation”.
 
 #### Genitiv auf -s oder -es
 Manche Substantive verlangen im Genitiv die Endung auf -es, weil sie mit einem Zischlaut (s, ss, ß, tz, z) enden. Wo beide Endungsformen möglich sind, benutzen wir die kurze Endung auf -s. So bleibt das Schriftbild des Wortes näher an seiner Form ohne Genitiv und wir können es beim Lesen einfacher wieder erkennen. Wo es wirklich schlecht zu sprechen ist, bleibt es beim e.
@@ -174,7 +209,7 @@ Manche Substantive verlangen im Genitiv die Endung auf -es, weil sie mit einem Z
 #### Eigennamen
 <label for="8" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="8" class="margin-toggle"/>
-<span class="marginnote">*Diakritika* oder *diakritische Zeichen* sind Anhängsel für Buchstaben, die eine besondere Aussprache anzeigen.</span> Eigennamen schreiben wir gemäß der Selbstbezeichnung innerhalb der Möglichkeiten unserer Schrift. Halten Sie sich an die Schreibweisen von Marken und Normen, damit Sie die Lesegewohnheiten Ihres Publikums bedienen. Für Namen und Bezeichnungen in anderen Sprachen mit lateinischen Buchstaben übernehmen wir deren *Diakritika*. Die lassen sich vom deutschsprachigen Publikum einfach überlesen und Fremdsprachen-Kundige erkennen die richtige Schreibweise wieder. Für Namen und Begriffe aus Sprachen ohne lateinische Buchstaben gibt es eigene Regelwerke zur *Transliteration*, der Umsetzung in lateinischer Schrift. 
+<span class="marginnote">*Diakritika* oder *diakritische Zeichen* sind Anhängsel für Buchstaben, die eine besondere Aussprache anzeigen.</span> Eigennamen schreiben wir gemäß der Selbstbezeichnung innerhalb der Möglichkeiten unserer Schrift. Halten Sie sich an die Schreibweisen von Marken und Normen, damit Sie die Lesegewohnheiten Ihres Publikums bedienen. Für Namen und Bezeichnungen in anderen Sprachen mit lateinischen Buchstaben übernehmen wir deren *Diakritika*. Die lassen sich vom deutschsprachigen Publikum einfach überlesen und Fremdsprachen-Kundige erkennen die richtige Schreibweise wieder. Für Namen und Begriffe aus Sprachen ohne lateinische Buchstaben gibt es eigene Regelwerke zur *Transliteration*, der Umsetzung in lateinischer Schrift.
 
 > In PowerPoint können Sie Dokumente im Format DIN A1 anlegen.
 
@@ -201,14 +236,15 @@ Das kalte und klare Wasser löscht den Durst, der alte und französischen Rotwei
 8.	Kommas stehen nach **wörtlichen Reden**, **Anreden** (auch Briefanreden aber nicht nach Abschiedsformeln in Briefen) und **Ausrufen**.<br><br>
 9.	Kommas und andere Satzzeichen innerhalb von **wörtlicher Rede** (durch Anführungszeichen gekennzeichnet) und Klammern wirken nur nach innen. Zur Einbettung in weitere Sätze werden Satzzeichen außerhalb der Anführungszeichen oder Klammern gesetzt.
 
-<span id="satz4"></span>
-## Leitsatz 4:<br>Wir wollen Wertschätzung ausdrücken 
+
+
+## Wir wollen Wertschätzung ausdrücken
 
 Überzeugender Text ist für jedes Publikum zugänglich. Eine wertschätzende Sprache lädt Menschen mit unterschiedlichen Bedürfnissen und Perspektiven zur Verständigung ein. Zeigen Sie Wertschätzung für diese Menschen, indem Sie respektvolle Formulierungen, Anreden und Bezeichnungen wählen.
 
 Berücksichtigen Sie für Ihren persönlichen Stil: Formulierungen müssen eindeutig, sprechbar und lesbar sein.
 
-### 4.1 | Geschlechter-gerechte Sprache
+### Geschlechter-gerechte Sprache
 
 Im Deutschen wird Geschlecht in der Sprache markiert. Deswegen müssen wir besondere Sorgfalt üben, wenn wir wollen, dass sich Menschen jeden Geschlechts von unserem Text gleichermaßen angesprochen fühlen. Die Regeln und Standards dazu sind nicht fertig entwickelt, weil die Gesellschaft noch neue Sprachkonventionen ausprobiert. Hier müssen Sie eine gute Balance finden, wie Sie einen flüssigen Schreibstil mit einschließenden und mitnehmenden Formulierungen verbinden.
 
@@ -245,10 +281,10 @@ Verzichten Sie möglichst auf „man“ als Umschreibung von Personen. Das ist n
 Durchbrechen Sie gezielt herrschende Klischees, wenn Sie Beispiele von Rollen im Alltag oder der Arbeitswelt anführen. Es ist ein sehr starkes Signal für Wertschätzung, wenn Ihr Publikum sich in Anekdoten repräsentiert findet, insbesondere, wenn Teile Ihres Publikums diese Repräsentation wegen Klischees über typische Geschlechterrollen sonst nicht erfahren. Wir bezeichnen deswegen die im Zusammenhang sozial privilegierten oder stereotyp als männlich interpretierten Rollen stets weiblich.
 
 > *Umständlich:* Was erwarten Sie von der Sie behandelnden Person im ärztlichen Dienst?<br>
-> *Besser:* Was erwarten Sie von Ihrer Ärztin? 
+> *Besser:* Was erwarten Sie von Ihrer Ärztin?
 
 #### Nicht-binäre oder Trans-Geschlechter
-Die Benennung von weiblichem, männlichem und einem neutralen Geschlecht ist eine sprachliche Konvention, kein Naturgesetz. Manche Menschen fühlen ihre Identität in dieser Geschlechts-Zuweisung nicht passend wiedergegeben. Es gibt Bezeichnungen, die diesen Umstand hervorheben, diese Bezeichnungen sind jedoch noch nicht zum allgemein verständlichen Standard entwickelt. Gebräuchlich sind: 
+Die Benennung von weiblichem, männlichem und einem neutralen Geschlecht ist eine sprachliche Konvention, kein Naturgesetz. Manche Menschen fühlen ihre Identität in dieser Geschlechts-Zuweisung nicht passend wiedergegeben. Es gibt Bezeichnungen, die diesen Umstand hervorheben, diese Bezeichnungen sind jedoch noch nicht zum allgemein verständlichen Standard entwickelt. Gebräuchlich sind:
 
 -	Die Vorsilbe „Cis-“ für Menschen, deren Geschlechts-Identität mit den gesellschaftlichen Konventionen für Geschlechts-Merkmale übereinstimmt.
 -	Die Vorsilbe „Trans-“ für Menschen, die sich im anderen Geschlecht identifizieren, als ihnen bei der Geburt zugewiesenen wurde.
@@ -257,15 +293,16 @@ Die Benennung von weiblichem, männlichem und einem neutralen Geschlecht ist ein
 > *Besser:* Das Team besteht aus Cis- und Trans-Frauen.
 
 
-### 4.2 | Respektvolle Ansprache und Bezeichnung
 
-Wir verwenden Formulierungen, die Menschen und ihre Befindlichkeiten respektieren. Beim Schreiben achten wir deswegen darauf, dass wir nicht Befindlichkeiten zuschreiben oder Bewertungen vornehmen. Wie Menschen sich in einer Situation fühlen, wissen nur sie selbst. Wie Menschen bezeichnet werden wollen, wissen sie selbst am besten. 
+### Respektvolle Ansprache und Bezeichnung
+
+Wir verwenden Formulierungen, die Menschen und ihre Befindlichkeiten respektieren. Beim Schreiben achten wir deswegen darauf, dass wir nicht Befindlichkeiten zuschreiben oder Bewertungen vornehmen. Wie Menschen sich in einer Situation fühlen, wissen nur sie selbst. Wie Menschen bezeichnet werden wollen, wissen sie selbst am besten.
 
 Körperliche Merkmale und Gruppen-Zugehörigkeiten sind keine Wesensmerkmale, sie definieren nicht die Identität eines Menschen. Vermeiden Sie Beschreibungen, die ein Merkmal hervorheben und darüber die Person und die Persönlichkeit in den Hintergrund stellen. Vermeiden Sie außerdem bewertende Beschreibungen und eine Zuschreibung von „normal“ oder Abweichungen von Normalität.
 
 <label for="11" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="11" class="margin-toggle"/>
-<span class="marginnote">Sprache wird leider auch gezielt eingesetzt, um Menschen zu erniedrigen. Sprache wird politisch verwendet, um Sinn-Zusammenhänge zu verschleiern oder Lügen zu akzeptablen Beschreibungen der Wirklichkeit zu machen. Seien Sie deshalb empfänglich für Hinweise, wenn jemand Ihnen erklärt, dass ein Begriff respektlos oder gar zu Propaganda-Zwecken missbraucht ist.</span> Sprache entwickelt sich stets weiter. Die Bezeichnungen, die Sie verwenden, prägen die Standards der Zukunft mit. Begriffe haben eine besondere Macht, deswegen haben wir Verantwortung, damit respektvoll umzugehen. 
+<span class="marginnote">Sprache wird leider auch gezielt eingesetzt, um Menschen zu erniedrigen. Sprache wird politisch verwendet, um Sinn-Zusammenhänge zu verschleiern oder Lügen zu akzeptablen Beschreibungen der Wirklichkeit zu machen. Seien Sie deshalb empfänglich für Hinweise, wenn jemand Ihnen erklärt, dass ein Begriff respektlos oder gar zu Propaganda-Zwecken missbraucht ist.</span> Sprache entwickelt sich stets weiter. Die Bezeichnungen, die Sie verwenden, prägen die Standards der Zukunft mit. Begriffe haben eine besondere Macht, deswegen haben wir Verantwortung, damit respektvoll umzugehen.
 
 Bezeichnungen bilden einen Rahmen, in dem Ihr Publikum die von Ihnen beschriebenen Menschen wahrnimmt. Dieser Rahmen beeinflusst sogar, wie wir über Menschen denken. Dieser Verantwortung begegnen wir, indem wir unserer eigenen Sprache gegenüber achtsam sind, und indem wir den Äußerungen anderer gegenüber wohlwollend aber nachdenklich sind.
 
@@ -290,8 +327,9 @@ Wir enthalten uns Bewertungen zur Identität. Sexualität, Alter, Herkunft, Haut
 > *Schlecht:* Sie ist hat zugegeben, dass sie bisexuell ist.<br>
 > *Besser:* Sie hat erklärt, dass sie bisexuell ist.
 
-### 4.3 | Einfache Sprache
 
+
+### Einfache Sprache
 
 <label for="12" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="12" class="margin-toggle"/>
@@ -299,5 +337,3 @@ Wir enthalten uns Bewertungen zur Identität. Sexualität, Alter, Herkunft, Haut
 Wir bemühen uns um Sprache, die ohne besondere Vorbildung auskommt. Fremdworte benutzen wir nur, wenn nötig, und führen Sie als Fachbegriff mit einer Erläuterung ein. Es hilft, wenn Sie den Hinweis auf solche Erläuterungen im Schriftbild erkennbar machen.
 
 Bindestrich-Koppelungen benutzen wir sehr großzügig. In der deutschen Rechtschreibung sind Bindestriche auch zur Verdeutlichung von Zusammenhängen gestattet. Lange Worte in Ihre Bestandteile aufzugliedern ist eine solche Verdeutlichung. Auch wenn es manchmal ungewohnt sein mag, hilft es dafür Menschen mit Leseschwäche, Wortgrenzen zu erkennen.
-
-
