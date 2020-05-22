@@ -4,7 +4,7 @@
 // DEPENDENCIES (variables and mixins only)
 // does not compile to CSS
 @import
-"variables"; 
+"variables";
 // $color- {light, dark, contrast}
 // $font- {serif, sans, monospace, size-adjust, smoothing, feature-settings}
 // molten typography
@@ -23,6 +23,7 @@
 "forms-progress",
 "typography",
 "layout",
+"animations",
 "helper";
 
 /* SECTIONS */

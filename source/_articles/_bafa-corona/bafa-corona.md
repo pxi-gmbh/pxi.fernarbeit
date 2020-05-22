@@ -1,5 +1,25 @@
-<small>Für kurze Zeit hat das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) eine besondere Förderung für Beratung zur Corona-Krise eingerichtet. Unternehmen, die durch die Krise in wirtschaftliche Schwierigkeiten geraten sind, können sich eine Beratung ohne Vorfinanzierung zu 100% fördern lassen. Die Antragsstellung ist obendrein vereinfacht. Die häufigsten Fragen zum Ausfüllen des Antrags haben wir hier in einem kommentierten Beispiel des Antrags-Formulares aufgegriffen.</small></p>
-		<p class="text-small text-right"><a href="#anleitung"><span aria-hidden="true">→ </span>direkt zur Ausfüll-Anleitung springen</a>
+<nav class="nav--article"><!-- leave this alone -->
+<div id="open"><!-- leave this alone -->
+<h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
+
+- [Förderung zur Krisen-Beratung][]
+    - [Unternehmen und Selbständige in der Corona-Krise][]
+    - [Formulierungshilfe zur Begründung][]
+    - [Ausfüllanleitung Antrag][]
+
+- [◀ zurück zum Leitfaden](/)
+
+</div><!-- leave this alone -->
+<h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
+</nav><!-- leave this alone -->
+
+
+
+# Förderung zur Krisen-Beratung
+
+**Nur noch kurze Zeit**: *Es gibt staatliche Förderung für Beratung zur Corona-Krise. Unternehmen, die durch die Krise in Schwierigkeiten geraten sind, können sich eine Beratung ohne Vorfinanzierung zu 100% fördern lassen. Die häufigsten Fragen zum Ausfüllen des Antrags haben wir in einem kommentierten Beispiel des Antrags-Formulares aufgegriffen.*
+<p class="text-small text-right"><a href="#ausfüllanleitungantrag"><span aria-hidden="true">→ </span>direkt zur Ausfüll-Anleitung springen</a>
+
 
 
 ## Unternehmen und Selbständige in der Corona-Krise
@@ -12,38 +32,42 @@ Dazu gibt es für begrenzte Zeit eine spezielle Form der Beratung zu "Unternehme
 
 Die Antragsstellung für diese Sonderförderung beschränkt sich auf ein Online-Formular und ein Dokument, in dem Sie Ihren Fall erklären.
 
+Stellen Sie sich auf lange Wartezeit für den Projektbeginn der Beratung ein. Womöglich mehrere Monate. Die Behörde ist von den Anfragen derzeit etwas überfordert. Um so wichtiger, dass Sie als betroffenes Unternehmen so bald wie möglich den Antrag stellen. Sprechen Sie uns an, ob wir flexible Lösungen für schnelle Hilfen außerhalb der Projektlaufzeit für Sie finden.
+
 Damit die Antragsstellung noch einfacher geht, haben wir die Fragen, die uns bei der Begleitung vergangener Projekte trotz der amtlichen Dokumentation immer wieder begegneten, hier einmal anhand des Formulars selbst veranschaulicht.
 
 
-<span id="formulierung"></span>
-## Erklärung zur Corona-Betroffenheit
+
+## Formulierungshilfe zur Begründung
 
 Zur Antragsstellung müssen Sie eine Begründung anfügen: Wie und warum die Corona-Krise Ihr Unternehmen in wirtschaftlichen Schwierigkeiten bringt. Diese Begründung sollte plausibel und anschaulich formuliert sein. Natürlich muss sie auch wahrheitsgemäß sein und einer Überprüfung Stand halten.
 
-Denken Sie daran: Die Sachbearbeiterinnen und Sachbearbeiter wollen Ihnen helfen und haben viel Verständnis für mangelnde Erfahrung im Antragswesen. So lange Sie sich verständlich machen und Ihr Anliegen nachvollziehbar argumentieren, wird die Bürokratie Ihnen mit Nachsicht begegnen.
+Die Sachbearbeiterinnen und Sachbearbeiter wollen Ihnen helfen und haben viel Verständnis für mangelnde Erfahrung im Antragswesen. So lange Sie sich verständlich machen und Ihr Anliegen nachvollziehbar argumentieren, wird die Bürokratie Ihnen mit Nachsicht begegnen.
 
 
-### Lückentext als Formulierungs-Hilfe
+
+### Lückentext zur Corona-Betroffenheit
 
 <blockquote>
-			<p>Das Unternehmen .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. ist von der Corona-Krise vor wirtschaftliche Schwierigkeiten gestellt:</p>
-			<p>Der Geschäftszweck des Unternehmens ist .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. , dabei erfüllen wir unsere Leistungsangebote, in dem wir .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
-			<p>Wir sind dementsprechend von der Corona-Krise betroffen, weil wir .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
-			<p>Auswirkungen auf unsere Umsätze und Auftragslage schätzen wir für die nächsten Monate auf .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. und erste Erfahrungen zeigen, dass wir bereits jetzt .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
-			<p>Dementsprechend müssen wir schnell strategische Anpassungen vornehmen und möchten über eine Beratung spezialisiertes Wissen erwerben.</p>
-			<p>Ort .&nbsp;.&nbsp;.&nbsp;.&nbsp;. , Datum .&nbsp;.&nbsp;.&nbsp;.&nbsp;. , Name .&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
-		</blockquote>
+	<p>Das Unternehmen .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. ist von der Corona-Krise vor wirtschaftliche Schwierigkeiten gestellt:</p>
+	<p>Der Geschäftszweck des Unternehmens ist .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. , dabei erfüllen wir unsere Leistungsangebote, in dem wir .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
+	<p>Wir sind dementsprechend von der Corona-Krise betroffen, weil wir .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
+	<p>Auswirkungen auf unsere Umsätze und Auftragslage schätzen wir für die nächsten Monate auf .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;. und erste Erfahrungen zeigen, dass wir bereits jetzt .&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
+	<p>Dementsprechend müssen wir schnell strategische Anpassungen vornehmen und möchten über eine Beratung spezialisiertes Wissen erwerben.</p>
+	<p>Ort .&nbsp;.&nbsp;.&nbsp;.&nbsp;. , Datum .&nbsp;.&nbsp;.&nbsp;.&nbsp;. , Name .&nbsp;.&nbsp;.&nbsp;.&nbsp;.</p>
+</blockquote>
 
 Speichern Sie ein entsprechend formuliertes Dokument unter dem Namen "Corona betroffen" für die spätere Verwendung ab.
 
 
-
-<span id="anleitung"></span>
 ## Ausfüllanleitung Antrag
 
-Sie finden das Antragsformular <a href="https://fms.bafa.de/BafaFrame/unternehmensberatung"><span aria-hidden="true">→ </span>online bei der BAFA</a>.
+Sie finden das Antragsformular <a href="https://fms.bafa.de/BafaFrame/unternehmensberatung"><span aria-hidden="true">→ </span>online beim Bundesamt</a>.
 
-<img src="start.jpg" alt="Bildschirmansicht Antragsformular" class="drop-shadow">
+![][test]
+
+[test]: start.jpg "Antragsformular" alt="Bildschirmansicht Antragsformular" class="drop-shadow"
+
 
 Sie können erst starten, wenn Sie anklicken, dass Sie mit den Datenschutz-Bestimmungen einverstanden sind. Wenn Sie anklicken, dass Sie von der Corona-Krise betroffen sind, passt sich das Formular dementsprechend an.
 
@@ -70,11 +94,3 @@ Sie müssen nun noch ein paar Aussagen bestätigen. Die Förderung ist nicht fü
 <img src="ende.jpg" alt="Bildschirmansicht Antragsformular" class="drop-shadow">
 
 Schon fertig. Nach dem Klick werden Sie zum Portal weiter geleitet, wo Sie Ihre Erklärung zum Status als betroffenes Unternehmen hoch laden müssen.
-
-<hr>
-
-<em>Gemeinsam schaffen wir das. Wir stehen für Rückfragen und professionelle Unterstützung in der schwierigen Zeit gern zur Verfügung. Wir finden schon eine Lösung, auch für besondere Bedürfnisse zu Umsetzung und Bezahlung.</em>
-
-<p class="text-center"><span class="js-cta">Kontakt: jakob [at] pixelcraft.pub</span></p>
-		
-<p><em>Bleiben Sie optimistisch, bleiben Sie pragmatisch, bleiben Sie solidarisch!</em></p>

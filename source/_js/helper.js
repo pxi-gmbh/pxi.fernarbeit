@@ -28,42 +28,6 @@
 // * Put a span with class="js-XXemail" where you want the link,
 // * Add <script>window.onload = myEmail();</script> after calling this script.
 //
-function myEmail() {
-	var eml  = 'hallo'   // The email address...
-	eml += '@'
-	eml += 'pixelcraft.pub'
-
-	var link = document.createElement("a");
-	link.setAttribute("href", "mailto:" + eml);
-	link.appendChild(document.createTextNode(eml));
-	var spans = getElementsByClass("span", "js-email");
-	for (var i = 0; i < spans.length; i++)
-		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
-	
-	
-	var dataeml  = 'datenschutz'              // The email address...
-	dataeml += '@'
-	dataeml += 'pixelcraft.pub'
-	
-	var link = document.createElement("a");
-	link.setAttribute("href", "mailto:" + dataeml);
-	link.appendChild(document.createTextNode(dataeml));
-	var spans = getElementsByClass("span", "js-dataemail");
-	for (var i = 0; i < spans.length; i++)
-		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
-	
-	
-	var ctatext = 'schreiben Sie uns ⩤' // The CTA
-	
-	var link = document.createElement("a");
-	link.setAttribute("href", "mailto:" + eml);
-	link.setAttribute("class", "button");
-	link.appendChild(document.createTextNode(ctatext));
-
-	var spans = getElementsByClass("span", "js-cta");
-	for (var i = 0; i < spans.length; i++)
-		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
-}
 // Returns an array of elements with the given class
 function getElementsByClass(elem, classname) {
 	var classes = new Array();
@@ -73,10 +37,32 @@ function getElementsByClass(elem, classname) {
 			classes[classes.length] = alltags[i];
 	return classes;
 }
+function myEmail() {
+	var eml  = 'fernarbeit'   // The email address...
+	eml += '@'
+	eml += 'pxi.gmbh'
 
+	var link = document.createElement("a");
+	link.setAttribute("href", "mailto:" + eml);
+	link.appendChild(document.createTextNode(eml));
+	var spans = getElementsByClass("span", "js-email");
+	for (var i = 0; i < spans.length; i++)
+		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
+}
+function datenschutzEmail() {
+	var eml  = 'datenschutz'   // The email address...
+	eml += '@'
+	eml += 'pxi.gmbh'
 
+	var link = document.createElement("a");
+	link.setAttribute("href", "mailto:" + eml);
+	link.appendChild(document.createTextNode(eml));
+	var spans = getElementsByClass("span", "js-datenschutz-email");
+	for (var i = 0; i < spans.length; i++)
+		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
+}
 
-// FRAMEBREAKER 
+// FRAMEBREAKER
 // (disable viewing this site in iframes)
 // Usage:
 // * Add <script>window.onload = frameBreaker();</script> after calling this script.
@@ -88,24 +74,35 @@ function frameBreaker()
   }
 }
 
+// Helper for _navmenu.css
+// close Menu with ID #open if the user clicks outside of it
+document.addEventListener("click", (evt) => {
+    const flyoutElement = document.getElementById("open");
+    let targetElement = evt.target; // clicked element
+    do {
+        if (targetElement == flyoutElement) {
+            // This is a click inside. Do nothing, just return.
+            // document.getElementById("flyout-debug").textContent = "Clicked inside!"; // add div with id flyout debug to HTML, comment in for debugging
+            return;
+        }
+        // Go up the DOM
+        targetElement = targetElement.parentNode;
+    } while (targetElement);
 
-// NAV DROPDOWN 
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function navDropdownFunction() {
-  document.getElementById("nav-dropdown").classList.toggle("show");
-}
+    // This is a click outside.
+    // Simulate a click event on link to update :active #ID to #close
+    var simulateClick = function (elem) {
+    	// Create our event (with options)
+    	var evt = new MouseEvent('click', {
+    		bubbles: true,
+    		cancelable: true,
+    		view: window
+    	});
+    	// If cancelled, don't dispatch our event
+    	var canceled = !elem.dispatchEvent(evt);
+    };
+    var closeNavMenu = document.querySelector('#nav--close'); // execute on navigation-closing link ID
+    simulateClick(closeNavMenu);
 
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbutton')) {
-    var dropdowns = document.getElementsByClassName("nav-dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
+    // document.getElementById("flyout-debug").textContent = "Clicked outside!"; // see debug above
+});

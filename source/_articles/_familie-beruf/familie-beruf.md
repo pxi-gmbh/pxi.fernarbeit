@@ -1,10 +1,28 @@
-<small>Die Arbeit zu Hause bringt besondere Belastungen für Menschen mit Kindern. Respektieren Sie, dass die Ausnahmesituation die Produktivität von Eltern dramatisch beeinträchtigt. Gehen Sie das Problem aktiv an und formulieren Sie gemeinsam angepasste Erwartungen. Scheitern gehört zum Ausprobieren und Lernen dazu. Machen Sie das beste daraus.</small>
+<nav class="nav--article"><!-- leave this alone -->
+<div id="open"><!-- leave this alone -->
+<h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
 
-<small>Niemand kann mit voller Aufmerksamkeit gleichzeitig Arbeit und Kinderbetreuung leisten. Wir wollen ein paar Hilfestellungen und Erfahrungen anbieten, wie gut geplante Struktur die Belastung etwas milder gestalten kann.</small>
+- [Arbeit gerecht verteilen][]
+    - [Unternehmerische Fürsorge-Aufgaben][]
+    - [Eltern zwischen Arbeit und Betreuung][]
+    - [24h mit Kind: Der Plan auf einer Uhr][]
+    - [Ein Wochenplan für Arbeit und Familie][]
+    - [Der Rhythmus verschiedener Arbeit][]
 
-<p class="text-right text-small" style="margin-top:0;"><a href="#24h-schablone"><span aria-hidden="true">→ </span>zur Schablone für Tages-Planung</a></p>
+- [◀ zurück zum Leitfaden](/)
 
-<span id="unternehmen"></span>
+</div><!-- leave this alone -->
+<h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
+</nav><!-- leave this alone -->
+
+# Arbeit gerecht verteilen
+
+*Die Arbeit zu Hause bringt besondere Belastungen für Menschen mit Kindern. Respektieren Sie, dass die Ausnahmesituation die Produktivität von Eltern dramatisch beeinträchtigt. Gehen Sie das Problem aktiv an und formulieren Sie gemeinsam angepasste Erwartungen. Scheitern gehört zum Ausprobieren und Lernen dazu. Machen Sie das beste daraus.*
+
+Niemand kann mit voller Aufmerksamkeit gleichzeitig Arbeit und Kinderbetreuung leisten. Wir wollen ein paar Hilfestellungen und Erfahrungen anbieten, wie gut geplante Struktur die Belastung etwas milder gestalten kann.
+
+
+
 ## Unternehmerische Fürsorge-Aufgaben
 
 Unternehmen tragen Verantwortung für Ihre Angestellten. Aber auch die Menschen in Führungspositionen müssen sich erst mit der Krise arrangieren. Seien Sie nachsichtig mit sich und anderen. Und denken Sie daran: Menschen gehen sehr unterschiedlich mit Stress um.
@@ -17,8 +35,8 @@ Bieten Sie neben Hilfe zur Umstellung auf neue Arbeitsformen auch Unterstützung
 
 <label for="2" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="2" class="margin-toggle"/><span class="marginnote">**Tipp:**
-ein <a href="https://www.deutsche-depressionshilfe.de/unsere-angebote/fuer-betroffene-und-angehoerige/ifightdepression-tool">Angebot der Stiftung Deutsche Depressions-Hilfe</a> ist ausnahmsweise unbürokratisch per App freigeschaltet. 
-</span>Professionelle Unterstützung zur geistigen Gesundheit ist von Unternehmen selbst schwer zu leisten. Ermuntern Sie Ihre Belegschaft dazu, Stress ernst zu nehmen und verweisen Sie auf entsprechende Angebote. 
+ein <a href="https://www.deutsche-depressionshilfe.de/unsere-angebote/fuer-betroffene-und-angehoerige/ifightdepression-tool">Angebot der Stiftung Deutsche Depressions-Hilfe</a> ist ausnahmsweise unbürokratisch per App freigeschaltet.
+</span>Professionelle Unterstützung zur geistigen Gesundheit ist von Unternehmen selbst schwer zu leisten. Ermuntern Sie Ihre Belegschaft dazu, Stress ernst zu nehmen und verweisen Sie auf entsprechende Angebote.
 
 Geben Sie Ihren Angestellten die passenden Werkzeuge an die Hand, um für die neuen Anforderungen gerüstet zu sein. Stellen Sie Büromaterial und Geräte, um die Belastung zu minimieren.
 
@@ -26,10 +44,11 @@ Menschen neigen angesichts der Erfahrung von Kontrollverlust dazu, sich Kontroll
 
 <label for="3" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="3" class="margin-toggle"/><span class="marginnote">**Lesematerial:**
-Das <a href="https://jbi.or.at/marie-jahoda/arbeit/">Jahoda Bauer Institut</a> fasst Marie Jahodas Arbeit über Arbeit zusammen. 
+Das <a href="https://jbi.or.at/marie-jahoda/arbeit/">Jahoda Bauer Institut</a> fasst Marie Jahodas Arbeit über Arbeit zusammen.
 </span>Erwerbstätigkeit leistet in unserer Gesellschaft einen wichtigen Beitrag zu Persönlichkeits-Entfaltung und Selbstwert. Tagesrhythmus, sozialer Horizont und Zusammenhalt werden maßgeblich von Arbeit bestimmt. Diese Verankerungs-Funktion sollten Sie auch für Fernarbeit so weit wie möglich erhalten und pflegen.
 
-<span id="eltern"></span>
+
+
 ## Eltern zwischen Arbeit und Betreuung
 
 <label for="4" class="margin-toggle">⨭ …</label>
@@ -48,7 +67,8 @@ Gönnen Sie sich und Ihrer Familie gesunde, regelmäßige Mahlzeiten, ausreichen
 
 Im besten Fall können Sie die Betreuungsarbeit aufteilen. Treffen Sie hier klare Absprachen, vielleicht schreiben Sie ein Manifest der gemeinsamen Arbeit zu Hause, wie Sie es für die Fernarbeit geschrieben haben. Passen Sie es an, wenn Sie wieder dazu gelernt haben. Jede Woche.
 
-<span id="24h-schablone"></span>
+
+
 ## 24h mit Kind: Der Plan auf einer Uhr
 
 Suchen Sie gemeinsam mit Ihrem Kind Struktur und helfen Sie einander, diese Struktur im Alltag sichtbar zu machen. Bringen Sie Ihre Kompetenz aus Projektmanagement und Basteln zusammen und gestalten gemeinsam einen Tag.
@@ -65,8 +85,9 @@ Strukturieren Sie einen groben Takt um die Essenszeiten und Schlafen, und was Si
 <label for="5" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="5" class="margin-toggle"/><span class="marginnote">Link zu <a href="https://www.amazon.de/gp/product/B006XHZ7X4/">Artikel bei Amazon</a>. Link ohne Affiliate-Tracking: Wir verdienen nichts daran.</span> Zum Glück gibt es Uhren, die für ein 24-Stunden-Zifferblatt gedacht sind. Dort können Sie einen ganzen Tag einzeichnen. Kleben Sie Ihren Plan über das reguläre Zifferblatt und entfernen Sie den Minutenzeiger. Minutengenaue Planung ist mit Kindern ohnehin wenig erfolgversprechend, dafür ist mit nur einem Zeiger der Plan viel mehr im Vordergrund als die Zeitmessung. Die Aktivitäten können Sie dann immer wieder neu außen auf der Uhr sortieren.
 
-<span id="beispiel-plan"></span>
-## Ein Wochenplan für Arbeit und Familie</span>
+
+
+## Ein Wochenplan für Arbeit und Familie
 
 Verteilen Sie Arbeit um die Bedürfnisse Ihrer Kinder und Ihrer Gesundheit herum. Wir haben einen Beispielplan entworfen, wie im besten Fall die Arbeitszeit und Betreuungszeit von zwei Elternteilen zu Hause gerecht verteilt werden kann.
 
@@ -77,8 +98,9 @@ Verteilen Sie Arbeit um die Bedürfnisse Ihrer Kinder und Ihrer Gesundheit herum
 
 Der Plan ist außerdem Grundlage für die Visualisierung des Rhythmus, den wir in unserer Agentur gefunden haben, die verschiedenen Tagesabläufe zu koordinieren.
 
-<span id="arbeit"></span>
-## Der Takt der Arbeit
+
+
+## Der Rhythmus verschiedener Arbeit
 
 <label for="7" class="margin-toggle">⨭ …</label>
 <input type="checkbox" id="7" class="margin-toggle"/><span class="marginnote">**Jakob:**
@@ -94,11 +116,3 @@ Helfen Sie Ihrer Belegschaft, Grenzen zu ziehen und Freizeit zu schützen. Biete
 Wir erwarten bei Paaren mit Kleinkindern 50% der Arbeitsleistung. Das kommunizieren wir absichtlich offensiv, damit unsere Forderung auch als Beitrag zur Gleichberechtigung eingesetzt werden kann: Es soll nicht eine Frau ihre Arbeit vernachlässigen, weil die Arbeit ihres Partners einen höheren Stellenwert bekommt.
 
 Für Alleinerziehende und Menschen, deren Partner oder Partnerin tatsächlich eine systemrelevante Aufgabe während der Krise übernehmen, finden wir individuelle Lösungen.
-
-<hr>
-
-*Gemeinsam schaffen wir das. Wir stehen für Rückfragen und professionelle Unterstützung in der schwierigen Zeit gern zur Verfügung. Wir finden schon eine Lösung, auch für besondere Bedürfnisse zu Umsetzung und Bezahlung.*
-
-<p class="text-center"><span class="js-cta">Kontakt: jakob [at] pixelcraft.pub</span></p>
-
-*Bleiben Sie optimistisch, bleiben Sie pragmatisch, bleiben Sie solidarisch!*

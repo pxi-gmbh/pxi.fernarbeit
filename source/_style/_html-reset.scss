@@ -2,9 +2,9 @@
 html {
   color: $color-dark;
   background-color: $color-light;
-  font-family: $font-serif; /* change default in all browsers to system font */
+  font-family: $font-body; /* change default in all browsers to system font */
   font-size: 100%; /* start with browser default (16px) */
-  font-size-adjust: $font-size-adjust;	
+  font-size-adjust: $font-size-adjust;
   font-smoothing: $font-smoothing;
   font-feature-settings: $font-feature-settings;
   text-size-adjust: $text-size-adjust;
