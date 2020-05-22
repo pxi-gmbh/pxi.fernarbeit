@@ -9,17 +9,17 @@
     - [Zeit-Verwaltung][] (Zeit messen, für andere transparent machen)
     - [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
     - [Infrastruktur-Verwaltung][] (Internet-Probleme beheben)
-    - [Daten-Souveränität][] (Kontrolle über Daten behalten mit Verschlüsselung & Passwörtern)
-    - [Versions-Kontrolle][] (Änderungen an Dateien transparent nachvollziehen)
-    - [Parallel-Arbeit an Text][] (live editieren, kommentieren, Urheberschaft sehen)
-    - [Parallel-Arbeit mit Visualisierungen][] (virtuelle Whiteboards, Klebezettel und Canvas-Vorlagen)
-    - [Austausch in Text-Nachrichten][](Chat und Messenger-Dienste)
-    - [Austausch in Video-Konferenzen][](Video-Telefonate und Webinare)
-    - [Fernzugriff auf Computer][] (Fernsteuerung eines anderen Computers von zu Hause)
-    - [Publikums-Interaktion][] (Umfragen, Interaktion und Informations-Kanäle für Online-Konferenzen)
-    - [Video-Produktions-Hilfen][] (Inhalte für Aufzeichnungen oder Streams in Video-Konferenzen aufbereiten)
+    - [Daten-Souveränität][] (Verschlüsselung & Passwörter)
+    - [Versions-Kontrolle][] (Änderungen transparent nachvollziehen)
+    - [Parallel-Arbeit an Text][] (live editieren, kommentieren)
+    - [Parallel-Arbeit mit Visualisierungen][] (Whiteboards & Post-Its)
+    - [Austausch in Text-Nachrichten][](Chat & Messenger-Dienste)
+    - [Austausch in Video-Konferenzen][](Video-Telefonate & Webinare)
+    - [Fern-Zugriff][] (Fernsteuerung eines anderen Computers)
+    - [Publikums-Interaktion][] (Umfragen & Information für Konferenzen)
+    - [Video-Produktions-Hilfen][] (für Aufzeichnungen & live-Webinare)
     - [Prokrastinations-Bekämpfung][] (Ablenkung beschränken)
-    - [Begegnung in Virtueller Realität][] (frei nutzbare virtuelle Begegnungsräume)
+    - [Virtuelle Realität][] (virtuelle Begegnungsräume)
 
 - [◀ zurück zum Leitfaden](/)
 
@@ -447,7 +447,7 @@ macht nur Video-Konferenzen, die macht es aber ziemlich robust. Gute Funktionali
 
 
 
-## Fern-Zugriff auf Computer
+## Fern-Zugriff
 
 *Vielleicht müssen Sie von zu Hause auf einen leistungsfähigeren Rechner im Büro zugreifen, mit spezieller Software. Oder Sie wollen jemand anderem beim Einrichten von Software auf deren Rechner helfen.*
 
@@ -555,9 +555,10 @@ ist eine Android-App, die spielerisch hilft, das Handy vorübergehend wegzulegen
 
 
 
-## Begegnung in Virtueller Realität
+## Virtuelle Realität
 
 *Die nächste Evolutions-Stufe für die Online-Simulation von gemeinsamer Präsenz im Raum sind Virtual-Reality-Anwendungen. Die ersten Dienste können schon echten Nutzen in begrenzten Aufgabenbereichen schaffen. Wir sammeln nach und nach die überzeugendsten Erfahrungen.*
+
 
 ##### [MozillaHubs](https://hubs.mozilla.com/) [MozillaHubs]
 ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung (insbesondere, wenn der Raum eingerichtet wird und Interaktions-Möglichkeiten beschränken werden können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchen-Bildung um Gespräche ab.
