@@ -1,0 +1,9 @@
+.gitignore
+*/.git
+.git-ftp-ignore
+*/.github
+*.yml
+*/_drafts
+.config.codekit3
+*/source
+README.md

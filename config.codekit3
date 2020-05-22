@@ -39,12 +39,6 @@
 		"oAP": "/build/_drafts",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -1095,7 +1089,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "logo-react",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 611841261.59398198
+	"lastBuiltDate": 611846021.62261403
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

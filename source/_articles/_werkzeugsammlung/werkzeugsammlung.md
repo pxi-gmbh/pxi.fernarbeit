@@ -6,16 +6,20 @@
     - [Datei-Verwaltung][] (Cloud-Speicher & Synchronisation)
     - [Aufgaben-Verwaltung][] (Projektmanagement)
     - [Wissens-Verwaltung][] (Dokumentation & Notizen)
-    - [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
     - [Zeit-Verwaltung][] (Zeit messen, für andere transparent machen)
+    - [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
+    - [Infrastruktur-Verwaltung][] (Internet-Probleme beheben)
     - [Daten-Souveränität][] (Kontrolle über Daten behalten mit Verschlüsselung & Passwörtern)
     - [Versions-Kontrolle][] (Änderungen an Dateien transparent nachvollziehen)
     - [Parallel-Arbeit an Text][] (live editieren, kommentieren, Urheberschaft sehen)
     - [Parallel-Arbeit mit Visualisierungen][] (virtuelle Whiteboards, Klebezettel und Canvas-Vorlagen)
-    - [Austausch in Video-Konferenzen][](Chat)
-    - [Austausch in Text-Nachrichten][](Chat)
-    - [Video-Produktions-Hilfen][] (Inhalte für Aufzeichnungen oder Streams in Videokonferenzen aufbereiten)
+    - [Austausch in Text-Nachrichten][](Chat und Messenger-Dienste)
+    - [Austausch in Video-Konferenzen][](Video-Telefonate und Webinare)
     - [Fernzugriff auf Computer][] (Fernsteuerung eines anderen Computers von zu Hause)
+    - [Publikums-Interaktion][] (Umfragen, Interaktion und Informations-Kanäle für Online-Konferenzen)
+    - [Video-Produktions-Hilfen][] (Inhalte für Aufzeichnungen oder Streams in Video-Konferenzen aufbereiten)
+    - [Prokrastinations-Bekämpfung][] (Ablenkung beschränken)
+    - [Begegnung in Virtueller Realität][] (frei nutzbare virtuelle Begegnungsräume)
 
 - [◀ zurück zum Leitfaden](/)
 
@@ -49,7 +53,7 @@ ist eine Open-Source-Lösung für voll-verschlüsselte Zusammenarbeit an Dateiau
 
 
 ##### [Circuit](https://www.circuit.com/) [Circuit]
-ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen (Chats, Videokonferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
+ist ein virtuelles Büro, wo um Gespräche herum über eine zentral geteilte Oberfläche Informationen (Chats, Video-Konferenz und Dateien) ausgetauscht werden. Keine kostenlose Variante. Browser-zentriert, mit Apps für mobile Geräte.
 
 
 ##### [Dropbox](https://www.dropbox.com/de/basic) [Dropbox]
@@ -177,6 +181,36 @@ ein Klassiker für deutsche Netznutzende: bietet einen detaillierten Überblick 
 
 ##### [downforerveryoneorjustme](https://downforeveryoneorjustme.com) [downforerveryoneorjustme]
 hier lässt sich eine Anfrage starten, ob die Webseite nur lokal, bei Ihnen nicht erreichbar ist, oder ob ein generelles Problem besteht und sie aktuell gar nicht erreichbar ist.
+
+
+
+## Daten-Souveränität
+
+*Spätestens bei sensiblen Daten ist Verschlüsselung angeraten. Besonders, wenn die Dateien dazu in der Cloud geteilt werden. Dazu brauchen Sie noch eine Zugriffs-Verwaltung für die ganzen Zugangs-Daten gemeinsam genutzter Web-Apps.*
+
+
+##### [1Password](https://blog.1password.com/covid-19-response/) [1Password]
+ist ein MacOS und iOS Passwort-Manager für Gruppen und derzeit für Unternehmen ein halbes Jahr kostenlos.
+
+
+##### [7zip](https://www.7-zip.de/) (★) [7zip]
+ist eine freies Packprogramm, mit dem Dateiarchive verschiedener Formate gepackt, entpackt und verschlüsselt werden können.
+
+
+##### [boxcryptor](https://www.boxcryptor.com/de/) [boxcryptor]
+Ende-zu-Ende Verschlüsselung von Dateien in Cloud-Speichern wie Dropbox, OneDrive und Co. Gratis für private Nutzung (ein Cloud-Dienst). Eine nutzungsfreundliche Lösung aus Deutschland mit Apps auch für mobile Verwaltung und Zugriff.
+
+
+##### [Dashlane](https://www.dashlane.com/de) [Dashlane]
+ist ein plattformübergreifender Passwortmanager. In der Freien Version lassen sich bis zu 50 Passwörter sicher verwalten. Darüber hinaus sind mehr Admin-Optionen für Unternehmen, Zugriffsrechte und Regeln feinkörnig vorzugeben.
+
+
+##### [GPG](https://www.openpgp.org) (★)  [GPG]
+E-Mail-Verschlüsselung und digitale Fingerabdruck-Signatur, auch für einzelne Textdateien nutzbar. Open-Source-Standard prinzipiell kostenlos - nutzungsfreundliche Oberflächen z.B. für MacOS kosten allerdings Geld.
+
+
+##### [KeePassXC](https://keepass.info/index.html)(★) [KeePassXC]
+ist freie, quelloffene Software basierend auf [KeePass](https://keepass.info/index.html) für alle Betriebssysteme, auch ohne Installation nutzbar (auf USB-Stick selbstgenügsam).
 
 
 
@@ -338,13 +372,13 @@ ist auch ein Chat, aber für nicht-synchrone Kommunikation optimiert. Geld koste
 
 
 
-## Video-Konferenz
+## Austausch in Video-Konferenzen
 
-*Für gleichzeitige, synchrone Kommunikation ist die Video-Konferenz der Standard für dezentral verteilte Arbeit. Über Bild und Ton zusammen werden mehr Informationen vermittelt, als nur am Telefon. Außerdem lassen sich in das Video-Bild auch externe Werkzeuge einbinden. Häufig über die Apps selbst, für mehr Kontrolle empfehlen wir einen Blick in die [Video-Produktions-Hilfen][]*
+*Für gleichzeitige, synchrone Kommunikation ist die Video-Konferenz der Standard für vernetzt verteilte Arbeit. Über Bild und Ton zusammen werden mehr Informationen vermittelt, als nur am Telefon. Außerdem lassen sich in das Video-Bild auch externe Werkzeuge einbinden. Häufig über die Apps selbst, für mehr Kontrolle empfehlen wir einen Blick in die [Video-Produktions-Hilfen][]*
 
 
 ##### [Adobe Connect](https://www.adobe.com/products/adobeconnect.html) [Adobe Connect]
-bietet neben Videokonferenzen auch Funktionalität für Webinare und E-Learning. Verbreitet im universitären Bildungs-Bereich. Für 90 Tage steht ein freier Zugang der Angebote zur Verfügung.
+bietet neben Video-Konferenzen auch Funktionalität für Webinare und E-Learning. Verbreitet im universitären Bildungs-Bereich. Für 90 Tage steht ein freier Zugang der Angebote zur Verfügung.
 
 
 ##### [BigBlueButton](https://bigbluebutton.org/) [BigBlueButton]
@@ -352,7 +386,7 @@ ist ein Open-Source-System zur Umsetzung von Webinaren mit Fokus auf Online-Lear
 
 
 ##### [BlueJeans](https://www.bluejeans.com/) [BlueJeans]
-bietet browser-basierte Videokonferenzen über WebRTC aber auch App-Nutzung. Ein schneller, unkomplizierter Zugang zu Videokonferenzen liegt hier im Fokus. Je nach Abonnement lässt es sich in weitere Konferenzsysteme wie Teams oder Slack einbetten. Der Einstiegsplan richtet sich an Einzelpersonen und kleinere Teams mit einer Funktionalität für bis zu 50 Personen.
+bietet browser-basierte Video-Konferenzen über WebRTC aber auch App-Nutzung. Ein schneller, unkomplizierter Zugang zu Video-Konferenzen liegt hier im Fokus. Je nach Abonnement lässt es sich in weitere Konferenzsysteme wie Teams oder Slack einbetten. Der Einstiegsplan richtet sich an Einzelpersonen und kleinere Teams mit einer Funktionalität für bis zu 50 Personen.
 <label for="aside--WebRTC-notiz" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
 
 <input type="checkbox" id="aside--WebRTC-notiz" class="aside-toggle"/>
@@ -373,7 +407,7 @@ war früher als Quasi-Standard der Video-Konferenz in großen Unternehmen recht 
 
 
 ##### [jitsi](https://meet.jit.si) [jitsi]
-ist permanent kostenlos. Eine Open-Source-Lösung zu Videokonferenzen, wo Sie sich selbst um Einrichtung und Hosting kümmern müssen. Dafür dankbar für Datenschutz-Bedenken. Wenn Sie sich auch darum kümmern.
+ist permanent kostenlos. Eine Open-Source-Lösung zu Video-Konferenzen, wo Sie sich selbst um Einrichtung und Hosting kümmern müssen. Dafür dankbar für Datenschutz-Bedenken. Wenn Sie sich auch darum kümmern.
 
 
 ##### [Rainbow](https://www.al-enterprise.com/de-de/geschaeftskontinuitaet) [Rainbow]
@@ -384,12 +418,12 @@ verbindet Anruf-Weiterleitung und Fernzugriff mit Video-Konferenz, 3 Monate kost
 bietet kostenlose Videotelefonie für bis zu 5 Personen und ist Geheimtipp für Geschäftsanrufe ins Ausland: Stabilere Verbindung als manche VoIP-Telefonate. Nutzt andere Server als Skype for Business (und die Nachfolge MS Teams). Daumen drücken, dass es noch lange hält.
 
 
-#### [https://talque.com](https://talque.com/) [talque]
+##### [talque](https://talque.com/) [talque]
 integriert [jitsi][] mit aufgeräumter Oberfläche in eine Konferenz-Management-App (Web und Mobile) und kann dadurch sowohl Präsenzveranstaltungen als auch virtuelle Konferenzen abbilden. Die Einladung gelingt allerdings nur per E-Mail, dann kann ein Share-Link aus der laufenden Instanz auch anonym weiter gegeben werden.
 
 
 ##### [videofacilitator](https://www.videofacilitator.com/) [videofacilitator]
-ermöglicht Videokonferenzen mit Fokus auf deren Steuerbarkeit und guter Mobilität innerhalb verschiedener Braekoutrooms, also unterteilten Arbeitsräumen. Mit 30 Tagen freier Testnutzung.
+ermöglicht Video-Konferenzen mit Fokus auf deren Steuerbarkeit und guter Mobilität innerhalb verschiedener Braekoutrooms, also unterteilten Arbeitsräumen. Mit 30 Tagen freier Testnutzung.
 
 
 ##### [WebEx](https://gblogs.cisco.com/de/coronavirus-cisco-erweitert-kostenloses-webex-angebot/) [WebEx]
@@ -397,7 +431,7 @@ integriert Video-Konferenzen zu Meetings und Austausch. Kostenlos für Unternehm
 
 
 ##### [Whereby](whereby.com) (★) [Whereby]
-bietet Video-Konferenz ohne Anmeldung oder Konto, Fokus auf den Browser, mit individuell wählbaren URLs. Freundlicher zur Datensparsamkeit. App gibt es auch. Gratisversion ist mit bis zu 4 Personen in einem virtuellen Konferenzraum nutzbar.
+bietet Video-Konferenz ohne Anmeldung oder Konto, Fokus auf den Browser, mit individuell wählbaren URLs. Freundlich zur Datensparsamkeit. App gibt es auch. Gratisversion ist mit bis zu 4 Personen in einem virtuellen Konferenzraum nutzbar.
 
 
 ##### [Zoom](https://zoom.us) [Zoom]
@@ -492,32 +526,6 @@ visualisiert Mauszeiger-Aktionen und Tastatureingaben auf macOS. Bei Aktivierung
 
 
 
-## Daten-Souveränität
-
-##### [1Password](https://blog.1password.com/covid-19-response/) [1Password]
-ist ein MacOS und iOS Passwort-Manager für Gruppen und derzeit für Unternehmen ein halbes Jahr kostenlos.
-
-
-##### [7zip](https://www.7-zip.de/) (★) [7zip]
-ist eine freies Packprogramm, mit dem Dateiarchive verschiedener Formate gepackt, entpackt und verschlüsselt werden können.
-
-
-##### [boxcryptor](https://www.boxcryptor.com/de/) [boxcryptor]
-Ende-zu-Ende Verschlüsselung von Dateien in Cloud-Speichern wie Dropbox, OneDrive und Co. Gratis für private Nutzung (ein Cloud-Dienst). Eine nutzungsfreundliche Lösung aus Deutschland mit Apps auch für mobile Verwaltung und Zugriff.
-
-##### [Dashlane](https://www.dashlane.com/de) [Dashlane]
-ist ein plattformübergreifender Passwortmanager. In der Freien Version lassen sich bis zu 50 Passwörter sicher verwalten. Darüber hinaus sind mehr Admin-Optionen für Unternehmen, Zugriffsrechte und Regeln feinkörnig vorzugeben.
-
-
-##### [GPG](https://www.openpgp.org) (★)  [GPG]
-E-Mail-Verschlüsselung und digitale Fingerabdruck-Signatur, auch für einzelne Textdateien nutzbar. Open-Source-Standard prinzipiell kostenlos - nutzungsfreundliche Oberflächen z.B. für MacOS kosten allerdings Geld.
-
-
-##### [KeePassXC](https://keepass.info/index.html)(★) [KeePassXC]
-ist freie, quelloffene Software basierend auf [KeePass](https://keepass.info/index.html) für alle Betriebssysteme, auch ohne Installation nutzbar (auf USB-Stick selbstgenügsam).
-
-
-
 ## Prokrastinations-Bekämpfung
 
 *Es gibt verschiedene Wege, Prokrastination zu begegnen. Manchen helfen Werkzeuge, sich selbst zu disziplinieren und wenigstens digitale Ablenkung zu minimieren.*
@@ -539,9 +547,9 @@ ist eine Android-App, die spielerisch hilft, das Handy vorübergehend wegzulegen
 
 
 
-
-
 ## Begegnung in Virtueller Realität
+
+*Die nächste Evolutions-Stufe für die Online-Simulation von gemeinsamer Präsenz im Raum sind Virtual-Reality-Anwendungen. Die ersten Dienste können schon echten Nutzen in begrenzten Aufgabenbereichen schaffen. Wir sammeln nach und nach die überzeugendsten Erfahrungen.*
 
 ##### [MozillaHubs](https://hubs.mozilla.com/) [MozillaHubs]
 ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung (insbesondere, wenn der Raum eingerichtet wird und Interaktions-Möglichkeiten beschränken werden können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchen-Bildung um Gespräche ab.
