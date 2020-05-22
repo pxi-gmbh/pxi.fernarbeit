@@ -150,9 +150,12 @@ ist ein kostenloser, browser-basierter Timer, der mit anderen über die URL teil
 ist ein Zeiterfassungs-Werkzeug, das die Arbeitszeit von Selbständigen oder Teams erfasst. Neben einer Analyse der Arbeitszeit lässt sich die Erfassung auch mit Rechnungen verknüpfen und so eine genaue Kostenaufstellung bewerkstelligen. Die ersten 30 Tage steht Harvest kostenlos zur Verfügung.
 
 
+##### [Slice](https://slice.wbrain.me) [Slice]
+minimalistische Web-App für einen Timer und geteilte Notizen in Online-Meetings. Die Notizen können anhand von Canvas-Vorlagen gruppiert und zugeordnet werden.
+
+
 ##### [Toggl](https://toggl.com/) [Toggl]
 ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Einstiegs-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahl-Plans. 
-
 
 
 ## Finanz-Verwaltung
