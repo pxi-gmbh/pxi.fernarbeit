@@ -39,6 +39,12 @@
 		"oAP": "/build/_drafts",
 		"oF": 0
 		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -681,9 +687,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/build/werkzeugsammlung/ppt-demo.mp4",
-		"oF": 2
+		"oF": 3
 		},
 	"/source/_articles/_werkzeugsammlung/werkzeugsammlung.md": {
 		"cB": 0,
