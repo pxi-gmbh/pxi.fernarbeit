@@ -17,7 +17,6 @@
     - [Video-Produktions-Hilfen][] (Inhalte für Aufzeichnungen oder Streams in Videokonferenzen aufbereiten)
     - [Fernzugriff auf Computer][] (Fernsteuerung eines anderen Computers von zu Hause)
 
-
 - [◀ zurück zum Leitfaden](/)
 
 </div><!-- leave this alone -->
@@ -154,8 +153,30 @@ ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browse
 
 ## Finanz-Verwaltung
 
+*Buchhaltung und Verwaltung von Belegen für Reisekosten und Rechnungen lassen sich auch per App dezentral verwalten. Damit mehrere Menschen Belege einpflegen können oder das Steuerbüro bei der Verwaltung direkt eingebunden ist.*
+
 ##### [LexOffice](https://lexoffice.de) (★) [LexOffice]
 Buchhaltung und Lohnrechnung online erledigen, Steuerbüro und Bankkonto anschließen. Nutzen wir, hassen den Datei-Upload.
+<label for="aside--github-notiz" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+
+<input type="checkbox" id="aside--github-notiz" class="aside-toggle"/>
+
+**Notiz:** *Im Ausland hatten wir mit einigen anderen Apps zur Finanz-Verwaltung gearbeitet, können aber gerade nicht prüfen, welche davon in Deutschland unter welchen Bedingungen verfügbar sind. Wir kümmern uns später darum.*
+
+
+
+## Infrastruktur-Verwaltung
+
+*Bei den ganzen Online-Werkzeugen ist der eigene Netz-Zugang ein kritischer Punkt. Diese Werkzeuge helfen bei der Suche nach Fehlerquellen.*
+
+##### [Fast.com](https://fast.com/de/) [Fast.com]
+Netflix bietet online eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick und übersichtlicher Ansicht kommt in Sekunden  die Information über die lokale Download-Geschwindigkeit.
+ 
+##### [Wieistmeineip.de](https://www.wieistmeineip.de/)
+ein Klassiker für deutsche Netznutzende: bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Video-Konferenz ausreichend, hängt die Synchronisation von Daten durch mangelnde Netz-Geschwindigkeit hinterher? Hier finden sich Antworten.
+
+##### [downforerveryoneorjustme](https://downforeveryoneorjustme.com) [downforerveryoneorjustme]
+hier lässt sich eine Anfrage starten, ob die Webseite nur lokal, bei Ihnen nicht erreichbar ist, oder ob ein generelles Problem besteht und sie aktuell gar nicht erreichbar ist.
 
 
 
@@ -497,34 +518,27 @@ ist freie, quelloffene Software basierend auf [KeePass](https://keepass.info/ind
 
 
 
+## Prokrastinations-Bekämpfung
+
+*Es gibt verschiedene Wege, Prokrastination zu begegnen. Manchen helfen Werkzeuge, sich selbst zu disziplinieren und wenigstens digitale Ablenkung zu minimieren.*
+
+##### [SelfControl](https://selfcontrolapp.com) [SelfControl]
+ist eine kostenlose open-source-App für macOS, die Ablenkung im Homeoffice minimieren soll. Sie sperrt die Nutzung von Websites, Mail-Servern und allem Ablenkenden aus dem Internet. Dabei lassen sich die Zeit und genauen Orte bestimmen, für welche eine Sperrung vorgesehen ist. Erst mit dem Ablaufen eines Timers wird erneuter Zugang zu den Orten der Ablenkung gewährt.
+
+##### [Cold Turkey](https://getcoldturkey.com) [Cold Turkey]
+ist eine App für Windows und macOS, die jegliche Ablenkung durch Apps oder Websites minimiert. Über Timer lässt sich bestimmen, welche Apps oder Websites für diesen Zeitraum nicht nutzbar und erreichbar sind. Eine zu bezahlende Pro-Variante bietet weitere Anwendungsmöglichkeiten wie den zeitlich begrenzten Zugriff auf einen Computer.
+
+##### [FocusMate](https://www.focusmate.com) [FocusMate]
+ist ein virtueller Coworking-Space, der Prokrastination den Kampf ansagt. Über den Browser finden sich andere Personen, die sich in Einheiten von 50 Minuten gemeinsam konzentrierter Arbeit widmen wollen. Dabei kommunizieren die Teilnehmenden nur zur Begrüßung per Chat und sind im Verlauf der Einheit per Webcam verbunden, mit dem Ziel gegenseitiger sozialer Kontrolle und Motivation. Pro Woche gibt es 3 Einheiten kostenfrei.
+
+##### [Zero Willpower](https://apps.apple.com/us/app/zero-willpower-block-distracting-websites/id1045944416) [Zero Willpower]
+blockt auf Apple-Geräten ab iOS 9 den Zugriff auf ablenkende, selbstgewählte Websites, die über den Browser erreichbar wären.
+
+##### [Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=de) [Forest]
+ist eine Android-App, die spielerisch hilft, das Handy vorübergehend wegzulegen, um sich besser auf die aktuelle Arbeit konzentrieren zu können. Konzentriertes Arbeiten ohne den Griff zum Handy wird in dieser App belohnt - die App dient so gleichzeitig als Motivationshilfe. Auch in der kostenlosen Version ansprechend.
 
 
 
-
-
-
-
-
-
-
-## Produktivität
-
-**[SelfControl](https://selfcontrolapp.com/)** ist eine kostenlose open-source-App für macOS, die Ablenkung im Homeoffice minimieren soll. Sie sperrt die Nutzenden von Websites, Mail-Servern und allem Ablenkenden aus dem Internet. Dabei lassen sich die Zeit und genauen Orte bestimmen, für welche eine Sperrung vorgesehen ist. Erst mit dem Ablaufen eines Timers wird erneuter Zugang zu den Orten der Ablenkung gewährt.
-
-**[Cold Turkey](https://getcoldturkey.com/)** ist eine App für Windows und macOS, die jegliche Ablenkung durch Apps oder Websites minimiert. Über Timer lässt sich bestimmen, welche Apps oder Websites für diesen Zeitraum nicht nutzbar und erreichbar sind. Eine zu bezahlende Pro-Variante bietet weitere Anwendungsmöglichkeiten wie den zeitlich begrenzten Zugriff auf einen Computer.
-
-**[FocusMate](https://www.focusmate.com/?utm_source=tacv&utm_medium=website&utm_content=list)** ist ein Virtueller Coworkingspace, der Prokrastination den Kampf ansagt. Über den Browser finden sich andere Personen, die sich in Einheiten von 50 Minuten gemeinsam konzentrierter Arbeit widmen wollen. Dabei kommunizieren die Teilnehmenden nur zur Begrüßung per Chat und sind im Verlauf der Einheit per Webcam verbunden, mit dem Ziel gegenseitiger sozialer Kontrolle und Motivation. Pro Woche gibt es 3 Einheiten kostenfrei.
-
-**[Zero Willpower](https://apps.apple.com/us/app/zero-willpower-block-distracting-websites/id1045944416)** blockt auf macOS Geräten ab iOS 9 den Zugriff auf ablenkende, selbstgewählte Websites, die über den Browser erreichbar wären.
-
-**[Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=de)** ist eine Android-App, die spielerisch hilft, das Handy vorrübergehend wegzulegen, um sich besser auf die aktuelle Arbeit konzentrieren zu können. Konzentriertes Arbeiten ohne den Griff zum Handy wird in dieser App belohnt - die App dient so gleichzeitig als Motivationshilfe. Auch in der kostenlosen Version ansprechend.
-
-
-## Netz-Test & Infrastruktur
-
-**[Fast.com](https://fast.com/de/)** bietet eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick kommt in Sekunden  die Information über die lokale Downloadgeschwindigkeit. Ping und Upload werden hier nicht getestet.
- 
-**[Wieistmeineip.de](https://www.wieistmeineip.de/)** von ComputerBild bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Videokonferenz ausreichend, hängt die Synchronisation von Daten  durch mangelnde Datengeschwindigkeit hinterher? Hier finden sich detallierte Antworten.
 
 
 ## Begegnung in Virtueller Realität
