@@ -9,6 +9,30 @@
 	],
 "creatorBuild": "32147",
 "files": {
+	"/.git-ftp-ignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.git-ftp-ignore",
+		"oF": 0
+		},
+	"/.github/workflows/main.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.github/workflows/main.yml",
+		"oF": 0
+		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
 	"/_drafts": {
 		"ft": 65536,
 		"oA": 1,
@@ -21,12 +45,39 @@
 		"oAP": "/build/build",
 		"oF": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/article.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/source/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/.htaccess",
+		"oF": 0
+		},
+	"/source/.htaccess 2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.htaccess 2",
 		"oF": 0
 		},
 	"/source/404.kit": {
@@ -713,6 +764,19 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/source/_style/_animations.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/_style/_animations.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
 	"/source/_style/_buttons.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -895,19 +959,6 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/source/_style/animations.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/_style/animations.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
 	"/source/_style/style.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1040,9 +1091,9 @@
 	},
 "projectAttributes": {
 	"creationDate": 611439382.08326495,
-	"displayValue": "fernarbeit-dev",
+	"displayValue": "fernarbeit",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-leo",
+	"iconImageName": "logo-react",
 	"iconImageWasSetByUser": 1,
 	"lastBuiltDate": 611841261.59398198
 	},
