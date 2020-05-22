@@ -72,14 +72,6 @@
 		"oAP": "/build/.htaccess",
 		"oF": 0
 		},
-	"/source/.htaccess 2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/.htaccess 2",
-		"oF": 0
-		},
 	"/source/404.kit": {
 		"cB": 0,
 		"ft": 2048,
