@@ -158,9 +158,11 @@ minimalistische Web-App für einen Timer und geteilte Notizen in Online-Meetings
 ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Einstiegs-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahl-Plans. 
 
 
+
 ## Finanz-Verwaltung
 
 *Buchhaltung und Verwaltung von Belegen für Reisekosten und Rechnungen lassen sich auch per App dezentral verwalten. Damit mehrere Menschen Belege einpflegen können oder das Steuerbüro bei der Verwaltung direkt eingebunden ist.*
+
 
 ##### [LexOffice](https://lexoffice.de) (★) [LexOffice]
 Buchhaltung und Lohnrechnung online erledigen, Steuerbüro und Bankkonto anschließen. Nutzen wir, hassen den Datei-Upload.
@@ -176,14 +178,17 @@ Buchhaltung und Lohnrechnung online erledigen, Steuerbüro und Bankkonto anschli
 
 *Bei den ganzen Online-Werkzeugen ist der eigene Netz-Zugang ein kritischer Punkt. Diese Werkzeuge helfen bei der Suche nach Fehlerquellen.*
 
+
 ##### [Fast.com](https://fast.com/de/) [Fast.com]
 Netflix bietet online eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick und übersichtlicher Ansicht kommt in Sekunden  die Information über die lokale Download-Geschwindigkeit.
- 
+
+
 ##### [Wieistmeineip.de](https://www.wieistmeineip.de/)
-ein Klassiker für deutsche Netznutzende: bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Video-Konferenz ausreichend, hängt die Synchronisation von Daten durch mangelnde Netz-Geschwindigkeit hinterher? Hier finden sich Antworten.
+ein Klassiker für deutsche Netz-Nutzende: bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Video-Konferenz ausreichend, hängt die Synchronisation von Daten durch mangelnde Netz-Geschwindigkeit hinterher? Hier finden sich Antworten.
+
 
 ##### [downforerveryoneorjustme](https://downforeveryoneorjustme.com) [downforerveryoneorjustme]
-hier lässt sich eine Anfrage starten, ob die Webseite nur lokal, bei Ihnen nicht erreichbar ist, oder ob ein generelles Problem besteht und sie aktuell gar nicht erreichbar ist.
+hier lässt sich eine Anfrage starten, ob die Webseite nur lokal bei Ihnen nicht erreichbar ist, oder ob ein generelles Problem besteht und sie aktuell gar nicht erreichbar ist.
 
 
 
@@ -197,7 +202,7 @@ ist ein MacOS und iOS Passwort-Manager für Gruppen und derzeit für Unternehmen
 
 
 ##### [7zip](https://www.7-zip.de/) (★) [7zip]
-ist eine freies Packprogramm, mit dem Dateiarchive verschiedener Formate gepackt, entpackt und verschlüsselt werden können.
+ist ein freies Datei-Komprimierungs-Programm, mit dem Dateiarchive verschiedener Formate gepackt, entpackt und verschlüsselt werden können.
 
 
 ##### [boxcryptor](https://www.boxcryptor.com/de/) [boxcryptor]
