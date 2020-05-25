@@ -161,15 +161,15 @@ svg:not(:root) {
   * - one selector per line, one rule per line
   */
 a {
-  color: #300fd4;
-  text-decoration: none;
+  color: gray;
+  text-underline-position: under;
   cursor: pointer;
   -webkit-text-decoration-skip: objects;
           text-decoration-skip: objects;
   -webkit-text-decoration-skip: ink;
           text-decoration-skip-ink: auto;
-  -webkit-text-decoration-color: gray;
-          text-decoration-color: gray;
+  -webkit-text-decoration-color: #300fd4;
+          text-decoration-color: #300fd4;
   transition: all 0.3s ease; }
   a:hover, a:active, a:focus {
     text-decoration: underline; }
