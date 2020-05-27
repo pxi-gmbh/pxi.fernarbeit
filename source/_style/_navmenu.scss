@@ -10,6 +10,7 @@
   top: 0;
   left: 10px;
   padding: 0.5em;
+  padding-right: 1em;
   margin: 0;
   max-height: 95vh;
   min-width: 15vw;
@@ -22,11 +23,13 @@
 }
 .nav--article * {
   margin: 0;
-  font-style: normal;
   color: inherit;
 }
-.nav--article a:link {
-  text-decoration: none;
+.nav--article small {
+  font-family: $font-sans;
+  font-size: #{$type-scale-small}em;
+  letter-spacing: 0.02em;
+  margin-left: 1em;
 }
 .nav--article li {
   margin-left: 1em;

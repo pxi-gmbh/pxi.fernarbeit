@@ -1020,6 +1020,14 @@
 		"oAP": "/build/familie-beruf/index.html",
 		"oF": 0
 		},
+	"/source/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/favicon.ico",
+		"oF": 1
+		},
 	"/source/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -1087,7 +1095,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "logo-react",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 611846021.62261403
+	"lastBuiltDate": 612307917.995597
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
