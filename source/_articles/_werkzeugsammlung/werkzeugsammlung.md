@@ -172,7 +172,7 @@ ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browse
 
 ##### [LexOffice](https://lexoffice.de) (★) [LexOffice]
 Buchhaltung und Lohnrechnung online erledigen, Steuerbüro und Bankkonto anschließen. Nutzen wir, hassen den Datei-Upload.
-<label for="aside--github-notiz" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--github-notiz" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--github-notiz" class="aside-toggle"/>
 
@@ -231,7 +231,7 @@ ist freie, quelloffene Software basierend auf [KeePass](https://keepass.info/ind
 ## Versions-Kontrolle
 
 *Versionskontrolle (in Git) ist eine Wunderwaffe zur gemeinsamen Verwaltung von Information. Leider bringt das Prinzip eine Umgewöhnung vom Prinzip "automatischer Synchronisation" und ist außerhalb von Code-Produktion wenig verbreitet. Einige Werkzeuge senken mit schicken Oberflächen die Hemmschwelle und machen Versions-Kontrolle über eine zentrale Plattform noch mächtiger und zugänglicher für gemeinsame Arbeit.*
-<label for="aside--versions-kontrolle" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--versions-kontrolle" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--versionskontrolle" class="aside-toggle"/>
 
@@ -240,7 +240,7 @@ ist freie, quelloffene Software basierend auf [KeePass](https://keepass.info/ind
 
 ##### [GitHub](https://github.com/) (★) [github--versions-kontrolle]
 ist ein web-basierter Dienst zur Versions-Verwaltung; im Prozess der kollaborativen Software-Entwicklung aber auch in gemeinsam bearbeiteten Dokumenten einsetzbar. In der Web-Oberfläche können Sie Zugriffsrechte verwalten, Aufgaben mit den Inhalten verknüpfen und erweiterte Funktionen für Automatisierung einstellen.
-<label for="aside--github-notiz" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--github-notiz" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--github-notiz" class="aside-toggle"/>
 
@@ -275,7 +275,7 @@ ist vermutlich das bekannteste Werkzeug, mit mehreren Leuten online gleichzeitig
 
 ##### [Office365](https://products.office.com/de-de/home) (★) [Office365]
 mit **Word**, **PowerPoint** und **Excel** lassen sich geteilte Dokumente live gemeinsam bearbeiten. Kostet Geld, ist weit verbreitet. Leider hakt die Synchronisation aktuell (nach unserer Erfahrung), vermutlich weil die Server unter der Last der vielen neuen Heim-Arbeitenden ächzen. Für gemeinsame *gleichzeitige* Arbeit weichen wir derzeit auf andere Werkzeuge aus.
-<label for="aside--office365-word" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--office365-word" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--office365-word" class="aside-toggle"/>
 
@@ -295,7 +295,7 @@ ist ein touch-freundliches browser-basiertes Whiteboard mit kostenloser Basisver
 
 ##### [Boldaretro Sprint Retrospective Tool](https://www.boldare.com/sprint-retrospective-tool/) [Boldaretro Sprint Retrospective Tool]
 ist eine kostenlose online App, mit der gemeinsam *Scrums*, *Brainstorming* und Entscheidungen gelingen. Die Funktionalität umfasst geheime Abstimmungen über Ideen, Ordnung der auf Karten hinterlegten Ideen und Teilen der Ergebnisse im Team.
-<label for="aside--scrum-sprint" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--scrum-sprint" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--scrum-sprint" class="aside-toggle"/>
 
@@ -308,7 +308,7 @@ ist inspiriert von der Arbeit mit Klebezetteln auf Whiteboards. Es bietet online
 
 ##### [Concept Board](https://conceptboard.com) (★) [Concept Board]
 ist ein Multimedia-Whiteboard mit Schemata und Vorlagen zur Strukturierung der Inhalte. Server und Programmierung aus Deutschland, gut strukturierte Oberfläche für eigene Anpassungen. Die Gratisversion erlaubt nur Lesezugriff für Gäste, nur 50 Objekte pro Board.
-<label for="aside--concept-board" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--concept-board" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--concept-board" class="aside-toggle"/>
 
@@ -401,7 +401,7 @@ ist ein Open-Source-System zur Umsetzung von Webinaren mit Fokus auf Online-Lear
 
 ##### [BlueJeans](https://www.bluejeans.com/) [BlueJeans]
 bietet browser-basierte Video-Konferenzen über WebRTC aber auch App-Nutzung. Ein schneller, unkomplizierter Zugang zu Video-Konferenzen liegt hier im Fokus. Je nach Abonnement lässt es sich in weitere Konferenzsysteme wie Teams oder Slack einbetten. Der Einstiegsplan richtet sich an Einzelpersonen und kleinere Teams mit einer Funktionalität für bis zu 50 Personen.
-<label for="aside--WebRTC-notiz" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="aside--WebRTC-notiz" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input type="checkbox" id="aside--WebRTC-notiz" class="aside-toggle"/>
 

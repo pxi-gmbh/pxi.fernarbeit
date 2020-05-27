@@ -67,9 +67,9 @@ Wir sind eine kleine [Strategie-Agentur](https://agentur.pxi.gmbh) und mussten l
 > <a href="#schnellstart"><span aria-hidden="true">→ </span>die ersten Schritte</a>
 
 Dieser Text hat *Randnotizen*.	Auf dem Handy können Sie diese Inhalte mit einem Klick auf das ⨭… Symbol ausklappen.
-<label for="hier-finden-sie" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="hier-finden-sie" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
-<input type="checkbox" id="hier-finden-sie" class="aside-toggle"/>
+<input id="hier-finden-sie" type="checkbox" class="aside-toggle"/>
 
 Hier finden Sie Begriffsklärungen, Quellenangaben, weiterführende Links, sowie persönliche Kommentare und Erfahrungen aus unserem Team. Wenn Sie es eilig haben, können Sie sich das Lesen einfach sparen.
 
@@ -129,9 +129,9 @@ Richten Sie sich aber darauf ein, dass keine übergeordnete Struktur allen Bedü
 
 
 Aber ignorieren Sie das Thema nicht auf lange Sicht. Arbeiten Sie lieber in Ruhe alle gemeinsam daran, die Struktur nach und nach an die Bedürfnisse Einzelner anzupassen. Denn wenn Sie diesen Prozess nicht zusammen gestalten, gestaltet er sich im Hintergrund. Und das führt womöglich zu Lagerbildungen und parallelen Strukturen, die untereinander inkompatibel sind.
-<label for="spaetestens-in-grossen" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+<label for="spaetestens-in-grossen" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
-<input type="checkbox" id="spaetestens-in-grossen" class="aside-toggle"/>
+<input id="spaetestens-in-grossen" type="checkbox" class="aside-toggle"/>
 
 Spätestens in großen Organisationen gibt es geradezu geheime Strukturen, wenn nicht alle in die Gestaltung von Prozessen eingebunden werden. Fragen Sie Ihre Systemadministration nach Shadow-IT.
 

@@ -229,48 +229,27 @@ video {
   width: 100%;
   height: 100%; }
 
-.button,
+button,
 [role="button"] {
-  display: inline-block;
-  max-width: 100%;
-  margin: 0;
-  margin-left: auto;
-  margin-right: auto;
-  font-size: calc(0.692em + 1vw);
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  color: white;
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  padding: 0.5em;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
   border-radius: 10px;
-  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35);
-  background: #300fd4;
-  background-image: linear-gradient(to right top, #6b4e71, #595980, #436386, #326c84, #30737c);
   cursor: pointer;
   transition: all 0.2s ease-in-out; }
 
-.button:hover,
-[role="button"]:hover,
-.button a:hover,
-.button a:active {
-  text-decoration: none;
-  transform: translateY(-2px); }
+button:hover,
+[role="button"]:hover {
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35); }
 
-.button:active,
-.button:focus
+button:active,
+button:focus,
 [role="button"]:active,
 [role="button"]:focus {
-  border: 1px solid #0f0f0f;
-  border-bottom-color: gray;
-  border-top-color: #999;
-  box-shadow: inset 0 1px 2px #AAA; }
+  border: 1px solid #cccccc;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.35); }
 
-button[aria-pressed="true"] {
-  border: 1px solid white;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: #0f0f0f;
-  transform: translateY(2px); }
+[aria-pressed="true"] {
+  border: 1px solid #300fd4; }
 
 optgroup,
 select {
