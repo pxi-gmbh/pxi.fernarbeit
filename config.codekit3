@@ -1092,7 +1092,7 @@
 "projectAttributes": {
 	"creationDate": 611439382.08326495,
 	"displayValue": "fernarbeit",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "logo-react",
 	"iconImageWasSetByUser": 1,
 	"lastBuiltDate": 612307917.995597

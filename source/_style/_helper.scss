@@ -1,5 +1,6 @@
 /* UTILITY
  * - accessibility
+ * - layout & browser hacks
  * - browser warning (modernizr/noscript/etc)
  */
 
@@ -38,6 +39,15 @@
     &:focus {
       top: 0;
     }
+}
+
+/* LAYOUT & browser hacks */
+:target::before { /* offset jump to ID in browser */
+	display: block;
+ 	content: " ";
+  height: 2em;      /* Give height of your fixed element */
+  margin-top: -2em; /* Give negative margin of your fixed element */
+  visibility: hidden;
 }
 
 /*
