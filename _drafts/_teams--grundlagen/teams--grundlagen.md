@@ -32,21 +32,21 @@ Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gear
 
 Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe. Egal ob es um die Organisation ganzer Firmen, einzelner Projekte oder der Arbeit Selbstständiger geht - Microsoft Teams hilft dabei, eine effektive Arbeitsumgebung zu schaffen.
 
-Microsoft Teams bietet einen zentralen Ort der Kommunikation, der Dateiverwaltung und Zusammenarbeit. Es ist plattformübergreifend via App oder Browser abrufbar und sowohl mobil als auch lokal offen für verschiedene Endgeräte und Betriebssysteme. 
+Microsoft Teams bietet einen zentralen Ort der Kommunikation, der Dateiverwaltung und Zusammenarbeit. Es ist plattformübergreifend via App oder Browser abrufbar und sowohl mobil als auch lokal offen für verschiedene Endgeräte und Betriebssysteme.
 
-Als cloudbasierter Dienst ermöglicht Microsoft Teams den Zugriff auf Dateien und Dienste von überall her. Daher eignet es sich ideal für den Einsatz im Home Office oder zur strukturierten gemeinsamen Arbeit innerhalb einer Organisation. Der Cloudspeicher garantiert ein gemeinsames und sicheres Bearbeiten von Dateien. 
+Als cloudbasierter Dienst ermöglicht Microsoft Teams den Zugriff auf Dateien und Dienste von überall her. Daher eignet es sich ideal für den Einsatz im Home Office oder zur strukturierten gemeinsamen Arbeit innerhalb einer Organisation. Der Cloudspeicher garantiert ein gemeinsames und sicheres Bearbeiten von Dateien.
 
-Die Integration der Speicherorte in sogenannte Kanäle bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld: Absprachen und Datei-Verlinkungen werden hier zu einzelnen Themen und Projekten gebündelt, sodass Sie nicht permanent zwischen Chats und Datei-Ordnern hin- und hersuchen müssen. 
+Die Integration der Speicherorte in sogenannte Kanäle bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld: Absprachen und Datei-Verlinkungen werden hier zu einzelnen Themen und Projekten gebündelt, sodass Sie nicht permanent zwischen Chats und Datei-Ordnern hin- und hersuchen müssen.
 
 Microsoft Teams ist zwar gerade deshalb so effizient, weil es alle Funktionen zentralisiert, dennoch können Sie es nach Ihren eigenen Wünschen und Voraussetzungen anpassen: In Teams können Sie neben den Microsoft Office Anwendungen viele der beliebtesten Apps integrieren. Weil alle Apps miteinander zentral verbunden sind, müssen Sie nicht ständig die Programmanwendung wechseln.
 
-Microsoft Teams ist zunächst ein Chat-Programm. Gleichzeitig ist es ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration und geprägt ist, durch die Möglichkeit, das digitale Arbeitsumfeld individuell anpassen zu können aber auch für jede einzelne Person ein Umfeld gesteigerter Effektivität bedeuten kann.
+Microsoft Teams ist mehr als nur ein Chat-Programm. Gleichzeitig ist es ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration geprägt ist. Durch die Möglichkeit, das digitale Arbeitsumfeld individuell anpassen zu können, ist es aber auch für jede einzelne Person ein Umfeld gesteigerter Effektivität.
 
 Dabei werden auch die Kommunikation, Zusammenarbeit und geteilte Speicherung von Dateien mit externen Personen durch Teams gefördert, Personen, die also nicht zu Ihrer Organisation gehören wie Kunden oder Partner, über eine gemeinsame Office365-Lizenz verbunden sind oder überhaupt über eine Office365-Lizenz verfügen. Die sogenannten [Teams] umfassen innerhalb der App Sammlungen von Personen, Inhalten und Tools für einzelne Projekte oder ganze Organisationen. Diese Teams lassen sich mit Kanälen noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden und die passende Arbeitsumgebung zu bieten.
 
 
-Dazu werden die Kommunikation einer Firma oder eines Projektes, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort gebündelt.
-Als Teil der Microsoft-Office-Umgebung lassen sich in [Teams] Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause integrieren, das heißt, zur gemeinsamen Bearbeitung verfügbar und allgemein sichtbar machen. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
+Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projektes, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln.
+Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Mitarbeiter integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
 
 
 ## Einsatzfelder Teams und Problemlösungsmöglichkeiten
@@ -66,8 +66,8 @@ Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie u
 
 Die wahrscheinlichsten Business-Szenarien für Teams wären die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.
 Eine Abteilung etwa kann ein eigenes [Team] gründen und innerhalb dessen für jedes Thema, welches zusammen bearbeitet wird, einen spezifischen [Kanal] gründen. In den [Kanälen] kann dann Wissen zu diesem Thema geteilt und gesammelt und gemeinsam an Dokumenten gearbeitet werden. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
-Ein unproduktiver Einsatz von verschiedenen Werkzeugen an unterschiedlichen Orten für die Kommunikation und Zusammenarbeit wird durch Teams ausgeschlossen, ohne dabei unflexibel zu sein. Gelang die Kommunikation bisher etwa über Yemma, kann Yemma in Teams integriert werden und tägliches Kommunikationswerkzeug bleiben.
-Auch die Zusammenarbeit und Kommunikation mit Kunden kann mit Teams organisiert werden. Es lassen sich spezifische Teams gründen mit Kanälen für Auftrage und Projekte, oder Kunden in bestehende Kanäle einladen. Kunden und externe Personen können als Gäste in die Zusammenarbeit in [Teams] integriert werden und können kontrolliert Zugriff auf alle dort gesammelten Informationen und Inhalte erhalten.
+Ein unproduktiver Einsatz von verschiedenen Werkzeugen an unterschiedlichen Orten für die Kommunikation und Zusammenarbeit können Sie mit MS Teams ausschließen, ohne dabei unflexibel zu sein. Gelang Ihre Kommunikation bisher etwa über Yemma, kann Yemma in Teams integriert werden und tägliches Kommunikationswerkzeug bleiben.
+Auch die Zusammenarbeit und Kommunikation mit Ihren Kunden können Sie mit MS Teams organisieren. Sie können spezifische Teams gründen mit Kanälen für Auftrage und Projekte, oder Kunden in bestehende Kanäle einladen. Kunden und externe Personen können als Gäste in die Zusammenarbeit in [Teams] integriert werden und können kontrolliert Zugriff auf alle dort gesammelten Informationen und Inhalte erhalten.
 
 
 ## Was sollte vor dem Start beachtet werden?
@@ -76,40 +76,39 @@ Um die volle Funktionalität auszuschöpfen und eine gelungene Integration in de
 Ziel sollte sein, die integrierbaren Werkzeuge des täglichen Einsatzes mit all den Teams-Features zu nutzen, die den Arbeitsalltag erleichtern. Alle Mitarbeitenden sollten über die Vorzüge der Integration ihrer Werkzeuge aufgeklärt werden, ein einfaches „Teams Nutzen weil es da ist“ ist kaum erfolgsversprechend.
 Als Kollaborationslösung zur verbesserten Kommunikation und dezentralen Zusammenarbeit wirkt Teams nur langfristig, wenn direkt die nötige Akzeptanz für das Programm geschaffen wird.
 Eine gute Feedback-Kultur und Fehlertoleranz ist eine Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. Hierbei können auch integrierbare Apps einen Beitrag leisten, eine bestehende Feedback-Kultur in das digitale Arbeitsumfeld zu übertragen oder neu aufzustellen. Die Herausforderungen eines neuen Werkzeuges, dürfen nicht unterschätzt werden. Auf Nöte und Wünsche der Anwendenden sollte und kann Dank der Flexibilität der [Teams]-Umgebung reagiert werden.
-Es lohnt sich, im Vorhinein Lösungsansätze für bestehende Probleme des Arbeitsalltags innerhalb Teams zu suchen und vor der Verteilung an die Mitarbeitenden in Teams zu implementieren. Es braucht Lösungsansätze, die den Einsatz der neuen Arbeitsumgebung schmackhaft machen. Hier können schon kleinere Problemlösungen einen positiven Effekt haben: ein in Teams integrierter Speiseplan der Kantine oder direktere Teilhabe an internen Informationen etwa wären kleine, unkompliziert zu verwirklichende Anreize, die Mitarbeitenden den Einstieg in Teams als digitales Arbeitsumfeld lohnend erscheinen lassen. Hierzu ist ein Bewusstsein über konkrete Bedürfnisse der Mitarbeitenden nützlich, die dann entsprechend in Microsoft Teams berücksichtigt werden sollten und die Akzeptanz gegenüber der neuen Software steigern können.
+Es lohnt sich, im Vorhinein Lösungsansätze für bestehende Probleme des Arbeitsalltags innerhalb Teams zu suchen und vor der Verteilung an Ihre Mitarbeitenden in Teams zu implementieren. Es braucht Lösungsansätze, die den Einsatz der neuen Arbeitsumgebung schmackhaft machen. Hier können schon kleinere Problemlösungen einen positiven Effekt haben: ein in Teams integrierter Speiseplan der Kantine oder direktere Teilhabe an internen Informationen etwa wären kleine, unkompliziert zu verwirklichende Anreize, die Mitarbeitenden den Einstieg in Teams als digitales Arbeitsumfeld lohnend erscheinen lassen. Hierzu ist ein Bewusstsein über konkrete Bedürfnisse der Mitarbeitenden nützlich, die dann entsprechend in Microsoft Teams berücksichtigt werden sollten. Dies steigert die Akzeptanz gegenüber der neuen Softwarelösung.
 
 Zur gesteigerten Akzeptanz ist auch die Einbindung der Führungsebene entscheidend. Alle Abteilungsebenen und Mitarbeitenden sollten im Arbeitsumfeld von Teams sichtbar und aktiv sein.
 Neben der Akzeptanz ist eine richtige Erwartungshaltung an Teams wichtig. Es gilt unter Umständen Gewohnheiten zu überwinden, die eine effektive Arbeit mit Teams untergraben würden. Hierfür muss Verständnis über Möglichkeiten und Grenzen von Teams geschaffen werden.
 
  - Was soll der Einsatz von Teams verbessern? Warum ist es lohnenswert, die Arbeit in einem neuen digitalen Umfeld zu bewältigen?
 
-Diese Fragen lassen sich mit den firmeninternen Notwendigkeiten beantworten, sollten aber klar kommuniziert werden. Ein Leitfaden für alle Mitarbeitenden kann den Einstieg in Teams reibungsloser gestalten und die Erwartungen moderieren. Klare Absprachen über Arbeitsabläufe, klare Aussagen, wo und wie die Kommunikation in Teams ablaufen soll, wie die Dateiablage gehandhabt wird oder wann welche Lösung genutzt wird, erzeugen Sicherheit im Umgang und somit Akzeptanz und Effektivität des neuen digitalen Umfelds. Wird eine App präferiert, die nicht in Teams integriert wird, sollte auch hier der Grund dafür klar kommuniziert werden, besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
+Diese Fragen lassen sich mit den firmeninternen Notwendigkeiten beantworten, sollten aber klar kommuniziert werden. Ein Leitfaden für alle Mitarbeitenden kann den Einstieg in Teams reibungsloser gestalten und die Erwartungen moderieren. Klare Absprachen über Arbeitsabläufe, klare Aussagen, wo und wie die Kommunikation in Teams ablaufen soll, wie die Dateiablage gehandhabt wird oder wann welche Lösung genutzt wird, erzeugen Sicherheit im Umgang und somit Akzeptanz und Effektivität des neuen digitalen Umfelds. Wird eine App präferiert, die nicht in MS Teams integriert wird, sollte auch hier der Grund dafür klar kommuniziert werden. Das gilt besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
 
-Ein gelungener Einstieg in Teams gelingt wahrscheinlicher, wenn Mitarbeitende für Microsoft Teams begeistert werden und erkennen, dass sie persönlich von diesem Werkzeug profitieren. Dazu ist es notwendig zu verdeutlichen und zu erklären, wie der digitale Arbeitsplatz funktioniert und zu beachten, welche Apps und Arbeitsweisen den Bedürfnissen der Mitarbeitenden gerecht werden.
-
+Ein gelungener Einstieg in Teams gelingt wahrscheinlicher, wenn Mitarbeitende für Microsoft Teams begeistert werden und erkennen, dass sie persönlich von diesem Werkzeug profitieren. Dazu ist es notwendig zu verdeutlichen und zu erklären, wie der digitale Arbeitsplatz funktioniert und welche Möglichkeiten er bietet.
 
 # Was kann Teams leisten? / Umgang mit Apps
 
-Teams zeichnet die Offenheit für Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um Notwendigkeiten aber auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe lassen sich in Teams integrieren oder optimieren.
-Unterstützte Apps und Werkzeuge lassen sich in Teams aus einer umfangreichen Liste auswählen und auf verschiedenen Ebenen integrieren, dadurch lässt sich eine zentrierte, effektive Arbeitumgebung schaffen.
+Teams zeichnet die Offenheit für Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um Notwendigkeiten aber auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren.
+Sie können unterstützte Apps und Werkzeuge in Teams aus einer umfangreichen Liste auswählen und auf verschiedenen Ebenen integrieren und so eine zentrierte, effektive Arbeitumgebung schaffen.
 
 Diese Ebenen sind in Microsoft Teams wiefolgt aufgebaut:
 
-Auf der linken Seite von Teams lassen sich Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. Sie sind so in der linken Seite eingebunden schnell und kanalunabhängig verfügbar.
+Auf der linken Seite von Teams können Sie Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. So in der linken Seite eingebunden sind Apss für Sie schnell und kanalunabhängig verfügbar.
 
 ![](apps-uebersicht.png)
 
-Für die Zusammenarbeit mit unterschiedlichen Personen oder in bestimmten Aufgabenbereichen, lassen sich Apps in den Registrierkarten der Kanäle oder auch Chats einbinden.
+Für die Zusammenarbeit mit unterschiedlichen Personen oder in bestimmten Aufgabenbereichen, können Sie Apps in den Registrierkarten der Kanäle oder auch Chats einbinden.
 
-Die oben angeordneten Registrierkarten sind in Chats und Kanälen die Orte, an denen Apps platziert und über die Schaltfläche „+“ neu hinzugefügt werden können. Auf diese Weise lassen sich auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
-RegistrierkartenInKanalZufügen
+Die oben angeordneten Registrierkarten sind die Orte in Chats und Kanälen, an denen Sie Apps platzieren und über die Schaltfläche „+“ neu hinzufügen können. Auf diese Weise können Sie auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
+
 
 ![](registrierkarten-in-kanal-zufuegen.png)
 
-Für jeden Kanal lassen sich auch über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] wird dann im Kanal für alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
+Für jeden Kanal können Sie über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] werden dann im Kanal alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
 
-Apps können auch in Unterhaltungen integriert werden und deren Inhalte direkt in Nachrichten eingefügt werden: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text so mit den Teammitgliedern teilen und durch die in Teams integrierte Suchfunktion schnell erreichen.
-Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben, über die Schaltfläche der drei Punkte [Messaging-Erweiterungen]. Einzelne Apps lassen sich unter dem Nachrichtenfeld auch anheften und ermöglichen so eine schnellere Verfügbarkeit für Nachrichten in Unterhaltungen.
+Sie können Apps auch in Unterhaltungen integrieren. Deren Inhalte können Sie direkt in Nachrichten eingefügen: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text so mit den Teammitgliedern teilen und durch die in Teams integrierte Suchfunktion schnell erreichen.
+Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben, über die Schaltfläche der drei Punkte [Messaging-Erweiterungen]. Sie können auch einzelne Apps unter dem Nachrichtenfeld anheften und ermöglichen sich so eine schnellere Verfügbarkeit in Unterhaltungen.
 
 
 ![](app-in-unterhaltung-einfuegen.png)
@@ -129,43 +128,43 @@ Optimal wäre Teams eingesetzt, indem das Dokument für alle sichtbar in Teams p
 Die Benutzeroberfläche von Teams ist übersichtlich und einfach aufgebaut. Ziel ist es, die wichtigsten Funktionen schnell erreichbar zu machen.
 Die linke Spalte ist mit den Schaltflächen der Hauptkategorien versehen.
 
-- Aktivität (ein Feed, der chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in eigenen Teams informiert)
+- [Aktivität] (ein Feed, der Sie chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in Ihren [Teams] informiert)
 
 ![](aktivität-feed-und-schaltflaeche.png)
 
-- Chat (ermöglicht den schnellen Austausch mit Teammitgliedern)
+- [Chat] (ermöglicht Ihnen den schnellen Austausch mit Teammitgliedern)
 
 ![](chat-bereich.png)
 
-- Teams (listet alle Teams auf, an denen Sie beteiligt sind. In diesen sind wiederum die einzelnen Kanäle zu finden)
+- [Teams] (listet alle Teams auf, an denen Sie beteiligt sind. Hierüber erreichen Sie deren zugehörigen einzelnen Kanäle)
 
 ![](teams-kategorie-liste.png)
 
-Kalender (hier werden Besprechungen geplant, in einem Kalender aufgeführt und können über diesen betreten werden)
+[Kalender] (hier planen Sie Besprechungen und können bereits geplante betreten)
 
 ![](kalender-besprechung.png)
 
-- Anrufe (bietet die Möglichkeit, mit Teammitgliedern per Video- oder Audiocall zu kommunizieren, Kontakte, Verlauf und eine Art Anrufbeantworter sind hier zu finden)
+- [Anrufe] (bietet die Möglichkeit, mit Teammitgliedern per Video- oder Audiocall zu kommunizieren, Kontakte, Verlauf und eine Art Anrufbeantworter finden Sie hier)
 
 ![](anrufe-kategorie.png)
 
-- Dateien (hier finden Sie alle mit Ihnen im Team geteilten Dateien.
+- [Dateien] (hier finden Sie alle mit Ihnen im Team geteilten Dateien)
 
 ![](dateien-kategorie.png)
 
-In der linken Spalte lassen sich unterhalb der Hauptkategorien außerdem noch weitere Apps zum Schnellzugriff platzieren.
+In der linken Spalte können Sie unterhalb der Hauptkategorien außerdem noch weitere Apps zum Schnellzugriff platzieren.
 
-Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zurückfunktion. Diese ist besonders praktisch, um schneller wieder in den Bereich zurückzukommen, aus dem Sie beispielsweise durch einen Chat herausgerissen wurden. Über die Zurückfunktion gelangen Sie dorthin wieder zurück, ohne den Umweg über die Schaltflächen Teams und Kanäle nehmen zu müssen.
+Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zurückfunktion. Diese ist besonders praktisch, um schneller wieder in den Bereich zurückzukommen, aus dem Sie beispielsweise durch einen Chat herausgerissen worden sind. Über die Zurückfunktion gelangen Sie dorthin wieder zurück, ohne den Umweg über die Schaltflächen Teams und Kanäle nehmen zu müssen.
 
 ![](kopfzeile-vor-und-zurueck-funktion.png)
 
-In der Mitte der Kopfzeile kann eine allgemeine Suche darüber hinaus aber auch Befehle ausgeführt werden. Befehle dienen als Kurzbefehle, mit denen allgemeinere Aufgaben in Teams erledigt werden können. Um einen Befehl zu verwenden geben Sie ein / in das Befehlsfeld ein. Eine Liste taucht auf und gibt Ihnen einen Überblick der möglichen Befehle. Auf das / müssen Sie dann noch ohne trennendes Leerzeichen den gewünschten Befehl eingeben und mit Enter bestätigen.
+In der Mitte der Kopfzeile können Sie eine allgemeine Suche und darüber hinaus aber auch Befehle ausführen. Befehle dienen als Kurzbefehle, mit denen Sie allgemeinere Aufgaben in Teams erledigen können. Um einen Befehl zu verwenden, geben Sie ein / in das Befehlsfeld ein. Eine Liste taucht auf und gibt Ihnen einen Überblick der möglichen Befehle. Auf das / müssen Sie dann noch ohne trennendes Leerzeichen den gewünschten Befehl eingeben und mit Enter bestätigen.
 
 Mit einem vorangestellten @ und darauf folgendem Namen können Sie im Befehlsfeld direkt Nachrichten an Personen und bestehende Gruppenchats senden.
 
 ![](kopfzeile-suche-und-befehle-mit-kontextmenue.png)
 
- Im Rechten Bereich der Kopfzeile sind über das runde Profilbild Ihre Grundeinstellungen der Teams-App zu erreichen. Neben den Einstellungen, kann hier auch der den anderen Teammitgliedern angezeigte Status eingestellt werden.
+ Im Rechten Bereich der Kopfzeile sind über das runde Profilbild Ihre Grundeinstellungen der Teams-App zu erreichen. Neben den Einstellungen, können Sie hier auch den Status ihrer aktuellen Erreichbarkeit ändern, der Ihren anderen Teammitgliedern angezeigt wird.
 
 ![](kopfzeile-grundeinstellung-profilbild-statusanzeige.png)
 
@@ -174,32 +173,34 @@ Der Aufbau der einzelnen Hauptkategorien ist in den jeweiligen Passagen beschrie
 
 # Kanäle
 
-Teams Einsatzfelder zeichnen sich im Wesentlichen durch drei Pfeiler aus: Kommunikation, Kollaboration und Dateiverwaltung.
+MS Teams Einsatzfelder zeichnen sich im Wesentlichen durch drei Pfeiler aus: Kommunikation, Kollaboration und Dateiverwaltung.
 
 Diese Pfeiler stehen auf dem Fundament von Teams, den Kanälen.
 Kanäle sind spezielle Abschnitte innerhalb eines Teams. Hiervon stehen jedem Team 200 Standardkanäle und 30 sogenannte private Kanäle zur verfügung.
-In Kanälen findet Kommunikation, Kollaboration und Dateiverwaltung statt. Ein Kanal gibt dabei den Personenkreis oder thematischen Rahmen vor. Hier kann aufgeteilt und bestimmt werden, wer Zutritt hat, wer Informationen erhält oder erhalten will, wer Zugriff auf Dateien hat und welche  spezifischen Apps und Tabs verfügbar sind.
+In Kanälen findet Kommunikation, Kollaboration und Dateiverwaltung statt. Ein Kanal gibt dabei den Personenkreis oder thematischen Rahmen vor. Hier können Sie aufteilen und bestimmen, wer Zutritt hat, wer Informationen erhält oder erhalten will, wer Zugriff auf Dateien hat und welche  spezifischen Apps und Tabs verfügbar sind.
 Jedes Team startet mit einem Hauptkanal [Allgemein]. Er wird automatisch bei Gründung eines neuen Teams angelegt und kann weder gelöscht noch umbenannt werden.
-Für jedes Team lassen sich für bestimmte Projekte oder als Arbeitsumgebung für einen ausgewählten Personenkreis weitere Kanäle hinzufügen, die dann zweckmäßig benannt werden können.
-Wird ein Kanal nicht mehr benötigt, lässt er sich löschen. Dabei bleiben die dort geteilten Dateien auf der zum Kanal gehörigen SharePoint Teamseite gespeichert, die Unterhaltungen gehen jedoch verloren.
-Ein Kanal besteht aus Tabs bzw. Registrierkarten, die in der Menüleiste oben im Kanal zu finden sind und dort auch erweitert werden können. Jeder Kanal hat dabei zwei Tabs, die dauerhaft bestehen, nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Wird ein Kanal betreten, ist automatisch der Tab [Beiträge] geöffnet. In diesem befinden sich alle [Unterhaltungen] des Kanals. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
+Für jedes Team können Sie für bestimmte Projekte oder als Arbeitsumgebung für einen ausgewählten Personenkreis weitere Kanäle hinzufügen und zweckmäßig benennen.
+
+Benötigen Sie einen Kanal nicht mehr, können Sie diesen löschen. Dabei bleiben die dort geteilten Dateien auf der zum Kanal gehörigen SharePoint Teamseite gespeichert, die darin geführten Unterhaltungen gehen jedoch verloren.
+
+Ein Kanal besteht aus Tabs bzw. Registrierkarten, die Sie in der Menüleiste oben im Kanal finden und dort auch erweitern können. Jeder Kanal hat dabei zwei Tabs, die dauerhaft bestehen, nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Betreten Sie einen Kanal, ist automatisch der Tab [Beiträge] geöffnet. In diesem befinden sich alle [Unterhaltungen] des Kanals. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
 
 ![](aufbau-kanal-beitraege.png)
 
-Der Tab [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf SharePoint und somit auf alle Dateien, die über [Unterhaltungen] innerhalb des Kanals geteilt oder direkt bei SharePoint hochgeladen wurden. Geteilt wird die Datei, indem sie über die Schaltfläche [Anfügen] oder Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integriert wird. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen Kanals erstellt und mit dem Dateientab des Kanals verknüpft.
+Der Tab [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf SharePoint und somit auf alle Dateien, die von Ihnen oder den Kanalmitgliedern über [Unterhaltungen] innerhalb des Kanals geteilt oder direkt bei SharePoint hochgeladen wurden. Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen Kanals erstellt und mit dem Dateientab des Kanals verknüpft.
 
 ![](aufbau-kanal-dateien.png)
 
-Für jeden Kanal lassen sich mit der als Plus dargestellten Schaltfläche weitere [Registrierkarten hinzufügen]. [Teams] bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Websites und einzelne Dokumente mittels eines Tabs in einem Kanal platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Websites oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt, und lassen sich nutzen, ohne die Teams-App verlassen zu müssen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App in deren Onlineansicht dargestellt werden. Ebenfalls mit einem Klick lässt sich jedoch aus diesem in ein Tab eingefügten Dokument in die vollständige Applikation wechseln.
+Für jeden Kanal können Sie mit der als Plus dargestellten Schaltfläche weitere [Registrierkarten hinzufügen]. [Teams] bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Websites und einzelne Dokumente mittels eines Tabs in einem Kanal platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Websites oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt. Diese lassen sich nutzen, ohne die Teams-App verlassen zu müssen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App in deren Onlineansicht dargestellt werden. Ebenfalls mit einem Klick wechseln Sie jedoch aus der Onlineansicht des in ein Tab eingefügten Dokumentes in die vollständige Applikation.
 
 ![](word-dokument-in-kanal-eingefuegt.png)
 
-Die Kanäle lassen sich in der App zur verbesserten Übersicht sortieren: mit der gedrückten Maustaste lassen sie sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
-Kanäle stehen zunächst allen Mitgliedern eines Teams offen. Um selektiv Mitgliedern Zugriff zu gewähren, lassen sich private Kanäle gründen. Sie werden in der Kanalübersicht Ihres Teams mit einem Schloss symbolisch gekennzeichnet und auch nur den Mitgliedern angezeigt. Unterhaltungen, Mitgliederlisten und eine separate Websitesammlung auf SharePoint zur Dateiablage sind nur Mitgliedern des privaten Kanals zugänglich. Wer private Kanäle erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen Teammitgliedern zu, Gäste haben hierzu keine Berechtigung.
+Sie können die Kanäle in der App zur verbesserten Übersicht sortieren: mit der gedrückten Maustaste lassen die sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
+Kanäle stehen zunächst allen Mitgliedern eines Teams offen. Um selektiv Mitgliedern Zugriff zu gewähren, können Sie private Kanäle gründen. Sie werden in der Kanalübersicht Ihres Teams mit einem Schloss symbolisch gekennzeichnet und auch nur den Mitgliedern angezeigt. Unterhaltungen, Mitgliederlisten und eine separate Websitesammlung auf SharePoint zur Dateiablage sind nur Mitgliedern des privaten Kanals zugänglich. Wer private Kanäle erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen Teammitgliedern zu. Gäste haben hierzu keine Berechtigung.
 
 ![](privater-kanal.png)
 
-Die Person, die einen privaten Kanal erstellt, kann beliebig Teammitglieder und auch Gäste zum privaten Kanal hinzufügen. Um einen Privaten Kanal zu erstellen, muss im Erstellungsfenster unter [Datenschutz] die Auswahl [Standard - für alle Teammitglieder zugänglich] auf [Privat - nur für bestimmte Personengruppe im Team zugänglich] verändert werden. Anschließend lassen sich erwünschte Personen hinzufügen, oder nachträglich über das Kontextmenü des Kanals [weitere Optionen] ergänzen.
+Die Person, die einen privaten Kanal erstellt, kann beliebig Teammitglieder und auch Gäste zum privaten Kanal hinzufügen. Um einen Privaten Kanal zu erstellen, müsesen Sie im Erstellungsfenster unter [Datenschutz] die Auswahl [Standard - für alle Teammitglieder zugänglich] auf [Privat - nur für bestimmte Personengruppe im Team zugänglich] verändern. Anschließend können Sie erwünschte Personen hinzufügen, oder nachträglich über das Kontextmenü des Kanals [weitere Optionen] ergänzen.
 
 
 # Unterhaltung
