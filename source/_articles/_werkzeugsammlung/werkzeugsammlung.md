@@ -568,3 +568,6 @@ ist eine Android-App, die spielerisch hilft, das Handy vorübergehend wegzulegen
 
 ##### [MozillaHubs](https://hubs.mozilla.com/) [MozillaHubs]
 ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung (insbesondere, wenn der Raum eingerichtet wird und Interaktions-Möglichkeiten beschränken werden können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchen-Bildung um Gespräche ab.
+
+##### [OnlineTown](https://theonline.town) [OnlineTown]
+ist eine Verknüpfung von virtueller Realität mit Video-Konferenzen. In einem zwei-dimensionalen Raum können Nutzende sich aufeinander zu bewegen. Die Anmutung ist wie eine Drauf-Sicht von oben auf ein Spielbrett, angelehnt an Rollenspiele der 90er Jahre. Wenn andere Avatare in der Nähe sind, wird neben der Spielfläche ein Video-Fenster eingeblendet. Je näher der Avatar, desto klarer wird das Bild. So können sich Grüppchen im Raum spontan bilden und Gespräche verlassen oder betreten werden, ähnlich wie bei einer Cocktail-Party. Zur Zeit kostenlose Prototypen-Phase. Eine bezahlte Version für größere Gruppen und maßgeschneiderte Räume wird bei [Gather](https://gather.town) entwickelt.
