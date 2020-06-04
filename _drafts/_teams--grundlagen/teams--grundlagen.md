@@ -240,6 +240,8 @@ Sie können [Besprechungsnotizen] zur Vor- und Nachbereitung nutzen und bearbeit
 
 Alle diese Chats werden im Bereich [Chat] aufgeführt. Dort können Sie diese weiternutzen, dies gilt auch für die darin integrierten Whiteboards und Notizen.
 
+Innerhalb der Teams-App haben Sie die Möglichkeit, einzelne Chats aus der Programmoberfläche zu lösen und in einzelnen Fenstern zu nutzen. So können sie mehrere Chats gleichzeitig im Blick behalten oder einen Chat nutzen, während Sie in MS-Teams außerhalb des Chatbereichs arbeiten. Hierzu können Sie einen gewünschten Chat über dessen [weitere Optionen] aus der App herauslösen, indem Sie [Pop-out-Chat] wählen. Noch einfacher und überall aus der App heraus erreichbar starten Sie einen [Pop-out-Chat] per Doppelklick auf das Profilbild der Mitarbeitenden.
+
 ![](chat-mit-allen-bereichen.png)
 
 
@@ -272,8 +274,8 @@ Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qu
 
 # Benachrichtigung / Erwähnungen
 
-Teams hat den Anspruch, ein digitales Arbeitsumfeld zu schaffen, welches die Produktivität seiner Anwendenden steigert. Um dies zu erreichen, soll die in Teams stattfindende Kommunikation funktional sein, ohne durch die örtliche Nähe der Kommunikationswerkzeuge und der Arbeitswerkzeuge für zu viel Ablenkung zu sorgen. Damit die Kommunikation in Teams dem Spagat gerecht wird, eine notwendige Aufmerksamkeit der gewünschten Person zu erreichen, ohne dabei unangemessen aufdringlich zu sein, arbeitet Teams mit einer eigenen Benachrichtigungslogik, mit der sich steuern lässt, was, wann und wie eine Benachrichtigung durchdringt.
-Über das eigene Profilbild oben rechts sind die [Einstellungen] zu erreichen. Dort kann unter [Benachrichtigungen] genau bestimmt werden, wie Erwähnungen, Nachrichten und Sonstiges kommuniziert werden.
+Teams hat den Anspruch, ein digitales Arbeitsumfeld zu schaffen, welches die Produktivität seiner Anwendenden steigert. Um dies zu erreichen, soll die in Teams stattfindende Kommunikation funktional sein, ohne durch die örtliche Nähe der Kommunikationswerkzeuge und der Arbeitswerkzeuge für zu viel Ablenkung zu sorgen. Damit die Kommunikation in Teams dem Spagat gerecht wird, eine notwendige Aufmerksamkeit der gewünschten Person zu erreichen, ohne dabei unangemessen aufdringlich zu sein, arbeitet Teams mit einer eigenen Benachrichtigungslogik. Mit dieser können Sie steuern was, wann und wie eine Benachrichtigung zu Ihnen durchdringt.
+Über das eigene Profilbild oben rechts erreichen sie die [Einstellungen]. Dort können Sie unter [Benachrichtigungen] genau bestimmen, wie Erwähnungen, Nachrichten und Sonstiges kommuniziert werden.
 Auswählbar sind Benachrichtigungen über Banner, Feed und E-Mail.
 Ein Banner ist ein kleines Pop-Up, welches unter Windows im unteren rechten Bereich des Bildschirms und auf einem Mac in der oberen rechten Ecke für eine kurze Weile auftaucht und selbstständig wieder unsichtbar wird.
 Per Feed werden im Bereich [Aktivität], zu erreichen über das Glockensymbol oben links, dauerhaft und dank Filterfunktionen übersichtliche Informationen und Erwähnungen gesammelt und angezeigt. Alle geteilten Aktivitäten der Mitarbeitenden und eigene Aktivitäten in Teams, Kanälen, Unterhaltungen, Chats und integrierten Apps werden hier zusammengefasst und können mit einem Mausklick angesteuert werden.
@@ -282,26 +284,25 @@ Per Feed werden im Bereich [Aktivität], zu erreichen über das Glockensymbol ob
 
 Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Benachrichtigungsart lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der hier stattfindenden Kommunikation rauszuhalten und nur als Stütze für das eigene Benachrichtigungsprinzip zu verwenden.
 
-Die größtmögliche Aufmerksamkeit der Mitarbeitenden erregen in Teams Erwähnungen, die @mentions. Mit diesen lassen sich einzelne Personen aber auch ganze Teams oder Kanäle und deren Mitglieder gezielt anschreiben, diese Kontaktaufnahme wird besonders auffällig
-gekennzeichnet. Im Chat oder Unterhaltungen muss ein @ vor den gewünschten Namen einer Person oder eines ganzen Kanals geschrieben werden, ohne durch ein Leerzeichen getrennt zu werden. Wird ein @ geschrieben, bietet [Teams] direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll, ein @team und @kanal öffnen entsprechende Vorschläge. Die Benachrichtigung der Person oder des Kanals wird im Aktivitätsfeed angezeigt. Ein roter Punkt auf dem Glockensymbol des Aktivitätsfeeds weist auf solche @Mentions oder eine Antwort hin, die noch nicht bemerkt oder bearbeitet wurde.
+Die größtmögliche Aufmerksamkeit der Mitarbeitenden erregen in Teams Erwähnungen, die @mentions. Mit diesen können Sie einzelne Personen aber auch ganze Teams oder Kanäle und deren Mitglieder gezielt anschreiben. Diese Kontaktaufnahme wird besonders auffällig gekennzeichnet. Sie müssen im Chat oder Unterhaltungen ein @ vor den gewünschten Namen einer Person oder eines ganzen Kanals schreiben, ohne diese Kombination durch ein Leerzeichen zu trennen. Schreiben Sie ein @ , bietet Ihnen [Teams] direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll. Ein @team und @kanal öffnen entsprechende Vorschläge. Die Benachrichtigung der Person oder des Kanals wird im den entsprechenden Aktivitätsfeeds angezeigt. Ein roter Punkt auf dem Glockensymbol ihres Aktivitätsfeeds weist auf solche @Mentions oder eine Antwort hin, die Sie noch nicht bemerkt oder bearbeitet haben.
 
 ![](benachrichtigung-mit-erwaehnung.png)
 
-Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App lassen sich mit den Befehlen /ungelesen und /erwähnungen ungelesene Kanalbenachrichtigungen und eigene @mentions anzeigen.
+Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App können Sie mit den Befehlen /ungelesen und /erwähnungen ungelesene Kanalbenachrichtigungen und eigene @mentions anzeigen.
 Die Teilnahme an einem Kanal ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden.
-Als Mitglied eines Kanals ist es möglich, einen Kanal komplett auszublenden und so über die darin stattfindende Aktivität nicht weiter informiert zu werden. Jeder Kanal hat ein eigenes Kontextmenü, welches mit drei nebeneinanderliegenden Punkten gekennzeichnet ist. Hier befindet sich die Funktion [Ausblenden]. Ein ausgeblendeter Kanal taucht dann nicht mehr direkt in der Kanalübersicht auf, sondern wird unter [ausgeblendete Kanäle] in der gleichen Übersicht geführt und lässt sich darüber auch wieder sichtbar machen. Eine @mention oder eine als wichtig gekennzeichnete Nachricht wird allerdings dennoch angezeigt.
-Neue Aktivitäten in einem Kanal ohne eine @mention werden angezeigt, indem der Name des Kanals in der Kanalliste fett gedruckt erscheint, bis der Kanal aufgesucht wurde.
-Im Kontextmenü eines Kanals lässt sich über [Kanalbenachrichtigungen] weiter bestimmen, wie dort die Benachrichtigung stattfinden sollen. Über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] lässt sich bestimmen, wie Kanalnutzende über neue Beiträge in diesem Kanal oder Kanalerwähnungen informiert werden. Das Banner erscheint als Pop-Up unten rechts auf dem Bildschirm für eine kurze Zeit, die Information im Feed wird im Bereich [Aktivität] dauerhaft und dank Filterfunktionen übersichtlich gesammelt und angezeigt.
+Als Mitglied eines Kanals ist es möglich, einen Kanal komplett auszublenden und so über die darin stattfindende Aktivität nicht weiter informiert zu werden. Jeder Kanal hat ein eigenes Kontextmenü, welches mit drei nebeneinanderliegenden Punkten gekennzeichnet ist. Hier befindet sich die Funktion [Ausblenden]. Ein  durch Sie ausgeblendeter Kanal taucht dann nicht mehr direkt in Ihrer Kanalübersicht auf, sondern wird unter [ausgeblendete Kanäle] in der gleichen Übersicht geführt und lässt sich darüber auch wieder sichtbar machen. Eine @mention oder eine als wichtig gekennzeichnete Nachricht an Sie wird Ihnen allerdings dennoch angezeigt.
+Neue Aktivitäten in einem Kanal ohne eine @mention werden Ihnen angezeigt, indem der Name des Kanals in Ihrer Kanalliste fett gedruckt erscheint, bis Sie den Kanal aufgesucht haben.
+Im Kontextmenü eines Kanals können Sie über [Kanalbenachrichtigungen] weiter bestimmen, wie dort die Benachrichtigung stattfinden sollen. Über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] können Sie bestimmen, wie Sie über neue Beiträge in diesem Kanal oder Kanalerwähnungen informiert werden. Das Banner erscheint für eine kurze Zeit als Pop-Up unten rechts auf Ihrem Bildschirm, die Information im Feed wird im Bereich [Aktivität] dauerhaft und dank Filterfunktionen übersichtlich gesammelt und angezeigt.
 
-Über den Anwesenheitsstatus [Nicht stören] lassen sich alle Benachrichtigungen komplett stummschalten, bis der Anwesenheitsstatus wieder geändert wird.
+Über den Anwesenheitsstatus [Nicht stören] können Sie alle Benachrichtigungen komplett stummschalten, bis Sie Ihren Anwesenheitsstatus wieder ändern.
 
 ![](anwesenheitsstatus-nicht-stoeren.png)
 
 
 # Der Dateien-Tab
 
-Der Tab [Dateien] bietet Zugriff auf alle Dateien, die auf der SharePoint Teamsseite gespeichert sind. Die Ordnung der Dateien funktioniert dabei automatisch, jeder Kanal besitzt einen zugehörigen Ordner, der automatisch bei Kanalgründung auf SharePoint erstellt wird. Alle Dateien, die in einem Kanal auftauchen, landen in diesem Ordner. Neben dem Zugriff über die Teams-App und die Teilnahme an einem Kanal, lässt sich mit diesen Dateien natürlich auch über die SharePoint-Seite direkt arbeiten.
-Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App lassen sich auch weitere Cloud-Speicher integrieren.
+Der Tab [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf der SharePoint Teamsseite gespeichert sind. Die Ordnung der Dateien funktioniert dabei automatisch. Jeder Kanal besitzt einen zugehörigen Ordner, der automatisch bei Kanalgründung auf SharePoint erstellt wird. Alle Dateien, die in einem Kanal auftauchen, landen in diesem Ordner. Neben dem Zugriff über die Teams-App und die Teilnahme an einem Kanal, können Sie mit diesen Dateien natürlich auch über die SharePoint-Seite direkt arbeiten.
+Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App können Sie auch weitere Cloud-Speicher integrieren.
 
 ![](dateien-tab.png)
 
@@ -309,6 +310,7 @@ Der Tab [Dateien] bietet Zugriff auf alle Dateien, die auf der SharePoint Teamss
 # Aufbau eines Teams/ Vor dem Start
 
 Alle Nutzenden von Office 365 können ein Microsoft [Team] starten bzw. aufbauen. Die einzelnen [Teams] in Microsoft Teams sind auf Office 365 Gruppen aufgebaut, wird ein neues Team gegründet, wird automatisch eine neue Office365 Gruppe gegründet. Es lohnt sich im Vorhinein zu überlegen, ob allen Teammitgliedern die Berechtigung gegeben wird, neue Teams anzulegen, oder dies in der Hand ausgewählter Personen liegen soll, der IT oder Administratoren, um das Teamsumfeld übersichtlicher zu gestalten. Alle diese Berechtigungen innerhalb von Microsoft Teams lassen sich nach den eigenen Bedürfnissen bestimmen, was auch für Entscheidungen gilt, ob Emojis genutzt werden können, welche Apps hinzugefügt werden dürfen, wer Kanäle gründen und verwalten kann und vieles mehr.
+
 Gründen Sie ein neues Team, werden folgende Elemente automatisch erstellt:
 
 - Eine neue Office 365-Gruppe
@@ -318,22 +320,23 @@ Gründen Sie ein neues Team, werden folgende Elemente automatisch erstellt:
 - Ein Exchange Online-Kalender
 
 Ein Team, welches auf Basis einer bestehenden Gruppe gegründet wird, übernimmt Mitgliedschaften, Website, Postfächer und Notizbuch der Gruppe und überführt diese in Microsoft Teams.
-Bevor ein neues Team gegründet wird, muss der Name des Teams geprüft werden: Microsoft warnt leider nicht davor, sollte ein Team mit gleichem Namen in Ihrer Organisation bereits bestehen. Das Team lässt sich zwar namensgleich gründen, die zugehörigen SharePoint-Bereiche dürfen jedoch nicht den gleichen Namen aufweisen. Microsoft würde in einem solchen Fall randomisierte Zahlen an den neu geründeten Bereich mit gleichem Namen hängen, die Verwirrung wäre groß.
+
+Bevor ein neues Team gegründet wird, muss der Name des Teams geprüft werden: Microsoft warnt Sie leider nicht davor, sollte ein Team mit gleichem Namen in Ihrer Organisation bereits bestehen. Das Team lässt sich zwar namensgleich gründen, die zugehörigen SharePoint-Bereiche dürfen jedoch nicht den gleichen Namen aufweisen. Microsoft würde in einem solchen Fall randomisierte Zahlen an den neu geründeten Bereich mit gleichem Namen hängen, die Verwirrung wäre groß.
 
 Ein neues Team „Vertrieb“ bei bereits bestehendem Team „Vertrieb“, würde etwa seine Dateiablage unter https://beispiel.sharepoint.com/sites/Vertrieb314 finden.
 In größeren Firmen wären denkbare Fälle, dass es gleiche oder ähnliche Arbeitsbereiche mehrfach gibt. Gibt es eine Sales-Abteilung einmal in Deutschland und eine in den USA und beide entscheiden sich, innerhalb einer Organisation und einer Office365-Lizenz ein Team namens „Sales“ aufzumachen, weist Teams beim zweiten Gründen nicht auf das bereits bestehende namensgleiche Team hin, sondern ergänzt im zweiten Fall die Benennung durch eine randomisierte Zahlenfolge. Die SharePoint-Teamwebsite und Emailadresse des später gegründeten Teams würden entsprechend inklusive der zufälligen Zahlenfolge erscheinen.
 (Beispiel: https://Beispielfirma.sharpoint.com/Sites/Salesteam367)
 
-Um herauszufinden, welche Namen die bestehenden Teams bereits haben, kann in der Teams App im Bereich [Teams] unten links über das Zahnradsymbol neben [Team beitreten oder erstellen] eine Übersicht der bestehenden Teams inklusive einer Suchfunktion genutzt werden.
+Um herauszufinden, welche Namen die bestehenden Teams bereits haben, können Sie in der Teams App im Bereich [Teams] unten links über das Zahnradsymbol neben [Team beitreten oder erstellen] eine Übersicht der bestehenden Teams inklusive einer Suchfunktion nutzen.
 
 ![](teams-suchen-vor-beginn2.png)
 
 Da auch die von Teams erstellten Outlook Email-Adressen von der ursprünglichen Namenswahl bestimmt sind, gilt es ebenso auf eine allzu sperrige Benennung eines Teams zu verzichten. Wird das Team beim Erstellen „das Team zur Evaluation Betatest“ genannt, so wird die zugehörige Email entsprechen „dasTeamZurEvaluationBetatest@yourdomain.com“.
-Vor Gründung eines neuen Teams sollte also eine durchdachte Namenskonvention bestehen und im Organisationsinternen Teamsbereich via Suchfunktion abgeklärt werden, ob ein wie geplant zu benennendes Team bereits besteht.
+Vor Gründung eines neuen Teams sollte also eine durchdachte Namenskonvention bestehen. Im Organisationsinternen Teamsbereich via Suchfunktion sollten Sie abklären, ob ein wie geplant zu benennendes Team bereits besteht.
 
 Mit einem gefundenen Namen im Gepäck bestehen zwei Optionen, auf welcher Grundlage ein neues Team aufgebaut wird: Von Grund auf neu oder auf Grundlage eines bereits existierenden Office 365 Gruppe oder Teams.
-Bei einem völlig neu erstelltes Team muss zunächst bestimmt werden, wie neue Mitglieder in das Team gelangen können: Bei der Einstellung [Privat] müssen Mitarbeitende eingeladen werden. [Öffentlich] können alle Mitgliedere einer Organisation dem Team beitreten, [Organisationsweit] werden alle Mitglieder einer Organisation automatisch Teil des Teams.
-Mit Gründung auf Basis einer Office 365 Gruppe kann auf bereits bestehende Strukturen und Einstellungen zurückgegriffen werden.
+Bei einem völlig neu erstelltes Team müssen Sie zunächst bestimmen, wie neue Mitglieder in das Team gelangen können: Bei der Einstellung [Privat] müssen Mitarbeitende durch Sie eingeladen werden. [Öffentlich] können alle Mitgliedere einer Organisation dem Team beitreten, [Organisationsweit] werden alle Mitglieder einer Organisation automatisch Teil des Teams.
+Mit Gründung auf Basis einer Office 365 Gruppe können Sie auf bereits bestehende Strukturen und Einstellungen zurückgreifen.
 
 ![](neues-team-erstellen.png)
 
