@@ -28,7 +28,7 @@ Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet).
 
 
-# Was ist MS-Teams:
+# Was ist MS-Teams?
 
 Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe. Egal ob es um die Organisation ganzer Firmen, einzelner Projekte oder der Arbeit Selbstständiger geht - Microsoft Teams hilft dabei, eine effektive Arbeitsumgebung zu schaffen.
 
@@ -52,20 +52,22 @@ Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weiter
 {>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<} 
 
 
-## Einsatzfelder Teams und Problemlösungsmöglichkeiten
+## Wobei kann MS Teams helfen?
 
-Als dezentral aus dem Homeoffice arbeitende Firma begegnen wir mit Teams folgenden Problematiken:
+Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf Probleme gestoßen, die wir mit Teams lösen konnten:
+
 Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturierter Kommunikation:
 
-- Die Absprachen fanden in verschiedenen Apps statt (Trello, WhattsApp)
-- Die gemeinsam genutzten, erstellten und geteilten Dateien waren unübersichtlich gespeichert und problematisch in der Synchronisation
-- Die laufende Kommunikation war unpersönlich
-- Die Wissensdatenbank war durch die Auslagerung in OneNote nicht schnell greifbar
-- Die Aufteilung der Kommunikation und Arbeitsschritte auf verschiedene Plattformen und Programme stellte ein Hemmnis dar, führte zu Produktivitätsverlust und Unzufriedenheit
+- Unsere Absprachen fanden in verschiedenen Apps wie Trello oder WhatsApp statt.
+- Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
+- Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<} 
+- Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps wie Dropbox Paper oder Microsoft One Note ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
+- Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitätsverlust und Unzufriedenheit.
 
-Teams ermöglicht uns, all diese Probleme zentralisiert anzugehen und zu minimieren.
+Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren.
 Teams ist für die Zusammenarbeit und Steigerung der Produktivität da.
-Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie geboten, ohne dass sich diese Arten der Kommunikation auf verschieden Apps und Orte verteilen müssen. Ganz gezielt soll Microsoft Teams etwa die interne Email-Kommunikation minimieren, ohne dabei dieses Medium komplett aus dem internen Arbeitsalltag zu verbannen. Der Austausch wird zentral, einheitlich und damit übersichtlich gebündelt. Vorbei die Zeiten, in denen über private Telefonnummern in Whats-App Chats geschäftliches auf dem vermeintlich „kurzen/schnellen“ Weg geklärt wurde, während per Email ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete, die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App auf dem Telefon nicht lief.
+
+Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie geboten, ohne dass sich diese Arten der Kommunikation auf verschieden Apps und Orte verteilen müssen. Ganz gezielt soll Microsoft Teams etwa die interne E-Mail-Kommunikation minimieren, ohne dabei dieses Medium komplett aus dem internen Arbeitsalltag zu verbannen. Der Austausch wird zentral, einheitlich und damit übersichtlich gebündelt. Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „kurzen/schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete, die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App auf dem Telefon nicht lief.
 
 Die wahrscheinlichsten Business-Szenarien für Teams wären die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.
 Eine Abteilung etwa kann ein eigenes [Team] gründen und innerhalb dessen für jedes Thema, welches zusammen bearbeitet wird, einen spezifischen [Kanal] gründen. In den [Kanälen] kann dann Wissen zu diesem Thema geteilt und gesammelt und gemeinsam an Dokumenten gearbeitet werden. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
