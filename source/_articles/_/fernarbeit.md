@@ -52,7 +52,6 @@
         - [Übersicht Online-Werkzeuge](/werkzeugsammlung) (ca 15min)
         - [Tagesplan Arbeit und Betreuung](/familie-beruf) (ca 6min)
         - [Leitfaden Text-Produktion](/schreiben) (ca 15min)
-        - [Beratungs-Förderung](/bafa-corona) (ca 4min)
 
 </div><!-- leave this alone -->
 <h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->

@@ -189,13 +189,16 @@ Buchhaltung und Lohnrechnung online erledigen, Steuerbüro und Bankkonto anschli
 Netflix bietet online eine schnelle und simple Möglichkeit, die zur Verfügung stehende Bandbreite zu prüfen. Mit einem Klick und übersichtlicher Ansicht kommt in Sekunden  die Information über die lokale Download-Geschwindigkeit.
 
 
-##### [Wieistmeineip.de](https://www.wieistmeineip.de/)
+##### [Wieistmeineip.de](https://www.wieistmeineip.de/) [Wieistmeineip]
 ein Klassiker für deutsche Netz-Nutzende: bietet einen detaillierten Überblick über die lokale Download-, Upload- und Ping-Geschwindigkeit und natürlich die Information über die eigene IP-Adresse. Ist der lokale Internetanschluss für eine Video-Konferenz ausreichend, hängt die Synchronisation von Daten durch mangelnde Netz-Geschwindigkeit hinterher? Hier finden sich Antworten.
 
 
 ##### [downforerveryoneorjustme](https://downforeveryoneorjustme.com) [downforerveryoneorjustme]
 hier lässt sich eine Anfrage starten, ob die Webseite nur lokal bei Ihnen nicht erreichbar ist, oder ob ein generelles Problem besteht und sie aktuell gar nicht erreichbar ist.
 
+
+##### [Meeter](https://apps.apple.com/us/app/meeter-join-meetings-faster/id1510445899) [meeter]
+Für MacOS gibt es eine kostenlose Menü-App, die schnellen Zugriff auf alle Videokonferenz-Programme erlaubt, so dass Anrufe zentral gestartet werden können. Synchronisiert Kalenderdaten, damit automatisch die richtige App für das jeweilige Meeting gestartet wird.
 
 
 ## Daten-Souveränität
