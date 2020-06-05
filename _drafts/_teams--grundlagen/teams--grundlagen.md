@@ -28,7 +28,7 @@ Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet).
 
 
-# Was ist MS-Teams:
+# Was ist MS-Teams?
 
 Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe. Egal ob es um die Organisation ganzer Firmen, einzelner Projekte oder der Arbeit Selbstständiger geht - Microsoft Teams hilft dabei, eine effektive Arbeitsumgebung zu schaffen.
 
@@ -38,31 +38,36 @@ Als cloudbasierter Dienst ermöglicht Microsoft Teams den Zugriff auf Dateien un
 
 Die Integration der Speicherorte in sogenannte Kanäle bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld: Absprachen und Datei-Verlinkungen werden hier zu einzelnen Themen und Projekten gebündelt, sodass Sie nicht permanent zwischen Chats und Datei-Ordnern hin- und hersuchen müssen.
 
-Microsoft Teams ist zwar gerade deshalb so effizient, weil es alle Funktionen zentralisiert, dennoch können Sie es nach Ihren eigenen Wünschen und Voraussetzungen anpassen: In Teams können Sie neben den Microsoft Office Anwendungen viele der beliebtesten Apps integrieren. Weil alle Apps miteinander zentral verbunden sind, müssen Sie nicht ständig die Programmanwendung wechseln.
+Microsoft Teams ist deshalb so effizient, weil es alle Funktionen zentralisiert. Was dort alles gebündelt wird, können Sie nach Ihren eigenen Wünschen und Voraussetzungen anpassen: Neben den Microsoft Office Anwendungen können Sie viele der beliebtesten Apps integrieren. Wenn alle Apps zentral miteinander verbunden sind, müssen Sie nicht ständig die Programmanwendung wechseln.
 
-Microsoft Teams ist mehr als nur ein Chat-Programm. Gleichzeitig ist es ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration geprägt ist. Durch die Möglichkeit, das digitale Arbeitsumfeld individuell anpassen zu können, ist es aber auch für jede einzelne Person ein Umfeld gesteigerter Effektivität.
+Microsoft Teams ist ein Chat-Programm, aber es ist auch mehr. Es ist ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration geprägt ist. Dadurch, dass Sie das digitale Arbeitsumfeld individuell anpassen können, bietet es für jede einzelne Person ein Umfeld gesteigerter Effektivität.
 
-Dabei werden auch die Kommunikation, Zusammenarbeit und geteilte Speicherung von Dateien mit externen Personen durch Teams gefördert, Personen, die also nicht zu Ihrer Organisation gehören wie Kunden oder Partner, über eine gemeinsame Office365-Lizenz verbunden sind oder überhaupt über eine Office365-Lizenz verfügen. Die sogenannten [Teams] umfassen innerhalb der App Sammlungen von Personen, Inhalten und Tools für einzelne Projekte oder ganze Organisationen. Diese Teams lassen sich mit Kanälen noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden und die passende Arbeitsumgebung zu bieten.
+Auch die Kommunikation und Zusammenarbeit und mit externen Personen fördert Teams. Personen, die also nicht zu Ihrer Organisation gehören wie etwa Ihre Kundschaft oder Geschäftskontakte und die nicht über eine gemeinsame Office365-Lizenz verbunden sind. Tatsächlich müssen diese Personen noch nicht mal über eine Office365-Lizenz verfügen. 
+
+In der App versammeln die sogenannten [Teams] Personengruppen, Inhalte und Werkzeuge für einzelne Projekte oder ganze Organisationen. Diese [Teams] lassen sich mit [Kanälen] noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden.
+
+Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projekts, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln. {>>Jule: Wurde das nicht schon erwähnt?<<} 
+
+Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Belegschaft integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden. 
+{>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<} 
 
 
-Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projektes, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln.
-Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Mitarbeiter integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
+## Wobei kann MS Teams helfen?
 
+Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf Probleme gestoßen, die wir mit Teams lösen konnten:
 
-## Einsatzfelder Teams und Problemlösungsmöglichkeiten
-
-Als dezentral aus dem Homeoffice arbeitende Firma begegnen wir mit Teams folgenden Problematiken:
 Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturierter Kommunikation:
 
-- Die Absprachen fanden in verschiedenen Apps statt (Trello, WhattsApp)
-- Die gemeinsam genutzten, erstellten und geteilten Dateien waren unübersichtlich gespeichert und problematisch in der Synchronisation
-- Die laufende Kommunikation war unpersönlich
-- Die Wissensdatenbank war durch die Auslagerung in OneNote nicht schnell greifbar
-- Die Aufteilung der Kommunikation und Arbeitsschritte auf verschiedene Plattformen und Programme stellte ein Hemmnis dar, führte zu Produktivitätsverlust und Unzufriedenheit
+- Unsere Absprachen fanden in verschiedenen Apps wie Trello oder WhatsApp statt.
+- Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
+- Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<} 
+- Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps wie Dropbox Paper oder Microsoft One Note ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
+- Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitätsverlust und Unzufriedenheit.
 
-Teams ermöglicht uns, all diese Probleme zentralisiert anzugehen und zu minimieren.
+Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren.
 Teams ist für die Zusammenarbeit und Steigerung der Produktivität da.
-Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie geboten, ohne dass sich diese Arten der Kommunikation auf verschieden Apps und Orte verteilen müssen. Ganz gezielt soll Microsoft Teams etwa die interne Email-Kommunikation minimieren, ohne dabei dieses Medium komplett aus dem internen Arbeitsalltag zu verbannen. Der Austausch wird zentral, einheitlich und damit übersichtlich gebündelt. Vorbei die Zeiten, in denen über private Telefonnummern in Whats-App Chats geschäftliches auf dem vermeintlich „kurzen/schnellen“ Weg geklärt wurde, während per Email ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete, die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App auf dem Telefon nicht lief.
+
+Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie geboten, ohne dass sich diese Arten der Kommunikation auf verschieden Apps und Orte verteilen müssen. Ganz gezielt soll Microsoft Teams etwa die interne E-Mail-Kommunikation minimieren, ohne dabei dieses Medium komplett aus dem internen Arbeitsalltag zu verbannen. Der Austausch wird zentral, einheitlich und damit übersichtlich gebündelt. Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „kurzen/schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete, die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App auf dem Telefon nicht lief.
 
 Die wahrscheinlichsten Business-Szenarien für Teams wären die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.
 Eine Abteilung etwa kann ein eigenes [Team] gründen und innerhalb dessen für jedes Thema, welches zusammen bearbeitet wird, einen spezifischen [Kanal] gründen. In den [Kanälen] kann dann Wissen zu diesem Thema geteilt und gesammelt und gemeinsam an Dokumenten gearbeitet werden. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.

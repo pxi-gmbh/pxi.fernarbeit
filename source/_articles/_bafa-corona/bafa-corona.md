@@ -3,9 +3,12 @@
 <h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
 
 - [Förderung zur Krisen-Beratung][]
+
+<!--
     - [Unternehmen und Selbständige in der Corona-Krise][]
     - [Formulierungshilfe zur Begründung][]
     - [Ausfüllanleitung Antrag][]
+-->
 
 - [◀ zurück zum Leitfaden](/)
 
@@ -17,6 +20,9 @@
 
 # Förderung zur Krisen-Beratung
 
+*Die staatliche Förderung der Beratung ist nach der überwältigenden Nachfrage bereits ausgeschöpft. Es stehen keine Mittel mehr zur Verfügung. Weiterhin können Sie sich im Programm [Förderung unternehmerischen Know-Hows](https://www.bafa.de/DE/Wirtschafts_Mittelstandsfoerderung/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html) 50% von bis zu 4.000 € Kosten erstatten lassen.*
+
+<!--
 **Nur noch kurze Zeit**: *Es gibt staatliche Förderung für Beratung zur Corona-Krise. Unternehmen, die durch die Krise in Schwierigkeiten geraten sind, können sich eine Beratung ohne Vorfinanzierung zu 100% fördern lassen. Die häufigsten Fragen zum Ausfüllen des Antrags haben wir in einem kommentierten Beispiel des Antrags-Formulares aufgegriffen.*
 <p class="text-small text-right"><a href="#ausfüllanleitungantrag"><span aria-hidden="true">→ </span>direkt zur Ausfüll-Anleitung springen</a>
 
@@ -94,3 +100,5 @@ Sie müssen nun noch ein paar Aussagen bestätigen. Die Förderung ist nicht fü
 <img src="ende.jpg" alt="Bildschirmansicht Antragsformular" class="drop-shadow">
 
 Schon fertig. Nach dem Klick werden Sie zum Portal weiter geleitet, wo Sie Ihre Erklärung zum Status als betroffenes Unternehmen hoch laden müssen.
+
+-->
