@@ -282,9 +282,7 @@ mit **Word**, **PowerPoint** und **Excel** lassen sich geteilte Dokumente live g
 
 <input type="checkbox" id="aside--office365-word" class="aside-toggle"/>
 
-**Notiz**: *Office ist prima geeignet, um* Artefakte *zu produzieren: Wir basteln damit zum Beispiel PowerPoint, das nicht aussieht, wie PowerPoint. Das lässt sich dann hervorragend in virtuellen Seminaren und Workshops verwenden.*
-<img id="video-001-img" src="ppt-demo.jpg" style="cursor:pointer" class="drop-shadow" onClick='document.getElementById("video-001").style="display:inline-block";document.getElementById("video-001").src="ppt-demo.mp4";document.getElementById("video-001-img").style="display:none";document.getElementById("video-001-txt").style="display:none";document.getElementById("video-001").play();'><span id="video-001-txt" style="text-decoration:underline;cursor:pointer;" onClick='document.getElementById("video-001").style="display:inline-block";document.getElementById("video-001").src="ppt-demo.mp4";document.getElementById("video-001-img").style="display:none";document.getElementById("video-001-txt").style="display:none";document.getElementById("video-001").play();'>Video laden (2Min, 50MB)</span><video id="video-001" style="display:none;" autoplay loop muted class="drop-shadow" alt="Animationssequenzen in PowerPoint"><source src="" type="video/mp4">Entschuldigung, Ihr Browser unterstützt das Video-Format nicht.</video><noscript><a href="ppt-demo.mp4">zum Video (ohne JavaScript)</a></noscript>
-
+**Notiz**: *Office ist prima geeignet, um* Artefakte *zu produzieren: Wir basteln damit zum Beispiel PowerPoint, das nicht aussieht, wie PowerPoint. Das lässt sich dann hervorragend in virtuellen Seminaren und Workshops verwenden.* <video poster="" alt="Animations-Sequenzen in PowerPoint" class="drop-shadow" controls loop muted preload="metadata"><source src="ppt-demo.mp4" type="video/mp4">Entschuldigung, Ihr Browser unterstützt das Video-Format nicht.</video>
 
 
 ## Parallel-Arbeit mit Visualisierungen
