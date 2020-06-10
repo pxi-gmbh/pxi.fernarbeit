@@ -2,14 +2,14 @@
 <div id="open"><!-- leave this alone -->
 <h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
 
-- [**Datenschutzerklärung**][]
+- [**Datenschutz-Erklärung**][]
     - [Grundsätze][]
     - [Dienste][]
     - [Verarbeitung und Übermittlung personenbezogener Daten][]
     - [Sicherheitsmaßnahmen][]
     - [Löschung von Daten][]
     - [Unsere Kontaktdaten][]
-    - [Aktualisierung der Datenschutzerklärung][]
+    - [Aktualisierung der Datenschutz-Erklärung][]
     - [Ihre Rechte][]
     - [Ansprechpartner für Datenschutz][]
 
@@ -23,7 +23,7 @@
 
 # Rechtliches
 
-## Datenschutzerklärung
+## Datenschutz-Erklärung
 Mit der folgenden Erklärung möchten wir Sie aufklären, welche Daten wir erheben und verarbeiten und wofür. Die Erklärung gilt für all unsere Aktivitäten.
 
 
@@ -63,7 +63,7 @@ Sofern wir Ihre Daten nicht für die Arbeit oder die Kommunikation benötigen, l
 Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten sind ausdrücklich keine Einladung zur Übersendung unangeforderten Informationsmaterials. Wenn Sie uns trotzdem Werbung schicken, behalten wir uns rechtliche Schritte vor.
 
 
-### Aktualisierung der Datenschutzerklärung
+### Aktualisierung der Datenschutz-Erklärung
 Wir informieren Sie über die personenbezogene Datenverarbeitung nach bestem Wissen und Gewissen. Wenn wir oder unsere dienstleistenden Unternehmen Änderungen in der Datenverarbeitung vornehmen, werden wir Sie an dieser Stelle  informieren.
 
 
