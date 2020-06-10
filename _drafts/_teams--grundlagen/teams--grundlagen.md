@@ -27,6 +27,7 @@ Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 
 Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet).
 
+{>>Jule: Braucht es eine Legende?<<} 
 
 # Was ist MS-Teams?
 
@@ -54,28 +55,32 @@ Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weiter
 
 ## Wobei kann MS Teams helfen?
 
-Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf Probleme gestoßen, die wir mit Teams lösen konnten:
-
+Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf viele Probleme gestoßen.
 Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturierter Kommunikation:
 
 - Unsere Absprachen fanden in verschiedenen Apps wie Trello oder WhatsApp statt.
 - Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
 - Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<} 
 - Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps wie Dropbox Paper oder Microsoft One Note ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
-- Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitätsverlust und Unzufriedenheit.
+- Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitäts-Verlust und Unzufriedenheit.
 
-Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren.
-Teams ist für die Zusammenarbeit und Steigerung der Produktivität da.
+Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren. 
+Die Unterstützung bei der Zusammenarbeit und Produktivitäts-Steigerung ist eine Stärke von Teams.
 
-Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie geboten, ohne dass sich diese Arten der Kommunikation auf verschieden Apps und Orte verteilen müssen. Ganz gezielt soll Microsoft Teams etwa die interne E-Mail-Kommunikation minimieren, ohne dabei dieses Medium komplett aus dem internen Arbeitsalltag zu verbannen. Der Austausch wird zentral, einheitlich und damit übersichtlich gebündelt. Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „kurzen/schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete, die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App auf dem Telefon nicht lief.
+Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie innerhalb einer einzigen geräteübergreifenden App geboten. Der Austausch wird zentral, einheitlich und übersichtlich gebündelt. 
 
-Die wahrscheinlichsten Business-Szenarien für Teams wären die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.
-Eine Abteilung etwa kann ein eigenes [Team] gründen und innerhalb dessen für jedes Thema, welches zusammen bearbeitet wird, einen spezifischen [Kanal] gründen. In den [Kanälen] kann dann Wissen zu diesem Thema geteilt und gesammelt und gemeinsam an Dokumenten gearbeitet werden. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
-Ein unproduktiver Einsatz von verschiedenen Werkzeugen an unterschiedlichen Orten für die Kommunikation und Zusammenarbeit können Sie mit MS Teams ausschließen, ohne dabei unflexibel zu sein. Gelang Ihre Kommunikation bisher etwa über Yemma, kann Yemma in Teams integriert werden und tägliches Kommunikationswerkzeug bleiben.
-Auch die Zusammenarbeit und Kommunikation mit Ihren Kunden können Sie mit MS Teams organisieren. Sie können spezifische Teams gründen mit Kanälen für Auftrage und Projekte, oder Kunden in bestehende Kanäle einladen. Kunden und externe Personen können als Gäste in die Zusammenarbeit in [Teams] integriert werden und können kontrolliert Zugriff auf alle dort gesammelten Informationen und Inhalte erhalten.
+Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete und die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App nicht auf dem Telefon lief.
+
+Indem es all diese Probleme umgeht, eignet Teams sich am besten für die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.  {>>Jule: Ich habe Sätze wie z.B. diesen umformuliert, um inhaltliche Brücken zwischen den Absätzen zu stärken. So wird der Text flüssiger, schlüssiger und liest sich dadurch auch besser :-)<<} 
+
+So kann jede Abteilung ein eigenes, sogenanntes [Team] gründen und dort für jedes Thema einen spezifischen [Kanal] eröffnen. In diesen [Kanälen] können dann alle Beteiligten ihr themenrelevantes Wissen sammeln, teilen und gemeinsam bearbeiten. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
+
+Sie können mit MS Teams einen unproduktiven Einsatz von verschiedenen Werkzeugen an unterschiedlichen Orten ausschließen und dabei trotzdem flexibel bleiben. Gelang Ihre Kommunikation bisher etwa über Yemma, können Sie Yemma in Teams integrieren und weiterhin ganz normal nutzen.
+
+Auch die Zusammenarbeit und Kommunikation mit Ihrer Kundschaft können Sie mit MS Teams organisieren. Sie können spezifische [Teams] gründen mit [Kanälen] für Aufträge und Projekte, oder weitere Personen in bestehende Kanäle einladen. Sie können Gäste von außerhalb nämlich in Ihre [Teams] integrieren, indem Sie ihnen einen kontrollierten Zugriff auf alle dort gesammelten Informationen und Inhalte erteilen. Microsoft-Office-Lizenzen brauchen die externen Personen dafür nicht.
 
 
-## Was sollte vor dem Start beachtet werden?
+## Was sollten Sie vor dem Start beachten?
 
 Um die volle Funktionalität auszuschöpfen und eine gelungene Integration in den Arbeitsalltag zu erreichen, muss sich jedoch vor der Einführung von Teams als neues Instrument jede Nutzerin und Nutzer über den Einsatzzweck und die Nutzungsmöglichkeiten im Klaren sein.
 Ziel sollte sein, die integrierbaren Werkzeuge des täglichen Einsatzes mit all den Teams-Features zu nutzen, die den Arbeitsalltag erleichtern. Alle Mitarbeitenden sollten über die Vorzüge der Integration ihrer Werkzeuge aufgeklärt werden, ein einfaches „Teams Nutzen weil es da ist“ ist kaum erfolgsversprechend.
