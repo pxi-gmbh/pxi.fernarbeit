@@ -58,10 +58,10 @@ Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weiter
 Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf viele Probleme gestoßen.
 Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturierter Kommunikation:
 
-- Unsere Absprachen fanden in verschiedenen Apps wie Trello oder WhatsApp statt.
+- Unsere Absprachen fanden in verschiedenen Apps, wie Trello oder WhatsApp, statt.
 - Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
 - Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<} 
-- Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps wie Dropbox Paper oder Microsoft One Note ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
+- Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps, wie Dropbox Paper oder Microsoft One Note, ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
 - Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitäts-Verlust und Unzufriedenheit.
 
 Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren. 
