@@ -80,22 +80,70 @@ Sie können mit MS Teams einen unproduktiven Einsatz von verschiedenen Werkzeuge
 Auch die Zusammenarbeit und Kommunikation mit Ihrer Kundschaft können Sie mit MS Teams organisieren. Sie können spezifische [Teams] gründen mit [Kanälen] für Aufträge und Projekte, oder weitere Personen in bestehende Kanäle einladen. Sie können Gäste von außerhalb nämlich in Ihre [Teams] integrieren, indem Sie ihnen einen kontrollierten Zugriff auf alle dort gesammelten Informationen und Inhalte erteilen. Microsoft-Office-Lizenzen brauchen die externen Personen dafür nicht.
 
 
-## Was sollten Sie vor dem Start beachten?
+## Was sollten Sie vor dem Start beachten? 
+
+{>>Justus Version, von Jule kommentiert:<<} 
 
 Um die volle Funktionalität auszuschöpfen und eine gelungene Integration in den Arbeitsalltag zu erreichen, muss sich jedoch vor der Einführung von Teams als neues Instrument jede Nutzerin und Nutzer über den Einsatzzweck und die Nutzungsmöglichkeiten im Klaren sein.
+{>>Jule: Ich habe einen anderen Einstieg gewählt, weil der erste Satz hier ziemlich lang ist und eine "jedoch"-Formulierung beinhaltet. Wenn man zu dem Absatz springt weiß man nicht, worauf sich das "jedoch" bezieht, deshalb sollten erste Sätze immer mit einer frischen Argumentation beginnen.<<} 
 Ziel sollte sein, die integrierbaren Werkzeuge des täglichen Einsatzes mit all den Teams-Features zu nutzen, die den Arbeitsalltag erleichtern. Alle Mitarbeitenden sollten über die Vorzüge der Integration ihrer Werkzeuge aufgeklärt werden, ein einfaches „Teams Nutzen weil es da ist“ ist kaum erfolgsversprechend.
+{>>Jule: Diesen Gedanken habe ich aufgenommen und mit einer konkreten Handlungsanweisung verknüpft, damit die Lesenden schnell das Gefühl haben, dass der Text sie mit Tipps versorgt.<<} 
 Als Kollaborationslösung zur verbesserten Kommunikation und dezentralen Zusammenarbeit wirkt Teams nur langfristig, wenn direkt die nötige Akzeptanz für das Programm geschaffen wird.
-Eine gute Feedback-Kultur und Fehlertoleranz ist eine Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. Hierbei können auch integrierbare Apps einen Beitrag leisten, eine bestehende Feedback-Kultur in das digitale Arbeitsumfeld zu übertragen oder neu aufzustellen. Die Herausforderungen eines neuen Werkzeuges, dürfen nicht unterschätzt werden. Auf Nöte und Wünsche der Anwendenden sollte und kann Dank der Flexibilität der [Teams]-Umgebung reagiert werden.
+{>>Jule: Den Satz hab ich nach vorn gezogen, weil er eine gute Einleitung bietet: Er begründet, warum dieses Kapitel wichtig ist.<<} 
+Eine gute Feedback-Kultur und Fehlertoleranz ist eine Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. Hierbei können auch integrierbare Apps einen Beitrag leisten, eine bestehende Feedback-Kultur in das digitale Arbeitsumfeld zu übertragen oder neu aufzustellen. 
+Die Herausforderungen eines neuen Werkzeuges, dürfen nicht unterschätzt werden. Auf Nöte und Wünsche der Anwendenden sollte und kann Dank der Flexibilität der [Teams]-Umgebung reagiert werden. 
+{>>Jule: Der Absatz über die Feedback-Kultur unterbricht hier ein bisschen den kontextuellen Lesefluss, weil der Absatz direkt danach thematisch noch besser zu deiner Einleitung passt. Also hab ich ihn nach hinten verschoben.<<} 
 Es lohnt sich, im Vorhinein Lösungsansätze für bestehende Probleme des Arbeitsalltags innerhalb Teams zu suchen und vor der Verteilung an Ihre Mitarbeitenden in Teams zu implementieren. Es braucht Lösungsansätze, die den Einsatz der neuen Arbeitsumgebung schmackhaft machen. Hier können schon kleinere Problemlösungen einen positiven Effekt haben: ein in Teams integrierter Speiseplan der Kantine oder direktere Teilhabe an internen Informationen etwa wären kleine, unkompliziert zu verwirklichende Anreize, die Mitarbeitenden den Einstieg in Teams als digitales Arbeitsumfeld lohnend erscheinen lassen. Hierzu ist ein Bewusstsein über konkrete Bedürfnisse der Mitarbeitenden nützlich, die dann entsprechend in Microsoft Teams berücksichtigt werden sollten. Dies steigert die Akzeptanz gegenüber der neuen Softwarelösung.
+{>>Jule: Die konkreten Handlungsanweisungen und Beispiele hier sind super. Ich hab es nur nochmal in zwei Gedanken aufgebrochen, weil ein verknüpfter Speiseplan etwas sehr Konkretes ist und die Teilhabe an Informationen etwas sehr Allgemeines.<<} 
 
 Zur gesteigerten Akzeptanz ist auch die Einbindung der Führungsebene entscheidend. Alle Abteilungsebenen und Mitarbeitenden sollten im Arbeitsumfeld von Teams sichtbar und aktiv sein.
 Neben der Akzeptanz ist eine richtige Erwartungshaltung an Teams wichtig. Es gilt unter Umständen Gewohnheiten zu überwinden, die eine effektive Arbeit mit Teams untergraben würden. Hierfür muss Verständnis über Möglichkeiten und Grenzen von Teams geschaffen werden.
+ {>>Jule: Dieser Absatz beschreibt, was man noch beachten sollte, sobald Teams als Werkzeug aufgenommen wurde und welche Probleme wahrscheinlich noch auftreten werden. Deshalb würde ich ihn auftrennen und den zweiten Teil weiter hinten mit dem Gedanken der Feedback-Kultur verbinden.<<} 
 
  - Was soll der Einsatz von Teams verbessern? Warum ist es lohnenswert, die Arbeit in einem neuen digitalen Umfeld zu bewältigen?
+ {>>Jule: Hier ist eine Kernaussage des Absatzes sehr schön in konkreten Fragen formuliert. Als solche hat sie es verdient, an den Anfang zu kommen.<<} 
 
-Diese Fragen lassen sich mit den firmeninternen Notwendigkeiten beantworten, sollten aber klar kommuniziert werden. Ein Leitfaden für alle Mitarbeitenden kann den Einstieg in Teams reibungsloser gestalten und die Erwartungen moderieren. Klare Absprachen über Arbeitsabläufe, klare Aussagen, wo und wie die Kommunikation in Teams ablaufen soll, wie die Dateiablage gehandhabt wird oder wann welche Lösung genutzt wird, erzeugen Sicherheit im Umgang und somit Akzeptanz und Effektivität des neuen digitalen Umfelds. Wird eine App präferiert, die nicht in MS Teams integriert wird, sollte auch hier der Grund dafür klar kommuniziert werden. Das gilt besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
+Diese Fragen lassen sich mit den firmeninternen Notwendigkeiten beantworten, sollten aber klar kommuniziert werden.  {>>Jule: Die Frage, wie die Notwendigkeit des Umstiegs von kommuniziert werden sollte, habe ich nach vorn gezogen und mit dem dort bereits gesponnenen Gedanken verknüpft, dass jeder Einzelne seinen Vorteil sehen sollte. Das habe ich dann mit deinem Beispiel von vorhin untermauert: direkte Teilhabe an internen Informationen.<<} Ein Leitfaden für alle Mitarbeitenden kann den Einstieg in Teams reibungsloser gestalten und die Erwartungen moderieren. Klare Absprachen über Arbeitsabläufe, klare Aussagen, wo und wie die Kommunikation in Teams ablaufen soll, wie die Dateiablage gehandhabt wird oder wann welche Lösung genutzt wird, erzeugen Sicherheit im Umgang und somit Akzeptanz und Effektivität des neuen digitalen Umfelds. Wird eine App präferiert, die nicht in MS Teams integriert wird, sollte auch hier der Grund dafür klar kommuniziert werden. Das gilt besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
+{>>Jule: Der Absatz beschreibt wieder, welche Maßnahmen helfen, um über die erste Zeit zu kommen. Der Gedanke zu einer externen App, die trotz Teams genutzt wird, passt gut zu dem Gedanken weiter oben, in dem es um Gewohnheiten geht, die überwunden werden müssen.<<}
 
-Ein gelungener Einstieg in Teams gelingt wahrscheinlicher, wenn Mitarbeitende für Microsoft Teams begeistert werden und erkennen, dass sie persönlich von diesem Werkzeug profitieren. Dazu ist es notwendig zu verdeutlichen und zu erklären, wie der digitale Arbeitsplatz funktioniert und welche Möglichkeiten er bietet.
+Ein gelungener Einstieg in Teams gelingt wahrscheinlicher, wenn Mitarbeitende für Microsoft Teams begeistert werden und erkennen, dass sie persönlich von diesem Werkzeug profitieren. Dazu ist es notwendig zu verdeutlichen und zu erklären, wie der digitale Arbeitsplatz funktioniert und welche Möglichkeiten er bietet. {>>Jule: Der Absatz beschreibt nochmal die Einleitng in anderen Worten und ist deshalb an dieser Stelle redundant. Ein besserer Abschluss für das Kapitel ist der letzte Schritt der Vorbereitungen: Wissen welche Probleme auftreten können, diesen vorbeugen und für alles Weitere den Boden für eine gute Feedback-Kultur bereiten.<<}
+
+—
+
+{>>Jules Version auf Basis von Justus Text:<<} 
+
+Teams kann Ihnen und Ihrer Kollegschaft die Arbeit erleichtern - vorausgesetzt, Sie sind darauf eingestellt: Als Kollaborationslösung zur verbesserten Kommunikation und dezentralen Zusammenarbeit wirkt Teams nur dann langfristig, wenn von Anfang an die nötige Akzeptanz für das Programm geschaffen wird. Erst, wenn sich alle bewusst darüber sind, wann, wie und vor allem warum sie das neue Instrument nutzen sollen, können sie es auch erfolgreich in den Arbeitsalltag integrieren und seine volle Funktionalität ausschöpfen. 
+
+Fragen Sie sich deshalb gemeinsam: Was soll der Einsatz von Teams verbessern? Warum ist es lohnenswert, die Arbeit in einem neuen digitalen Umfeld zu bewältigen?
+
+Um hier Ihre ganz persönlichen Antworten zu finden, starten Sie am besten damit, alle Werkzeuge zu überprüfen, die bis dato fester Bestandteil Ihrer täglichen Prozesse waren: Welche lassen sich durch MS Teams ersetzen? Und welche lassen sich in MS Teams integrieren? 
+Ziel dabei ist es, so viele Prozesse wie möglich in diesem einen Programm zu bündeln, denn darin liegt der Kern, der Ihnen künftig die Arbeit erleichtern wird. Und genau darüber sollten sich auch alle Beteiligten von Anfang an im Klaren sein. Ein einfaches  „Teams nutzen weil es da ist“ ist kaum erfolgsversprechend.
+
+Umso mehr kann es sich lohnen, die gemeinsame Umstellung bereits im Vorhinein mit attraktiven Lösungsansätzen vorzubereiten: Suchen Sie nach alltäglichen Bedürfnissen Ihres Kollegiums und überlegen Sie, wie Sie Antworten darauf in MS Teams implementieren können, um ihnen den Einsatz der neuen Arbeitsumgebung schmackhaft zu machen. Schon kleinere Problemlösungen können hier einen positiven Effekt haben: Ein in Teams integrierter Speiseplan der Kantine etwa wäre ein kleiner, schnell realisierter Anreiz, der allen signalisiert:  "Es rentiert sich, in ein neues digitales Arbeitsumfeld einzusteigen."
+
+Indem Sie persönliche Nutzen wie diese herausstellen, erhöhen Sie gleich zu Beginn die Akzeptanz gegenüber der neuen Softwarelösung. 
+Achten Sie deshalb bei der Einführung in die einzelnen Programmfunktionen auch darauf, nicht nur die Vorteile zu betonen, die sich daraus jeweils für die Firma ergeben. In dem Fall fühlt sich der Umstieg für einige vielleicht wie eine rein von oben deligierte Maßnahme an. Stellen Sie stattdessen sicher, dass alle verstehen, wie sie selbst ganz konkret von den neuen Möglichkeiten profitieren. 
+So macht MS Teams Angestellte beispielsweise nicht nur effizienter, es bindet sie auch viel mehr ein: Wer Prozesse in einem zentralen geteilten Arbeitsplatz bündelt, macht sie zugänglicher und transparenter. Einzelne können damit direkter an internen Informationen teilhaben.
+
+Hierin verbirgt sich die Chance auf eine Atmosphäre gegenseitiger Wertschätzung, die Sie sich auf keinen Fall entgehen lassen sollten. 
+Sorgen Sie deshalb dafür, dass alle, einschließlich der Führungsebene, das neue Werkzeug von Anfang an gleichsam nutzen. 
+Signalisieren Sie dies nach außen hin, indem Sie zu Ihren jeweiligen Arbeitszeiten auf der Plattform aktiv und sichtbar sind.
+
+Es sind Regeln wie diese, die den Umgang mit Teams - nicht nur zu Anfang - erleichtern. 
+Lassen Sie sie nicht ungeschrieben: Ein für alle gültiger Leitfaden kann den Einstieg in das neue Werkzeug reibungsloser gestalten. 
+Klare Absprachen über Arbeitsabläufe; eindeutige Aussagen, wo und wie die Kommunikation in Teams ablaufen soll; wie Sie die Dateiablage handhaben oder wann Sie welche Lösung nutzen, erzeugen Sicherheit im Umgang mit dem neuen digitalen Umfeld und steigern somit sowohl die Akzeptanz als auch die Effektivität. 
+
+Neben der Akzeptanz ist die richtige Erwartungshaltung an Teams wichtig. In einem Leitfaden haben Sie Gelegenheit, diese zu moderieren. 
+Erwartungsgemäß müssen Sie gemeinsam Gewohnheiten überwinden, die eine effektive Arbeit mit Teams untergraben würden. Schaffen Sie an dieser Stelle also nochmal Verständnis über Möglichkeiten und Grenzen von Teams.
+Halten Sie aber auch explizit fest, wofür Sie Teams nicht nutzen wollen. Wenn Sie sich etwa zu Beginn darauf geeinigt haben, eine externe App bewusst nicht in Teams zu integrieren, sollten Sie auch hier den Grund dafür klar kommunizieren. Das gilt besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
+
+Verwenden Sie große Sorgfalt auf Ihren Leitfaden, denn die Zeit, die Sie in ein allgemeingültiges Manifest investieren, sparen Sie später mehrfach bei Fragen und Komplikationen. 
+Bedenken Sie aber auch, dass es sich immer nur um ein Grundgerüst handelt, dass Sie im Laufe der Zeit immer wieder erweitern und anpassen müssen. Denn es wird immer auch Komplikationen geben wird, die Sie nicht voraussehen konnten. Gerade natürlich zu Beginn: Die Herausforderungen eines neuen Werkzeugs dürfen nicht unterschätzt werden. 
+
+Deshalb ist eine gute Feedback-Kultur und Fehlertoleranz eine weitere Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. 
+Vielleicht können Sie Ihre bestehende Feedback-Kultur mithilfe integrierbarer Apps in das digitale Arbeitsumfeld übertragen oder mithilfe der vielen Funktionen dort neu aufstellen?
+Haben Sie ein in jedem Fall ein offenes Ohr; schaffen Sie Räume für den gemeinsamen Austausch, seien Sie menschlich und beheben Sie Probleme gemeinsam. 
+Auf Nöte und Wünsche aller Beteiligten kann und sollte Dank der Flexibilität der Teams-Umgebung schließlich zügig reagiert werden.
 
 # Was kann Teams leisten? / Umgang mit Apps
 
