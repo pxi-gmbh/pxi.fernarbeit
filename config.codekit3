@@ -451,6 +451,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/_articles/_/hero-image.png": {
+		"ft": 32768,
+		"iS": 39133,
+		"oA": 0,
+		"oAP": "/build/hero-image.png",
+		"oF": 2,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/_articles/_bafa-corona/bafa-corona.md": {
 		"cB": 0,
 		"cS": 2,

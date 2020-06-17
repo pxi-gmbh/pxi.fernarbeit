@@ -61,6 +61,8 @@
 
 # Fernarbeit
 
+![](hero-image.png)
+
 Wir sind eine kleine [Strategie-Agentur](https://agentur.pxi.gmbh) und mussten lernen, mit bescheidenen Mitteln zu arbeiten. Quer über die Welt verteilt. Hier unsere Erfahrungen als *Lebendiger Leitfaden*.
 
 > *Wenn Sie die Prinzipien und Erläuterungen lieber später lesen und jetzt schnell die wichtigsten Grundlagen zur Umstellung schaffen wollen, springen Sie ans Ende des Dokuments*  
