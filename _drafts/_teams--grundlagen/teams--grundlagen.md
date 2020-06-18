@@ -27,7 +27,7 @@ Die Markdown-Preview aktiviere  ich in Atom mit STRG+SHIFT+M
 
 Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gearbeitet).
 
-{>>Jule: Braucht es eine Legende?<<} 
+{>>Jule: Braucht es eine Legende?<<}
 
 # Was ist MS-Teams?
 
@@ -43,14 +43,14 @@ Microsoft Teams ist deshalb so effizient, weil es alle Funktionen zentralisiert.
 
 Microsoft Teams ist ein Chat-Programm, aber es ist auch mehr. Es ist ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration geprägt ist. Dadurch, dass Sie das digitale Arbeitsumfeld individuell anpassen können, bietet es für jede einzelne Person ein Umfeld gesteigerter Effektivität.
 
-Auch die Kommunikation und Zusammenarbeit und mit externen Personen fördert Teams. Personen, die also nicht zu Ihrer Organisation gehören wie etwa Ihre Kundschaft oder Geschäftskontakte und die nicht über eine gemeinsame Office365-Lizenz verbunden sind. Tatsächlich müssen diese Personen noch nicht mal über eine Office365-Lizenz verfügen. 
+Auch die Kommunikation und Zusammenarbeit und mit externen Personen fördert Teams. Personen, die also nicht zu Ihrer Organisation gehören wie etwa Ihre Kundschaft oder Geschäftskontakte und die nicht über eine gemeinsame Office365-Lizenz verbunden sind. Tatsächlich müssen diese Personen noch nicht mal über eine Office365-Lizenz verfügen.
 
 In der App versammeln die sogenannten [Teams] Personengruppen, Inhalte und Werkzeuge für einzelne Projekte oder ganze Organisationen. Diese [Teams] lassen sich mit [Kanälen] noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden.
 
-Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projekts, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln. {>>Jule: Wurde das nicht schon erwähnt?<<} 
+Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projekts, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln. {>>Jule: Wurde das nicht schon erwähnt?<<}
 
-Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Belegschaft integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden. 
-{>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<} 
+Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Belegschaft integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
+{>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<}
 
 
 ## Wobei kann MS Teams helfen?
@@ -60,18 +60,18 @@ Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturier
 
 - Unsere Absprachen fanden in verschiedenen Apps, wie Trello oder WhatsApp, statt.
 - Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
-- Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<} 
+- Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<}
 - Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps, wie Dropbox Paper oder Microsoft One Note, ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
 - Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitäts-Verlust und Unzufriedenheit.
 
-Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren. 
+Mit Teams können wir alle Prozesse zentralisiert angehen und unsere Probleme damit minimieren.
 Die Unterstützung bei der Zusammenarbeit und Produktivitäts-Steigerung ist eine Stärke von Teams.
 
-Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie innerhalb einer einzigen geräteübergreifenden App geboten. Der Austausch wird zentral, einheitlich und übersichtlich gebündelt. 
+Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie und Videotelefonie innerhalb einer einzigen geräteübergreifenden App geboten. Der Austausch wird zentral, einheitlich und übersichtlich gebündelt.
 
 Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete und die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App nicht auf dem Telefon lief.
 
-Indem es all diese Probleme umgeht, eignet Teams sich am besten für die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.  {>>Jule: Ich habe Sätze wie z.B. diesen umformuliert, um inhaltliche Brücken zwischen den Absätzen zu stärken. So wird der Text flüssiger, schlüssiger und liest sich dadurch auch besser :-)<<} 
+Indem es all diese Probleme umgeht, eignet Teams sich am besten für die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.  {>>Jule: Ich habe Sätze wie z.B. diesen umformuliert, um inhaltliche Brücken zwischen den Absätzen zu stärken. So wird der Text flüssiger, schlüssiger und liest sich dadurch auch besser :-)<<}
 
 So kann jede Abteilung ein eigenes, sogenanntes [Team] gründen und dort für jedes Thema einen spezifischen [Kanal] eröffnen. In diesen [Kanälen] können dann alle Beteiligten ihr themenrelevantes Wissen sammeln, teilen und gemeinsam bearbeiten. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
 
@@ -80,28 +80,28 @@ Sie können mit MS Teams einen unproduktiven Einsatz von verschiedenen Werkzeuge
 Auch die Zusammenarbeit und Kommunikation mit Ihrer Kundschaft können Sie mit MS Teams organisieren. Sie können spezifische [Teams] gründen mit [Kanälen] für Aufträge und Projekte, oder weitere Personen in bestehende Kanäle einladen. Sie können Gäste von außerhalb nämlich in Ihre [Teams] integrieren, indem Sie ihnen einen kontrollierten Zugriff auf alle dort gesammelten Informationen und Inhalte erteilen. Microsoft-Office-Lizenzen brauchen die externen Personen dafür nicht.
 
 
-## Was sollten Sie vor dem Start beachten? 
+## Was sollten Sie vor dem Start beachten?
 
-{>>Justus Version, von Jule kommentiert:<<} 
+{>>Justus Version, von Jule kommentiert:<<}
 
 Um die volle Funktionalität auszuschöpfen und eine gelungene Integration in den Arbeitsalltag zu erreichen, muss sich jedoch vor der Einführung von Teams als neues Instrument jede Nutzerin und Nutzer über den Einsatzzweck und die Nutzungsmöglichkeiten im Klaren sein.
-{>>Jule: Ich habe einen anderen Einstieg gewählt, weil der erste Satz hier ziemlich lang ist und eine "jedoch"-Formulierung beinhaltet. Wenn man zu dem Absatz springt weiß man nicht, worauf sich das "jedoch" bezieht, deshalb sollten erste Sätze immer mit einer frischen Argumentation beginnen.<<} 
+{>>Jule: Ich habe einen anderen Einstieg gewählt, weil der erste Satz hier ziemlich lang ist und eine "jedoch"-Formulierung beinhaltet. Wenn man zu dem Absatz springt weiß man nicht, worauf sich das "jedoch" bezieht, deshalb sollten erste Sätze immer mit einer frischen Argumentation beginnen.<<}
 Ziel sollte sein, die integrierbaren Werkzeuge des täglichen Einsatzes mit all den Teams-Features zu nutzen, die den Arbeitsalltag erleichtern. Alle Mitarbeitenden sollten über die Vorzüge der Integration ihrer Werkzeuge aufgeklärt werden, ein einfaches „Teams Nutzen weil es da ist“ ist kaum erfolgsversprechend.
-{>>Jule: Diesen Gedanken habe ich aufgenommen und mit einer konkreten Handlungsanweisung verknüpft, damit die Lesenden schnell das Gefühl haben, dass der Text sie mit Tipps versorgt.<<} 
+{>>Jule: Diesen Gedanken habe ich aufgenommen und mit einer konkreten Handlungsanweisung verknüpft, damit die Lesenden schnell das Gefühl haben, dass der Text sie mit Tipps versorgt.<<}
 Als Kollaborationslösung zur verbesserten Kommunikation und dezentralen Zusammenarbeit wirkt Teams nur langfristig, wenn direkt die nötige Akzeptanz für das Programm geschaffen wird.
-{>>Jule: Den Satz hab ich nach vorn gezogen, weil er eine gute Einleitung bietet: Er begründet, warum dieses Kapitel wichtig ist.<<} 
-Eine gute Feedback-Kultur und Fehlertoleranz ist eine Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. Hierbei können auch integrierbare Apps einen Beitrag leisten, eine bestehende Feedback-Kultur in das digitale Arbeitsumfeld zu übertragen oder neu aufzustellen. 
-Die Herausforderungen eines neuen Werkzeuges, dürfen nicht unterschätzt werden. Auf Nöte und Wünsche der Anwendenden sollte und kann Dank der Flexibilität der [Teams]-Umgebung reagiert werden. 
-{>>Jule: Der Absatz über die Feedback-Kultur unterbricht hier ein bisschen den kontextuellen Lesefluss, weil der Absatz direkt danach thematisch noch besser zu deiner Einleitung passt. Also hab ich ihn nach hinten verschoben.<<} 
+{>>Jule: Den Satz hab ich nach vorn gezogen, weil er eine gute Einleitung bietet: Er begründet, warum dieses Kapitel wichtig ist.<<}
+Eine gute Feedback-Kultur und Fehlertoleranz ist eine Grundlage zum offenen und langfristig erfolgreichen Umgang mit Teams. Hierbei können auch integrierbare Apps einen Beitrag leisten, eine bestehende Feedback-Kultur in das digitale Arbeitsumfeld zu übertragen oder neu aufzustellen.
+Die Herausforderungen eines neuen Werkzeuges, dürfen nicht unterschätzt werden. Auf Nöte und Wünsche der Anwendenden sollte und kann Dank der Flexibilität der [Teams]-Umgebung reagiert werden.
+{>>Jule: Der Absatz über die Feedback-Kultur unterbricht hier ein bisschen den kontextuellen Lesefluss, weil der Absatz direkt danach thematisch noch besser zu deiner Einleitung passt. Also hab ich ihn nach hinten verschoben.<<}
 Es lohnt sich, im Vorhinein Lösungsansätze für bestehende Probleme des Arbeitsalltags innerhalb Teams zu suchen und vor der Verteilung an Ihre Mitarbeitenden in Teams zu implementieren. Es braucht Lösungsansätze, die den Einsatz der neuen Arbeitsumgebung schmackhaft machen. Hier können schon kleinere Problemlösungen einen positiven Effekt haben: ein in Teams integrierter Speiseplan der Kantine oder direktere Teilhabe an internen Informationen etwa wären kleine, unkompliziert zu verwirklichende Anreize, die Mitarbeitenden den Einstieg in Teams als digitales Arbeitsumfeld lohnend erscheinen lassen. Hierzu ist ein Bewusstsein über konkrete Bedürfnisse der Mitarbeitenden nützlich, die dann entsprechend in Microsoft Teams berücksichtigt werden sollten. Dies steigert die Akzeptanz gegenüber der neuen Softwarelösung.
-{>>Jule: Die konkreten Handlungsanweisungen und Beispiele hier sind super. Ich hab es nur nochmal in zwei Gedanken aufgebrochen, weil ein verknüpfter Speiseplan etwas sehr Konkretes ist und die Teilhabe an Informationen etwas sehr Allgemeines.<<} 
+{>>Jule: Die konkreten Handlungsanweisungen und Beispiele hier sind super. Ich hab es nur nochmal in zwei Gedanken aufgebrochen, weil ein verknüpfter Speiseplan etwas sehr Konkretes ist und die Teilhabe an Informationen etwas sehr Allgemeines.<<}
 
 Zur gesteigerten Akzeptanz ist auch die Einbindung der Führungsebene entscheidend. Alle Abteilungsebenen und Mitarbeitenden sollten im Arbeitsumfeld von Teams sichtbar und aktiv sein.
 Neben der Akzeptanz ist eine richtige Erwartungshaltung an Teams wichtig. Es gilt unter Umständen Gewohnheiten zu überwinden, die eine effektive Arbeit mit Teams untergraben würden. Hierfür muss Verständnis über Möglichkeiten und Grenzen von Teams geschaffen werden.
- {>>Jule: Dieser Absatz beschreibt, was man noch beachten sollte, sobald Teams als Werkzeug aufgenommen wurde und welche Probleme wahrscheinlich noch auftreten werden. Deshalb würde ich ihn auftrennen und den zweiten Teil weiter hinten mit dem Gedanken der Feedback-Kultur verbinden.<<} 
+ {>>Jule: Dieser Absatz beschreibt, was man noch beachten sollte, sobald Teams als Werkzeug aufgenommen wurde und welche Probleme wahrscheinlich noch auftreten werden. Deshalb würde ich ihn auftrennen und den zweiten Teil weiter hinten mit dem Gedanken der Feedback-Kultur verbinden.<<}
 
  - Was soll der Einsatz von Teams verbessern? Warum ist es lohnenswert, die Arbeit in einem neuen digitalen Umfeld zu bewältigen?
- {>>Jule: Hier ist eine Kernaussage des Absatzes sehr schön in konkreten Fragen formuliert. Als solche hat sie es verdient, an den Anfang zu kommen.<<} 
+ {>>Jule: Hier ist eine Kernaussage des Absatzes sehr schön in konkreten Fragen formuliert. Als solche hat sie es verdient, an den Anfang zu kommen.<<}
 
 Diese Fragen lassen sich mit den firmeninternen Notwendigkeiten beantworten, sollten aber klar kommuniziert werden.  {>>Jule: Die Frage, wie die Notwendigkeit des Umstiegs von kommuniziert werden sollte, habe ich nach vorn gezogen und mit dem dort bereits gesponnenen Gedanken verknüpft, dass jeder Einzelne seinen Vorteil sehen sollte. Das habe ich dann mit deinem Beispiel von vorhin untermauert: direkte Teilhabe an internen Informationen.<<} Ein Leitfaden für alle Mitarbeitenden kann den Einstieg in Teams reibungsloser gestalten und die Erwartungen moderieren. Klare Absprachen über Arbeitsabläufe, klare Aussagen, wo und wie die Kommunikation in Teams ablaufen soll, wie die Dateiablage gehandhabt wird oder wann welche Lösung genutzt wird, erzeugen Sicherheit im Umgang und somit Akzeptanz und Effektivität des neuen digitalen Umfelds. Wird eine App präferiert, die nicht in MS Teams integriert wird, sollte auch hier der Grund dafür klar kommuniziert werden. Das gilt besonders in dem Fall, dass innerhalb von Teams eine App bereit steht, die den gleichen Zweck erfüllen würde.
 {>>Jule: Der Absatz beschreibt wieder, welche Maßnahmen helfen, um über die erste Zeit zu kommen. Der Gedanke zu einer externen App, die trotz Teams genutzt wird, passt gut zu dem Gedanken weiter oben, in dem es um Gewohnheiten geht, die überwunden werden müssen.<<}
@@ -110,7 +110,7 @@ Ein gelungener Einstieg in Teams gelingt wahrscheinlicher, wenn Mitarbeitende f�
 
 —
 
-{>>Jules Version auf Basis von Justus Text:<<} 
+{>>Jules Version auf Basis von Justus Text:<<}
 
 Teams kann Ihnen und Ihrer Kollegschaft die Arbeit erleichtern - vorausgesetzt, Sie sind darauf eingestellt: Als Kollaborationslösung zur verbesserten Kommunikation und dezentralen Zusammenarbeit wirkt Teams nur dann langfristig, wenn von Anfang an die nötige Akzeptanz für das Programm geschaffen wird. Erst, wenn sich alle bewusst darüber sind, wann, wie und vor allem warum sie das neue Instrument nutzen sollen, können sie es auch erfolgreich in den Arbeitsalltag integrieren und seine volle Funktionalität ausschöpfen. 
 
@@ -298,9 +298,15 @@ Sie können [Besprechungsnotizen] zur Vor- und Nachbereitung nutzen und bearbeit
 
 Alle diese Chats werden im Bereich [Chat] aufgeführt. Dort können Sie diese weiternutzen, dies gilt auch für die darin integrierten Whiteboards und Notizen.
 
+![](chat-mit-allen-bereichen.png)
+
 Innerhalb der Teams-App haben Sie die Möglichkeit, einzelne Chats aus der Programmoberfläche zu lösen und in einzelnen Fenstern zu nutzen. So können sie mehrere Chats gleichzeitig im Blick behalten oder einen Chat nutzen, während Sie in MS-Teams außerhalb des Chatbereichs arbeiten. Hierzu können Sie einen gewünschten Chat über dessen [weitere Optionen] aus der App herauslösen, indem Sie [Pop-out-Chat] wählen. Noch einfacher und überall aus der App heraus erreichbar starten Sie einen [Pop-out-Chat] per Doppelklick auf das Profilbild der Mitarbeitenden.
 
-![](chat-mit-allen-bereichen.png)
+Der Chatbereich bietet Ihnen in dringenden Angelegenheiten [Zustellungsoptionen], mit der Sie eine Nachricht als [wichtig] markieren können, oder sogar als [dringend].
+Eine als [wichtig] markierte Nachricht, wird Ihren Chat-Zielen optisch auffällig dargestellt. Neben einer roten Fassung werden solche Nachrichten mit einem roten Ausrufezeichen versehen.
+Eine [dringende] Nachricht erscheint ebenfalls in rot eingefasst. Markiert wird diese Nachricht mit einer roten Glocke. Zusätzlich werden Ihre Chat-Ziele über einen Zeitraum von 20 Minuten alle zwei Minuten über ein optisches Signal und ein Banner, welches unten rechts auf dem Desktop erscheint, auf Ihre dringende Nachricht aufmerksam gemacht. Wird Ihre Nachricht gelesen, werden keine weiteren akustische und optische Hinweise gegeben.
+
+![](zustellungsoptionen-festlegen-chat.png)
 
 
 # Videotelefonie
