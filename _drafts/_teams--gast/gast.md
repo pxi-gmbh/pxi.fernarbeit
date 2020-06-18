@@ -24,16 +24,38 @@ Gastzugriff aktivieren
 Um Gäste in Teams zu integrieren, müssen Sie zunächst auf Organisationsebene den Gastzugriff allgemein aktivieren. Dies gelingt Ihnen über das Microsoft Teams Admin Center, welches über den Browser im Microsoft 365 Admin Center unter admin.microsoft.com zu erreichen ist. Voraussetzung zum Zugriff auf Admin Center ist ein gültiger Office 365 Business-Plan und dass Sie über Administratorberechtigung verfügen.
 Nun melden Sie sich mit Ihrem Administratorkonto im Admin Center an und können dann über das App-Startsymbol oben links die Kachel [Admin] auswählen. Diese Kachel wird nur Personen mit Administratorberechtigung angezeigt.
 In der linken Spalte unter [Alle anzeigen] finden Sie das Admin Center [Teams]. Dort können Sie unter [Organisationsweite Einstellungen] im Bereich [Gastzugriff] den Gastzugriff in Teams ermöglichen und Features, die Gastbenutzer verwenden können oder nicht, aktivieren und deaktivieren. Alle Änderungen in diesem Bereich müssen mit [Speichern] bestätigt werden, um wirksam zu sein.
+![](gastzugriff-teams-ms-admin-center.png)
 
 Für den Gastzugriff in Microsoft Teams wird die Azure Active Directory B2B-Plattform (Business-to-Business) genutzt. Die Standardeinstellungen in Azure Active Directory, SharPoint Online und Office 365-Gruppen sind in der Regel bereits für einen Gastzugriff konfiguriert, bedürfen also keiner weiteren Einstellungen, um Gastzugriffe zu ermöglichen.
 Hier können Sie aber weitere Einstellungen des Gastzugriffs steuern. Das Azure Active Directory Admin Center finden Sie erneut mit dem Browser im Microsoft 365 Admin Center.
 Dort unter [Benutzer], die [Benutzereinstellungen] auswählen und wiederum unter [Externe Benutzer] den Bereich [Externe Einstellungen zur Zusammenarbeit] ansteuern.
+
+![](azure-active-gastzugriff-konfigurieren.png)
 Hier können Sie nun bestimmen, ob neben den Administratoren auch Teammitglieder Externe einladen dürfen oder dies sogar Gästen zusteht. Gäste können also selbst Gäste zur Zusammenarbeit mit ihrer Organisation einladen.
 Die nächste Instanz zur Verwaltung des Gastzugriffs ist die Office 365-Gruppe. Über das Microsoft 365 Admin Center gelangen sie in der linken Spalte über [Einstellungen] zu [Einstellungen] und dort wird unter Diensten [Office 365-Gruppen] gelistet. Deren Checkboxen sind üblicherweise aktiviert und regeln, dass Gruppenmitglieder von außerhalb ihrer Organisation auf Gruppeninhalte Zugreifen dürfen und Gruppenbesitzer Personen von außerhalb ihrer Organisation zu Gruppen hinzufügen können.
+![](office-365-gruppe-einstellung-externer.png)
 Unter [Sicherheit und Datenschutz], ebenfalls im Office 365 Admin Center unter [Einstellungen], [Einstellungen] zu finden, können Sie unter [Teilen] Benutzern erlauben, neue Gäste zur Organisation hinzuzufügen. Auch diese Einstellung ist üblicherweise bereits aktiviert.
+![](benutzer-duerfen-gast-einladen.png)
+
+
 Navigieren sie im Admin Center zum Admin Center [SharePoint]. Dort klicken Sie auf [Websites], [Aktive Websites], wählen Ihr gewünschtes Team an und klicken oberhalb der Liste auf [Teilen]. Mit den Optionen [Jeder] oder [Neue und vorhandene Gäste] können entsprechend Seiteninhalte geteilt werden.
 Beachten Sie, dass Änderungen im Admin Center immer mit Speichern bestätigt werden müssen. Im Fall von Änderungen an der Azure Active Directory können bis zu 24 Stunden vergehen, bis die Änderungen aktiv sind und Gäste entsprechend Zugriff haben.
 
-Einen Gast nehmen Sie über die Teams-App auf, indem Sie in der Kanalliste über das Kontextmenü [Weitere Optionen] des gewünschten Kanals [Mitglied hinzufügen] wählen. Dort geben Sie die E-Mail-Adresse des externen Kontakts ein. Über die Editierfunktion kann der Anzeigename des Gastes bearbeitet werden.
-Der Gast erhält per E-Mail eine Einladung und kann, sofern diese E-Mail-Adresse bereits mit einem Microsoft Konto verknüpft wurde, über [Microsoft Teams öffnen] dem Team beitreten. Eine noch nicht verknüpfte E-Mail-Adresse erfordert eine einmalige Registrierung dieser bei Microsoft. Es wird dann automatisch ein Microsoft Konto für die externe Person erstellt, welches dauerhaft mit der angegeben E-Mail-Adresse verknüpft wird.   
+![](seiteninhalte-teilbar-machen-sharepoint-gast.png)
+
+Einen Gast nehmen Sie über die Teams-App auf, indem Sie in der Kanalliste über das Kontextmenü [Weitere Optionen] des gewünschten Kanals [Mitglied hinzufügen] wählen. Dort geben Sie die E-Mail-Adresse des externen Kontakts ein.
+
+![](gast-hinzufuegen-teams-app.png)
+
+Über die Editierfunktion kann der Anzeigename des Gastes bearbeitet werden.
+
+![](name-von-gast-editieren.png)
+
+Der Gast erhält per E-Mail eine Einladung und kann, sofern diese E-Mail-Adresse bereits mit einem Microsoft Konto verknüpft wurde, über [Microsoft Teams öffnen] dem Team beitreten.
+![](einladung-gast-mail.png)  
+Eine noch nicht verknüpfte E-Mail-Adresse erfordert eine einmalige Registrierung dieser bei Microsoft. Es wird dann automatisch ein Microsoft Konto für die externe Person erstellt, welches dauerhaft mit der angegeben E-Mail-Adresse verknüpft wird.
+
+![](konto-erstellen-gast.png)
+
+
 Teams, deren Mitglieder auch aus Externen bestehen, werden sichtbar gekennzeichnet.
