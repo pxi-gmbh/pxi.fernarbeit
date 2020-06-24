@@ -29,7 +29,7 @@ Repositories klonen: Fernarbeit + Unterordner Notizen und draft (darin wird gear
 
 {>>Jule: Braucht es eine Legende?<<}
 
-# Was ist MS-Teams?
+# Was ist MS Teams?
 
 Microsoft Teams ist eine Kollaborationslösung für Teams verschiedener Größe. Egal ob es um die Organisation ganzer Firmen, einzelner Projekte oder der Arbeit Selbstständiger geht - Microsoft Teams hilft dabei, eine effektive Arbeitsumgebung zu schaffen.
 
@@ -53,7 +53,7 @@ Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weiter
 {>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<}
 
 
-## Wobei kann MS Teams helfen?
+## Wobei kann MS Teams uns helfen?
 
 Als dezentral aus dem Homeoffice arbeitende Firma sind wir auf viele Probleme gestoßen.
 Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturierter Kommunikation:
@@ -80,7 +80,7 @@ Sie können mit MS Teams einen unproduktiven Einsatz von verschiedenen Werkzeuge
 Auch die Zusammenarbeit und Kommunikation mit Ihrer Kundschaft können Sie mit MS Teams organisieren. Sie können spezifische [Teams] gründen mit [Kanälen] für Aufträge und Projekte, oder weitere Personen in bestehende Kanäle einladen. Sie können Gäste von außerhalb nämlich in Ihre [Teams] integrieren, indem Sie ihnen einen kontrollierten Zugriff auf alle dort gesammelten Informationen und Inhalte erteilen. Microsoft-Office-Lizenzen brauchen die externen Personen dafür nicht.
 
 
-## Was sollten Sie vor dem Start beachten?
+## Was müssen wir vor dem Start beachten?
 
 {>>Justus Version, von Jule kommentiert:<<}
 
@@ -145,40 +145,42 @@ Vielleicht können Sie Ihre bestehende Feedback-Kultur mithilfe integrierbarer A
 Haben Sie ein in jedem Fall ein offenes Ohr; schaffen Sie Räume für den gemeinsamen Austausch, seien Sie menschlich und beheben Sie Probleme gemeinsam. 
 Auf Nöte und Wünsche aller Beteiligten kann und sollte Dank der Flexibilität der Teams-Umgebung schließlich zügig reagiert werden.
 
-# Was kann Teams leisten? / Umgang mit Apps
+# Wie können wir Apps in MS Teams einbinden?
 
-Teams zeichnet die Offenheit für Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um Notwendigkeiten aber auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren.
-Sie können unterstützte Apps und Werkzeuge in Teams aus einer umfangreichen Liste auswählen und auf verschiedenen Ebenen integrieren und so eine zentrierte, effektive Arbeitumgebung schaffen.
+{>>Jule: Gefühlt gehört dieses Kapitel noch hinter "Wie ist MS Teams aufgebaut?"<<} 
 
-Diese Ebenen sind in Microsoft Teams wiefolgt aufgebaut:
+Teams zeichnet die Offenheit für externe Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um sowohl Notwendigkeiten als auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren. Und so eine zentrierte, effektive Arbeitumgebung schaffen.
 
-Auf der linken Seite von Teams können Sie Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. So in der linken Seite eingebunden sind Apss für Sie schnell und kanalunabhängig verfügbar.
+Sie können unterstützte Apps und Werkzeuge in Teams aus einer umfangreichen Liste auswählen und auf verschiedenen Ebenen integrieren. Diese Ebenen sind in Microsoft Teams wie folgt aufgebaut:
+
+Auf der linken Seite der Benutzer-Oberfläche von Teams können Sie Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. {>>Jule: Was bedeutet "mit persönlicher Ansicht oder zum eigenen Gebrauch?":<<} So in der linken Seite eingebunden, sind Apps für Sie schnell und kanalunabhängig verfügbar. {>>Jule: Was bedeutet "kanalunabhängig"? Bezieht sich das auf die Kanäle in Teams oder einfach darauf, dass alle innerhalb Teams verfügbar sind?<<} 
 
 ![](apps-uebersicht.png)
 
-Für die Zusammenarbeit mit unterschiedlichen Personen oder in bestimmten Aufgabenbereichen, können Sie Apps in den Registrierkarten der Kanäle oder auch Chats einbinden.
+Für einzelne Arbeitsgruppen oder Aufgabenbereiche können Sie Apps auch in den Registrierkarten der jeweiligen [Kanäle] und [Chats] einbinden.
 
-Die oben angeordneten Registrierkarten sind die Orte in Chats und Kanälen, an denen Sie Apps platzieren und über die Schaltfläche „+“ neu hinzufügen können. Auf diese Weise können Sie auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
+Die oben angeordneten Registrierkarten sind die Orte in [Chats] und [Kanälen], an denen Sie Apps platzieren und über die Schaltfläche [+] neu hinzufügen können. Auf diese Weise können Sie auch Dokumente aus Word oder PowerPoint zur gemeinsamen Bearbeitung hinterlegen.
 
 
 ![](registrierkarten-in-kanal-zufuegen.png)
 
-Für jeden Kanal können Sie über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] werden dann im Kanal alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
+Für jeden Kanal können Sie über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] werden dann im [Kanal] alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
 
-Sie können Apps auch in Unterhaltungen integrieren. Deren Inhalte können Sie direkt in Nachrichten eingefügen: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text so mit den Teammitgliedern teilen und durch die in Teams integrierte Suchfunktion schnell erreichen.
-Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben, über die Schaltfläche der drei Punkte [Messaging-Erweiterungen]. Sie können auch einzelne Apps unter dem Nachrichtenfeld anheften und ermöglichen sich so eine schnellere Verfügbarkeit in Unterhaltungen.
+Sie können Apps auch in Unterhaltungen integrieren. Deren Inhalte können Sie direkt in Nachrichten eingefügen: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text mit Team-Mitgliedern teilen. {>>Jule: den Hinweis zur Suchfuntion habe ich rausgenommen, weil er an dieser Stelle thematisch nicht so gut reinpasst.<<}
+Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben: Hinter der Schaltfläche [...] liegen alle sogenannten [Messaging-Erweiterungen]. Sie können auch einzelne Apps direkt unter dem Nachrichtenfeld anheften, um in Unterhaltungen noch schneller darauf zuzugreifen.
 
 
 ![](app-in-unterhaltung-einfuegen.png)
 
-Die Entscheidung darüber, welches Werkzeug zum Einsatz kommt, ist somit unproblematisch. Ist die Wahl einmal getroffen, sollte dieser auch konsequent gefolgt werden und deren durch Teams gebotenen Vorteile der Kollaboration Anwendung finden.
-
-Ein gemeinsam zu bearbeitendes Word-Dokument etwa, kann in Teams für alle optimal erreichbar und sichtbar integriert werden. Ist dies einmal geschehen, sollte dieses Dokument nun auch konsequent über Teams gemeinsam bearbeitet und kommentiert werden. Kommentare bleiben auf diese weise nicht in einem Dokument eingesperrt und warten dort auf Aufmerksamkeit, sie können ohne weiteren Aufwand öffentlich und gezielt in der Kanalkommunikation auftauchen.
+Ist die Wahl für ein integriertes Werkzeug einmal getroffen, sollten Sie dieser auch konsequent folgen.
+Ein gemeinsam zu bearbeitendes Word-Dokument etwa, kann in Teams für alle optimal erreichbar und sichtbar integriert werden. Infolgedessen sollten Sie dieses Dokument nun auch konsequent über Teams gemeinsam bearbeiten und kommentieren. Kommentare bleiben auf diese Weise nicht in einem Dokument eingesperrt und warten dort auf Aufmerksamkeit. Sie können jetzt ohne weiteren Aufwand gezielt in die öffentlichen Kommunikation des [Kanals] eingebunden werden.
 
 ![](word-dokument-in-kanal-eingefuegt2.png)
+{>>Jule: Super Idee mit dem Text in dem Dokument auf dem Screenshot! Aber schreib doch bitte statt "Dieses Beispieldokument kann" "Word-Dokumente wie dieses können" und dreh die Schriftgröße ordentlich hoch, damit es auch in dem kleinen Screenshot noch gut lesbar ist .<<}
 
-Ein Beispiel nicht gelungener Adaption wäre hier, dass jedes Teammitglied weiterhin in einem eigenen Dokument arbeitet, es lokal speichert und innerhalb der Teams-App lediglich in Chats die übrigen Mitarbeitenden über Veränderungen informiert, um später ein Dokument aus unzähligen Dokumenten wieder zusammenzufügen und auch die Kommunikation zum Dokument in verschiedensten Chats verteilt zu haben. So wäre Teams aller kollaborativer Stärken beraubt und würde als Ort einer so stattfindenden suboptimalen Kommunikation wohl eher auf negative Wahrnehmung der Anwendenden treffen.
-Optimal wäre Teams eingesetzt, indem das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen SharePoint hinterlegt wird. Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams Kanälen dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation.
+Ein Beispiel nicht gelungener Adaption wäre hier, dass jedes Team-Mitglied weiterhin in einem eigenen Word-Dokument arbeitet, dieses lokal speichert und die Teams-App dann lediglich dafür nutzt, alle anderen in einem [Chat] über die Veränderungen zu informieren. In dem Fall müssten Sie später mühevoll Unterhaltungen durchsuchen und das Dokument aus vielen Versionen wieder zusammenzufügen. So wäre Teams aller kollaborativer Stärken beraubt und würde als suboptimales Kommunikations-Werkzeug wohl eher negative Reaktionen hervorrufen.
+Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen [SharePoint] hinterlegt wird. {>>Jule: Was ist ein SharePoint? Der Begriff wurde noch nicht eingefügt.<<} Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams [Kanälen] dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation. 
+{>>Jule: Das Beispiel für den optimalen Einsatz wurde ja schon in dem Absatz über dem Bild beschrieben. Das doppelt sich hier also. Vielleicht kann man lieber den oberen Absatz ausbauen und den hier unten streichen? Stattdessen könnte man dann hier unten nur noch mit einem Schlussatz abschließen wie etwa: "Achten Sie deshalb darauf, immer das volle Potential von App-Einbindungen in Teams auszuschöpfen."<<}
 
 
 # Wie ist Teams aufgebaut? Struktur
