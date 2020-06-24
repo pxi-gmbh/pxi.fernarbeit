@@ -183,52 +183,55 @@ Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams pl
 {>>Jule: Das Beispiel für den optimalen Einsatz wurde ja schon in dem Absatz über dem Bild beschrieben. Das doppelt sich hier also. Vielleicht kann man lieber den oberen Absatz ausbauen und den hier unten streichen? Stattdessen könnte man dann hier unten nur noch mit einem Schlussatz abschließen wie etwa: "Achten Sie deshalb darauf, immer das volle Potential von App-Einbindungen in Teams auszuschöpfen."<<}
 
 
-# Wie ist Teams aufgebaut? Struktur
+# Wie ist Teams aufgebaut?
 
-Die Benutzeroberfläche von Teams ist übersichtlich und einfach aufgebaut. Ziel ist es, die wichtigsten Funktionen schnell erreichbar zu machen.
-Die linke Spalte ist mit den Schaltflächen der Hauptkategorien versehen.
+Die Benutzeroberfläche von Teams ist übersichtlich und einfach aufgebaut. 
+Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spalte erreichen. 
+Wie Sie die jeweils nutzen, erklären wir in den folgenden Abschnitten noch genau. Aber hier ist ein erster Überblick:
 
-- [Aktivität] (ein Feed, der Sie chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in Ihren [Teams] informiert)
+{>>Jule: Die Hauptfunktionen sollten in diesem Überblick hier auf die jeweiligen klärenden Kapitel verlinkt werden.<<}
+
+- [Aktivität] - Ein Feed, der Sie chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in Ihren [Teams] informiert.
 
 ![](aktivität-feed-und-schaltflaeche.png)
 
-- [Chat] (ermöglicht Ihnen den schnellen Austausch mit Teammitgliedern)
+- [Chat] - Ermöglicht Ihnen den schnellen Austausch mit anderen Mitgliedern.
 
 ![](chat-bereich.png)
 
-- [Teams] (listet alle Teams auf, an denen Sie beteiligt sind. Hierüber erreichen Sie deren zugehörigen einzelnen Kanäle)
+- [Teams] - Listet alle [Teams] auf, an denen Sie beteiligt sind. Hierüber erreichen Sie auch deren zugehörige [Kanäle].
 
 ![](teams-kategorie-liste.png)
 
-[Kalender] (hier planen Sie Besprechungen und können bereits geplante betreten)
+- [Kalender] - Hier planen und betreten Sie Besprechungen.
 
 ![](kalender-besprechung.png)
 
-- [Anrufe] (bietet die Möglichkeit, mit Teammitgliedern per Video- oder Audiocall zu kommunizieren, Kontakte, Verlauf und eine Art Anrufbeantworter finden Sie hier)
+- [Anrufe] - Bietet die Möglichkeit, mit anderen per Video- oder Audio-Anruf zu kommunizieren. Auch Kontakte, Verläufe und eine Art Anrufbeantworter finden Sie hier.
 
 ![](anrufe-kategorie.png)
 
-- [Dateien] (hier finden Sie alle mit Ihnen im Team geteilten Dateien)
+- [Dateien] - Hier finden Sie alle mit Ihnen geteilten Dateien.
 
 ![](dateien-kategorie.png)
 
-In der linken Spalte können Sie unterhalb der Hauptkategorien außerdem noch weitere Apps zum Schnellzugriff platzieren.
+In der linken Spalte, unterhalb der Hauptfunktionen, können Sie noch weitere Apps für den Schnellzugriff platzieren.
 
-Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zurückfunktion. Diese ist besonders praktisch, um schneller wieder in den Bereich zurückzukommen, aus dem Sie beispielsweise durch einen Chat herausgerissen worden sind. Über die Zurückfunktion gelangen Sie dorthin wieder zurück, ohne den Umweg über die Schaltflächen Teams und Kanäle nehmen zu müssen.
+Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zurückfunktion. Diese ist besonders praktisch, um schnell wieder in den Bereich zurückzukommen, aus dem Sie, beispielsweise durch einen [Chat], herausgeraten sind. Mit einem Klick auf [<] gelangen Sie wieder dorthin zurück, ohne den Umweg über die Schaltflächen [Teams] und [Kanäle] nehmen zu müssen.
 
 ![](kopfzeile-vor-und-zurueck-funktion.png)
 
-In der Mitte der Kopfzeile können Sie eine allgemeine Suche und darüber hinaus aber auch Befehle ausführen. Befehle dienen als Kurzbefehle, mit denen Sie allgemeinere Aufgaben in Teams erledigen können. Um einen Befehl zu verwenden, geben Sie ein / in das Befehlsfeld ein. Eine Liste taucht auf und gibt Ihnen einen Überblick der möglichen Befehle. Auf das / müssen Sie dann noch ohne trennendes Leerzeichen den gewünschten Befehl eingeben und mit Enter bestätigen.
-
-Mit einem vorangestellten @ und darauf folgendem Namen können Sie im Befehlsfeld direkt Nachrichten an Personen und bestehende Gruppenchats senden.
+In der Mitte der Kopfzeile können Sie sowohl eine allgemeine Suche als auch Befehle ausführen. 
+Kurzbefehle dienen dazu, allgemeine Aufgaben in Teams zu erledigen. Um diese zu verwenden, geben Sie [/] in das Befehlsfeld ein. Daraufhin öffnet sich eine Liste mit einem Überblick über mögliche Befehle und deren Wortlaut.
+Mit einem vorangestellten [@] vor einem Namen können Sie im Befehlsfeld Nachrichten direkt an einzelne Personen oder geteilte [Chats] senden.
 
 ![](kopfzeile-suche-und-befehle-mit-kontextmenue.png)
 
- Im Rechten Bereich der Kopfzeile sind über das runde Profilbild Ihre Grundeinstellungen der Teams-App zu erreichen. Neben den Einstellungen, können Sie hier auch den Status ihrer aktuellen Erreichbarkeit ändern, der Ihren anderen Teammitgliedern angezeigt wird.
+ Im rechten Bereich der Kopfzeile befindet sich ein rundes Profilbild. Hier können Sie all Ihre grundsätzlichen Einstellungen anpassen. Zum Beispiel können Sie den Status Ihrer aktuellen Erreichbarkeit ändern, der anderen Mitgliedern angezeigt wird.
 
 ![](kopfzeile-grundeinstellung-profilbild-statusanzeige.png)
 
-Der Aufbau der einzelnen Hauptkategorien ist in den jeweiligen Passagen beschrieben.
+
 
 
 # Kanäle
