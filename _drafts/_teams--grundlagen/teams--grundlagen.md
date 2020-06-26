@@ -232,54 +232,63 @@ Mit einem vorangestellten [@] vor einem Namen können Sie im Befehlsfeld Nachric
 ![](kopfzeile-grundeinstellung-profilbild-statusanzeige.png)
 
 
-
-
 # Kanäle
 
-MS Teams Einsatzfelder zeichnen sich im Wesentlichen durch drei Pfeiler aus: Kommunikation, Kollaboration und Dateiverwaltung.
+MS Teams Einsatzfelder zeichnen sich im Wesentlichen durch drei Pfeiler aus: Kommunikation, Kollaboration und Dateiverwaltung. Diese Pfeiler stehen auf dem Fundament von Teams, den [Kanälen].
 
-Diese Pfeiler stehen auf dem Fundament von Teams, den Kanälen.
-Kanäle sind spezielle Abschnitte innerhalb eines Teams. Hiervon stehen jedem Team 200 Standardkanäle und 30 sogenannte private Kanäle zur verfügung.
-In Kanälen findet Kommunikation, Kollaboration und Dateiverwaltung statt. Ein Kanal gibt dabei den Personenkreis oder thematischen Rahmen vor. Hier können Sie aufteilen und bestimmen, wer Zutritt hat, wer Informationen erhält oder erhalten will, wer Zugriff auf Dateien hat und welche  spezifischen Apps und Tabs verfügbar sind.
-Jedes Team startet mit einem Hauptkanal [Allgemein]. Er wird automatisch bei Gründung eines neuen Teams angelegt und kann weder gelöscht noch umbenannt werden.
-Für jedes Team können Sie für bestimmte Projekte oder als Arbeitsumgebung für einen ausgewählten Personenkreis weitere Kanäle hinzufügen und zweckmäßig benennen.
+[Kanäle] sind spezielle Bereiche innerhalb eines [Teams]. Hiervon stehen jedem Team 200 [Standardkanäle] und 30 sogenannte [private Kanäle] zur verfügung.
 
-Benötigen Sie einen Kanal nicht mehr, können Sie diesen löschen. Dabei bleiben die dort geteilten Dateien auf der zum Kanal gehörigen SharePoint Teamseite gespeichert, die darin geführten Unterhaltungen gehen jedoch verloren.
+Ein [Kanal] gibt dabei den Personenkreis oder thematischen Rahmen vor. Hier können Sie aufteilen und bestimmen, wer Zutritt hat, wer Informationen erhält, wer Zugriff auf Dateien hat und welche  spezifischen Apps und Tabs verfügbar sind.
 
-Ein Kanal besteht aus Tabs bzw. Registrierkarten, die Sie in der Menüleiste oben im Kanal finden und dort auch erweitern können. Jeder Kanal hat dabei zwei Tabs, die dauerhaft bestehen, nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Betreten Sie einen Kanal, ist automatisch der Tab [Beiträge] geöffnet. In diesem befinden sich alle [Unterhaltungen] des Kanals. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
+Jedes [Team] startet mit einem Hauptkanal [Allgemein]. Dieser wird automatisch bei Gründung eines neuen [Teams] angelegt und kann weder gelöscht noch umbenannt werden.
+Für jedes [Team] können Sie weitere [Kanäle] hinzufügen und zweckmäßig benennen. Etwa für bestimmte Projekte oder als Arbeitsumgebung für einen ausgewählten Personenkreis.
+
+Sie können die [Kanäle] in der App zur verbesserten Übersicht sortieren: Mit gehaltener Maustaste lassen sie sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
+Benötigen Sie einen [Kanal] nicht mehr, können Sie diesen löschen. Dabei bleiben die dort geteilten Dateien auf der zum [Kanal] gehörigen [SharePoint Teamseite] gespeichert, die darin geführten Unterhaltungen gehen jedoch verloren.
+
+Ein [Kanal] besteht aus Tabs beziehungsweise Registrierkarten, die Sie in der Menüleiste oben im [Kanal] finden und dort auch erweitern können. Jeder [Kanal] hat dabei zwei Registerkarten, die dauerhaft bestehen, also auch nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Betreten Sie einen [Kanal], ist automatisch die Registerkarte [Beiträge] geöffnet. In dieser befinden sich alle [Unterhaltungen] des [Kanals]. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
 
 ![](aufbau-kanal-beitraege.png)
 
-Der Tab [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf SharePoint und somit auf alle Dateien, die von Ihnen oder den Kanalmitgliedern über [Unterhaltungen] innerhalb des Kanals geteilt oder direkt bei SharePoint hochgeladen wurden. Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen Kanals erstellt und mit dem Dateientab des Kanals verknüpft.
+Die Registerkarte [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf dem [SharePoint] und somit auf alle Dateien, die von [Kanal]-Mitgliedern über [Unterhaltungen] innerhalb des [Kanals] geteilt oder direkt auf den [SharePoint] hochgeladen wurden. 
+Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder über Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene [SharePoint]-Ordner wird automatisch bei Gründung eines neuen [Kanals] erstellt und mit der [Dateien]- Registerkarte des [Kanals] verknüpft.
 
 ![](aufbau-kanal-dateien.png)
 
-Für jeden Kanal können Sie mit der als Plus dargestellten Schaltfläche weitere [Registrierkarten hinzufügen]. [Teams] bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Websites und einzelne Dokumente mittels eines Tabs in einem Kanal platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Websites oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt. Diese lassen sich nutzen, ohne die Teams-App verlassen zu müssen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App in deren Onlineansicht dargestellt werden. Ebenfalls mit einem Klick wechseln Sie jedoch aus der Onlineansicht des in ein Tab eingefügten Dokumentes in die vollständige Applikation.
+Für jeden [Kanal] können Sie über die Schaltfläche [+] weitere [Registrierkarten hinzufügen]. 
+Teams bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Internetseiten und einzelne Dokumente als Registerkarte in einem [Kanal] platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Internetseiten oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt und direkt in der Teams-App zu benutzen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App zunächst in der Online-Ansicht dargestellt werden. Aber auch hier müssen Sie nur ein Mal auf [In Desktop-App öffnen] klicken, um in die vollständige Applikation zu wechseln.
 
 ![](word-dokument-in-kanal-eingefuegt.png)
+{>>Jule: Schreib doch hier bitte "Beispiel-Dokument" oder einfach nur "Dokument" und erhöhe den Schriftgrad.<<}
 
-Sie können die Kanäle in der App zur verbesserten Übersicht sortieren: mit der gedrückten Maustaste lassen die sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
-Kanäle stehen zunächst allen Mitgliedern eines Teams offen. Um selektiv Mitgliedern Zugriff zu gewähren, können Sie private Kanäle gründen. Sie werden in der Kanalübersicht Ihres Teams mit einem Schloss symbolisch gekennzeichnet und auch nur den Mitgliedern angezeigt. Unterhaltungen, Mitgliederlisten und eine separate Websitesammlung auf SharePoint zur Dateiablage sind nur Mitgliedern des privaten Kanals zugänglich. Wer private Kanäle erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen Teammitgliedern zu. Gäste haben hierzu keine Berechtigung.
+[Kanäle] stehen zunächst allen Mitgliedern eines [Teams] offen. Um selektiv Mitgliedern Zugriff zu gewähren, können Sie [private Kanäle] gründen. Diese werden in der [Kanal]-Übersicht Ihres [Teams] mit einem Schloss-Symbol gekennzeichnet und nur eingeladenen Personen angezeigt. Unterhaltungen, Mitgliedslisten und eine separate Website-Sammlung auf [SharePoint] zur Dateiablage sind nur Mitgliedern des [privaten Kanals] zugänglich. Wer [private Kanäle] erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen [Team]-Mitgliedern zu. Gäste haben hierzu keine Berechtigung.
 
 ![](privater-kanal.png)
 
-Die Person, die einen privaten Kanal erstellt, kann beliebig Teammitglieder und auch Gäste zum privaten Kanal hinzufügen. Um einen Privaten Kanal zu erstellen, müsesen Sie im Erstellungsfenster unter [Datenschutz] die Auswahl [Standard - für alle Teammitglieder zugänglich] auf [Privat - nur für bestimmte Personengruppe im Team zugänglich] verändern. Anschließend können Sie erwünschte Personen hinzufügen, oder nachträglich über das Kontextmenü des Kanals [weitere Optionen] ergänzen.
+Die Person, die einen [privaten Kanal] erstellt, kann [Team]-Mitglieder und auch Gäste nach ihrem Belieben hinzufügen. Um einen [privaten Kanal] zu erstellen, müssen Sie im Erstellungsfenster unter [Datenschutz] die Auswahl [Standard - für alle Teammitglieder zugänglich] auf [Privat - nur für bestimmte Personengruppe im Team zugänglich] ändern. {>>Jule: Was ist das "Erstellungsfenster"? Hier braucht es glaube ich eine bessere Schaltflächen-Beschreibung.<<} Anschließend können Sie erwünschte Personen hinzufügen, oder nachträglich über die [Kanal]-Schaltfläche [...] ergänzen.
 
+# Unterhaltungen
 
-# Unterhaltung
+Der größte Teil der Kommunikation innerhalb von [Teams] findet in der sogenannten [Unterhaltung] statt.
 
-Der größte Teil der Kommunikation innerhalb von [Teams] findet in der sogenannten [Unterhaltung] statt. Unterhaltungen Sind Teil eines jeden Teams [Kanal] und unter der Registrierkarte [Beiträge] zu finden. Betreten Sie einen [Kanal] betreten, so ist dieser Reiter automatisch ausgewählt. Jeder [Kanal] eines [Teams] hat seinen eigenen Bereich der [Beiträge].  Wird eine Unterhaltung gestartet, können alle Mitglieder des Teams und Personen mit Zugangsberechtigung auf diese Antworten oder eine eigene Unterhaltung starten. Dabei können Unterhaltungen neben Text auch Dateianhänge, Emojis, Gifs, Sticker, Bilder, Videos und App-Inhalte beinhalten.
-Eine [Unterhaltung] dient als Ordnungsinstanz und Sie können eine Unterhaltung oder Antwort Ihren optischen Wünschen und Notwendigkeiten anpassen. Hierzu erreichen Sie eine Formatierungsfunktion über das große A unterhalb des Texteingabefeldes. Neue Unterhaltungen und vor allem Antworten werden ohne diese Funktion unformatiert im Stil eines Messengers dargestellt. Diese simple Darstellung soll der schnellen, unkomplizierten Kommunikation dienen, die Sie aber nicht zwingend beibehalten müssen.
+[Unterhaltungen] Sind Teil eines jeden [Kanals] und unter der Registrierkarte [Beiträge] zu finden. Betreten Sie einen [Kanal], so ist dieser Reiter automatisch ausgewählt. 
+
+Wird eine [Unterhaltung] gestartet, können alle [Teams]-Mitglieder und Zugangsberechtigte auf diese antworten oder eine eigene [Unterhaltung] starten. Dabei können sie neben Text auch Emojis, Gifs, Sticker, Bilder, Videos, Datei-Anhänge und App-Inhalte veröffentlichen.
+Außerdem lassen sich Inhalte zur besseren Übersicht formatieren. Alle Optionen hierzu finden Sie über die Schaltfläche [A] unterhalb der Texteingabe.
 
 ![](unterhaltung-antwort-formatieren.png)
 
-Eine Unterhaltung folgt dem Prinzip eines Threads: Diskussionsbeiträge werden hierarchisch organisiert. Der Anfangsbeitrag einer Unterhaltung gibt das Thema vor, welchem die weiteren Beiträge folgen. Ist ein Thema für Einzelne nicht von Belang oder Interesse, kann so schneller über die Unterhaltung hinweggesehen werden, als es in einer Chatkommunikation mit ihrer durchlaufenden, ungeordneten Gesprächsführung der Fall wäre. Sie sollten darauf achten, die Unterhaltungen und damit den Thread zu einem Thema weiter für dieses Thema zu nutzen und dort für weitere Beiträge auf [Antworten] zurückzugreifen, anstatt eine Antwort oder Fortsetzung des Themas durch eine [Neue Unterhaltung] anzugehen und den Kanal so aufzublasen. Umfangreiche Unterhaltungen mit vielen Antworten werden zur verbesserten Übersicht zusammenklappt. Bei Bedarf können Sie diese wieder ausklappen.
+Eine [Unterhaltung] folgt dem Prinzip eines Threads: Beiträge werden hierarchisch organisiert. 
+Der erste Beitrag einer [Unterhaltung] gibt das Thema vor, welchem die weiteren Beiträge folgen. Ist ein Thema für Einzelne nicht von Belang oder Interesse, kann so schneller über die Unterhaltung hinweggesehen werden, als es in einer Chat-Kommunikation mit durchlaufender, ungeordneter Gesprächsführung der Fall wäre. 
+Sie sollten darauf achten, die [Unterhaltungen] zu einem bestimmten Thema auch weiter für dieses zu nutzen. Greifen Sie für weitere Beiträge auf [Antworten] zurück, anstatt eine Antwort oder Fortsetzung des Themas durch eine [Neue Unterhaltung] anzugehen und den [Kanal] so unnötig aufzublasen.
+Umfangreiche [Unterhaltungen] mit vielen Antworten werden zur verbesserten Übersicht zusammenklappt. Bei Bedarf können Sie diese wieder ausklappen.
 
 ![](unterhaltung-antwort-zusammenklappen.png)
 
-Auf eine [Unterhaltung] und deren Beiträge können Sie schnell per Emoji reagieren und so besonders unkompliziert Kenntnisnahme oder Feedback öffentlich kommunizieren.  Diese simple Funktion stellt sich als äußerst nützlichen Teil der Kommunikation in Remoteteams dar. Diese kurze Interaktion fördert den Austausch zwischen Teammitgliedern immer dann, wenn aus Zeitmangel oder anderen Gründen eine detailliertere Reaktion nicht möglich ist. Diese Kurzreaktion per Emoji kann den Austausch verstärken und darüber hinaus als Bindeglied zwischen den Teammitgliedern fungieren: Jemand ist da, Jemand nimmt wahr, Jemand weiß zu schätzen.  
+Wenn Sie mit der Maus über einzelne Beiträge einer [Unterhaltung] fahren, öffnet sich rechts oben ein Emoji-Menü. Hier können Sie schnell mit einer symbolischen Emotion reagieren und so besonders unkompliziert Kenntnisnahme oder Feedback kommunizieren. Diese simple Funktion stellt sich als äußerst nützlichen Teil der Kommunikation dezentraler Arbeitsgruppen dar. Vor allem dann, wenn aus Zeitmangel oder anderen Gründen eine detailliertere Antwort nicht möglich ist. Die kurze Reaktion per Emoji kann den Austausch verstärken und darüber hinaus als Bindeglied im Kollegium fungieren: Jemand ist da, jemand nimmt wahr, jemand weiß zu schätzen.  
 
-Sie können Unterhaltungen über Lesezeichen für später speichern und per Link oder Email teilen. Besonders die Funktion, Unterhaltungen zu speichern ist eine nützliche Funktion, um wichtige Unterhaltungen schnell wieder verfügbar zu machen oder diese zu fokussieren. Die Funktion ist über  das Kontextmenü [Weitere Optionen] der Unterhaltung zu erreichen, welches auftaucht, sobald Sie den Mauszeiger über der Unterhaltung platzieren. Zu den gespeicherten Nachrichten und Unterhaltungen gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Über das Kontextmenü können Sie die Speicherungen wieder aufheben.
+{>>Jule: Ab hier muss ich noch weiter redigieren.<<} 
+Im Menü [...] rechts neben den Emojis können Sie Nachrichten als Lesezeichen für später speichern und per Link oder E-Mail teilen. Besonders die Funktion, Unterhaltungen zu speichern ist eine nützliche Funktion, um wichtige Unterhaltungen schnell wieder verfügbar zu machen oder diese zu fokussieren. Die Funktion ist über  das Kontextmenü [Weitere Optionen] der Unterhaltung zu erreichen, welches auftaucht, sobald Sie den Mauszeiger über der Unterhaltung platzieren. Zu den gespeicherten Nachrichten und Unterhaltungen gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Über das Kontextmenü können Sie die Speicherungen wieder aufheben.
 
 ![](unterhaltung-gespeichert-emojireaktion2.png)
 
