@@ -338,29 +338,41 @@ Eine [dringende] Nachricht erscheint ebenfalls in rot eingefasst. Markiert wird 
 ![](zustellungsoptionen-festlegen-chat.png)
 
 
-# Videotelefonie
+# Video-Telefonie
 
-Teams hat ein interne Lösung für Videotelefonie und Anrufe. Es steht Lösungen wie Skype for Business in nichts nach und ist laut Microsoft auch als dessen Nachfolgelösung gedacht, soll doch Skype for Business im Sommer 2021 den Dienst einstellen.
-Sie können Videoanrufe und Anrufe in MS Teams über [Anrufe], aus [Chats] heraus, über die Befehlszeile oder über die Profilbilder der zu kontaktierenden Teammitglieder tätigen.
-Besonders praktisch sind die Videoanrufe allerdings innerhalb der [Besprechung], der Videokonferenz in der Teams-App. Sie können [Besprechungen] über den [Kalender], in der linken Seitenleiste zu finden, planen und wahrnehmen.
+Teams hat ein interne Lösung für Telefonie mit und ohne Video. Diese steht vergleichbaren Anwendungen wie Skype for Business in nichts nach und ist laut Microsoft auch als dessen Nachfolge geplant, wenn Skype for Business im Sommer 2021 den Dienst einstellt.
+
+In MS Teams können Sie [Anrufe] über die gleichnamige Schaltfläche in der linken Menü-Spalte starten. Aber auch aus [Chats] heraus oder über die Profilbilder Ihrer Kontaktperson.
+{>>Jule: Den Hinweis, dass man Anrufe über die Befehlzeile starten kann, habe ich weggenommen, weil man das ja dann bei allem dazusagen müsste. Ich denke, dass man damit alle gängige Befehle erreichen kann, ist schon in einer früheren Passage klar geworden.<<}
+
+Besonders praktisch sind [Anrufe] allerdings innerhalb einer [Besprechung], der Video-Konferenz der Teams-App. Sie können [Besprechungen] über den [Kalender], in der linken Menü-Leiste planen, finden und wahrnehmen.
 
 ![](besprechung-ueber-kalender.png)
 
-Hinweise mit Teilnahmemöglichkeit auf Besprechungen finden sich auch in den Kanälen wieder.
-Die Videoanrufe und Anrufe verfügen über eigene Chats, und eine komfortable Möglichkeit, den eigenen Bildschirm oder einzelne Programmfenster anderer Apps zu teilen.
-Sie können Videoanrufe über den integrierten Dienst [Stream] aufzeichnen und teilen. Dies ist im Kontextmenü unter [weitere Aktionen] integriert und kann durch [Aufzeichnung beginnen] von Ihnen gestartet werden. Alle Teilnehmenden werden über die Aufzeichnung informiert. Im Chatbreich der [Besprechung] wird ebenfalls über die fertige Aufzeichnung informiert. Hierüber können Sie die Aufzeichnung auch außerhalb der Stream-App oder Stream-Webplattform gucken.
-Je nach Lizenz bietet Teams auch die Möglichkeit, per Telefon an Besprechungen teilzunehmen und damit auf diesem Weg weitere Gäste und Teammitglieder ohne Internetanbindung in die [Besprechung] zu integrieren.
-Mittlerweile haben Sie in der Videotelefonie in Teams auch die Möglichkeit, künstlich den Hintergrund Ihres Videos zu bestimmen. Neben der Möglichkeit, Ihren von der Webcam aufgezeichneten Hintergrund unkenntlich zu machen und so den Teilnehmenden unerwünschte Einblicke in Ihre Umgebung zu gewähren, können Sie nun auch ohne zusätzliche technische Voraussetzungen eine Art Greenscreen-Effekt nutzen. Während Sie im Vordergrund sichtbar bleiben, wird Ihr Hintergrund durch eine wählbare Grafik ersetzt.
-Vor dem Betreten einer Besprechung oder eines Videocalls bietet sich Ihnen die Möglichkeit, genaue Einstellungen ihres Mikrofons und der Kamera vorzunehmen. Hier finden Sie zwischen der Funktion, die Kamera und das Mikrofon an und abzuschalten, die Möglichkeit, die Hintergrundeinstellungen vorzunehmen. Während eines Anrufes erreichen Sie diese Funktion über die darin mit drei Punkten dargestellte Schaltfläche [Weitere Aktionen] und dann unter [Hintergrundeffekte anzeigen].
+Hinweise auf geplante [Besprechungen] und der Möglichkeit einer Teilnahme finden sich auch in den [Kanälen] wieder.
+
+Jeder [Anruf] verfügt über einen eigenen [Chat].
+
+Zudem haben Sie die Möglichkeit, den eigenen Bildschirm oder einzelne Programmfenster anderer Apps zu teilen.
+
+Sie können [Anrufe] über den integrierten Dienst [Stream] aufzeichnen und teilen. Dies ist im Kontextmenü unter [weitere Aktionen] integriert und kann durch [Aufzeichnung beginnen] von Ihnen gestartet werden. Alle Teilnehmenden werden über die Aufzeichnung informiert. Im [Chat]-Bereich der [Besprechung] wird ebenfalls über die fertige Aufzeichnung informiert. Hier können Sie sich die Aufzeichnung auch außerhalb der Stream-App oder Stream-Web-Plattform ansehen.
+
+Je nach Lizenz bietet Teams auch die Möglichkeit, per Telefon an [Besprechungen] teilzunehmen. Auf diesem Weg können Sie weitere Gäste und Team-Mitglieder ohne Internetanbindung in Ihr Gespräch integrieren.
+
+Mittlerweile haben Sie in der Video-Telefonie in Teams auch die Möglichkeit, den Hintergrund Ihres Videos zu bestimmen. Im laufenden Gespräch erreichen Sie diese Funktion über die Schaltfläche [...] mit [Hintergrundeffekte anzeigen]. 
+Neben einem Unschärfe-Effekt, mit dem Sie Ihren Hintergrund unkenntlich machen und so unerwünschte Einblicke in Ihre Umgebung verhindern, können Sie nun auch ohne zusätzliche technische Voraussetzungen eine Art Green-Screen-Effekt nutzen: Während Sie im Vordergrund sichtbar bleiben, wird Ihr Hintergrund durch eine Grafik ersetzt.
+Teams bietet eine Auswahl vorgertigter Hintergründe, um eine eigene Grafik in Teams zu integrieren, müssen Sie jedoch einen kleinen Umweg nehmen. Sie müssen die gewünschte Bilddatei in den entsprechenden lokalen Teams-Ordner einfügen.
+In Windows erreichen Sie diesen Ordner über den Pfad [C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Teams\Backgrounds\Uploads] oder indem Sie [%APPDATA%\Microsoft\Teams\Backgrounds] in das Startsuchfeld von Windows eingeben. Damit wird Ihnen der Ordner [Uploads] angezeigt, in welchen Sie die gewünschten Bilddateien kopieren müssen.
+Unter MacOS finden Sie einen versteckten Ordner unter dem Pfad [~/Library/Application Support/Microsoft/Teams/Backgrounds/Uploads].
+Bilder werden in Teams in 1920x1080 px dargestellt. Abweichende Formate werden automatisch zurechtgeschnitten.
+
+Sie können diese und andere Einstellungen bereits vornehmen, bevor Sie einer [Besprechung] beitreten, denn bei jeder Teilnahme wird zunächst der Bereich der Audio- und Video-Einstellungen aufgerufen.
+Nutzen Sie diesen Bereich und stellen Sie über die [Geräteeinstellungen] sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Dies erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen]. 
+Um zu überprüfen, ob alle vorgenommenen Einstellungen wie gewünscht funktionieren, können Sie einen kurzen [Testanruf führen].
 
 ![](anruf-voreinstellung.png)
 
-Teams bietet einige Hintergrundbilder, um einen eigenen Hintergrund in Teams zu integrieren, müssen Sie jedoch einen kleinen Umweg nehmen. Sie müssen die gewünschte Bilddatei in den entsprechenden lokalen Teams-Ordner einfügen.
-Unter Windows erreichen Sie diesen Ordner über den Pfad C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Teams\Backgrounds\Uploads zu erreichen, oder indem Sie im Windows Startsuchfeld %APPDATA%\Microsoft\Teams\Backgrounds suchen. Ihnen wird dann der Ordner Uploads angezeigt, in welchen die gewünschten Bilddateien kopiert werden müssen.
-Unter MacOS finden Sie einen versteckten Ordner unter dem Pfad ~/Library/Application Support/Microsoft/Teams/Backgrounds/Uploads.
-Bilder werden hier in Teams in 1920x1080 px dargestellt und abweichende Formate auf dieses automatisch zurechtgeschnitten.
-Vor jedem Beitritt eines Anrufs wird der Bereich der Audio- und Videoeinstellungen aufgerufen. Nutzen Sie diesen Bereich und stellen Sie über die Geräteeinstellungen sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Diese Einstellungen erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen]. Ob alle vorgenommenen Einstellungen wie gewünscht funktionieren, lässt sich hier durch einen kurzen Testanruf überprüfen.
-Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audioqualität. Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Videospur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer Besprechung an. Diese können Sie auch ohne weitere Teilnehmer immer starten. Eine Aufzeichnung starten Sie, indem Sie in den Besprechungssteuerelementen einer laufenden Besprechung unter [weitere Optionen], dargestellt mit drei Punkten, [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert und dem [Besprechungschat] hinzugefügt und im Kanal, in dem die Besprechung stattgefunden hat als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet, es kann eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist. Beachten Sie, dass nur Besprechungen und Gruppenanrufe aufgezeichnet werden können.
+Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audio-Signale, denn Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Video-Spur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer [Besprechung] an. Diese können Sie auch ohne weitere Teilnehmende immer starten. {>>Jule: Wie starte ich eine Besprechung ohne weitere Teilnehmende?<<} Eine Aufzeichnung starten Sie, indem Sie in der laufenden [Besprechung] auf die Schaltfläche [...] klicken und dann [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert, dem [Besprechungschat] hinzugefügt und im [Kanal], in dem die Besprechung stattgefunden hat, als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet. Es kann also eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist. Beachten Sie, dass nur [Besprechungen] und [Anrufe] mit [Gruppen] aufgezeichnet werden können. {>>Jule: Was kann denn dann hingegen nicht aufgezeichnet werden? Anrufe zwischen zwei Personen oder wie?<<} 
 
 ![](besprechung-aufzeichnung-starten.png)
 
