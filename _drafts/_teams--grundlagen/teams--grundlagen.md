@@ -301,25 +301,39 @@ Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-
 
 # Chat
 
-Außerhalb der Kanäle finden Sie im Bereich [Chat] den Ort, an dem Sie sich mit Mitgliedern in MS Teams persönlich austauschen können. Er befindet sich in der Seitenleiste der Teams-App.
-Chats sind ebenso wie Kanäle in Tabs aufgeteilt und beinhalten immer die Registrierkarten [Chat], also den eigentlichen Chatverlauf, [Dateien] die nur mit den am Chat Teilnehmenden geteilt werden und in Einzelchats den Bereich [Aktivität], der über die Aktivitäten des Chat-Gegenübers in allen mit Ihnen gemeinsam geteilten Kanälen  informiert.
-Sie können auch in Chats weitere Registrierkarten einfügen.
-Sie können Chats mit zwei oder mehr Personen führen, können diese stumm schalten, zur besseren Navigation anheften und gezielt durchsuchen. Für jede neue Personenkonstellation mit Chatinteraktion wird durch MS Teams ein neuer Bereich angelegt, den Sie immer wieder erreichen können, um das Gespräch fortzuführen oder auf Informationen erneut zuzugreifen.
-Die Nachrichten in Chats laufen durchgängig weiter, eine Ordnung wie in Kanalunterhaltungen ist hier also nicht möglich.
-Hier geteilte Dateien sind nur den Chatmitgliedern zugänglich und werden in den persönlichen OneDrive-For-Business-Ordnern gespeichert. Zu diesen Dateien gelangen Sie über den zugehörigen Reiter/Tab [Dateien], der auch über den Absender und damit über den Speicherort Auskunft gibt.
-Auch eine Videokonferenz bzw. [Besprechung] oder ein Anruf in der Teams-App beinhaltet einen eigenen Chatbereich, über den Sie zusätzliche Infos oder auch Bilder und andere Dateien teilen können. Auch diese Chatverläufe inklusive ihrer Dateien werden der Speicherlogik von Teams-Chats nach in den privaten One-Drive-For-Business-Ordnern der Teilnehmenden gespeichert.
-Besprechungs-Chats verfügen neben den üblichen Registrierkarten [Chat] und [Dateien] noch über die Bereiche [Whiteboard] und [Besprechungsnotizen]. Das Whiteboard ist eine Integration der Whiteboard Web App von Microsoft, um es in einer [Besprechung] zu nutzen, muss eine Person im laufenden Videocall ein Whiteboard freigeben. Dies gelingt Ihnen über die Schaltfläche [Teilen] im Besprechungsmenü.
-Sie können [Besprechungsnotizen] zur Vor- und Nachbereitung nutzen und bearbeiten. Diese sind nur Personen zugänglich, die zuvor zu der zugehörigen [Besprechung] eingeladen worden sind. Vor der Besprechung können Sie Notizen im Bereich [Kalender] starten und vorbereiten. Während der [Besprechung] können Sie im Besprechungsmenü über [Weitere Aktionen] [Besprechungsnotizen] starten und anzeigen.
+Außerhalb der [Kanäle] finden Sie im Bereich [Chat] den Ort, an dem Sie sich persönlich mit Teams-Mitgliedern austauschen können. Er befindet sich in der linken Seitenleiste der Benutzeroberfläche.
 
-Alle diese Chats werden im Bereich [Chat] aufgeführt. Dort können Sie diese weiternutzen, dies gilt auch für die darin integrierten Whiteboards und Notizen.
+[Chats] sind ebenso wie [Kanäle] in Registerkarten aufgeteilt und beinhalten immer einen [Chat], also den eigentlichen Chatverlauf und [Dateien], die mit Personen aus dem Chat geteilt werden. 
+In Chats zwischen zwei Personen gibt es außerdem den Bereich [Aktivität], der über die Aktivitäten des [Chat]-Gegenübers in allen mit Ihnen gemeinsam geteilten [Kanälen] informiert.
+{>>Jule: Was ist mit der Registerkarte [Organisiation] ? Die würde die Position des Gegenübers in einem Firmen-Organigramm anzeigen, wenn man eines hinterlegt hätte. Aber wie hinterlegt man das? <<}
+Darüberhinaus können Sie weitere, eigene Registrierkarten hinzufügen.
+
+Sie können [Chats] mit zwei oder mehr Personen führen. Für jede neue Personen-Konstellation wird durch MS Teams ein eigener Bereich angelegt, den Sie immer wieder erreichen können, um das Gespräch fortzuführen, oder auf Informationen erneut zuzugreifen.
+
+Die Nachrichten in [Chats] laufen durchgängig weiter, eine Ordnung wie in [Unterhaltungen] innerhalb eines [Kanals] ist hier also nicht möglich.
+
+In einem [Chat] geteilte Dateien sind nur den [Chat]-Mitgliedern zugänglich und werden in den persönlichen OneDrive-For-Business-Ordnern gespeichert. 
+Sie erreichen sie über die Registerkarte [Dateien], die auch darüber Auskunft gibt, von wem die Datei abgesendet wurde und wo sie folglich gespeichert ist.
+
+Auch [Anrufe] und [Besprechungen] innerhalb der Teams-App haben einen eigenen [Chat]-Bereich, über den Sie zusätzliche Informationen, Bilder und andere Dateien teilen können. 
+Auch diese [Chat]-Verläufe werden inklusive Anhang in den privaten One-Drive-For-Business-Ordnern der Teilnehmenden gespeichert.
+
+Besprechungs-[Chats] verfügen neben den üblichen Registrierkarten [Chat] und [Dateien] noch über die Bereiche [Whiteboard] und [Besprechungsnotizen]. 
+Das [Whiteboard] ist eine Integration der Whiteboard Web App von Microsoft. Um es in einer [Besprechung] zu nutzen, muss eine Person im laufenden Video-Anruf ein [Whiteboard] freigeben. Dies gelingt Ihnen über die Schaltfläche [Teilen] im [Besprechungs]-Menü.
+Sie können [Besprechungsnotizen] zur Vor- und Nachbereitung nutzen und bearbeiten. Diese sind nur Personen zugänglich, die zuvor zu der zugehörigen [Besprechung] eingeladen worden sind. Vor der [Besprechung] können Sie Notizen im Bereich [Kalender] auf der linken Seitenleiste der Teams-Oberfläche starten und vorbereiten. Während der [Besprechung] können Sie [Besprechungsnotizen] über [Weitere Aktionen] im [Besprechungs]-Menü starten und anzeigen.
+
+Auch die [Chats] aus [Anrufen] und [Besprechungen] werden im Bereich [Chat] aufgeführt, wo Sie sie weiter nutzen können. Dies gilt auch für die darin integrierten [Whiteboards] und [Besprechungsnotizen].
+
 
 ![](chat-mit-allen-bereichen.png)
 
-Innerhalb der Teams-App haben Sie die Möglichkeit, einzelne Chats aus der Programmoberfläche zu lösen und in einzelnen Fenstern zu nutzen. So können sie mehrere Chats gleichzeitig im Blick behalten oder einen Chat nutzen, während Sie in MS-Teams außerhalb des Chatbereichs arbeiten. Hierzu können Sie einen gewünschten Chat über dessen [weitere Optionen] aus der App herauslösen, indem Sie [Pop-out-Chat] wählen. Noch einfacher und überall aus der App heraus erreichbar starten Sie einen [Pop-out-Chat] per Doppelklick auf das Profilbild der Mitarbeitenden.
+Sie können einzelne [Chats] stumm schalten, zur besseren Navigation anheften und gezielt durchsuchen. 
+Außerdem haben Sie die Möglichkeit, einzelne [Chats] aus der Programmoberfläche von Teams zu lösen und individuellen Fenstern zu nutzen. So können sie mehrere [Chats] gleichzeitig im Blick behalten oder einen [Chat] nutzen, während Sie in MS Teams außerhalb des [Chat]-Bereichs arbeiten. 
+Klicken Sie hierfür auf die Schaltfläche [...] neben dem gewünschten [Chat] und wählen Sie [Pop-out-Chat]. Noch einfacher und überall aus der App heraus erreichbar starten Sie einen [Pop-out-Chat] per Doppelklick auf das Profilbild der Team-Mitglieder.
 
-Der Chatbereich bietet Ihnen in dringenden Angelegenheiten [Zustellungsoptionen], mit der Sie eine Nachricht als [wichtig] markieren können, oder sogar als [dringend].
-Eine als [wichtig] markierte Nachricht, wird Ihren Chat-Zielen optisch auffällig dargestellt. Neben einer roten Fassung werden solche Nachrichten mit einem roten Ausrufezeichen versehen.
-Eine [dringende] Nachricht erscheint ebenfalls in rot eingefasst. Markiert wird diese Nachricht mit einer roten Glocke. Zusätzlich werden Ihre Chat-Ziele über einen Zeitraum von 20 Minuten alle zwei Minuten über ein optisches Signal und ein Banner, welches unten rechts auf dem Desktop erscheint, auf Ihre dringende Nachricht aufmerksam gemacht. Wird Ihre Nachricht gelesen, werden keine weiteren akustische und optische Hinweise gegeben.
+Die Schaltfläche [!] unterhalb des Eingabefelds für [Chat]-Nachrichten bietet Ihnen [Zustellungsoptionen], mit der Sie eine Nachricht als [wichtig] oder [dringend] markieren können.
+Eine als [wichtig] markierte Nachricht wird optisch auffällig dargestellt. Neben einer roten Fassung werden solche Nachrichten mit einem roten Ausrufezeichen versehen.
+Eine [dringende] Nachricht erscheint ebenfalls in rot eingefasst. Markiert wird diese Nachricht mit einer roten Glocke. Zusätzlich werden Ihre Gesprächspartner über einen Zeitraum von 20 Minuten alle zwei Minuten über ein akustisches Signal und ein Pop-Up-Fenster, welches unten rechts auf dem Desktop erscheint, auf Ihre dringende Nachricht aufmerksam gemacht. Wird Ihre Nachricht gelesen, werden keine weiteren akustischen und optischen Hinweise gegeben.
 
 ![](zustellungsoptionen-festlegen-chat.png)
 
