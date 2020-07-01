@@ -273,7 +273,7 @@ Der größte Teil der Kommunikation innerhalb von [Teams] findet in der sogenann
 
 [Unterhaltungen] Sind Teil eines jeden [Kanals] und unter der Registrierkarte [Beiträge] zu finden. Betreten Sie einen [Kanal], so ist dieser Reiter automatisch ausgewählt. 
 
-Wird eine [Unterhaltung] gestartet, können alle [Teams]-Mitglieder und Zugangsberechtigte auf diese antworten oder eine eigene [Unterhaltung] starten. Dabei können sie neben Text auch Emojis, Gifs, Sticker, Bilder, Videos, Datei-Anhänge und App-Inhalte veröffentlichen.
+Wird eine [Unterhaltung] gestartet, können alle [Team]-Mitglieder und Zugangsberechtigte auf diese antworten oder eine eigene [Unterhaltung] starten. Dabei können sie neben Text auch Emojis, Gifs, Sticker, Bilder, Videos, Datei-Anhänge und App-Inhalte veröffentlichen.
 Außerdem lassen sich Inhalte zur besseren Übersicht formatieren. Alle Optionen hierzu finden Sie über die Schaltfläche [A] unterhalb der Texteingabe.
 
 ![](unterhaltung-antwort-formatieren.png)
@@ -287,13 +287,14 @@ Umfangreiche [Unterhaltungen] mit vielen Antworten werden zur verbesserten Über
 
 Wenn Sie mit der Maus über einzelne Beiträge einer [Unterhaltung] fahren, öffnet sich rechts oben ein Emoji-Menü. Hier können Sie schnell mit einer symbolischen Emotion reagieren und so besonders unkompliziert Kenntnisnahme oder Feedback kommunizieren. Diese simple Funktion stellt sich als äußerst nützlichen Teil der Kommunikation dezentraler Arbeitsgruppen dar. Vor allem dann, wenn aus Zeitmangel oder anderen Gründen eine detailliertere Antwort nicht möglich ist. Die kurze Reaktion per Emoji kann den Austausch verstärken und darüber hinaus als Bindeglied im Kollegium fungieren: Jemand ist da, jemand nimmt wahr, jemand weiß zu schätzen.  
 
-{>>Jule: Ab hier muss ich noch weiter redigieren.<<} 
-Im Menü [...] rechts neben den Emojis können Sie Nachrichten als Lesezeichen für später speichern und per Link oder E-Mail teilen. Besonders die Funktion, Unterhaltungen zu speichern ist eine nützliche Funktion, um wichtige Unterhaltungen schnell wieder verfügbar zu machen oder diese zu fokussieren. Die Funktion ist über  das Kontextmenü [Weitere Optionen] der Unterhaltung zu erreichen, welches auftaucht, sobald Sie den Mauszeiger über der Unterhaltung platzieren. Zu den gespeicherten Nachrichten und Unterhaltungen gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Über das Kontextmenü können Sie die Speicherungen wieder aufheben.
+Im Menü [...] rechts neben den Emojis können Sie Nachrichten als Lesezeichen für später speichern oder per Link mit anderen Zugriffsberechtigten teilen. 
+Besonders die Funktion, Nachrichten zu speichern, ist nützlich, wenn Sie wichtige Unterhaltungen schnell wieder verfügbar machen oder fokussieren wollen. Zu den gespeicherten Nachrichten gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Mit einem Klick auf das rote Lesezeichen-Symbol neben den einzelnen Nachrichten können Sie die Speicherungen wieder aufheben.
 
 ![](unterhaltung-gespeichert-emojireaktion2.png)
 
-Die Kanalinterne Kommunikation ermöglicht, Information gezielt mit den Richtigen zu teilen, ohne Anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Sie können genau bestimmen, wer zu einem Kanal Zutritt hat und dort eine [Unterhaltung] beginnen kann. Jedes einzelne Teammitglied kann darüber hinaus bestimmen, in welcher Art die einzelnen Kanäle sich bemerkbar machen: ist ein Kanal für eine Weile nicht von Belang für eine Person, kann dieser ausgeblendet werden und so keine weitere ungewollte Aufmerksamkeit provozieren.
-Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teamsumgebung integrieren. Über das jeweilige Kontextmenü [Weitere Optionen] eines Kanals können Sie  eine [E-Mail-Adresse abrufen]. An diese lassen sich E-Mails inklusive Anhang weiterleiten. Die E-Mails werden dann im Kanal als Unterhaltung dargestellt, auf welche alle Kanalmitglieder dort antworten können. Gleichzeitig werden dadurch die Anhänge der E-Mails in der SharePoint Teamseite gespeichert und bleiben so für alle verfügbar.
+Die Kommunikation innerhalb eines [Kanals] ermöglicht es Ihnen, Information gezielt mit dem richtigen Personenkreis zu teilen, ohne anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Sie können genau bestimmen, wer zu einem [Kanal] Zutritt hat und dort eine [Unterhaltung] beginnen kann. 
+Jedes Mitglied kann darüber hinaus bestimmen, wie die einzelnen [Kanäle] abgebildet werden: Ist ein [Kanal] für eine Weile nicht von Belang für eine Person, kann er ausgeblendet werden und so keine ungewollte Aufmerksamkeit provozieren.
+Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-Umgebung integrieren. Über die Schaltfläche [...] eines jeden [Kanals] können Sie dessen individuelle [E-Mail-Adresse abrufen]. Schicken Sie E-Mails an diese Adresse, werden diese inklusive Anhang im [Kanal] als [Unterhaltung] dargestellt. So können alle Mitglieder direkt im [Kanal] darauf antworten. Gleichzeitig werden die Anhänge der E-Mails im [SharePoint] gespeichert und bleiben so für alle verfügbar.
 
 ![](unterhaltung-emailimport.png)
 
