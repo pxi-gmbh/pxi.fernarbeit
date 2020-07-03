@@ -377,29 +377,36 @@ Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qu
 ![](besprechung-aufzeichnung-starten.png)
 
 
-# Benachrichtigung / Erwähnungen
+# Benachrichtigungen
 
-Teams hat den Anspruch, ein digitales Arbeitsumfeld zu schaffen, welches die Produktivität seiner Anwendenden steigert. Um dies zu erreichen, soll die in Teams stattfindende Kommunikation funktional sein, ohne durch die örtliche Nähe der Kommunikationswerkzeuge und der Arbeitswerkzeuge für zu viel Ablenkung zu sorgen. Damit die Kommunikation in Teams dem Spagat gerecht wird, eine notwendige Aufmerksamkeit der gewünschten Person zu erreichen, ohne dabei unangemessen aufdringlich zu sein, arbeitet Teams mit einer eigenen Benachrichtigungslogik. Mit dieser können Sie steuern was, wann und wie eine Benachrichtigung zu Ihnen durchdringt.
-Über das eigene Profilbild oben rechts erreichen sie die [Einstellungen]. Dort können Sie unter [Benachrichtigungen] genau bestimmen, wie Erwähnungen, Nachrichten und Sonstiges kommuniziert werden.
+Teams hat den Anspruch, ein digitales Arbeitsumfeld zu schaffen, welches die Produktivität seiner Anwendenden steigert. Um dies zu erreichen, soll die Kommunikation funktional sein, ohne neben den anderen Arbeits-Werkzeugen für zu viel Ablenkung zu sorgen. Damit die Kommunikation in Teams dem Spagat gerecht wird, die notwendige Aufmerksamkeit einer Person zu erreichen, ohne dabei zu aufdringlich zu sein, arbeitet Teams mit einer eigenen Benachrichtigungs-Logik. Mit dieser können Sie steuern was, wann und wie eine Benachrichtigung zu Ihnen durchdringt.
+
+Über das eigene Profilbild oben rechts in der Benutzer-Oberfläche erreichen sie die [Einstellungen]. Dort können Sie unter [Benachrichtigungen] genau bestimmen, wie Erwähnungen, Nachrichten und Sonstiges kommuniziert werden.
 Auswählbar sind Benachrichtigungen über Banner, Feed und E-Mail.
-Ein Banner ist ein kleines Pop-Up, welches unter Windows im unteren rechten Bereich des Bildschirms und auf einem Mac in der oberen rechten Ecke für eine kurze Weile auftaucht und selbstständig wieder unsichtbar wird.
-Per Feed werden im Bereich [Aktivität], zu erreichen über das Glockensymbol oben links, dauerhaft und dank Filterfunktionen übersichtliche Informationen und Erwähnungen gesammelt und angezeigt. Alle geteilten Aktivitäten der Mitarbeitenden und eigene Aktivitäten in Teams, Kanälen, Unterhaltungen, Chats und integrierten Apps werden hier zusammengefasst und können mit einem Mausklick angesteuert werden.
+Ein Banner ist ein kleines Pop-Up, welches unter Windows im unteren rechten Bereich des Bildschirms und auf einem Mac in der oberen rechten Ecke kurzzeitig auftaucht und selbstständig wieder verschwindet.
+Per Feed werden im Bereich [Aktivität], zu erreichen über das Glocken-Symbol oben links, dauerhaft Erwähnungen gesammelt und angezeigt. Alle geteilten Aktivitäten der Mitarbeitenden und eigene Aktivitäten in [Teams], [Kanälen], [Unterhaltungen], [Chats] und integrierten Apps werden hier  zusammengefasst. Dank Filterfunktionen können Sie schnell durchsucht und mit einem Mausklick angesteuert werden.
 
 ![](benachrichtigungen-einstellungen.png)
 
-Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Benachrichtigungsart lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der hier stattfindenden Kommunikation rauszuhalten und nur als Stütze für das eigene Benachrichtigungsprinzip zu verwenden.
+Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Form der Benachrichtigung lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der Kommunikation herauszuhalten und nur als Stütze für das eigene Benachrichtigungs-Prinzip zu verwenden.
 
-Die größtmögliche Aufmerksamkeit der Mitarbeitenden erregen in Teams Erwähnungen, die @mentions. Mit diesen können Sie einzelne Personen aber auch ganze Teams oder Kanäle und deren Mitglieder gezielt anschreiben. Diese Kontaktaufnahme wird besonders auffällig gekennzeichnet. Sie müssen im Chat oder Unterhaltungen ein @ vor den gewünschten Namen einer Person oder eines ganzen Kanals schreiben, ohne diese Kombination durch ein Leerzeichen zu trennen. Schreiben Sie ein @ , bietet Ihnen [Teams] direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll. Ein @team und @kanal öffnen entsprechende Vorschläge. Die Benachrichtigung der Person oder des Kanals wird im den entsprechenden Aktivitätsfeeds angezeigt. Ein roter Punkt auf dem Glockensymbol ihres Aktivitätsfeeds weist auf solche @Mentions oder eine Antwort hin, die Sie noch nicht bemerkt oder bearbeitet haben.
+Die größtmögliche Aufmerksamkeit erzeugen Erwähnungen, die [@mentions]. Mit diesen können Sie einzelne Personen aber auch ganze [Teams] oder [Kanäle] gezielt anschreiben. Diese Kontaktaufnahme wird besonders auffällig gekennzeichnet. 
+Hierfür müssen Sie im [Chat] oder in der [Unterhaltungen] ein [@] vor den gewünschten Namen schreiben, ohne diese Kombination durch ein Leerzeichen zu trennen. Schreiben Sie ein [@], bietet Ihnen Teams direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll. Ein [@team] und [@kanal] öffnen entsprechende Vorschläge. 
+Die Benachrichtigung einer Person oder eines [Kanals] wird entsprechend unter [Aktivität] angezeigt. Ein roter Punkt auf dem Glocken-Symbol weist auf solche [@mentions] oder eine Antwort hin, die Sie noch nicht gelesen haben.
 
 ![](benachrichtigung-mit-erwaehnung.png)
 
-Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App können Sie mit den Befehlen /ungelesen und /erwähnungen ungelesene Kanalbenachrichtigungen und eigene @mentions anzeigen.
-Die Teilnahme an einem Kanal ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden.
-Als Mitglied eines Kanals ist es möglich, einen Kanal komplett auszublenden und so über die darin stattfindende Aktivität nicht weiter informiert zu werden. Jeder Kanal hat ein eigenes Kontextmenü, welches mit drei nebeneinanderliegenden Punkten gekennzeichnet ist. Hier befindet sich die Funktion [Ausblenden]. Ein  durch Sie ausgeblendeter Kanal taucht dann nicht mehr direkt in Ihrer Kanalübersicht auf, sondern wird unter [ausgeblendete Kanäle] in der gleichen Übersicht geführt und lässt sich darüber auch wieder sichtbar machen. Eine @mention oder eine als wichtig gekennzeichnete Nachricht an Sie wird Ihnen allerdings dennoch angezeigt.
-Neue Aktivitäten in einem Kanal ohne eine @mention werden Ihnen angezeigt, indem der Name des Kanals in Ihrer Kanalliste fett gedruckt erscheint, bis Sie den Kanal aufgesucht haben.
-Im Kontextmenü eines Kanals können Sie über [Kanalbenachrichtigungen] weiter bestimmen, wie dort die Benachrichtigung stattfinden sollen. Über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] können Sie bestimmen, wie Sie über neue Beiträge in diesem Kanal oder Kanalerwähnungen informiert werden. Das Banner erscheint für eine kurze Zeit als Pop-Up unten rechts auf Ihrem Bildschirm, die Information im Feed wird im Bereich [Aktivität] dauerhaft und dank Filterfunktionen übersichtlich gesammelt und angezeigt.
+Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App können Sie mit den Befehlen [/ungelesen] und [/erwähnungen] ungelesene [Kanal]-Benachrichtigungen und eigene [@mentions] anzeigen.
 
-Über den Anwesenheitsstatus [Nicht stören] können Sie alle Benachrichtigungen komplett stummschalten, bis Sie Ihren Anwesenheitsstatus wieder ändern.
+Die Teilnahme an einem [Kanal] ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden. 
+
+Es ist aber auch möglich, einen [Kanal] komplett auszublenden und so über dessen Aktivität nicht weiter informiert zu werden. Jeder [Kanal] hat eine eigene [...]-Schaltfläche, hinter der sich die Funktion [Ausblenden] befindet. Ein ausgeblendeter [Kanal] taucht dann nicht mehr direkt in Ihrer Übersicht auf, sondern wird unter [ausgeblendete Kanäle] geführt und lässt sich darüber auch wieder sichtbar machen. Eine [@mention] oder eine als wichtig gekennzeichnete Nachricht an Sie wird Ihnen allerdings dennoch angezeigt.
+
+Neue Aktivitäten in einem [Kanal] ohne eine [@mention] werden Ihnen angezeigt, indem der Name des [Kanals] in Ihrer Übersicht fett gedruckt erscheint, bis Sie hineinschauen.
+
+Im Kontextmenü [...] eines jeden [Kanals] können Sie über [Kanalbenachrichtigungen] weiter bestimmen, wie die Benachrichtigungen speziell für diesen [Kanal] stattfinden sollen. In [Benutzerdefiniert] können Sie über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] bestimmen, wie Sie über neue Beiträge in diesem Kanal oder Erwähnungen informiert werden. 
+
+Über den Anwesenheits-Status [Nicht stören] können Sie alle Benachrichtigungen komplett stummschalten, bis Sie Ihren Anwesenheits-Status wieder ändern.
 
 ![](anwesenheitsstatus-nicht-stoeren.png)
 
