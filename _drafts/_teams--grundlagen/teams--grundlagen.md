@@ -179,7 +179,7 @@ Ein gemeinsam zu bearbeitendes Word-Dokument etwa, kann in Teams für alle optim
 {>>Jule: Super Idee mit dem Text in dem Dokument auf dem Screenshot! Aber schreib doch bitte statt "Dieses Beispieldokument kann" "Word-Dokumente wie dieses können" und dreh die Schriftgröße ordentlich hoch, damit es auch in dem kleinen Screenshot noch gut lesbar ist .<<}
 
 Ein Beispiel nicht gelungener Adaption wäre hier, dass jedes Team-Mitglied weiterhin in einem eigenen Word-Dokument arbeitet, dieses lokal speichert und die Teams-App dann lediglich dafür nutzt, alle anderen in einem [Chat] über die Veränderungen zu informieren. In dem Fall müssten Sie später mühevoll Unterhaltungen durchsuchen und das Dokument aus vielen Versionen wieder zusammenzufügen. So wäre Teams aller kollaborativer Stärken beraubt und würde als suboptimales Kommunikations-Werkzeug wohl eher negative Reaktionen hervorrufen.
-Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen [SharePoint] hinterlegt wird. {>>Jule: Was ist ein SharePoint? Der Begriff wurde noch nicht eingefügt.<<} Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams [Kanälen] dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation. 
+Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen SharePoint hinterlegt wird. Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams [Kanälen] dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation. 
 {>>Jule: Das Beispiel für den optimalen Einsatz wurde ja schon in dem Absatz über dem Bild beschrieben. Das doppelt sich hier also. Vielleicht kann man lieber den oberen Absatz ausbauen und den hier unten streichen? Stattdessen könnte man dann hier unten nur noch mit einem Schlussatz abschließen wie etwa: "Achten Sie deshalb darauf, immer das volle Potential von App-Einbindungen in Teams auszuschöpfen."<<}
 
 
@@ -244,14 +244,14 @@ Jedes [Team] startet mit einem Hauptkanal [Allgemein]. Dieser wird automatisch b
 Für jedes [Team] können Sie weitere [Kanäle] hinzufügen und zweckmäßig benennen. Etwa für bestimmte Projekte oder als Arbeitsumgebung für einen ausgewählten Personenkreis.
 
 Sie können die [Kanäle] in der App zur verbesserten Übersicht sortieren: Mit gehaltener Maustaste lassen sie sich verschieben, über das Kontextmenü [Weitere Optionen] auch anheften.
-Benötigen Sie einen [Kanal] nicht mehr, können Sie diesen löschen. Dabei bleiben die dort geteilten Dateien auf der zum [Kanal] gehörigen [SharePoint Teamseite] gespeichert, die darin geführten Unterhaltungen gehen jedoch verloren.
+Benötigen Sie einen [Kanal] nicht mehr, können Sie diesen löschen. Dabei bleiben die dort geteilten Dateien auf der zum [Kanal] gehörigen SharePoint-Team-Seite gespeichert, die darin geführten Unterhaltungen gehen jedoch verloren.
 
 Ein [Kanal] besteht aus Tabs beziehungsweise Registrierkarten, die Sie in der Menüleiste oben im [Kanal] finden und dort auch erweitern können. Jeder [Kanal] hat dabei zwei Registerkarten, die dauerhaft bestehen, also auch nicht gelöscht oder umbenannt werden können: [Beiträge] und [Dateien]. Betreten Sie einen [Kanal], ist automatisch die Registerkarte [Beiträge] geöffnet. In dieser befinden sich alle [Unterhaltungen] des [Kanals]. Es ist der direkte Ort der Kommunikation und Zusammenarbeit.
 
 ![](aufbau-kanal-beitraege.png)
 
-Die Registerkarte [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf dem [SharePoint] und somit auf alle Dateien, die von [Kanal]-Mitgliedern über [Unterhaltungen] innerhalb des [Kanals] geteilt oder direkt auf den [SharePoint] hochgeladen wurden. 
-Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder über Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene [SharePoint]-Ordner wird automatisch bei Gründung eines neuen [Kanals] erstellt und mit der [Dateien]- Registerkarte des [Kanals] verknüpft.
+Die Registerkarte [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf dem SharePoint und somit auf alle Dateien, die von [Kanal]-Mitgliedern über [Unterhaltungen] innerhalb des [Kanals] geteilt oder direkt auf den SharePoint hochgeladen wurden. 
+Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder über Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen [Kanals] erstellt und mit der [Dateien]- Registerkarte des [Kanals] verknüpft.
 
 ![](aufbau-kanal-dateien.png)
 
@@ -261,7 +261,7 @@ Teams bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedo
 ![](word-dokument-in-kanal-eingefuegt.png)
 {>>Jule: Schreib doch hier bitte "Beispiel-Dokument" oder einfach nur "Dokument" und erhöhe den Schriftgrad.<<}
 
-[Kanäle] stehen zunächst allen Mitgliedern eines [Teams] offen. Um selektiv Mitgliedern Zugriff zu gewähren, können Sie [private Kanäle] gründen. Diese werden in der [Kanal]-Übersicht Ihres [Teams] mit einem Schloss-Symbol gekennzeichnet und nur eingeladenen Personen angezeigt. Unterhaltungen, Mitgliedslisten und eine separate Website-Sammlung auf [SharePoint] zur Dateiablage sind nur Mitgliedern des [privaten Kanals] zugänglich. Wer [private Kanäle] erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen [Team]-Mitgliedern zu. Gäste haben hierzu keine Berechtigung.
+[Kanäle] stehen zunächst allen Mitgliedern eines [Teams] offen. Um selektiv Mitgliedern Zugriff zu gewähren, können Sie [private Kanäle] gründen. Diese werden in der [Kanal]-Übersicht Ihres [Teams] mit einem Schloss-Symbol gekennzeichnet und nur eingeladenen Personen angezeigt. Unterhaltungen, Mitgliedslisten und eine separate Website-Sammlung auf SharePoint zur Dateiablage sind nur Mitgliedern des [privaten Kanals] zugänglich. Wer [private Kanäle] erstellen kann, lässt sich auf Team- und Organisationsebene bestimmen, es steht als Standard aber zunächst allen [Team]-Mitgliedern zu. Gäste haben hierzu keine Berechtigung.
 
 ![](privater-kanal.png)
 
@@ -294,7 +294,7 @@ Besonders die Funktion, Nachrichten zu speichern, ist nützlich, wenn Sie wichti
 
 Die Kommunikation innerhalb eines [Kanals] ermöglicht es Ihnen, Information gezielt mit dem richtigen Personenkreis zu teilen, ohne anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Sie können genau bestimmen, wer zu einem [Kanal] Zutritt hat und dort eine [Unterhaltung] beginnen kann. 
 Jedes Mitglied kann darüber hinaus bestimmen, wie die einzelnen [Kanäle] abgebildet werden: Ist ein [Kanal] für eine Weile nicht von Belang für eine Person, kann er ausgeblendet werden und so keine ungewollte Aufmerksamkeit provozieren.
-Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-Umgebung integrieren. Über die Schaltfläche [...] eines jeden [Kanals] können Sie dessen individuelle [E-Mail-Adresse abrufen]. Schicken Sie E-Mails an diese Adresse, werden diese inklusive Anhang im [Kanal] als [Unterhaltung] dargestellt. So können alle Mitglieder direkt im [Kanal] darauf antworten. Gleichzeitig werden die Anhänge der E-Mails im [SharePoint] gespeichert und bleiben so für alle verfügbar.
+Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-Umgebung integrieren. Über die Schaltfläche [...] eines jeden [Kanals] können Sie dessen individuelle [E-Mail-Adresse abrufen]. Schicken Sie E-Mails an diese Adresse, werden diese inklusive Anhang im [Kanal] als [Unterhaltung] dargestellt. So können alle Mitglieder direkt im [Kanal] darauf antworten. Gleichzeitig werden die Anhänge der E-Mails im SharePoint gespeichert und bleiben so für alle verfügbar.
 
 ![](unterhaltung-emailimport.png)
 
@@ -411,9 +411,14 @@ Im Kontextmenü [...] eines jeden [Kanals] können Sie über [Kanalbenachrichtig
 ![](anwesenheitsstatus-nicht-stoeren.png)
 
 
-# Der Dateien-Tab
+# Dateien
 
-Der Tab [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf der SharePoint Teamsseite gespeichert sind. Die Ordnung der Dateien funktioniert dabei automatisch. Jeder Kanal besitzt einen zugehörigen Ordner, der automatisch bei Kanalgründung auf SharePoint erstellt wird. Alle Dateien, die in einem Kanal auftauchen, landen in diesem Ordner. Neben dem Zugriff über die Teams-App und die Teilnahme an einem Kanal, können Sie mit diesen Dateien natürlich auch über die SharePoint-Seite direkt arbeiten.
+Die Registerkarte [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf dem SharePoint gespeichert sind. 
+
+Die Ordnung der Dateien regelt MS Teams von selbst: 
+Jeder [Kanal] besitzt einen zugehörigen Ordner, der bei [Kanal]-Gründung automatisch auf SharePoint erstellt wird. Alle Dateien, die in einem [Kanal] auftauchen, landen in diesem Ordner. 
+
+Neben dem Zugriff über die Teams-App und die Teilnahme an einem [Kanal], können Sie mit diesen Dateien natürlich auch direkt über die SharePoint-Seite arbeiten.
 Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App können Sie auch weitere Cloud-Speicher integrieren.
 
 ![](dateien-tab.png)
