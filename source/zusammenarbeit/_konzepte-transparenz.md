@@ -14,4 +14,4 @@ Wenn Sie nicht bereits ein Werkzeug dafür haben, sollten Sie mit der Belegschaf
 
 Mit dieser ständigen Transparenz sparen Sie Zeit: Es müssen weniger Absprachen in Meetings getroffen werden, weil alltägliche Fragen über Zuständigkeit und wechselseitige Abhängigkeiten von Aufgaben schon durch Nachschauen beantwortet werden.
 
-[weiter lesen: Anwesenheit](#konzepte-anwesenheit-20200710)
+[weiter lesen: Status-Meldungen](#konzepte-status-20200710)

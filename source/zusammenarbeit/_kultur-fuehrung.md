@@ -27,4 +27,4 @@ Seien Sie respektvoll mit sich selbst. Wandel braucht Zeit, auch in Ihrem Kopf. 
 
 Nur Mut! Sie bewegen sich in unvertrautem Gelände, aber Sie sind nicht alleine. Ihr ganzes Unternehmen sucht mit Ihnen den Weg.
 
-[nächstes Kapitel: Werkzeug-Praxis](#werkzeuge-20200710)
+[nächstes Kapitel: Werkzeug-Praxis](#praxis-20200710)
