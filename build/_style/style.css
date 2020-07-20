@@ -975,6 +975,9 @@ label.aside-toggle {
 .md-view *:target ~ img {
   display: block; }
 
+.md-view > p:last-child {
+  margin-top: 4em; }
+
 .md-view > p:last-child a {
   display: block;
   text-align: center;
@@ -982,10 +985,16 @@ label.aside-toggle {
   letter-spacing: .1em;
   max-width: 32ch;
   margin: auto;
-  margin-top: 4em;
+  margin-top: .1em;
   padding: .5em 1em;
   border: 1px solid #753b7f;
   border-radius: 10px; }
+
+.md-view > ol {
+  margin-left: 2em; }
+
+.md-view > ol li + li {
+  margin-top: 1.5em; }
 
 /* tables from divs with flexbox */
 .flex-table {
@@ -1416,6 +1425,7 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(5) {
   order: 13;
+  color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1424,12 +1434,14 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(5) + p {
   order: 14;
+  color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(5) + p + p {
   order: 15;
+  color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1438,6 +1450,7 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(6) {
   order: 16;
+  color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1446,12 +1459,14 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(6) + p {
   order: 17;
+  color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(6) + p + p {
   order: 18;
+  color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1460,6 +1475,7 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(7) {
   order: 19;
+  color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1468,12 +1484,14 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(7) + p {
   order: 20;
+  color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(7) + p + p {
   order: 21;
+  color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1482,15 +1500,28 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(8) {
   order: 22;
-  display: none; }
+  color: #cccccc;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid #cccccc;
+  border-bottom: 0;
+  border-radius: 10px 10px 0 0; }
 
 .card-grid h3:nth-of-type(8) + p {
   order: 23;
-  display: none; }
+  color: #cccccc;
+  border: 1px solid #cccccc;
+  border-top: 0;
+  border-bottom: 0; }
 
 .card-grid h3:nth-of-type(8) + p + p {
   order: 24;
-  display: none; }
+  color: #cccccc;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #cccccc;
+  border-top: 0;
+  border-radius: 0 0 10px 10px; }
 
 .card-grid h3:nth-of-type(9) {
   order: 25;
@@ -1653,16 +1684,23 @@ label.aside-toggle {
     border-radius: 0 0 10px 10px; }
   .card-grid h3:nth-of-type(8) {
     order: 7;
-    display: block;
-    visibility: hidden; }
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid #cccccc;
+    border-bottom: 0;
+    border-radius: 10px 10px 0 0; }
   .card-grid h3:nth-of-type(8) + p {
     order: 8;
-    display: block;
-    visibility: hidden; }
+    border: 1px solid #cccccc;
+    border-top: 0;
+    border-bottom: 0; }
   .card-grid h3:nth-of-type(8) + p + p {
     order: 9;
-    display: block;
-    visibility: hidden; }
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #cccccc;
+    border-top: 0;
+    border-radius: 0 0 10px 10px; }
   .card-grid h3:nth-of-type(9) {
     order: 7;
     display: block;

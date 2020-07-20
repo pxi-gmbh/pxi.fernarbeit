@@ -149,21 +149,27 @@ label.aside-toggle {
 .md-view *:target ~ img {
   display: block;
 }
+.md-view > p:last-child {
+  margin-top: 4em;
+}
 .md-view > p:last-child a {
   display: block;
-  // font-variant: small-caps;
-  // text-transform: lowercase;
   text-align: center;
   text-decoration: none;
   letter-spacing: .1em;
   max-width: 32ch;
   margin: auto;
-  margin-top: 4em;
+  margin-top: .1em;
   padding: .5em 1em;
   border: 1px solid $color-contrast;
   border-radius: $border-radius;
 }
-
+.md-view > ol {
+  margin-left: 2em;
+}
+.md-view > ol li + li {
+  margin-top: 1.5em;
+}
 
 /* tables from divs with flexbox */
 // add style="order:N" to table cell elements inline
