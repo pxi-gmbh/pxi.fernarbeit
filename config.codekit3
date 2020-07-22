@@ -213,19 +213,6 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/source/_style/_cards.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/build/_style/_cards.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
 	"/source/_style/_forms-progress.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -326,6 +313,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/_style/_links.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/source/_style/_md-cards.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/_style/_md-cards.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/source/_style/_md-modals.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/_style/_md-modals.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
@@ -520,52 +533,6 @@
 		"oAP": "/build/favicon.ico",
 		"oF": 1
 		},
-	"/source/heimarbeit/.._heimarbeit-intro 2.md.icloud": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/.._heimarbeit-intro 2.md.icloud",
-		"oF": 0
-		},
-	"/source/heimarbeit/_arbeitsplatz 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/heimarbeit/_arbeitsplatz-abgrenzung 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/heimarbeit/_arbeitsplatz-abgrenzung.md": {
 		"cB": 0,
 		"cS": 2,
@@ -585,45 +552,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/heimarbeit/_arbeitsplatz-ausstattung 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/heimarbeit/_arbeitsplatz-ausstattung.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/heimarbeit/_arbeitsplatz-umgebung 2.md": {
 		"cB": 0,
 		"cS": 2,
 		"eF": 1,
@@ -699,64 +628,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/heimarbeit/_heimarbeit-nav 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/heimarbeit/_heimarbeit-nav.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/heimarbeit/_motivation 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/heimarbeit/_motivation-aufmerksamkeit 2.md": {
 		"cB": 0,
 		"cS": 2,
 		"eF": 1,
@@ -794,45 +666,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/heimarbeit/_motivation-dranbleiben 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/heimarbeit/_motivation-dranbleiben.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/heimarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/heimarbeit/_motivation-gemeinschaft 2.md": {
 		"cB": 0,
 		"cS": 2,
 		"eF": 1,
@@ -889,34 +723,12 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/heimarbeit/Folie21 2.png": {
-		"ft": 32768,
-		"iS": 137356,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie21 2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/heimarbeit/Folie21.png": {
 		"ft": 32768,
 		"iS": 137356,
 		"oA": 0,
 		"oAP": "/build/heimarbeit/Folie21.png",
 		"oF": 2,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/source/heimarbeit/Folie22 2.png": {
-		"ft": 32768,
-		"iS": 70562,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie22 2.png",
-		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -933,34 +745,12 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/heimarbeit/Folie25 2.png": {
-		"ft": 32768,
-		"iS": 93815,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie25 2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/heimarbeit/Folie25.png": {
 		"ft": 32768,
 		"iS": 93815,
 		"oA": 0,
 		"oAP": "/build/heimarbeit/Folie25.png",
 		"oF": 2,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/source/heimarbeit/Folie26 2.png": {
-		"ft": 32768,
-		"iS": 154070,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie26 2.png",
-		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -977,34 +767,12 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/heimarbeit/Folie27 2.png": {
-		"ft": 32768,
-		"iS": 230242,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie27 2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/heimarbeit/Folie27.png": {
 		"ft": 32768,
 		"iS": 230242,
 		"oA": 0,
 		"oAP": "/build/heimarbeit/Folie27.png",
 		"oF": 2,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/source/heimarbeit/Folie28 2.png": {
-		"ft": 32768,
-		"iS": 163707,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie28 2.png",
-		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -1021,17 +789,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/heimarbeit/Folie29 2.png": {
-		"ft": 32768,
-		"iS": 116542,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/Folie29 2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/heimarbeit/Folie29.png": {
 		"ft": 32768,
 		"iS": 116542,
@@ -1042,14 +799,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"/source/heimarbeit/index 2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/heimarbeit/index 2.html",
-		"oF": 0
 		},
 	"/source/heimarbeit/index.kit": {
 		"cB": 0,
@@ -1066,25 +815,6 @@
 		"oA": 0,
 		"oAP": "/build/humans.txt",
 		"oF": 0
-		},
-	"/source/ms-teams/_ms-teams 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/ms-teams/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
 		},
 	"/source/ms-teams/_ms-teams.md": {
 		"cB": 0,
@@ -1104,14 +834,6 @@
 		"pME": 0,
 		"rFN": 1,
 		"uCM": 0
-		},
-	"/source/ms-teams/index 2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/ms-teams/index 2.html",
-		"oF": 0
 		},
 	"/source/ms-teams/index.kit": {
 		"cB": 0,
@@ -1175,44 +897,6 @@
 		"oAP": "/build/robots.txt",
 		"oF": 0
 		},
-	"/source/schnellstart-unternehmen/_schnellstart 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/schnellstart-unternehmen/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/schnellstart-unternehmen/_schnellstart-nav 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/schnellstart-unternehmen/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/schnellstart-unternehmen/_schnellstart-nav.md": {
 		"cB": 0,
 		"cS": 2,
@@ -1251,34 +935,12 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/schnellstart-unternehmen/Folie31 2.png": {
-		"ft": 32768,
-		"iS": 154667,
-		"oA": 0,
-		"oAP": "/build/schnellstart-unternehmen/Folie31 2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/schnellstart-unternehmen/Folie31.png": {
 		"ft": 32768,
 		"iS": 154667,
 		"oA": 0,
 		"oAP": "/build/schnellstart-unternehmen/Folie31.png",
 		"oF": 2,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/source/schnellstart-unternehmen/Folie32 2.png": {
-		"ft": 32768,
-		"iS": 75163,
-		"oA": 0,
-		"oAP": "/build/schnellstart-unternehmen/Folie32 2.png",
-		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -1294,14 +956,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"/source/schnellstart-unternehmen/index 2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/schnellstart-unternehmen/index 2.html",
-		"oF": 0
 		},
 	"/source/schnellstart-unternehmen/index.kit": {
 		"cB": 0,
@@ -1721,25 +1375,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/video-konferenz/_video-konferenz 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/video-konferenz/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/video-konferenz/_video-konferenz.md": {
 		"cB": 0,
 		"cS": 2,
@@ -1758,14 +1393,6 @@
 		"pME": 0,
 		"rFN": 1,
 		"uCM": 0
-		},
-	"/source/video-konferenz/index 2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/video-konferenz/index 2.html",
-		"oF": 0
 		},
 	"/source/video-konferenz/index.kit": {
 		"cB": 0,
@@ -2296,25 +1923,6 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"/source/zusammenarbeit/_zusammenarbeit-intro 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/zusammenarbeit/article.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
 	"/source/zusammenarbeit/_zusammenarbeit-intro.md": {
 		"cB": 0,
 		"cS": 2,
@@ -2327,25 +1935,6 @@
 		"oA": 1,
 		"oAP": "/build/kollaboration/article.html",
 		"oF": 2,
-		"oFM": 0,
-		"oS": 1,
-		"pHT": 1,
-		"pME": 0,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"/source/zusammenarbeit/_zusammenarbeit-nav 2.md": {
-		"cB": 0,
-		"cS": 2,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/zusammenarbeit/article.html",
-		"oF": 0,
 		"oFM": 0,
 		"oS": 1,
 		"pHT": 1,
@@ -2614,14 +2203,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/zusammenarbeit/index 2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/zusammenarbeit/index 2.html",
-		"oF": 0
-		},
 	"/source/zusammenarbeit/index.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -2641,7 +2222,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "logo-vue",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 616856600.012568
+	"lastBuiltDate": 617108462.80476606
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

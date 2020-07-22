@@ -45,9 +45,11 @@
 
 *Irgendwie müssen Sie Ergebnisse und Zwischen-Ergebnisse Ihrer Arbeit teilen: Die digitalen Artefakte liegen alle als Dateien vor. Eine eigene Plattform zum Austausch ist in jedem Fall komfortabler als hin-und-her-schicken.*
 
-
+<label class="md-modal" title="click to show content">
+<input type="checkbox">
 ##### [Box](https://www.box.com/de-de/for-enterprise) [Box]
 bietet  per App oder Browser Cloud-Content-Management und Schnittstellen der Zusammenarbeit mit anderen Plattformen und Diensten für Ihre Dateien. Kein Gratisangebot.
+</label>
 
 
 ##### [Basecamp](https://basecamp.com) [basecamp--datei-verwaltung]
@@ -332,6 +334,12 @@ dient als digitaler Raum für standort-übergreifende, interaktive Zusammenarbei
 ist ein kostenloses, auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen (können auch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden, für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Es ist browser-basiert und optimiert für Desktop-Browser. Auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
 
 
+##### [Lucidchart](https://www.lucidchart.com/pages/) [Lucichart]
+ist spezialisiert auf die Herstellung von Diagrammen und Daten-Visualisierungen, dazu dann auch als Whiteboard nutzbar. Die interaktiven Elemente und große Bibliothek an Diagramm-Vorlagen sollen die gemeinsame Arbeit mit etablierten Visualisierungen erleichtern. Hauptsächlich relevant in der Planung, mit Flow-Charts, aber auch zur Abbildung von Zusammenhängen über die Integration von externen Datenquellen, aus denen interaktive Visualisierungen möglich sind. Gratisversion zur persönlichen Verwendung, dann allerdings mit eingeschränkter Funktion, ohne Anbindung an Datenbanken.
+
+##### [Mindmeister](https://www.mindmeister.com/de) [Mindmeister]
+ist spezialisiert auf Mind-Maps. Das sind unendlich erweiterbare Netze aus Inhalts-Knoten und Verbindungs-Pfaden, mit denen Teilnehmende online gemeinsam Sinn-Zusammenhänge erkunden und visualisieren können. Web-basiert, ohne App-Download.
+
 ##### [Miro](https://miro.com) [Miro]
 ist ein Online-Whiteboard (und App) mit Schnittstellen zu diversen anderen Apps für Projektmanagement und Kommunikation. Gratis für drei Boards und eingeschränkter Funktion.  Virtuelle Klebezettel und Vorlagen bis zum Abwinken. Intuitive Menüführung. Anonyme Abstimmung. Mit Video-Integration von der Anmutung her wie ein virtueller Raum für Workshops. Zur produktiven Zusammenarbeit erst in der Bezahlversion zu gebrauchen.
 
@@ -486,6 +494,8 @@ ist ein kostenloses Tool für Online-Umfragen. Es funktioniert ohne Anmeldung, e
 ##### [Lamapoll](https://www.lamapoll.de/) [Lamapoll]
 ist BSI geprüft und damit 100% DSGVO-konform. Der Datenschutz liegt bei diesem Umfrage-Tool im Fokus. Eine kostenlose Version steht für bis zu 50 Teilnehmer bereit.
 
+##### [LeanCoffeeTable](https://leancoffeetable.com) [LeanCoffeeTable]
+ist eine komplette Verwaltungs-App für Meetings. Mit vorgegebenem Rahmen (Lean Coffee oder Agenda) wird ein Meeting abgebildet und strukturiert samt Dokumentation, Teilnahme-Verwaltung, Präsentationen, Timer und Abstimmungen. Die Web-App integriert Zoom als Video-Chat. Test-Version für 30 Tage kostenlos.
 
 ##### [limesurvey](https://www.limesurvey.org/de/) [limesurvey]
 ist eine freie Open-Source-Software, mit welcher Online-Umfragen ohne Programmierkenntnisse gelingen, veröffentlicht und in einer Datenbank erfasst werden können. Eigene Hostmöglichkeiten und Datenschutztechnische Anpassungsmöglichkeiten machen dieses Werkzeug besonders interessant.
@@ -572,3 +582,6 @@ ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermu
 
 ##### [OnlineTown](https://theonline.town) [OnlineTown]
 ist eine Verknüpfung von virtueller Realität mit Video-Konferenzen. In einem zwei-dimensionalen Raum können Nutzende sich aufeinander zu bewegen. Die Anmutung ist wie eine Drauf-Sicht von oben auf ein Spielbrett, angelehnt an Rollenspiele der 90er Jahre. Wenn andere Avatare in der Nähe sind, wird neben der Spielfläche ein Video-Fenster eingeblendet. Je näher der Avatar, desto klarer wird das Bild. So können sich Grüppchen im Raum spontan bilden und Gespräche verlassen oder betreten werden, ähnlich wie bei einer Cocktail-Party. Zur Zeit kostenlose Prototypen-Phase. Eine bezahlte Version für größere Gruppen und maßgeschneiderte Räume wird bei [Gather](https://gather.town) entwickelt.
+
+##### [Vispa](https://vispa.io/en) [Vispa]
+ist ein interaktiver Workshop-Raum in einer virtuellen 3D-Umgebung. Elemente wie Whiteboards oder Videos können als Stellwände selbst erzeugt und angepasst werden. Dann mit Klebezetteln versehen, gemeinschaftlich beschriften und sortieren. Wird erst richtig eindrücklich, wenn auch VR-Technologie für den Zugang verwendet wird. Die Testphase ist für zwei Monate kostenlos, danach funktioniert die App nur gegen monatliche Bezahlung pro Zugang.
