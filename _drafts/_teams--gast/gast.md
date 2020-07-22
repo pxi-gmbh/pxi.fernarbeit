@@ -96,3 +96,5 @@ Wird dem Link gefolgt, muss sich die Person vor dem Betreten der Besprechung ein
 Daraufhin befindet sie sich im Wartebereich, was der Person angezeigt wird, die die Besprechung geplant hat. Dies geschieht über eine Pop-Up-Benachrichtigung und ein Symbol in der Steuerleiste Ihrer aktiven Besprechung, welches über [Teilnehmer anzeigen] erscheint. Hier finden Sie auch den Wartebereich, in dem Sie Eingeladene über das Häkchen-Symbol aktiv teilnehmen lassen können.
 
 ![](wartebereich-zulassen.png)
+
+Neue Zeile (rauslöschen!)
