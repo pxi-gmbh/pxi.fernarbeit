@@ -1,6 +1,6 @@
 # Vereinbarkeit von Privatleben und Beruf [intro]
 
-*Unsere Leitfäden sind Kapitel und Abschnitte gegliedert. Details finden Sie im Inhalts-Verzeichnis.*
+*Unsere Leitfäden sind in Kapitel und Abschnitte gegliedert. Details finden Sie im Inhalts-Verzeichnis.*
 <label for="aside--unsere-leitfaeden" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
 
 <input id="aside--unsere-leitfaeden" type="checkbox" class="aside-toggle"/>
