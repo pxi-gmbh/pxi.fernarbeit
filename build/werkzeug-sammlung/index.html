@@ -27,64 +27,44 @@
 
 <main id="main" role="main">
 	<article class="grid grid-margin">
-		<nav class="nav--article"><!-- leave this alone -->
-		<div id="open"><!-- leave this alone -->
-		<h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
-		
-		<ul>
-		<li><p><a href="#werkzeug-sammlung">Werkzeug-Sammlung</a></p></li>
-		<li><p><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#datei-verwaltung">Datei-Verwaltung</a> (Cloud-Speicher &amp; Synchronisation)</li>
-		<li><a href="#aufgaben-verwaltung">Aufgaben-Verwaltung</a> (Projekt-Management)</li>
-		<li><a href="#wissens-verwaltung">Wissens-Verwaltung</a> (Dokumentation &amp; Notizen)</li>
-		<li><a href="#zeit-verwaltung">Zeit-Verwaltung</a> (Zeit messen &amp; gemeinsam anzeigen)</li>
-		<li><a href="#finanz-verwaltung">Finanz-Verwaltung</a> (Buchhaltung mit dem Steuerbüro teilen)</li>
-		<li><a href="#infrastruktur-verwaltung">Infrastruktur-Verwaltung</a> (Internet-Probleme beheben)</li>
-		<li><a href="#daten-souveränität">Daten-Souveränität</a> (Verschlüsselung &amp; Passwörter)</li>
-		</ul></p></li>
-		<li><p><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#versions-kontrolle">Versions-Kontrolle</a> (Änderungen transparent nachvollziehen)</li>
-		<li><a href="#parallel-arbeitantext">Parallel-Arbeit an Text</a> (live editieren, kommentieren)</li>
-		<li><a href="#parallel-arbeitmitvisualisierungen">Parallel-Arbeit mit Visualisierungen</a> (Whiteboards &amp; Post-Its)</li>
-		</ul></p></li>
-		<li><p><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#austauschintext-nachrichten">Austausch in Text-Nachrichten</a> (Chat &amp; Messenger-Dienste)</li>
-		<li><a href="#austauschinvideo-konferenzen">Austausch in Video-Konferenzen</a> (Video-Telefonate &amp; Webinare)</li>
-		<li><a href="#fern-zugriff">Fern-Zugriff</a> (Fernsteuerung von Computern)</li>
-		</ul></p></li>
-		<li><p><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#publikums-interaktion">Publikums-Interaktion</a> (Umfragen &amp; Information für Konferenzen)</li>
-		<li><a href="#video-produktions-hilfen">Video-Produktions-Hilfen</a> (für Aufzeichnungen &amp; live-Webinare)</li>
-		</ul></p></li>
-		<li><p><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#prokrastinations-bekämpfung">Prokrastinations-Bekämpfung</a> (Ablenkung beschränken)</li>
-		</ul></p></li>
-		<li><p>&nbsp;</p>
-		
-		<ul>
-		<li><a href="#virtuellerealität">Virtuelle Realität</a> (Simulierte Begegnungs-Räume)</li>
-		</ul></li>
-		<li><p><a href="/">◀ zurück zum Leitfaden</a></p></li>
-		</ul>
-		
-		</div><!-- leave this alone -->
-		<h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
-		</nav><!-- leave this alone -->
-		
+    <nav id="nav--menu">
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Werkzeug-Sammlung</label>
+      <input id="nav--toggle" type="checkbox" style="display:none;"> <small class="nav--info"><span class="nav--visited">gelesen</span> <span class="nav--new">neu</span> <sup>∗</sup></small>
+      <h3 id="werkzeugefürzusammenarbeit">Werkzeuge für Zusammenarbeit</h3>
+      
+      <p>Wir basteln gerade einen Index und Kriterien zum Filtern, damit Sie die passenden Werkzeuge zu Ihren Bedürfnissen schneller finden.<br />
+      ▿ <em>in Arbeit</em></p>
+      
+      <h3 id="zurückzurÜbersicht"><a href="/">zurück zur Übersicht</a></h3>
+      
+      <p><small class="nav--info"><sup>∗</sup> bei späterem Aufruf vom gleichen Gerät und Standard-Einstellungen zur Browser-Historie.</small></p>
+    </nav>
 		<h1 id="werkzeug-sammlung">Werkzeug-Sammlung</h1>
 		
-		<p><em>Eine Auswahl der populärsten Dienste für vernetztes Arbeiten.</em><br />
-		<em>★ markiert Dienste, die wir aktuell selbst nutzen.</em></p>
+		<p><em>Dies ist Version 0.1: wir arbeiten daran, eine Verschlagwortung und Such-Funktionen einzuführen. Außerdem ergänzen wir die Werkzeuge um weitere Kategorien und Inhalte. Ein wenig Geduld, bitte.</em></p>
+		
+		<p>Eine Auswahl der populärsten Dienste für vernetztes Arbeiten.<br />
+		<em>★ markiert Dienste, die wir zum Zeitpunkt des Erstellens im Mai selbst nutzten.</em></p>
+		
+		<ul>
+		<li><p><a href="#datei-verwaltung">Datei-Verwaltung</a> (Cloud-Speicher &amp; Synchronisation)</p></li>
+		<li><p><a href="#aufgaben-verwaltung">Aufgaben-Verwaltung</a> (Projekt-Management)</p></li>
+		<li><p><a href="#wissens-verwaltung">Wissens-Verwaltung</a> (Dokumentation &amp; Notizen)</p></li>
+		<li><p><a href="#zeit-verwaltung">Zeit-Verwaltung</a> (Zeit messen &amp; gemeinsam anzeigen)</p></li>
+		<li><p><a href="#finanz-verwaltung">Finanz-Verwaltung</a> (Buchhaltung mit dem Steuerbüro teilen)</p></li>
+		<li><p><a href="#infrastruktur-verwaltung">Infrastruktur-Verwaltung</a> (Internet-Probleme beheben)</p></li>
+		<li><p><a href="#daten-souveränität">Daten-Souveränität</a> (Verschlüsselung &amp; Passwörter)</p></li>
+		<li><p><a href="#versions-kontrolle">Versions-Kontrolle</a> (Änderungen transparent nachvollziehen)</p></li>
+		<li><p><a href="#parallel-arbeitantext">Parallel-Arbeit an Text</a> (live editieren, kommentieren)</p></li>
+		<li><p><a href="#parallel-arbeitmitvisualisierungen">Parallel-Arbeit mit Visualisierungen</a> (Whiteboards &amp; Post-Its)</p></li>
+		<li><p><a href="#austauschintext-nachrichten">Austausch in Text-Nachrichten</a> (Chat &amp; Messenger-Dienste)</p></li>
+		<li><p><a href="#austauschinvideo-konferenzen">Austausch in Video-Konferenzen</a> (Video-Telefonate &amp; Webinare)</p></li>
+		<li><p><a href="#fern-zugriff">Fern-Zugriff</a> (Fernsteuerung von Computern)</p></li>
+		<li><p><a href="#publikums-interaktion">Publikums-Interaktion</a> (Umfragen &amp; Information für Konferenzen)</p></li>
+		<li><p><a href="#video-produktions-hilfen">Video-Produktions-Hilfen</a> (für Aufzeichnungen &amp; live-Webinare)</p></li>
+		<li><p><a href="#prokrastinations-bekämpfung">Prokrastinations-Bekämpfung</a> (Ablenkung beschränken)</p></li>
+		<li><p><a href="#virtuellerealität">Virtuelle Realität</a> (Simulierte Begegnungs-Räume)</p></li>
+		</ul>
 		
 		<h2 id="datei-verwaltung">Datei-Verwaltung</h2>
 		

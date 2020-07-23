@@ -1,22 +1,22 @@
 ### Arbeit von zu Hause aus
 *ca 10min* | *Leitfaden* | *#kompetenz*
 Leitfaden zur Einrichtung und zum Umgang mit dem Home-Office, mit Anleitungen zur Selbst-Motivation und Selbst-Management
-[lesen](/heimarbeit)
+[lesen](/heimarbeit#intro)
 
 ### Vernetzte Zusammenarbeit
 *ca 20min* | *Leitfaden* | *#konventionen*
 Leitfaden für Prinzipien, Konzepte, Kultur und Werkzeuge, kollaborative, verteilte Arbeit im Unternehmen zu gestalten
-[lesen](/zusammenarbeit)
+[lesen](/zusammenarbeit#intro)
 
 ### Schnellstart zur Fernarbeit
 *ca 5min* | *Wegweiser* | *#konventionen*
 Wegweiser für die ersten Schritte, dezentrales Arbeiten in einem Unternehmen einzuführen und mit der Belegschaft zu entwickeln
-[lesen](/schnellstart-unternehmen)
+[lesen](/schnellstart-unternehmen#intro)
 
 ### Verständlich Schreiben
 *ca 15min* | *Leitfaden* | *#kompetenz*
 Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stil, nicht nur in vernetzter Arbeit
-[lesen](/schreiben)
+[lesen](/schreiben#intro)
 
 ### Vereinbarkeit im Beruf
 *ca 5min* | *Wegweiser* | *#kompetenz*

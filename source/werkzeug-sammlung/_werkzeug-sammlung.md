@@ -1,44 +1,31 @@
-<nav class="nav--article"><!-- leave this alone -->
-<div id="open"><!-- leave this alone -->
-<h2><a href="#close" id="nav--close">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
-
-- [Werkzeug-Sammlung][]
-- &nbsp;
-    - [Datei-Verwaltung][] (Cloud-Speicher & Synchronisation)
-    - [Aufgaben-Verwaltung][] (Projekt-Management)
-    - [Wissens-Verwaltung][] (Dokumentation & Notizen)
-    - [Zeit-Verwaltung][] (Zeit messen & gemeinsam anzeigen)
-    - [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
-    - [Infrastruktur-Verwaltung][] (Internet-Probleme beheben)
-    - [Daten-Souveränität][] (Verschlüsselung & Passwörter)
-- &nbsp;
-    - [Versions-Kontrolle][] (Änderungen transparent nachvollziehen)
-    - [Parallel-Arbeit an Text][] (live editieren, kommentieren)
-    - [Parallel-Arbeit mit Visualisierungen][] (Whiteboards & Post-Its)
-- &nbsp;
-    - [Austausch in Text-Nachrichten][] (Chat & Messenger-Dienste)
-    - [Austausch in Video-Konferenzen][] (Video-Telefonate & Webinare)
-    - [Fern-Zugriff][] (Fernsteuerung von Computern)
-- &nbsp;
-    - [Publikums-Interaktion][] (Umfragen & Information für Konferenzen)
-    - [Video-Produktions-Hilfen][] (für Aufzeichnungen & live-Webinare)
-- &nbsp;
-    - [Prokrastinations-Bekämpfung][] (Ablenkung beschränken)
-- &nbsp;
-    - [Virtuelle Realität][] (Simulierte Begegnungs-Räume)
-
-- [◀ zurück zum Leitfaden](/)
-
-</div><!-- leave this alone -->
-<h2><a href="#open">Inhalts-Verzeichnis</a></h2><!-- leave this alone -->
-</nav><!-- leave this alone -->
-
-
 # Werkzeug-Sammlung
 
-*Eine Auswahl der populärsten Dienste für vernetztes Arbeiten.*  
-*★ markiert Dienste, die wir aktuell selbst nutzen.*
+*Dies ist Version 0.1: wir arbeiten daran, eine Verschlagwortung und Such-Funktionen einzuführen. Außerdem ergänzen wir die Werkzeuge um weitere Kategorien und Inhalte. Ein wenig Geduld, bitte.*
 
+Eine Auswahl der populärsten Dienste für vernetztes Arbeiten.  
+*★ markiert Dienste, die wir zum Zeitpunkt des Erstellens im Mai selbst nutzten.*
+
+- [Datei-Verwaltung][] (Cloud-Speicher & Synchronisation)
+- [Aufgaben-Verwaltung][] (Projekt-Management)
+- [Wissens-Verwaltung][] (Dokumentation & Notizen)
+- [Zeit-Verwaltung][] (Zeit messen & gemeinsam anzeigen)
+- [Finanz-Verwaltung][] (Buchhaltung mit dem Steuerbüro teilen)
+- [Infrastruktur-Verwaltung][] (Internet-Probleme beheben)
+- [Daten-Souveränität][] (Verschlüsselung & Passwörter)
+
+- [Versions-Kontrolle][] (Änderungen transparent nachvollziehen)
+- [Parallel-Arbeit an Text][] (live editieren, kommentieren)
+- [Parallel-Arbeit mit Visualisierungen][] (Whiteboards & Post-Its)
+
+- [Austausch in Text-Nachrichten][] (Chat & Messenger-Dienste)
+- [Austausch in Video-Konferenzen][] (Video-Telefonate & Webinare)
+- [Fern-Zugriff][] (Fernsteuerung von Computern)
+
+- [Publikums-Interaktion][] (Umfragen & Information für Konferenzen)
+- [Video-Produktions-Hilfen][] (für Aufzeichnungen & live-Webinare)
+
+- [Prokrastinations-Bekämpfung][] (Ablenkung beschränken)
+- [Virtuelle Realität][] (Simulierte Begegnungs-Räume)
 
 
 ## Datei-Verwaltung

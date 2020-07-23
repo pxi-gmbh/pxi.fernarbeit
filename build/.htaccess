@@ -25,3 +25,4 @@ AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css t
 # redirects (updated site structure)
 Redirect 301 /familie-beruf/ /vereinbarkeit/
 Redirect 301 /datenschutz/ /rechtliches/
+Redirect 301 /werkzeugsammlung/ /werkzeug-sammlung/
