@@ -39,7 +39,7 @@ Als cloudbasierter Dienst ermöglicht Microsoft Teams den Zugriff auf Dateien un
 
 Die Integration der Speicherorte in sogenannte Kanäle bietet ein angenehmes und übersichtliches digitales Arbeitsumfeld: Absprachen und Datei-Verlinkungen werden hier zu einzelnen Themen und Projekten gebündelt, sodass Sie nicht permanent zwischen Chats und Datei-Ordnern hin- und hersuchen müssen.
 
-Microsoft Teams ist deshalb so effizient, weil es alle Funktionen zentralisiert. Was dort alles gebündelt wird, können Sie nach Ihren eigenen Wünschen und Voraussetzungen anpassen: Neben den Microsoft Office Anwendungen können Sie viele der beliebtesten Apps integrieren. Wenn alle Apps zentral miteinander verbunden sind, müssen Sie nicht ständig die Programmanwendung wechseln.
+Microsoft Teams ist deshalb so effizient, weil es alle Funktionen zentralisiert. Was dort alles gebündelt wird, können Sie nach Ihren eigenen Wünschen und Voraussetzungen anpassen: Neben den Microsoft Office Anwendungen können Sie viele der beliebtesten Apps integrieren. Wenn alle Apps zentral miteinander verbunden sind, müssen Sie nicht ständig die Programmanwendung wechseln. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
 
 Microsoft Teams ist ein Chat-Programm, aber es ist auch mehr. Es ist ein Zentrum der Produktivität, ein virtueller Arbeitsraum, der durch einen Fokus auf Kollaboration geprägt ist. Dadurch, dass Sie das digitale Arbeitsumfeld individuell anpassen können, bietet es für jede einzelne Person ein Umfeld gesteigerter Effektivität.
 
@@ -47,10 +47,8 @@ Auch die Kommunikation und Zusammenarbeit und mit externen Personen fördert Tea
 
 In der App versammeln die sogenannten [Teams] Personengruppen, Inhalte und Werkzeuge für einzelne Projekte oder ganze Organisationen. Diese [Teams] lassen sich mit [Kanälen] noch weiter spezifizieren und aufteilen, um Projekten, Themen, Fachrichtungen oder weiteren für Sie wichtigen Aspekten noch besser gerecht zu werden.
 
-Dazu können Sie dank MS Teams die Kommunikation Ihrer Firma oder eines Projekts, eine gemeinsame Dateienverwaltung und die Integration diverser digitaler Werkzeuge aus dem Arbeitsalltag zur gemeinsamen Verwendung an einem Ort bündeln. {>>Jule: Wurde das nicht schon erwähnt?<<}
 
-Als Teil der Microsoft-Office-Umgebung können Sie in MS Teams Microsofts weitere Werkzeuge wie Word oder OneNote aber auch viele weitere Programme und Anwendungen aus anderem Hause für Sie und Ihre Belegschaft integrieren. Kommunikation, Dateiverwaltung und Arbeitsumgebung erhalten in MS Teams eine strukturierte Ordnung, ohne dabei unbedingt auf liebgewonnene Werkzeuge verzichten zu müssen. Die Offenheit auch für externe Anwendungen zeichnet Microsoft Teams aus und lässt es zu einem produktiven digitalen Arbeitsumfeld werden.
-{>>Jule: Dieser Absatz deckt sich thematisch mit dem fünften Absatz in diesem Kapitel und sollte deshalb gestrichen oder dort hinein integriert werden.<<}
+
 
 
 ## Wobei kann MS Teams uns helfen?
@@ -60,7 +58,7 @@ Unser Arbeitsalltag litt unter einem zerstreuten Arbeitsumfeld und unstrukturier
 
 - Unsere Absprachen fanden in verschiedenen Apps, wie Trello oder WhatsApp, statt.
 - Unsere gemeinsam genutzten Dateien lagen an unübersichtlichen Speicherorten mit Synchronistaions-Problemen.
-- Unsere laufende Kommunikation war unpersönlich. {>>Jule: Was ist hiermit gemeint? Die Formulierung ist noch zu unkonkret, als dass man sich darunter etwas vorstellen kann.<<}
+- Unsere laufende Kommunikation war übers statische Emails und Aufgabenverwaltungssysteme unpersönlich.
 - Werkzeuge, wie unsere Wissens-Datenbank, waren in verschiedene Apps, wie Dropbox Paper oder Microsoft One Note, ausgelagert und damit nicht immer sofort mit einem Klick für uns greifbar.
 - Unsere auf verschiedene Plattformen aufgeteilte Arbeit und Kommunikation hemmte uns und führte zu Produktivitäts-Verlust und Unzufriedenheit.
 
@@ -71,7 +69,7 @@ Im Wesentlichen wird eine Kommunikation über Unterhaltungen, Chats, Telefonie u
 
 Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete und die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App nicht auf dem Telefon lief.
 
-Indem es all diese Probleme umgeht, eignet Teams sich am besten für die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.  {>>Jule: Ich habe Sätze wie z.B. diesen umformuliert, um inhaltliche Brücken zwischen den Absätzen zu stärken. So wird der Text flüssiger, schlüssiger und liest sich dadurch auch besser :-)<<}
+Indem es all diese Probleme umgeht, eignet Teams sich am besten für die Zusammenarbeit in Gruppen, Abteilungen oder Projekten.
 
 So kann jede Abteilung ein eigenes, sogenanntes [Team] gründen und dort für jedes Thema einen spezifischen [Kanal] eröffnen. In diesen [Kanälen] können dann alle Beteiligten ihr themenrelevantes Wissen sammeln, teilen und gemeinsam bearbeiten. Gleiches gilt für die Kommunikation, die über [Teams] und deren zugehörige [Kanäle] gesteuert wird.
 
@@ -147,13 +145,13 @@ Auf Nöte und Wünsche aller Beteiligten kann und sollte Dank der Flexibilität 
 
 # Wie können wir Apps in MS Teams einbinden?
 
-{>>Jule: Gefühlt gehört dieses Kapitel noch hinter "Wie ist MS Teams aufgebaut?"<<} 
+{>>Jule: Gefühlt gehört dieses Kapitel noch hinter "Wie ist MS Teams aufgebaut?"<<}
 
 Teams zeichnet die Offenheit für externe Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um sowohl Notwendigkeiten als auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren. Und so eine zentrierte, effektive Arbeitumgebung schaffen.
 
 Sie können unterstützte Apps und Werkzeuge in Teams aus einer umfangreichen Liste auswählen und auf verschiedenen Ebenen integrieren. Diese Ebenen sind in Microsoft Teams wie folgt aufgebaut:
 
-Auf der linken Seite der Benutzer-Oberfläche von Teams können Sie Apps mit persönlicher Ansicht oder zum eigenen Gebrauch integrieren. {>>Jule: Was bedeutet "mit persönlicher Ansicht oder zum eigenen Gebrauch?":<<} So in der linken Seite eingebunden, sind Apps für Sie schnell und kanalunabhängig verfügbar. {>>Jule: Was bedeutet "kanalunabhängig"? Bezieht sich das auf die Kanäle in Teams oder einfach darauf, dass alle innerhalb Teams verfügbar sind?<<} 
+Auf der linken Seite der Benutzer-Oberfläche von Teams können Sie Apps, die Ihnen besonders wichtig sind, zum eigenen Gebrauch integrieren. So in der linken Seite eingebunden, sind Apps für Sie schnell und auch außerhalb einzelner Kanäle verfügbar.
 
 ![](apps-uebersicht.png)
 
@@ -166,7 +164,8 @@ Die oben angeordneten Registrierkarten sind die Orte in [Chats] und [Kanälen], 
 
 Für jeden Kanal können Sie über [weitere Optionen] App-Benachrichtigungen einbinden. Über sogenannte [Connectors] werden dann im [Kanal] alle Mitglieder über Veränderungen, Fortschritte und Weiteres aus der gewünschten App informiert.
 
-Sie können Apps auch in Unterhaltungen integrieren. Deren Inhalte können Sie direkt in Nachrichten eingefügen: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text mit Team-Mitgliedern teilen. {>>Jule: den Hinweis zur Suchfuntion habe ich rausgenommen, weil er an dieser Stelle thematisch nicht so gut reinpasst.<<}
+Sie können Apps auch in Unterhaltungen integrieren. Deren Inhalte können Sie direkt in Nachrichten eingefügen: Ein Youtube-Video, ein Wikipedia-Artikel, eine schnelle Umfrage, all das lässt sich zusätzlich zum klassischen Text mit Team-Mitgliedern teilen.
+
 Eine Auswahl dieser kompatiblen Apps finden Sie unter dem Feld, in dem Sie die Nachricht eingeben: Hinter der Schaltfläche [...] liegen alle sogenannten [Messaging-Erweiterungen]. Sie können auch einzelne Apps direkt unter dem Nachrichtenfeld anheften, um in Unterhaltungen noch schneller darauf zuzugreifen.
 
 
@@ -179,14 +178,14 @@ Ein gemeinsam zu bearbeitendes Word-Dokument etwa, kann in Teams für alle optim
 {>>Jule: Super Idee mit dem Text in dem Dokument auf dem Screenshot! Aber schreib doch bitte statt "Dieses Beispieldokument kann" "Word-Dokumente wie dieses können" und dreh die Schriftgröße ordentlich hoch, damit es auch in dem kleinen Screenshot noch gut lesbar ist .<<}
 
 Ein Beispiel nicht gelungener Adaption wäre hier, dass jedes Team-Mitglied weiterhin in einem eigenen Word-Dokument arbeitet, dieses lokal speichert und die Teams-App dann lediglich dafür nutzt, alle anderen in einem [Chat] über die Veränderungen zu informieren. In dem Fall müssten Sie später mühevoll Unterhaltungen durchsuchen und das Dokument aus vielen Versionen wieder zusammenzufügen. So wäre Teams aller kollaborativer Stärken beraubt und würde als suboptimales Kommunikations-Werkzeug wohl eher negative Reaktionen hervorrufen.
-Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen SharePoint hinterlegt wird. Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams [Kanälen] dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation. 
-{>>Jule: Das Beispiel für den optimalen Einsatz wurde ja schon in dem Absatz über dem Bild beschrieben. Das doppelt sich hier also. Vielleicht kann man lieber den oberen Absatz ausbauen und den hier unten streichen? Stattdessen könnte man dann hier unten nur noch mit einem Schlussatz abschließen wie etwa: "Achten Sie deshalb darauf, immer das volle Potential von App-Einbindungen in Teams auszuschöpfen."<<}
+Optimal wäre Teams eingesetzt, wenn das Dokument für alle sichtbar in Teams platziert und dadurch für alle erreichbar auf einem gemeinsamen SharePoint hinterlegt wird. Mit der Kommentarfunktionen im geteilten Dokument, welche gleichzeitig in Teams [Kanälen] dargestellt wird, gelingt mit allen Mitarbeitenden eine übersichtliche, effektive und nachvollziehbare Kommunikation.
+
 
 
 # Wie ist Teams aufgebaut?
 
-Die Benutzeroberfläche von Teams ist übersichtlich und einfach aufgebaut. 
-Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spalte erreichen. 
+Die Benutzeroberfläche von Teams ist übersichtlich und einfach aufgebaut.
+Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spalte erreichen.
 Wie Sie die jeweils nutzen, erklären wir in den folgenden Abschnitten noch genau. Aber hier ist ein erster Überblick:
 
 {>>Jule: Die Hauptfunktionen sollten in diesem Überblick hier auf die jeweiligen klärenden Kapitel verlinkt werden.<<}
@@ -221,7 +220,7 @@ Die Kopfzeile bietet auf der linken Seite eine Navigationshilfe mit Vor- und Zur
 
 ![](kopfzeile-vor-und-zurueck-funktion.png)
 
-In der Mitte der Kopfzeile können Sie sowohl eine allgemeine Suche als auch Befehle ausführen. 
+In der Mitte der Kopfzeile können Sie sowohl eine allgemeine Suche als auch Befehle ausführen.
 Kurzbefehle dienen dazu, allgemeine Aufgaben in Teams zu erledigen. Um diese zu verwenden, geben Sie [/] in das Befehlsfeld ein. Daraufhin öffnet sich eine Liste mit einem Überblick über mögliche Befehle und deren Wortlaut.
 Mit einem vorangestellten [@] vor einem Namen können Sie im Befehlsfeld Nachrichten direkt an einzelne Personen oder geteilte [Chats] senden.
 
@@ -236,7 +235,7 @@ Mit einem vorangestellten [@] vor einem Namen können Sie im Befehlsfeld Nachric
 
 MS Teams Einsatzfelder zeichnen sich im Wesentlichen durch drei Pfeiler aus: Kommunikation, Kollaboration und Dateiverwaltung. Diese Pfeiler stehen auf dem Fundament von Teams, den [Kanälen].
 
-[Kanäle] sind spezielle Bereiche innerhalb eines [Teams]. Hiervon stehen jedem Team 200 [Standardkanäle] und 30 sogenannte [private Kanäle] zur verfügung.
+[Kanäle] sind spezielle Bereiche innerhalb eines [Teams]. Hiervon stehen jedem Team 200 [Standardkanäle] und 30 sogenannte [private Kanäle] zur Vµerfügung.
 
 Ein [Kanal] gibt dabei den Personenkreis oder thematischen Rahmen vor. Hier können Sie aufteilen und bestimmen, wer Zutritt hat, wer Informationen erhält, wer Zugriff auf Dateien hat und welche  spezifischen Apps und Tabs verfügbar sind.
 
@@ -250,12 +249,12 @@ Ein [Kanal] besteht aus Tabs beziehungsweise Registrierkarten, die Sie in der Me
 
 ![](aufbau-kanal-beitraege.png)
 
-Die Registerkarte [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf dem SharePoint und somit auf alle Dateien, die von [Kanal]-Mitgliedern über [Unterhaltungen] innerhalb des [Kanals] geteilt oder direkt auf den SharePoint hochgeladen wurden. 
+Die Registerkarte [Dateien] bietet einen übersichtlichen Zugriff auf den kanaleigenen Ordner auf dem SharePoint und somit auf alle Dateien, die von [Kanal]-Mitgliedern über [Unterhaltungen] innerhalb des [Kanals] geteilt oder direkt auf den SharePoint hochgeladen wurden.
 Sie teilen eine Datei, indem diese über die Schaltfläche [Anfügen] oder über Copy-Paste in eine [Antwort] oder neue [Unterhaltung] integrieren. Der kanaleigene SharePoint-Ordner wird automatisch bei Gründung eines neuen [Kanals] erstellt und mit der [Dateien]- Registerkarte des [Kanals] verknüpft.
 
 ![](aufbau-kanal-dateien.png)
 
-Für jeden [Kanal] können Sie über die Schaltfläche [+] weitere [Registrierkarten hinzufügen]. 
+Für jeden [Kanal] können Sie über die Schaltfläche [+] weitere [Registrierkarten hinzufügen].
 Teams bietet eine große Auswahl an Apps zur Integration an, es lassen sich jedoch auch Internetseiten und einzelne Dokumente als Registerkarte in einem [Kanal] platzieren. So sind wichtige Apps von Microsoft aber auch externen Anbietern, Internetseiten oder gemeinsam bearbeitete Word-Dokumente nur einen Mausklick entfernt und direkt in der Teams-App zu benutzen. Dabei ist jedoch zu bedenken, dass beispielsweise Word-Dokumente innerhalb der Teams-App zunächst in der Online-Ansicht dargestellt werden. Aber auch hier müssen Sie nur ein Mal auf [In Desktop-App öffnen] klicken, um in die vollständige Applikation zu wechseln.
 
 ![](word-dokument-in-kanal-eingefuegt.png)
@@ -271,15 +270,15 @@ Die Person, die einen [privaten Kanal] erstellt, kann [Team]-Mitglieder und auch
 
 Der größte Teil der Kommunikation innerhalb von [Teams] findet in der sogenannten [Unterhaltung] statt.
 
-[Unterhaltungen] Sind Teil eines jeden [Kanals] und unter der Registrierkarte [Beiträge] zu finden. Betreten Sie einen [Kanal], so ist dieser Reiter automatisch ausgewählt. 
+[Unterhaltungen] Sind Teil eines jeden [Kanals] und unter der Registrierkarte [Beiträge] zu finden. Betreten Sie einen [Kanal], so ist dieser Reiter automatisch ausgewählt.
 
 Wird eine [Unterhaltung] gestartet, können alle [Team]-Mitglieder und Zugangsberechtigte auf diese antworten oder eine eigene [Unterhaltung] starten. Dabei können sie neben Text auch Emojis, Gifs, Sticker, Bilder, Videos, Datei-Anhänge und App-Inhalte veröffentlichen.
 Außerdem lassen sich Inhalte zur besseren Übersicht formatieren. Alle Optionen hierzu finden Sie über die Schaltfläche [A] unterhalb der Texteingabe.
 
 ![](unterhaltung-antwort-formatieren.png)
 
-Eine [Unterhaltung] folgt dem Prinzip eines Threads: Beiträge werden hierarchisch organisiert. 
-Der erste Beitrag einer [Unterhaltung] gibt das Thema vor, welchem die weiteren Beiträge folgen. Ist ein Thema für Einzelne nicht von Belang oder Interesse, kann so schneller über die Unterhaltung hinweggesehen werden, als es in einer Chat-Kommunikation mit durchlaufender, ungeordneter Gesprächsführung der Fall wäre. 
+Eine [Unterhaltung] folgt dem Prinzip eines Threads: Beiträge werden hierarchisch organisiert.
+Der erste Beitrag einer [Unterhaltung] gibt das Thema vor, welchem die weiteren Beiträge folgen. Ist ein Thema für Einzelne nicht von Belang oder Interesse, kann so schneller über die Unterhaltung hinweggesehen werden, als es in einer Chat-Kommunikation mit durchlaufender, ungeordneter Gesprächsführung der Fall wäre.
 Sie sollten darauf achten, die [Unterhaltungen] zu einem bestimmten Thema auch weiter für dieses zu nutzen. Greifen Sie für weitere Beiträge auf [Antworten] zurück, anstatt eine Antwort oder Fortsetzung des Themas durch eine [Neue Unterhaltung] anzugehen und den [Kanal] so unnötig aufzublasen.
 Umfangreiche [Unterhaltungen] mit vielen Antworten werden zur verbesserten Übersicht zusammenklappt. Bei Bedarf können Sie diese wieder ausklappen.
 
@@ -287,12 +286,12 @@ Umfangreiche [Unterhaltungen] mit vielen Antworten werden zur verbesserten Über
 
 Wenn Sie mit der Maus über einzelne Beiträge einer [Unterhaltung] fahren, öffnet sich rechts oben ein Emoji-Menü. Hier können Sie schnell mit einer symbolischen Emotion reagieren und so besonders unkompliziert Kenntnisnahme oder Feedback kommunizieren. Diese simple Funktion stellt sich als äußerst nützlichen Teil der Kommunikation dezentraler Arbeitsgruppen dar. Vor allem dann, wenn aus Zeitmangel oder anderen Gründen eine detailliertere Antwort nicht möglich ist. Die kurze Reaktion per Emoji kann den Austausch verstärken und darüber hinaus als Bindeglied im Kollegium fungieren: Jemand ist da, jemand nimmt wahr, jemand weiß zu schätzen.  
 
-Im Menü [...] rechts neben den Emojis können Sie Nachrichten als Lesezeichen für später speichern oder per Link mit anderen Zugriffsberechtigten teilen. 
+Im Menü [...] rechts neben den Emojis können Sie Nachrichten als Lesezeichen für später speichern oder per Link mit anderen Zugriffsberechtigten teilen.
 Besonders die Funktion, Nachrichten zu speichern, ist nützlich, wenn Sie wichtige Unterhaltungen schnell wieder verfügbar machen oder fokussieren wollen. Zu den gespeicherten Nachrichten gelangen Sie über Ihr Profilbild oben rechts unter [Gespeichert]. Mit einem Klick auf das rote Lesezeichen-Symbol neben den einzelnen Nachrichten können Sie die Speicherungen wieder aufheben.
 
 ![](unterhaltung-gespeichert-emojireaktion2.png)
 
-Die Kommunikation innerhalb eines [Kanals] ermöglicht es Ihnen, Information gezielt mit dem richtigen Personenkreis zu teilen, ohne anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Sie können genau bestimmen, wer zu einem [Kanal] Zutritt hat und dort eine [Unterhaltung] beginnen kann. 
+Die Kommunikation innerhalb eines [Kanals] ermöglicht es Ihnen, Information gezielt mit dem richtigen Personenkreis zu teilen, ohne anderen die Information aufzuzwingen oder überhaupt zugänglich zu machen. Sie können genau bestimmen, wer zu einem [Kanal] Zutritt hat und dort eine [Unterhaltung] beginnen kann.
 Jedes Mitglied kann darüber hinaus bestimmen, wie die einzelnen [Kanäle] abgebildet werden: Ist ein [Kanal] für eine Weile nicht von Belang für eine Person, kann er ausgeblendet werden und so keine ungewollte Aufmerksamkeit provozieren.
 Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-Umgebung integrieren. Über die Schaltfläche [...] eines jeden [Kanals] können Sie dessen individuelle [E-Mail-Adresse abrufen]. Schicken Sie E-Mails an diese Adresse, werden diese inklusive Anhang im [Kanal] als [Unterhaltung] dargestellt. So können alle Mitglieder direkt im [Kanal] darauf antworten. Gleichzeitig werden die Anhänge der E-Mails im SharePoint gespeichert und bleiben so für alle verfügbar.
 
@@ -303,7 +302,7 @@ Sie können auch eine E-Mail in eine Unterhaltung umwandeln und so in die Teams-
 
 Außerhalb der [Kanäle] finden Sie im Bereich [Chat] den Ort, an dem Sie sich persönlich mit Teams-Mitgliedern austauschen können. Er befindet sich in der linken Seitenleiste der Benutzeroberfläche.
 
-[Chats] sind ebenso wie [Kanäle] in Registerkarten aufgeteilt und beinhalten immer einen [Chat], also den eigentlichen Chatverlauf und [Dateien], die mit Personen aus dem Chat geteilt werden. 
+[Chats] sind ebenso wie [Kanäle] in Registerkarten aufgeteilt und beinhalten immer einen [Chat], also den eigentlichen Chatverlauf und [Dateien], die mit Personen aus dem Chat geteilt werden.
 In Chats zwischen zwei Personen gibt es außerdem den Bereich [Aktivität], der über die Aktivitäten des [Chat]-Gegenübers in allen mit Ihnen gemeinsam geteilten [Kanälen] informiert.
 {>>Jule: Was ist mit der Registerkarte [Organisiation] ? Die würde die Position des Gegenübers in einem Firmen-Organigramm anzeigen, wenn man eines hinterlegt hätte. Aber wie hinterlegt man das? <<}
 Darüberhinaus können Sie weitere, eigene Registrierkarten hinzufügen.
@@ -312,13 +311,13 @@ Sie können [Chats] mit zwei oder mehr Personen führen. Für jede neue Personen
 
 Die Nachrichten in [Chats] laufen durchgängig weiter, eine Ordnung wie in [Unterhaltungen] innerhalb eines [Kanals] ist hier also nicht möglich.
 
-In einem [Chat] geteilte Dateien sind nur den [Chat]-Mitgliedern zugänglich und werden in den persönlichen OneDrive-For-Business-Ordnern gespeichert. 
+In einem [Chat] geteilte Dateien sind nur den [Chat]-Mitgliedern zugänglich und werden in den persönlichen OneDrive-For-Business-Ordnern gespeichert.
 Sie erreichen sie über die Registerkarte [Dateien], die auch darüber Auskunft gibt, von wem die Datei abgesendet wurde und wo sie folglich gespeichert ist.
 
-Auch [Anrufe] und [Besprechungen] innerhalb der Teams-App haben einen eigenen [Chat]-Bereich, über den Sie zusätzliche Informationen, Bilder und andere Dateien teilen können. 
+Auch [Anrufe] und [Besprechungen] innerhalb der Teams-App haben einen eigenen [Chat]-Bereich, über den Sie zusätzliche Informationen, Bilder und andere Dateien teilen können.
 Auch diese [Chat]-Verläufe werden inklusive Anhang in den privaten One-Drive-For-Business-Ordnern der Teilnehmenden gespeichert.
 
-Besprechungs-[Chats] verfügen neben den üblichen Registrierkarten [Chat] und [Dateien] noch über die Bereiche [Whiteboard] und [Besprechungsnotizen]. 
+Besprechungs-[Chats] verfügen neben den üblichen Registrierkarten [Chat] und [Dateien] noch über die Bereiche [Whiteboard] und [Besprechungsnotizen].
 Das [Whiteboard] ist eine Integration der Whiteboard Web App von Microsoft. Um es in einer [Besprechung] zu nutzen, muss eine Person im laufenden Video-Anruf ein [Whiteboard] freigeben. Dies gelingt Ihnen über die Schaltfläche [Teilen] im [Besprechungs]-Menü.
 Sie können [Besprechungsnotizen] zur Vor- und Nachbereitung nutzen und bearbeiten. Diese sind nur Personen zugänglich, die zuvor zu der zugehörigen [Besprechung] eingeladen worden sind. Vor der [Besprechung] können Sie Notizen im Bereich [Kalender] auf der linken Seitenleiste der Teams-Oberfläche starten und vorbereiten. Während der [Besprechung] können Sie [Besprechungsnotizen] über [Weitere Aktionen] im [Besprechungs]-Menü starten und anzeigen.
 
@@ -327,8 +326,8 @@ Auch die [Chats] aus [Anrufen] und [Besprechungen] werden im Bereich [Chat] aufg
 
 ![](chat-mit-allen-bereichen.png)
 
-Sie können einzelne [Chats] stumm schalten, zur besseren Navigation anheften und gezielt durchsuchen. 
-Außerdem haben Sie die Möglichkeit, einzelne [Chats] aus der Programmoberfläche von Teams zu lösen und individuellen Fenstern zu nutzen. So können sie mehrere [Chats] gleichzeitig im Blick behalten oder einen [Chat] nutzen, während Sie in MS Teams außerhalb des [Chat]-Bereichs arbeiten. 
+Sie können einzelne [Chats] stumm schalten, zur besseren Navigation anheften und gezielt durchsuchen.
+Außerdem haben Sie die Möglichkeit, einzelne [Chats] aus der Programmoberfläche von Teams zu lösen und individuellen Fenstern zu nutzen. So können sie mehrere [Chats] gleichzeitig im Blick behalten oder einen [Chat] nutzen, während Sie in MS Teams außerhalb des [Chat]-Bereichs arbeiten.
 Klicken Sie hierfür auf die Schaltfläche [...] neben dem gewünschten [Chat] und wählen Sie [Pop-out-Chat]. Noch einfacher und überall aus der App heraus erreichbar starten Sie einen [Pop-out-Chat] per Doppelklick auf das Profilbild der Team-Mitglieder.
 
 Die Schaltfläche [!] unterhalb des Eingabefelds für [Chat]-Nachrichten bietet Ihnen [Zustellungsoptionen], mit der Sie eine Nachricht als [wichtig] oder [dringend] markieren können.
@@ -343,7 +342,6 @@ Eine [dringende] Nachricht erscheint ebenfalls in rot eingefasst. Markiert wird 
 Teams hat ein interne Lösung für Telefonie mit und ohne Video. Diese steht vergleichbaren Anwendungen wie Skype for Business in nichts nach und ist laut Microsoft auch als dessen Nachfolge geplant, wenn Skype for Business im Sommer 2021 den Dienst einstellt.
 
 In MS Teams können Sie [Anrufe] über die gleichnamige Schaltfläche in der linken Menü-Spalte starten. Aber auch aus [Chats] heraus oder über die Profilbilder Ihrer Kontaktperson.
-{>>Jule: Den Hinweis, dass man Anrufe über die Befehlzeile starten kann, habe ich weggenommen, weil man das ja dann bei allem dazusagen müsste. Ich denke, dass man damit alle gängige Befehle erreichen kann, ist schon in einer früheren Passage klar geworden.<<}
 
 Besonders praktisch sind [Anrufe] allerdings innerhalb einer [Besprechung], der Video-Konferenz der Teams-App. Sie können [Besprechungen] über den [Kalender], in der linken Menü-Leiste planen, finden und wahrnehmen.
 
@@ -359,7 +357,7 @@ Sie können [Anrufe] über den integrierten Dienst [Stream] aufzeichnen und teil
 
 Je nach Lizenz bietet Teams auch die Möglichkeit, per Telefon an [Besprechungen] teilzunehmen. Auf diesem Weg können Sie weitere Gäste und Team-Mitglieder ohne Internetanbindung in Ihr Gespräch integrieren.
 
-Mittlerweile haben Sie in der Video-Telefonie in Teams auch die Möglichkeit, den Hintergrund Ihres Videos zu bestimmen. Im laufenden Gespräch erreichen Sie diese Funktion über die Schaltfläche [...] mit [Hintergrundeffekte anzeigen]. 
+Mittlerweile haben Sie in der Video-Telefonie in Teams auch die Möglichkeit, den Hintergrund Ihres Videos zu bestimmen. Im laufenden Gespräch erreichen Sie diese Funktion über die Schaltfläche [...] mit [Hintergrundeffekte anzeigen].
 Neben einem Unschärfe-Effekt, mit dem Sie Ihren Hintergrund unkenntlich machen und so unerwünschte Einblicke in Ihre Umgebung verhindern, können Sie nun auch ohne zusätzliche technische Voraussetzungen eine Art Green-Screen-Effekt nutzen: Während Sie im Vordergrund sichtbar bleiben, wird Ihr Hintergrund durch eine Grafik ersetzt.
 Teams bietet eine Auswahl vorgertigter Hintergründe, um eine eigene Grafik in Teams zu integrieren, müssen Sie jedoch einen kleinen Umweg nehmen. Sie müssen die gewünschte Bilddatei in den entsprechenden lokalen Teams-Ordner einfügen.
 In Windows erreichen Sie diesen Ordner über den Pfad [C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Teams\Backgrounds\Uploads] oder indem Sie [%APPDATA%\Microsoft\Teams\Backgrounds] in das Startsuchfeld von Windows eingeben. Damit wird Ihnen der Ordner [Uploads] angezeigt, in welchen Sie die gewünschten Bilddateien kopieren müssen.
@@ -367,12 +365,12 @@ Unter MacOS finden Sie einen versteckten Ordner unter dem Pfad [~/Library/Applic
 Bilder werden in Teams in 1920x1080 px dargestellt. Abweichende Formate werden automatisch zurechtgeschnitten.
 
 Sie können diese und andere Einstellungen bereits vornehmen, bevor Sie einer [Besprechung] beitreten, denn bei jeder Teilnahme wird zunächst der Bereich der Audio- und Video-Einstellungen aufgerufen.
-Nutzen Sie diesen Bereich und stellen Sie über die [Geräteeinstellungen] sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Dies erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen]. 
+Nutzen Sie diesen Bereich und stellen Sie über die [Geräteeinstellungen] sicher, dass die gewünschte Kamera aktiviert ist und Sie gut zu verstehen sind. Dies erreichen Sie über das mit einem Zahnrad gekennzeichnete [PC-Mikrofon und Lautsprechereinstellungen].
 Um zu überprüfen, ob alle vorgenommenen Einstellungen wie gewünscht funktionieren, können Sie einen kurzen [Testanruf führen].
 
 ![](anruf-voreinstellung.png)
 
-Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audio-Signale, denn Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Video-Spur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer [Besprechung] an. Diese können Sie auch ohne weitere Teilnehmende immer starten. {>>Jule: Wie starte ich eine Besprechung ohne weitere Teilnehmende?<<} Eine Aufzeichnung starten Sie, indem Sie in der laufenden [Besprechung] auf die Schaltfläche [...] klicken und dann [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert, dem [Besprechungschat] hinzugefügt und im [Kanal], in dem die Besprechung stattgefunden hat, als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet. Es kann also eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist. Beachten Sie, dass nur [Besprechungen] und [Anrufe] mit [Gruppen] aufgezeichnet werden können. {>>Jule: Was kann denn dann hingegen nicht aufgezeichnet werden? Anrufe zwischen zwei Personen oder wie?<<} 
+Diese Überprüfung gibt jedoch keine genaue Auskunft über die tatsächliche Qualität Ihrer Video- und Audio-Signale, denn Microsoft bietet im Testanruf eine verminderte Bandbreite. Um die genaue Qualität Ihrer Ton- und Video-Spur zu ermitteln, welche die übrigen Teilnehmenden effektiv zu sehen und hören bekommen, bietet sich eine kurze Aufzeichnung einer [Besprechung] an. Diese können Sie auch ohne weitere Teilnehmende immer starten, müssen beim Anlegen einer Besprechung über den [Kalender] allerdings mindestens eine weitere Person zur Besprechung einladen. Eine Aufzeichnung starten Sie, indem Sie in der laufenden [Besprechung] auf die Schaltfläche [...] klicken und dann [Aufzeichnung starten] wählen. An gleicher Stelle beenden Sie die Aufnahme wieder. Die Aufzeichnung wird in Microsoft [Stream] gespeichert, dem [Besprechungschat] hinzugefügt und im [Kanal], in dem die Besprechung stattgefunden hat, als Aktivität dargestellt. Die Aufzeichnung wird zunächst verarbeitet. Es kann also eine Weile dauern, bis sie veröffentlicht und Ihnen und den übrigen Teilnehmenden zugänglich ist.
 
 ![](besprechung-aufzeichnung-starten.png)
 
@@ -390,21 +388,21 @@ Per Feed werden im Bereich [Aktivität], zu erreichen über das Glocken-Symbol o
 
 Die Benachrichtigung per E-Mail erfolgt mit zeitlicher Verzögerung. Bleibt eine Erwähnung in Teams länger unbemerkt, wird eine E-Mail versandt, die auf diese Erwähnung hinweist. Diese Form der Benachrichtigung lässt sich nicht weiter den eigenen Wünschen anpassen, sondern lediglich deaktivieren. Teams erklärtes Ziel ist es, die E-Mail möglichst aus der Kommunikation herauszuhalten und nur als Stütze für das eigene Benachrichtigungs-Prinzip zu verwenden.
 
-Die größtmögliche Aufmerksamkeit erzeugen Erwähnungen, die [@mentions]. Mit diesen können Sie einzelne Personen aber auch ganze [Teams] oder [Kanäle] gezielt anschreiben. Diese Kontaktaufnahme wird besonders auffällig gekennzeichnet. 
-Hierfür müssen Sie im [Chat] oder in der [Unterhaltungen] ein [@] vor den gewünschten Namen schreiben, ohne diese Kombination durch ein Leerzeichen zu trennen. Schreiben Sie ein [@], bietet Ihnen Teams direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll. Ein [@team] und [@kanal] öffnen entsprechende Vorschläge. 
+Die größtmögliche Aufmerksamkeit erzeugen Erwähnungen, die [@mentions]. Mit diesen können Sie einzelne Personen aber auch ganze [Teams] oder [Kanäle] gezielt anschreiben. Diese Kontaktaufnahme wird besonders auffällig gekennzeichnet.
+Hierfür müssen Sie im [Chat] oder in der [Unterhaltungen] ein [@] vor den gewünschten Namen schreiben, ohne diese Kombination durch ein Leerzeichen zu trennen. Schreiben Sie ein [@], bietet Ihnen Teams direkt eine Reihe an Vorschlägen, welche Person aufmerksam gemacht werden soll. Ein [@team] und [@kanal] öffnen entsprechende Vorschläge.
 Die Benachrichtigung einer Person oder eines [Kanals] wird entsprechend unter [Aktivität] angezeigt. Ein roter Punkt auf dem Glocken-Symbol weist auf solche [@mentions] oder eine Antwort hin, die Sie noch nicht gelesen haben.
 
 ![](benachrichtigung-mit-erwaehnung.png)
 
 Über den Bereich [Suchen oder Befehl eingeben] im oberen Zentrum der Teams-App können Sie mit den Befehlen [/ungelesen] und [/erwähnungen] ungelesene [Kanal]-Benachrichtigungen und eigene [@mentions] anzeigen.
 
-Die Teilnahme an einem [Kanal] ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden. 
+Die Teilnahme an einem [Kanal] ist die Grundvoraussetzung, um über dortige Aktivitäten informiert zu werden.
 
 Es ist aber auch möglich, einen [Kanal] komplett auszublenden und so über dessen Aktivität nicht weiter informiert zu werden. Jeder [Kanal] hat eine eigene [...]-Schaltfläche, hinter der sich die Funktion [Ausblenden] befindet. Ein ausgeblendeter [Kanal] taucht dann nicht mehr direkt in Ihrer Übersicht auf, sondern wird unter [ausgeblendete Kanäle] geführt und lässt sich darüber auch wieder sichtbar machen. Eine [@mention] oder eine als wichtig gekennzeichnete Nachricht an Sie wird Ihnen allerdings dennoch angezeigt.
 
 Neue Aktivitäten in einem [Kanal] ohne eine [@mention] werden Ihnen angezeigt, indem der Name des [Kanals] in Ihrer Übersicht fett gedruckt erscheint, bis Sie hineinschauen.
 
-Im Kontextmenü [...] eines jeden [Kanals] können Sie über [Kanalbenachrichtigungen] weiter bestimmen, wie die Benachrichtigungen speziell für diesen [Kanal] stattfinden sollen. In [Benutzerdefiniert] können Sie über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] bestimmen, wie Sie über neue Beiträge in diesem Kanal oder Erwähnungen informiert werden. 
+Im Kontextmenü [...] eines jeden [Kanals] können Sie über [Kanalbenachrichtigungen] weiter bestimmen, wie die Benachrichtigungen speziell für diesen [Kanal] stattfinden sollen. In [Benutzerdefiniert] können Sie über die Einstellungen [Banner und Feed], [Nur im Feed anzeigen] und [Aus] bestimmen, wie Sie über neue Beiträge in diesem Kanal oder Erwähnungen informiert werden.
 
 Über den Anwesenheits-Status [Nicht stören] können Sie alle Benachrichtigungen komplett stummschalten, bis Sie Ihren Anwesenheits-Status wieder ändern.
 
@@ -413,10 +411,10 @@ Im Kontextmenü [...] eines jeden [Kanals] können Sie über [Kanalbenachrichtig
 
 # Dateien
 
-Die Registerkarte [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf dem SharePoint gespeichert sind. 
+Die Registerkarte [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf dem SharePoint gespeichert sind.
 
-Die Ordnung der Dateien regelt MS Teams von selbst: 
-Jeder [Kanal] besitzt einen zugehörigen Ordner, der bei [Kanal]-Gründung automatisch auf SharePoint erstellt wird. Alle Dateien, die in einem [Kanal] auftauchen, landen in diesem Ordner. 
+Die Ordnung der Dateien regelt MS Teams von selbst:
+Jeder [Kanal] besitzt einen zugehörigen Ordner, der bei [Kanal]-Gründung automatisch auf SharePoint erstellt wird. Alle Dateien, die in einem [Kanal] auftauchen, landen in diesem Ordner.
 
 Neben dem Zugriff über die Teams-App und die Teilnahme an einem [Kanal], können Sie mit diesen Dateien natürlich auch direkt über die SharePoint-Seite arbeiten.
 Über die Schaltfläche [Dateien] in der linken Spalte der Teams-App können Sie auch weitere Cloud-Speicher integrieren.
@@ -426,8 +424,8 @@ Neben dem Zugriff über die Teams-App und die Teilnahme an einem [Kanal], könne
 
 # Aufbau eines Teams/ Vor dem Start
 
-Wer neue [Teams] in der App starten kann, bestimmen die Admins. 
-Im Sinne eines übersichtlichen Arbeitsumfelds lohnt es sich, im Vorhinein zu überlegen, ob allen Lizenz-Mitgliedern die Berechtigung erteilt wird, neue [Teams] anzulegen, oder ob dies in der Hand ausgewählter Personen liegen soll, wie etwa der IT-Abteilung oder der Administration. 
+Wer neue [Teams] in der App starten kann, bestimmen die Admins.
+Im Sinne eines übersichtlichen Arbeitsumfelds lohnt es sich, im Vorhinein zu überlegen, ob allen Lizenz-Mitgliedern die Berechtigung erteilt wird, neue [Teams] anzulegen, oder ob dies in der Hand ausgewählter Personen liegen soll, wie etwa der IT-Abteilung oder der Administration.
 Alle Berechtigungen innerhalb von Microsoft Teams lassen sich nach den eigenen Bedürfnissen bestimmen, was auch für Entscheidungen gilt, ob Emojis genutzt werden können, welche Apps hinzugefügt werden dürfen, wer [Kanäle] gründen und verwalten kann und vieles mehr.
 
 Gründen Sie ein neues [Team], werden folgende Elemente automatisch erstellt:
@@ -440,14 +438,14 @@ Gründen Sie ein neues [Team], werden folgende Elemente automatisch erstellt:
 
 Ein [Team], welches auf Basis einer bestehenden Office-365-Gruppe gegründet wird, übernimmt Mitgliedschaften, Website, Postfächer und Notizbuch der Gruppe und überführt diese in Microsoft Teams.
 
-Bevor ein neues [Team] gegründet wird, muss der Name des [Teams] geprüft werden: Microsoft warnt Sie leider nicht davor, sollte ein [Team] mit gleichem Namen in Ihrer Organisation bereits bestehen. Das [Team] lässt sich zwar namensgleich gründen, die zugehörigen SharePoint-Bereiche dürfen jedoch nicht den gleichen Namen aufweisen. Microsoft würde in einem solchen Fall zufällige Zahlen an den neu geründeten Bereich mit gleichem Namen hängen, was zu großer Verwirrung führen kann: Ein neues Team „Vertrieb“ bei bereits bestehendem Team „Vertrieb“, würde etwa seine Dateiablage unter https://beispiel.sharepoint.com/sites/Vertrieb314 finden. {>>Jule: Hier habe ich einen größeren Absatz entfernt, weil sich der Inhalt mit dem vorangehenden gedoppelt hat.<<} Die SharePoint-Team-Website und E-Mail-Adresse würden entsprechend inklusive der Zahlenfolge erscheinen. (Beispiel: https://Beispielfirma.sharpoint.com/Sites/Vertrieb314)
+Bevor ein neues [Team] gegründet wird, muss der Name des [Teams] geprüft werden: Microsoft warnt Sie leider nicht davor, sollte ein [Team] mit gleichem Namen in Ihrer Organisation bereits bestehen. Das [Team] lässt sich zwar namensgleich gründen, die zugehörigen SharePoint-Bereiche dürfen jedoch nicht den gleichen Namen aufweisen. Microsoft würde in einem solchen Fall zufällige Zahlen an den neu geründeten Bereich mit gleichem Namen hängen, was zu großer Verwirrung führen kann: Ein neues Team „Vertrieb“ bei bereits bestehendem Team „Vertrieb“, würde etwa seine Dateiablage unter https://beispiel.sharepoint.com/sites/Vertrieb314 finden. Die SharePoint-Team-Website und E-Mail-Adresse würden entsprechend inklusive der Zahlenfolge erscheinen. (Beispiel: https://Beispielfirma.sharpoint.com/Sites/Vertrieb314)
 Um herauszufinden, welche Namen bereits an bestehende [Teams] vergeben sind, können Sie in der Teams-App im Bereich [Teams] unten links über das Zahnrad-Symbol neben [Team beitreten oder erstellen] eine Übersicht aufrufen und durchsuchen.
 
 ![](teams-suchen-vor-beginn2.png)
 
 Da auch die von Teams für Outlook erstellten E-Mail-Adressen von der ursprünglichen Namenswahl bestimmt sind, gilt es ebenso, auf eine allzu sperrige Benennung eines [Teams] zu verzichten. Wird das [Team] beim Erstellen etwa „das Team zur Evaluation Betatest“ genannt, so lautet die zugehörige E-Mail-Adresse „dasTeamZurEvaluationBetatest@yourdomain.com“.
 
-{>>Jule: Hier habe ich einen kleinen Absatz entfernt, weil sich der Inhalt mit gedoppelt hat.<<}
+
 
 Mit einem gefundenen Namen im Gepäck bestehen zwei Optionen, auf welcher Grundlage ein neues [Team] aufgebaut wird: Von Grund auf neu oder auf Grundlage einer bereits existierenden Office-365- oder Arbeitsgruppe.
 Bei einem völlig neu erstellten [Team] müssen Sie zunächst bestimmen, wie neue Mitglieder in das [Team] gelangen können: Bei der Einstellung [Privat] müssen Mitarbeitende durch Sie eingeladen werden. [Öffentlich] können alle Mitglieder einer Organisation auf Wunsch beitreten, [Organisationsweit] wird die ganze Organisation automatisch Teil des [Teams].
