@@ -2,7 +2,7 @@
 
 Grenzen sind wichtig. Besonders, weil der Wechsel ins Büro als Grenze fehlt, müssen Sie aktiv Alternativen dazu suchen. Schaffen Sie sich einen Bereich, den Sie nur für Arbeit aufsuchen. Vielleicht sogar verschiedene Bereiche für verschiedene Arten von Arbeit. Nehmen Sie Ihre Arbeit auf keinen Fall mit ins Bett.
 
-[](Folie25.png)
+![](Folie25.png)
 
 Rituale können die Abgrenzung unterstützen und damit auch den Wechsel zwischen Arbeitsmodus und Privatleben. Vielleicht tragen Sie deswegen extra Kleidung, nur für die Arbeit.
 

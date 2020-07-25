@@ -25,10 +25,10 @@ Eine Liste von Arbeits-Schritten und kostenlosen Werkzeugen zum Einstieg, mit de
 Eine Anleitung für verständliches Schreiben und die Entwicklung eines eigenen Stils  
 ▿ *ca 20min* | *Leitfaden*
 
-- [Schreiben, wie wir sprechen](#sprechen-20200710)
-- [Klare Sprache](#klarheit-20200710)
-- [Standards nutzen](#standards-20200710)
-- [Wertschätzung ausdrücken](#wertschaetzung-20200710)
+- [Schreiben, wie wir sprechen](/schreiben#sprechen-20200710)
+- [Klare Sprache](/schreiben#klarheit-20200710)
+- [Standards nutzen](/schreiben#standards-20200710)
+- [Wertschätzung ausdrücken](/schreiben#wertschaetzung-20200710)
 
 
 ### Vereinbarkeit
