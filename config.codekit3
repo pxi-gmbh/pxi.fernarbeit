@@ -39,12 +39,6 @@
 		"oAP": "/build/_drafts",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2279,7 +2273,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "logo-vue",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 617108462.80476606
+	"lastBuiltDate": 617364196.81400895
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

@@ -1326,10 +1326,13 @@ label.aside-toggle {
   margin-left: auto;
   margin-right: auto; }
 
-.card-grid > *:not(h2:first-child) {
+.card-grid > * {
   width: 100%;
   margin: 0;
   padding: 0 1rem; }
+
+.card-grid > h2:first-child {
+  padding-left: 0; }
 
 .card-grid a::before {
   content: "▹ ";
