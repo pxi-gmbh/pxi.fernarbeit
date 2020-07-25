@@ -1,0 +1,443 @@
+.card-grid {
+  display: flex; /* flexbox based grid system. No Flexbox support = single column layout */
+  flex-flow: row wrap; /* items will start a new row when there's not enough room on the current one */
+  justify-content: space-between;
+  max-width: 75ch;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.card-grid > *:not(h2:first-child) {
+  width: 100%;
+  margin: 0;
+  padding: 0 1rem;
+}
+.card-grid a::before {
+  content: "▹ ";
+  color: $color-muted;
+}
+.card-grid h3:nth-of-type(1) {
+  order: 1;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(1) + p {
+  order: 2;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(1) + p + p {
+  order: 3;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(2) {
+  order: 4;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(2) + p {
+  order: 5;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(2) + p + p {
+  order: 6;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(3) {
+  order: 7;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(3) + p {
+  order: 8;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(3) + p + p {
+  order: 9;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(4) {
+  order: 10;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(4) + p {
+  order: 11;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(4) + p + p {
+  order: 12;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(5) {
+  order: 13;
+  color: $color-muted;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(5) + p {
+  order: 14;
+  color: $color-muted;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(5) + p + p {
+  order: 15;
+  color: $color-muted;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(6) {
+  order: 16;
+  color: $color-muted;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(6) + p {
+  order: 17;
+  color: $color-muted;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(6) + p + p {
+  order: 18;
+  color: $color-muted;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(7) {
+  order: 19;
+  color: $color-muted;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(7) + p {
+  order: 20;
+  color: $color-muted;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(7) + p + p {
+  order: 21;
+  color: $color-muted;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+
+.card-grid h3:nth-of-type(8) {
+  order: 22;
+  color: $color-muted;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(8) + p {
+  order: 23;
+  color: $color-muted;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(8) + p + p {
+  order: 24;
+  color: $color-muted;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+.card-grid h3:nth-of-type(9) {
+  order: 25;
+  display: none;
+}
+.card-grid h3:nth-of-type(9) + p {
+  order: 26;
+  display: none;
+}
+.card-grid h3:nth-of-type(9) + p + p {
+  order: 27;
+  display: none;
+}
+
+@media screen and (min-width: $break-wide) {
+	/* give more room to breathe on wider screens */
+	.card-grid {
+    max-width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 1em;
+    padding-right: 1em;
+	}
+  .card-grid > *:not(h2:first-child) {
+    font-size: calc(1em * 0.75);
+  	line-height: calc(#{$line-height} * 1.25);
+    width: 31%;
+    margin: 0;
+    padding: 0 1rem;
+  }
+
+  .card-grid h3:nth-of-type(1) {
+    order:1;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(1) + p {
+    order: 2;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(1) + p + p {
+    order: 3;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(2) {
+    order: 1;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(2) + p {
+    order: 2;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(2) + p + p {
+    order: 3;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(3) {
+    order: 1;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(3) + p {
+    order: 2;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(3) + p + p {
+    order: 3;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(4) {
+    order: 4;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(4) + p {
+    order: 5;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(4) + p + p {
+    order: 6;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(5) {
+    order: 4;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(5) + p {
+    order: 5;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(5) + p + p {
+    order: 6;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(6) {
+    order: 4;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(6) + p {
+    order: 5;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(6) + p + p {
+    order: 6;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(7) {
+    order: 7;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(7) + p {
+    order: 8;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(7) + p + p {
+    order: 9;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+
+  .card-grid h3:nth-of-type(8) {
+    order: 7;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(8) + p {
+    order: 8;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(8) + p + p {
+    order: 9;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+  .card-grid h3:nth-of-type(9) {
+    order: 7;
+    display: block;
+    visibility: hidden;
+  }
+  .card-grid h3:nth-of-type(9) + p {
+    order: 8;
+    display: block;
+    visibility: hidden;
+  }
+  .card-grid h3:nth-of-type(9) + p + p {
+    order: 9;
+    display: block;
+    visibility: hidden;
+  }
+}

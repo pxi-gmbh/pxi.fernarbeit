@@ -1,0 +1,21 @@
+<!-- $title = Fernarbeit | Schnellstart -->
+<!-- $description = Eine Anleitung, wie Sie dezentral vernetzte Arbeit in Ihrem Unternehmen einrichten können -->
+<!-- @include ../_includes/_header -->
+<main id="main" role="main">
+	<article class="grid grid-margin">
+    <nav id="nav--menu">
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Inhalt: Erste  Schritte</label>
+      <input id="nav--toggle" type="checkbox" style="display:none;">
+      <!-- @compile _schnellstart-nav.md -->
+      <br>
+    </nav>
+    <div class="md-view">
+		    <!-- @compile _schnellstart.md -->
+    </div>
+	</article>
+  <article class="grid grid-margin">
+    <p style="text-align:center;"><em>Regelmäßig neue Erkenntnisse zu vernetzter Arbeit.</em></p>
+    <!-- @include ../_includes/_signup-form -->
+  </article>
+</main>
+<!-- @include ../_includes/footer -->

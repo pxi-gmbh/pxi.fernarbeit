@@ -57,7 +57,7 @@ function datenschutzEmail() {
 	var link = document.createElement("a");
 	link.setAttribute("href", "mailto:" + eml);
 	link.appendChild(document.createTextNode(eml));
-	var spans = getElementsByClass("span", "js-datenschutz-email");
+	var spans = getElementsByClass("span", "js--datenschutz-email");
 	for (var i = 0; i < spans.length; i++)
 		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
 }
@@ -76,34 +76,37 @@ function frameBreaker()
 
 // Helper for _navmenu.css
 // close Menu with ID #open if the user clicks outside of it
-document.addEventListener("click", (evt) => {
-    const flyoutElement = document.getElementById("open");
-    let targetElement = evt.target; // clicked element
+document.addEventListener("click", function(e) {
+    const navMenu = document.getElementById("nav--menu");
+    const navLinks = navMenu.getElementsByTagName("a");
+    let navToggle = document.getElementById("nav--toggle-button");
+    let pressed = (navToggle.getAttribute("aria-pressed") === "true");
+    let targetElement = e.target; // clicked element
     do {
-        if (targetElement == flyoutElement) {
-            // This is a click inside. Do nothing, just return.
-            // document.getElementById("flyout-debug").textContent = "Clicked inside!"; // add div with id flyout debug to HTML, comment in for debugging
-            return;
+        if (targetElement == navMenu) {
+          // This is a click inside. Do nothing, just return.
+          return;
+        }
+        for (var i = navLinks.length - 1; i >= 0; --i) {
+          if (targetElement == navLinks[i]) {
+            // close, when link is clicked
+            navToggle.click();
+          }
         }
         // Go up the DOM
         targetElement = targetElement.parentNode;
     } while (targetElement);
-
     // This is a click outside.
-    // Simulate a click event on link to update :active #ID to #close
-    var simulateClick = function (elem) {
-    	// Create our event (with options)
-    	var evt = new MouseEvent('click', {
-    		bubbles: true,
-    		cancelable: true,
-    		view: window
-    	});
-    	// If cancelled, don't dispatch our event
-    	var canceled = !elem.dispatchEvent(evt);
-    };
-    var closeNavMenu = document.querySelector('#nav--close'); // execute on navigation-closing link ID
-    simulateClick(closeNavMenu);
-    // document.getElementById("flyout-debug").textContent = "Clicked outside!"; // see debug above
+    if (pressed) { navToggle.click(); } // execute on navigation-closing link ID
+});
+// close nav-menu on "ESC"
+window.addEventListener("keyup",function(e){
+  let navToggle = document.getElementById("nav--toggle-button");
+  let pressed = (navToggle.getAttribute("aria-pressed") === "true");
+  if(e.key==="Escape" && pressed ) {
+    // close nav
+    navToggle.click();
+  }
 });
 
 

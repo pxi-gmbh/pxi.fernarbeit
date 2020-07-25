@@ -5,8 +5,7 @@
 
 .grid { /* single column grid */
 	position: relative;
-	max-width: 42em;
-	width: 95%;
+	max-width: 75ch;
 	padding-left: 2.5%;
 	padding-right: 2.5%;
 	margin-left: auto;
@@ -15,7 +14,6 @@
 	@media screen and (min-width: $break-wide) {
 		/* give more room to breathe on wider screens */
 		.grid {
-		 	width: 90%;
 		 	padding-left: 5%;
 		 	padding-right: 5%;
 		}
@@ -25,22 +23,10 @@
 		/* shift main column, add margin gutter to the right on wide screens */
 		.grid-margin {
 			width: 80vw;
-		 	margin-left: #{$line-height}em !important;
-		 	margin-right: #{$line-height}em !important;
-		 	padding-left: #{$line-height}em;
-		 	padding-right: calc(20vw - #{$line-height}em);
-		}
-	}
-	// option for a two-column-layout with content spread across full width
-	@media screen and (min-width: $break-wide) {
-		/* shift main column, add margin gutter to the right on wide screens */
-		.grid-spread {
-			width: 80vw;
-			max-width: none;
-		 	margin-left: #{$line-height}em !important;
-		 	margin-right: #{$line-height}em !important;
-		 	padding-left: #{$line-height}em;
-		 	padding-right: #{$line-height}em;
+		 	margin-left: 1rem;
+		 	margin-right: 1rem;
+		 	padding-left: 1em;
+		 	padding-right: calc(20vw - 1em);
 		}
 	}
 .center-horizontal {
@@ -89,6 +75,100 @@
 	display: block;
 	content: "—";
 	text-align: center;
+}
+
+/* universal margin-notes: designed to work as snippets in markdown documents */
+// <label for="$NAME" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
+// <input type="checkbox" id="$NAME" class="aside-toggle"/>
+// whatever element comes next will be turned into a margin note. A (markdown-generated) paragraph or a video or figure alike
+input.aside-toggle + * {
+	float: right;
+	clear: right;
+	margin-right: calc(-7em - 20vw);
+	width: calc(3em + 20vw);
+	margin-top: calc(-1em * #{$line-height});
+	margin-bottom: calc(1em * #{$line-height});
+	font-size: calc(1em * 0.75);
+	line-height: calc(#{$line-height} * 1.25);
+	vertical-align: baseline;
+	position: relative;
+}
+input.aside-toggle {
+	display: none;
+}
+label.aside-toggle {
+	display: none;
+	color: $color-contrast;
+	cursor: pointer;
+}
+/* collapse sidenotes on small screens */
+@media all and (max-width: $break-wide) {
+	label.aside-toggle {
+		display: inline;
+	}
+	input.aside-toggle + * {
+		display: none;
+	}
+	input.aside-toggle:checked + * {
+		display: block;
+		clear: both;
+		width: 100%;
+		margin: 0;
+		margin-top: calc(0.5em * #{$line-height});
+		margin-bottom: calc(1em * #{$line-height});
+		vertical-align: baseline;
+		position: relative;
+		-webkit-animation:pop-in 0.3s;
+		-moz-animation:   pop-in 0.3s;
+		-ms-animation:    pop-in 0.3s;
+		animation:        pop-in 0.3s;
+	}
+}
+
+.md-view > * {
+  display:none;
+  animation: slide-in 0.3s;
+}
+.md-view *:target {
+  display:block;
+  margin-top: -1em;
+  padding-top:2em;
+}
+.md-view *:target ~ h2,
+.md-view *:target ~ h3,
+.md-view *:target ~ h4,
+.md-view *:target ~ h5,
+.md-view *:target ~ p,
+.md-view *:target ~ ul,
+.md-view *:target ~ ol,
+.md-view *:target ~ dd,
+.md-view *:target ~ blockquote,
+.md-view *:target ~ pre,
+.md-view *:target ~ table,
+.md-view *:target ~ figure,
+.md-view *:target ~ img {
+  display: block;
+}
+.md-view > p:last-child {
+  margin-top: 4em;
+}
+.md-view > p:last-child a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: .1em;
+  max-width: 32ch;
+  margin: auto;
+  margin-top: .1em;
+  padding: .5em 1em;
+  border: 1px solid $color-contrast;
+  border-radius: $border-radius;
+}
+.md-view > ol {
+  margin-left: 2em;
+}
+.md-view > ol li + li {
+  margin-top: 1.5em;
 }
 
 /* tables from divs with flexbox */
@@ -150,177 +230,5 @@
 		> .flex-table-cell {
 			width: 100%;
 		}
-	}
-
-
-
-}
-@media only screen and (max-width: 110vh){
-	div.nav-dropdown-content{
-		line-height: 2.5em;
-		font-size: calc(#{$type-scale-small}em + 1vh);
-		min-width: 80vw;
-		white-space: unset;
-	}
-
-	.nav-dropdown-container button{
-		font-size: calc(#{$type-scale-extra-small}em + 1vh);
-		margin-top: 0;
-	}
-	ol{
-		padding-left: 1.5em;
-	}
-
-}
-
-
-/* for links as cells limit link underline and color to last child elements */
-a.flex-table-cell {
-  display: block;
-  color: $color-dark;
-  &:hover,
-  &:active,
-  &:focus {
-  	transform: translateY(-2px);
-  	text-decoration: none;
-  }
-  *:last-child {
-  	  color: $color-contrast;
-	}
-  *:last-child:hover {
-	  text-decoration: underline;
-  }
-}
-
-/* Sidenotes, margin notes */
-// sidenote use (gets running counter in text & note)
-//<label for="ID" class="margin-toggle sidenote-number"></label>
-//<input type="checkbox" id="ID" class="margin-toggle"/>
-//<span class="sidenote">
-// marginnote use (gets no counter, is activated via label when collapsed)
-//<label for="ID" class="margin-toggle">⨭ …</label>
-//<input type="checkbox" id="ID" class="margin-toggle"/>
-//<span class="marginnote">
-.sidenote,
-.marginnote,
-.marginbox {
-	float: right;
-	clear: right;
-	margin-right: calc(-5 * #{$line-height}em - 20vw);
-	width: calc(3 * #{$line-height}em + 20vw);
-	margin-top: 0.2em;
-	margin-bottom: 0;
-	font-size: 0.8em;
-	line-height: calc(#{$line-height} * 1.25);
-	vertical-align: baseline;
-	position: relative;
-}
-main {
-  counter-reset: sidenote-counter;
-  margin-top: 3em;
-}
-.sidenote-number {
-	counter-increment: sidenote-counter;
-}
-.sidenote-number:after,
-.sidenote:before {
-	font-family: inherit;
-	position: relative;
-	vertical-align: baseline;
-}
-.sidenote-number:after {
-	content: "[" counter(sidenote-counter) "]";
-	font-size: 0.8em;
-	top: -0.4em;
-	left: -0.1em;
-	color: $color-contrast;
-}
-.sidenote:before {
-	content: "[" counter(sidenote-counter) "]";
-	top: -0.2em;
-	left: -0.1em;
-	color: $color-contrast;
-}
-input.margin-toggle {
-	display: none;
-}
-label.sidenote-number {
-	display: inline;
-}
-label.margin-toggle:not(.sidenote-number) {
-	display: none;
-	color: $color-contrast;
-}
-/* collapse sidenotes on small screens */
-@media all and (max-width: $break-wide) {
-	label.margin-toggle:not(.sidenote-number) {
-		display: inline;
-	}
-	.sidenote,
-	.marginnote {
-		display: none;
-	}
-	.margin-toggle:checked + .sidenote,
-	.margin-toggle:checked + .marginnote,
-	.marginbox {
-		display: block;
-		float: left;
-		left: #{$line-height}em;
-		clear: both;
-		width: 95%;
-		margin: #{$line-height}em;
-		vertical-align: baseline;
-		position: relative;
-	}
-	label {
-		cursor: pointer;
-	}
-}
-
-/* universal margin-notes: designed to work as snippets in markdown documents */
-// <label for="$NAME" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
-// <input type="checkbox" id="$NAME" class="aside-toggle"/>
-// whatever element comes next will be turned into a margin note. A (markdown-generated) paragraph or a video or figure alike
-input.aside-toggle + * {
-	float: right;
-	clear: right;
-	margin-right: calc(-5 * #{$line-height}em - 20vw);
-	width: calc(3 * #{$line-height}em + 20vw);
-	margin-top: calc(-1em * #{$line-height});
-	margin-bottom: calc(1em * #{$line-height});
-	font-size: calc(1em * 0.75);
-	line-height: calc(#{$line-height} * 1.25);
-	vertical-align: baseline;
-	position: relative;
-}
-input.aside-toggle {
-	display: none;
-}
-label.aside-toggle {
-	display: none;
-	color: $color-contrast;
-	cursor: pointer;
-}
-/* collapse sidenotes on small screens */
-@media all and (max-width: $break-wide) {
-	label.aside-toggle {
-		display: inline;
-	}
-	input.aside-toggle + * {
-		display: none;
-	}
-	input.aside-toggle:checked + * {
-		display: block;
-		clear: both;
-		width: 100%;
-		margin: 0;
-		margin-top: calc(0.5em * #{$line-height});
-		margin-bottom: calc(1em * #{$line-height});
-		vertical-align: baseline;
-		position: relative;
-		-webkit-animation:pop-in 0.3s;
-		-moz-animation:   pop-in 0.3s;
-		-ms-animation:    pop-in 0.3s;
-		animation:        pop-in 0.3s;
 	}
 }

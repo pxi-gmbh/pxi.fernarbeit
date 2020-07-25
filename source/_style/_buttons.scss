@@ -20,3 +20,33 @@ button:focus,
 [aria-pressed="true"] {
 	border: 1px solid $color-contrast;
 }
+.button--primary {
+  display: block;
+  color: $color-light;
+  font-weight: bold;
+  letter-spacing: .05em;
+  max-width: 30ch;
+  margin: auto;
+  margin-top: .5em;
+  margin-bottom: 1em;
+  background: $color-gradient;
+  border-radius: $border-radius;
+  box-shadow: none;
+  border: 0;
+  cursor: pointer;
+}
+.button--secondary {
+  display: block;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: .1em;
+  max-width: 32ch;
+  margin: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding: .5em 1em;
+  border: 2px solid $color-contrast;
+  border-radius: $border-radius;
+}

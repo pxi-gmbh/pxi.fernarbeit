@@ -41,3 +41,17 @@ Hier steht Fließtext des zugehörigen Absatzes.
 
 Text der hier steht, wird wieder regulär in den Fließtext geschrieben.
 ```
+
+## noch unkommentierte HTML-snippets. Müssen evtl angepasst werden
+
+<!-- YouTube snippet: no cookies, minimal branding. Switch Video ID-comment with proper ID for use -->
+<div class="embedcontainer">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/<!-- VIDEO-ID -->?controls=1&rel=0&modestbranding=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- no tracking on iframes at all -->
+<div class="embedcontainer">
+	<iframe id='iframe-001' style="display:none;" frameborder="0" scrolling="no" width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+	<noscript>Einbettung ist ausgeschaltet. <a href="<!-- IFRAME-URL -->">Video auf der Ursprungsseite ansehen</a>.</noscript>
+	<img id="iframe-001-img" src="<!-- BILD -->" alt="placeholder-image for iframe content" onClick='document.getElementById("iframe-001").style="display:block";document.getElementById("iframe-001").src="QUELLE";document.getElementById("iframe-001-img").style="display:none";'>
+</div>
