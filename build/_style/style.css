@@ -1331,9 +1331,6 @@ label.aside-toggle {
   margin: 0;
   padding: 0 1rem; }
 
-.card-grid > h2:first-child {
-  padding-left: 0; }
-
 .card-grid a::before {
   content: "▹ ";
   color: #cccccc; }
@@ -1546,7 +1543,7 @@ label.aside-toggle {
     margin-right: 1rem;
     padding-left: 1em;
     padding-right: 1em; }
-  .card-grid > *:not(h2:first-child) {
+  .card-grid > * {
     font-size: calc(1em * 0.75);
     line-height: calc(1.45 * 1.25);
     width: 31%;
