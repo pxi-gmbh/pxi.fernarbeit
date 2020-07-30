@@ -1,0 +1,16 @@
+<!-- $title = Fernarbeit | Werkzeuge für dezentrales Arbeiten -->
+<!-- $description = Eine Übersicht der populärsten und nützlichsten Online-Werkzeuge und Apps für vernetzte Zusammenarbeit -->
+<!-- @include ../_includes/_header -->
+<main id="main" role="main">
+	<article class="grid grid-margin">
+    <nav id="nav--menu">
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Werkzeug-Sammlung</label>
+      <input id="nav--toggle" type="checkbox" style="display:none;"> <small class="nav--info"><span class="nav--visited">gelesen</span> <span class="nav--new">neu</span> <sup>∗</sup></small>
+      <!-- @compile _werkzeug-sammlung-nav.md -->
+      <p><small class="nav--info"><sup>∗</sup> bei späterem Aufruf vom gleichen Gerät und Standard-Einstellungen zur Browser-Historie.</small></p>
+    </nav>
+		<!-- @compile _werkzeug-sammlung.md -->
+	</article>
+  <!-- @include ../_includes/cta-snippet -->
+</main>
+<!-- @include ../_includes/footer -->

@@ -1,0 +1,45 @@
+<!-- $title = Fernarbeit -->
+<!-- $description = Dezentral organisierte Zusammenarbeit von zu Hause aus möglich machen. -->
+
+<!-- @include ../_includes/_header -->
+<main id="main" role="main" style="margin-top:0;">
+	<article class="grid grid-margin" style="margin-top:0;">
+    <nav id="nav--menu">
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Inhalts-Verzeichnis</label>
+      <input id="nav--toggle" type="checkbox" style="display:none;"> <small class="nav--info"><span class="nav--visited">gelesen</span> <span class="nav--new">neu</span> <sup>∗</sup></small>
+      <!-- @compile _nav.md -->
+      <p><small class="nav--info"><sup>∗</sup> bei späterem Aufruf vom gleichen Gerät und Standard-Einstellungen zur Browser-Historie.</small></p>
+    </nav>
+
+    <h1>Fernarbeit</h1>
+    <img src="hero-image.svg" alt="Illustration: Menschen helfen einander, lehnen sich dabei aus Browser-Fenstern.">
+    <p>Wir sind eine kleine <a href="https://agentur.pxi.gmbh">Strategie-Gestaltungs-Agentur</a> und mussten lernen, quer über die Welt verteilt mit bescheidenen Mitteln zusammen zu arbeiten. Hier unsere Erfahrungen als lebendiger Leitfaden mit Anmerkungen in den <em>Randnotizen</em>. (Auf dem Handy mit ⨭ ausklappen.) <label for="hier-finden-sie" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label></p>
+    <input id="hier-finden-sie" type="checkbox" class="aside-toggle"/>
+    <p>Hier schreiben wir Begriffs-Klärungen, Quellen-Angaben, weiter führende Links, sowie persönliche Kommentare und Erfahrungen aus unserem Team. Wenn Sie es eilig haben, können Sie sich das Lesen einfach sparen.</p>
+
+    <p>Die Informations-Angebote sind thematisch sortiert. Nach und nach ergänzen wir weitere Bausteine. Hinweise zu Aktuali&shy;sierungen finden Sie im <em>Inhalts-Verzeichnis</em>.</p>
+
+    <p><a href="#cta-form" class="button--secondary">für Updates anmelden</a></p>
+  </article>
+  <article>
+    <div class="grid grid-margin">
+      <h2 style="width:100%;">Leitfäden, Wegweiser, Kataloge</h2>
+    </div>
+    <div class="card-grid">
+      <!-- @compile _inhalt.md -->
+    </div>
+  </article>
+  <article class="grid grid-margin">
+    <h2>Erfahrung zu vernetzter Arbeit per&nbsp;E-Mail</h2>
+    <p>Wir experimentieren ständig mit neuen Methoden und Werkzeugen zu virtuellen Formen der Arbeit. Manchmal entwickeln wir sogar eigene kleine Web-Apps, um unsere Arbeit noch angenehmer und produktiver zu gestalten. Zum Beispiel <a href="https://compad.pxi.gmbh">compad</a>.</p>
+    <p>Wenn Sie über unseren neusten Erkenntnisse, Entwicklungen und Erfahrungen informiert bleiben möchten, schicken wir Ihnen gerne eine Nachricht.</p>
+    <!-- @include ../_includes/_signup-form -->
+    <p>Wir freuen uns, wenn wir unser Wissen teilen können. Noch mehr freuen wir uns, wenn Sie unsere Erfahrungen um Ihre eigenen bereichern. Antworten und kommentieren Sie einfach selbst per E-Mail. Danke!</p>
+  </article>
+  <article class="grid grid-margin" style="margin-top:0;">
+    <p><em>Gemeinsam schaffen wir das. Wir stehen für Rückfragen und professionelle Unterstützung in der schwierigen Zeit gern zur Verfügung. Wir finden schon eine Lösung, auch für besondere Bedürfnisse zu Umsetzung und Bezahlung.</em></p>
+    <p class="text-center"><span class="js-email">Kontakt: fernarbeit [at] pxi.gmbh</span> | <a href="https://agentur.pxi.gmbh"><strong>pxi</strong>&nbsp;❘&nbsp;<i>Agentur</i></a></p>
+    <p><em>Bleiben Sie optimistisch, bleiben Sie pragmatisch, bleiben Sie solidarisch!</em></p>
+  </article>
+</main>
+<!-- @include ../_includes/footer -->

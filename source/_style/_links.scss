@@ -1,6 +1,6 @@
 a {
-	color: $color-medium;
-	// text-decoration: none;
+	color: inherit;
+	text-decoration: underline;
   text-underline-position: under;
 	cursor: pointer;
 	text-decoration-skip: objects;
@@ -10,11 +10,8 @@ a {
 	&:hover,
 	&:active,
 	&:focus {
-		text-decoration: underline;
+		color: $color-contrast;
 	}
-}
-main a:not(.button) {
-	text-decoration: underline;
 }
 	sup a {
 		color: $color-contrast;
