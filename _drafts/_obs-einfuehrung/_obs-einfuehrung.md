@@ -85,6 +85,31 @@ Wollen Sie nur ein bestimmtes Programm darstellen, können Sie dies auch als Que
 Wählen Sie in OBS über das [+] Unter Quellen [Fensteraufnahme] und benennen es adäquat. Unter [Fenster] können Sie nun ihr laufendes Programm aus dem Drop-Down-Menü wählen. Die Auswahl zu [Aufnahmemethode] bleibt auf [Automatisch], [Fensterübereinstimmungspriorität] bleibt ebenso unangetastet.
 ![](quelle-fensteraufnahme.png)
 
+## Eine Kamera einbinden
+
+Um eine Webcam in OBS als Quelle einzubinden, wählen Sie in OBS über das [+] Unter Quellen [Videoaufnahmegerät] und benennen es adäquat.
+
+Unter [Gerät] wählen Sie dann ihre Gewünschte Kamera aus und bestätigen dies mit [Okay].
+
+Ihr Kamerabild wird Ihnen nun auf dem Vorschaufesnster angezeigt und kann wie alle Quellen mit der Maus wie gewünscht platziert, über die roten Anfasser auf die gewünschte Größe oder in Kombination mit der Alt-Taste beschnitten werden.
+
+![](kamera-einbinden.png)
+
+
+## Anordnung der Quellen im Vorschaufenster
+
+Wenn Sie nun mehrere Quellen in OBS eingefügt haben, können Sie diese so anordnen, wie sie sich das Vorstellen. Die Größe und Position jeder einzelnen Quelle können Sie mit der Maus bestimmen. Im Bereich [Quellen] werden alle eingefügten Quellen aufgelistet. Die Reihenfolge bestimmt die Ebene auf der sich die Quellen befinden. Wollen Sie das eingefügte Bild im Himtergrund haben, so muss sich diese Quelle ganz unten in der Auflistung befinden, Ihre Kamera als Oberste entsprechend ganz oben. Mit den Pfeiltasten lässt sich jede angewählte Quelle in den Ebenen nach oben oder unten bewegen.
+
+![](anordnung-quellen-one.png)
+
+Über das Zahnrad können Sie die [Eigenschaften] der einzelnen Quellen erneut barbeiten, mit dem Minus eine nicht mehr benötigte Quelle entfernen und über die Augensymbole jede Quelle einzeln ausblenden.
+
+![](quellen-menu.png)
+
+Mit einem Rechtsklick der Maus auf eine Quelle gelangen Sie in ein erwitertes Kontextmenü. Hier können Sie unter anderem eine Quelle umbenennen.
+
+![](quellen-rechtsklick.png)
+
 ## Erweiterte Nutzung der Live-Aufnahme
 
 Um Ihre OBS-Aufnahme Live als Webcam-Bild in Video-Konferenzen in Teams, Zoom, Skype oder weiteren Programmen nutzen zu können, müssen Sie noch eine Erweiterung für OBS installieren.
@@ -102,4 +127,4 @@ Nach erforlgreicher Installation finden Sie Ihre VirtualCam in OBS unter [Werkze
 
 Ab diesem Moment haben Sie in vielen Programmen nun die Möglichkeit, [OBS-Camera] als Kamera auszuwählen. Eine solche Auswahl gelingt meist über die [Geräteeinstellungen] des Programms wie MS Teams, oder Zoom. Statt ihrer normalen Webcam, bildet die ausgewählte [OBS-Camera] alles ab, was Sie in OBS in Ihr Vorschaufenster integriert haben.
 
-![](virtual-cam-in-teams.png)
+![](virtual-cam-in-teams-vorschau.png)
