@@ -280,7 +280,7 @@ mit **Word**, **PowerPoint** und **Excel** lassen sich geteilte Dokumente live g
 
 
 ##### [AWW](https://awwapp.com/) [AWW]
-ist ein touch-freundliches browser-basiertes Whiteboard mit kostenloser Basisversion. Von der Anmutung eher für Schulen konzipiert.
+ist ein touch-freundliches browser-basiertes Whiteboard mit kostenloser Basisversion. Dank minimalistischer Features für einen schnellen Einstieg geeignet. Arbeitet mit SVGs als technische Grundlage der Skizzen.
 
 
 ##### [Boldaretro Sprint Retrospective Tool](https://www.boldare.com/sprint-retrospective-tool/) [Boldaretro Sprint Retrospective Tool]
@@ -317,12 +317,16 @@ bietet einen endlose Leinwand auf der Teams gemeinsam in Echtzeit Designs und Id
 dient als digitaler Raum für standort-übergreifende, interaktive Zusammenarbeit für strukturiertere Online-Meetings. Geboten werden vier Boards gratis in der Einstiegs-Version. Als App lässt es sich mittlerweile in die Dienste von [Microsoft Teams][] integrieren.
 
 
-##### [Metro Retro](https://metroretro.io/) [Metro Retro]
-ist ein kostenloses, auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen (können auch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden, für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Es ist browser-basiert und optimiert für Desktop-Browser. Auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
-
-
 ##### [Lucidchart](https://www.lucidchart.com/pages/) [Lucichart]
 ist spezialisiert auf die Herstellung von Diagrammen und Daten-Visualisierungen, dazu dann auch als Whiteboard nutzbar. Die interaktiven Elemente und große Bibliothek an Diagramm-Vorlagen sollen die gemeinsame Arbeit mit etablierten Visualisierungen erleichtern. Hauptsächlich relevant in der Planung, mit Flow-Charts, aber auch zur Abbildung von Zusammenhängen über die Integration von externen Datenquellen, aus denen interaktive Visualisierungen möglich sind. Gratisversion zur persönlichen Verwendung, dann allerdings mit eingeschränkter Funktion, ohne Anbindung an Datenbanken.
+
+
+##### [Kumu](https://kumu.io/) [Kumu]
+ist ein Visualisierungs-Werkzeug für Graphen. Zusammenhänge zwischen Knotenpunkten und Daten werden mit Verbindungen angezeigt. Die Verteilung im Raum und visuelle Filter werden automatisch vom Programm angelegt, damit komplizierte Strukturen übersichtlich und erforschbar werden. Kostenlose Verwendung für öffentliche Inhalte. Monatliches Abonnement, wenn Daten privat bleiben sollen.
+
+
+##### [Metro Retro](https://metroretro.io/) [Metro Retro]
+ist ein kostenloses, auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen (können auch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden, für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Es ist browser-basiert und optimiert für Desktop-Browser. Auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
 
 ##### [Mindmeister](https://www.mindmeister.com/de) [Mindmeister]
 ist spezialisiert auf Mind-Maps. Das sind unendlich erweiterbare Netze aus Inhalts-Knoten und Verbindungs-Pfaden, mit denen Teilnehmende online gemeinsam Sinn-Zusammenhänge erkunden und visualisieren können. Web-basiert, ohne App-Download.
