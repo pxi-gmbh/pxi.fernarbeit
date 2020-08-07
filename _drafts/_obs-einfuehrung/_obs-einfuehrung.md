@@ -1,20 +1,21 @@
 ## OBS Einführung
 
-Open Broadcaster Software, kurz OBS, ist ein Programm, mit dem Sie Videos aufzeichnen oder Streamen können, also live online verbreiten. Diese Videos und Streams können unter Anderem aus Bildschirmaufnahmen bestehen. Sie können darin also alles integrieren, was Sie auf ihrem Bildschirm nutzen und sehen. Dabei können auch direkt Programme wie PowerPoint oder Browser aufgezeichnet und mit Ihren eigenen Webcam-Bildern und Audioaufzeichnungen kombiniert werden. Dies funktioniert sowohl live als auch geplant als Aufnahme.
-OBS ist eine Open-Source-Software, die frei erhältlich und kostenfrei nutzbar ist.
+Open Broadcaster Software, kurz OBS, ist ein frei erhältliches Open-Source-Programm, mit dem Sie Videos aufzeichnen live online in einem Stream verbreiten können.
 
-Sie benötigen dabei als Ausrüstung einen Computer (bevorzugt Windows), ein Mikrofon und eine externe Kamera. Es lassen lassen sich zwar auch integrierte Webcams und Mikrofone eines Laptops nutzen, um eine verbesserte Audio- und Video-Qualität zu erreichen, empfehlen wir Ihnen jedoch, auf ein externes Mikrofon oder ein Headset sowie eine qualitativ hochwertigere Webcam zurückzugreifen.
-Darüber hinaus ist ein zusätzlicher Monitor für einen optimalen Einsatz von OBS klar zu empfehlen, da so die Steureung der Videokomposition noch komfortabler gelingt.  
+Die Videos können aus Kamera- oder Bildschirm-Aufnahmen bestehen. Sie können also alles integrieren, was Sie auf Ihrem Bildschirm nutzen und sehen. Das funktioniert auch, wenn Sie Programme wie PowerPoint oder Browser aufzeichnen und mit Ihren eigenen Webcam-Bildern und Audio-Aufzeichnungen kombinieren. Sowohl live als auch geplant als Aufnahme.
+
+Als Ausrüstung benötigen Sie einen Computer (bevorzugt Windows), ein Mikrofon und eine Kamera. Um eine verbesserte Audio- und Video-Qualität zu erreichen, empfehlen wir Ihnen, auf ein externes Mikrofon oder ein Headset sowie eine qualitativ hochwertigere Webcam zurückzugreifen. Zur Not tut es aber auch die Hardware, die in einem Laptop bereits integriert ist.
+Für einen optimalen Einsatz von OBS raten wir zu einem zusätzlichen Monitor, der die Steureung der Videokomposition deutlich vereinfacht.
 
 ## Und los gehts
 
-Das frei erhältliche Programm laden Sie direkt und ohne notwendige Anmeldung auf der Seite https://obsproject.com/de runter. Hier müssen Sie zunächst auswählen, für welches Betriebssystem Sie OBS verwenden wollen.
+Das frei erhältliche Programm können Sie ohne Anmeldung auf der Seite https://obsproject.com/de herunterladen. Hier müssen Sie zunächst auswählen, für welches Betriebssystem Sie OBS verwenden wollen.
 
 ![](obs-runterladen.png)
 
-Nachdem Sie die Installationsdatei heruntergeladen haben, starten Sie den Installationsprozess und folgen den Installationsanweisungen.
+Nachdem Sie die Installations-Datei heruntergeladen haben, starten Sie den Installations-Prozess nach Anweisung.
 
-Nach erfolgreicher Installation öffnen Sie das Programm OBS. Bei einem ersten Start wird Ihnen angeboten, den Autokonfigurationsassistenten zu nutzen. Nutzen Sie diesen und klicken auf „Ja“.
+Nach erfolgreicher Installation öffnen Sie das Programm OBS. Bei einem ersten Start wird Ihnen angeboten, den Autokonfigurations-Assistenten zu nutzen. Klicken Sie hier auf [Ja].
 
 ![](autokonfiguration.png)
 
@@ -22,59 +23,56 @@ Geben Sie nun zur Verwendung an, OBS [Für das Aufnehmen optimieren, Streamen is
 
 ![](autokon-aufnahme-optimieren.png)
 
-Der Konfigurationsassistent wird Ihre Videoeinstellungen analysieren und die für Ihr System optimalen Einstellungen einstellen, Sie können bei den Videoeinstellungen also einfach auf [Weiter] klicken und im Folgenden die [Einstellungen anwenden]. Sollten Sie diese Auswahl dennoch manuell treffen wollen, ist als [Basis-(Leinwand-)Auflösung] [Aktuelle verwenden] und als [FPS] die niedrigste Auswahl [30] ausreichend.
-
+Der Konfigurations-Assistent wird Ihre Video-Einstellungen analysieren und die für Ihr System optimalen Einstellungen treffen. Sie können bei den Video-Einstellungen also einfach auf [Weiter] klicken und im Folgenden die [Einstellungen anwenden]. Sollten Sie diese Auswahl dennoch manuell treffen wollen, ist als [Basis-(Leinwand-)Auflösung] [Aktuelle verwenden] und als [FPS] die niedrigste Auswahl [30] ausreichend.
 
 ![](autokon-einstellungen.png)
 
-Sofern gewünscht, können Sie den Autokonfigurationsassistenten über den Reiter [Werkzeuge] auch später erneut nutzen und Einstellungen anpassen, oder für Streaming statt einer Aufnahme optimieren.
-
+Sofern gewünscht, können Sie den Autokonfigurations-Assistenten über den Reiter [Werkzeuge] auch später erneut nutzen und Einstellungen anpassen, oder für Streaming anstelle von Aufnahmen optimieren.
 
 ## Aufbau der Nutzungs-Oberfläche von OBS
 
-Um mit dem Programm OBS leicht zurechtzukommen, reicht eine Übersicht von dessen grundlegenden Funktionen und des optischen Aufbaus.
-1.	Vorschaufenster: Hier wird Ihnen angezeigt, was in Ihrer Aufnahme oder Live-Übertragung effektiv dargestellt wird.  Beim ersten Öffnen des Programms wird Ihnen dieser Bereich Schwarz dargestellt, da Sie noch keine Inhalte wie Bilder, Videos, Webcams, Browserdarstellungen, Präsentationen, Bildschirmaufnahmen oder weiteres eingefügt haben. All diese Inhalte, die Sie darstellen und aufzeichnen wollen, werden Quellen genannt.
-2.	Quellen: In diesem sehr wichtigen Bereich können Sie Quellen, also Inhalte als einzelne Elemente hinzufügen. Hierüber zugefügte Elemente werden schließlich im großen Vorschaufenster angezeigt. Neben Visuellen Quellen, fügen Sie hier auch Audio-Quellen hinzu.
-3.	Szenen: In Diesem Bereich können Sie verschiedene optische Arrangements Ihrer eingefügten Quellen speichern und immer wieder darauf zugreifen. Haben Sie zunächst mehrere Quellen eingefügt, können Sie diese in ihrem Vorschaufenster nach Ihren Vorstellungen anordnen und als Szene speichern. Soll etwa eine Präsentation Ihren Hintergrund darstellen, eine Webcam, die Sie zeigt, als kleines Fenster darüber liegend unten links auftauchen – lässt sich diese durch Sie im Vorschaufenster vorgenommene Anordnung als Szene Speichern und immer wieder verwenden. Szenen können als optische Vorlagen betrachtet werden.
-4.	Audio Mixer: Hier wird Ihnen angezeigt, ob Audio-Elemente wie Mikrofon-Aufzeichnungen in OBS ankommen. Bewegungen der farblichen Balken geben Ihnen darüber Auskunft und zeigen Ihnen, ob die Audioausgabe zu laut oder zu leise ist. Sofern sie keine ungewollte Audiospuren in OBS integrieren wollen, lassen sich solche hierüber auch stummschalten.
-5.	Szenenübergänge: dieser Bereich dient bereits fortgeschrittenerer Anwendung, alle Aufnahmen gelingen auch ohne deren Funktionen. Mit Szenenübergängen können Sie, sofern Sie mehrere Szenen im Bereich 3 angelegt haben,  bestimmen, wie ein Wechsel  zwischen diesen optisch dargestellt werden soll.
-6.	Steuerung: Diesen Bereich benötigen Sie, wenn Sie eine Aufnahme erzeugen wollen. Hier starten und stoppen Sie Ihre Aufnahme.
+Um mit dem Programm OBS leicht zurechtzukommen, reicht eine Übersicht von dessen grundlegenden Funktionen und des optischen Aufbaus:
+
+1.	Vorschaufenster: Hier wird Ihnen angezeigt, was in Ihrer Aufnahme oder Live-Übertragung effektiv dargestellt wird. Beim ersten Öffnen des Programms wird dieser Bereich schwarz dargestellt, da Sie noch keine Inhalte wie Bilder, Videos, Webcams, Browser-Darstellungen, Präsentationen, Bildschirm-Aufnahmen oder weiteres eingefügt haben. All diese Inhalte, die Sie darstellen und aufzeichnen wollen, werden Quellen genannt.
+2.	Quellen: In diesem Bereich können Sie Quellen, also Inhalte, als einzelne Elemente hinzufügen. Hierüber zugefügte Elemente werden schließlich im großen Vorschaufenster angezeigt. Neben visuellen Quellen fügen Sie hier auch Audio-Quellen hinzu.
+3.	Szenen: Szenen können als optische Vorlagen betrachtet werden, denn in diesem Bereich können Sie verschiedene optische Arrangements Ihrer eingefügten Quellen speichern und immer wieder darauf zugreifen. Haben Sie mehrere Quellen eingefügt, können Sie diese in Ihrem Vorschaufenster nach Ihren Vorstellungen anordnen und als Szene speichern. Soll etwa Ihr Webcam-Bild als kleines Fenster unten links vor einer Präsentation erscheinen, so können Sie sich diesen Aufbau im Vorschaufenster zurechtlegen, als Szene speichern und später immer wieder verwenden. 
+4.	Audio Mixer: Hier wird Ihnen angezeigt, ob Audio-Elemente wie Mikrofon-Aufzeichnungen in OBS ankommen. Bewegungen der farblichen Balken zeigen an, ob die Audio-Ausgabe zu laut oder zu leise ist. Außerdem können Sie hier ungewollte Audio-Spuren herausfiltern.
+5.	Szenen-Übergänge: Dieser Bereich ist nur für die fortgeschrittene Anwendung wichtig. Hier können Sie den Wechsel zwischen mehreren angelegten Szenen gestalten.
+6.	Steuerung: Hier starten und stoppen Sie Ihre Aufnahme.
 
 ![](aufbau-obs-oberflaeche.png)
 
 
 ## Quellen einfügen und anpassen
 
-Quellen fügen Sie über den Bereich Quellen ein, indem Sie auf das kleine [+] klicken. Dann öffnet sich ein Auswahlmenü für alle wählbaren Quellenarten.
+Quellen fügen Sie über den Bereich Quellen ein, indem Sie auf das kleine [+] klicken. Dann öffnet sich ein Auswahl-Menü für alle wählbaren Quellen-Arten.
 
 ![](quellen-einfuegen-bild.png)
-Wählen Sie ihre gewünschte Quellenart, etwa ein Bild, müssen Sie ihrer Quelle zunächst einen Namen geben. Lassen Sie dabei die Auswahl auf [Neu erstellen]. Einmal so eingerichtet, wird diese Quelle entsprechend im Bereich Quellen angezeigt und kann später über [Existierende hinzufügen] immer wieder genutzt werden. Benennen Sie Ihre Quellen also ruhig so eindeutig wie möglich.
 
-Über [Durchsuchen] können Sie schließlich ein Bild von Ihrem Computer auswählen. Bestätigen Sie dann die Auswahl mit [Okay], derweil die ausgesuchte Quelle bereits in Ihrem Vorschaufenster dargestellt wird.
+Wählen Sie Ihre gewünschte Quellen-Art, etwa ein Bild, müssen Sie Ihrer Quelle zunächst einen Namen geben. Lassen Sie dabei die Auswahl auf [Neu erstellen]. Einmal so eingerichtet, wird diese Quelle entsprechend im Bereich Quellen angezeigt und kann später über [Existierende hinzufügen] immer wieder genutzt werden. Benennen Sie Ihre Quellen also möglichst eindeutig.
 
-Ihre Quelle können Sie im Vorschaufenster mit Ihrer Maus anwählen, diese wird dann mit einem roten Rand und kleinen Quadraten, den Anfassern, markiert. Einmal markiert, können Sie ihre Quelle mit der Maus auf eine gewünschte Größe bringen, indem Sie die an den Anfassern bei gedrückter linker Maustaste ziehen. Das Seitenverhältnis der Quelle bleibt dabei gleich.
+Über [Durchsuchen] können Sie ein Bild von Ihrem Computer auswählen. Bestätigen Sie dann die Auswahl mit [Okay], derweil die ausgesuchte Quelle bereits in Ihrer Vorschau dargestellt wird.
+
+Wenn Sie Ihre Quelle im Vorschaufenster mit der Maus anwählen, wird diese mit einem roten Rand und kleinen quadratischen Anfassern markiert. Einmal markiert, können Sie Ihre Quelle mit der Maus auf eine gewünschte Größe bringen, indem Sie die an den Anfassern bei gedrückter linker Maustaste ziehen. Das Seitenverhältnis der Quelle bleibt dabei gleich.
 
 ![](quelle-im-vorschaufenster.png)
 ![](quelle-im-vorschau-gross.png)
 
-Wollen Sie den Bildausschnitt ihrer Quelle verändern, müssen Sie die Alt-Taste auf ihrer Tastatur gedrückt halten, während Sie einen Anfasser der markierten Quelle mit gedrückter linker Maustaste verschieben. Dabei wird die rote Markierung der Seite, von der aus Sie den Ausschnitt verkleinern oder wieder vergrößern wollen, grün dargestellt.
+Wollen Sie den Bildausschnitt Ihrer Quelle verändern, müssen Sie [Alt] auf Ihrer Tastatur gedrückt halten, während Sie einen Anfasser mit gedrückter linker Maustaste verschieben. Dabei wird die rote Markierung der Seite, von der aus Sie den Ausschnitt verändern, grün dargestellt.
 
 ![](quelle-im-vorschau-ausschnitt.png)
 
-Wollen Sie die Position der Quelle verschieben, können Sie diese im Markierten Zustand verschieben, indem Sie direkt auf die Quelle klicken und diese mit gedrückter linker Maustaste auf dem Vorschaufenster bewegen.
+Um die Position der Quelle zu verschieben, können Sie direkt auf die Quelle klicken und diese mit gedrückter linker Maustaste auf dem Vorschaufenster bewegen.
 
 ## Den Desktop als Quelle einfügen
 
-Eine der nützlichsten Quellen, die Sie einfügen können, ist die [Bildschirmaufnahme]. Eine solche zeigt alles, was auf Ihrem Bildschirm dargestellt wird, sofern Sie wollen inklusive Ihrer Maus-Bewegungen. Es bietet sich hierfür an, einen zweiten Bildschirm zu nutzen. Dann können Sie auswählen, welcher Bildschirm gezeigt wird und haben einen Bildschirm, der Ihnen zur Steuerung von OBS oder weiteren Anwendungen dient, die Sie nicht zeigen wollen.
+Eine der Quellen, die Sie einfügen können, ist die [Bildschirmaufnahme]. Die zeigt alles, was auf Ihrem Bildschirm dargestellt wird. Sofern Sie wollen, inklusive Ihrer Maus-Bewegungen. Es bietet sich hierfür an, einen zweiten Bildschirm zu nutzen. Dann können Sie auswählen, welcher Bildschirm gezeigt wird, während Sie auf dem anderen OBS oder andere Anwendungen steuern, die Sie nicht darstellen wollen.
 
-
-
-Auch eine [Bildschirmaufnahme] fügen Sie im Bereich [Quellen] über das kleine [+] ein, wählen es aus der Liste, benennen es eindeutig („Bildschirm1“/ „Bildschirm2“) und bestimmen über die kleinen Pfeile, welcher Bildschirm abgebildet werden soll. Hier haben Sie nun auch über den kleinen Haken die Möglichkeit zu entscheiden, ob Ihre Mausbewegungen sichtbar sein sollen, oder nicht.
+Auch eine [Bildschirmaufnahme] fügen Sie im Bereich [Quellen] über das [+] ein. Wählen Sie die Option aus der Liste, benennen Sie die Quelle eindeutig („Bildschirm1“/ „Bildschirm2“) und bestimmen über die Pfeile, welcher Bildschirm abgebildet werden soll. Mit einem Häkchen haben Sie die Möglichkeit, zu entscheiden, ob Ihre Mausbewegungen sichtbar sein sollen oder nicht.
 
 ![](quelle-bildschirmaufnahmen.png)
 
-Die Bildschirmaufnahme wird dann auf dem Vorschaufenster dargestellt und kann wie alle visuellen Quellen an ihren Anfassern mit der Maus bei gleichbleibendem Verhältnis in der Größe oder mit der Maus und gedrückter Alt-Taste im Ausschnitt der Darstellung angepasst werden.
-
+Die Bildschirmaufnahme wird dann auf dem Vorschaufenster dargestellt und kann wie alle visuellen Quellen an in der Darstellung angepasst werden.
 
 ## Ein Programm als Quelle einfügen
 
