@@ -6,7 +6,7 @@
 // http://alistapart.com/article/mixing-color-for-the-web-with-sass
 
 /* COLOR SCHEME: */
-$color-contrast: #753b7f; // rgba(93,138,203,1);  // 5D8ACB ?? Blue
+$color-contrast: #008CA3; // rgba(0,128,173,1);  // 5D8ACB ?? Blue
 $color-light:    rgba(255,255,255,1);  // white
 $color-muted:    rgba(204,204,204,1);  // muted grey
 $color-medium:   rgba(128,128,128,1);  // medium grey
@@ -20,14 +20,14 @@ $color-lighter:  rgba(255,255,255,.3); // transparent white
  * 	rgba(250,250,250,1)  off white #fafafa
  * 	rgba(240,240,240,.5) transparent off white
  */
- $color-gradient: linear-gradient(to bottom, #766ba3, #75609b, #755493, #754889, #753b7f);
+ $color-gradient: linear-gradient(to bottom, #111111, #000000);
 
 // FONT-FAMILIES
-$font-body: Didot, 'Didot LT STD', 'Bodoni MT', 'Times', 'Times New Roman', serif;
-$font-display: 'Arial Black', 'Avenir Next Heavy', Gadget, 'Arial Bold', Sans-Serif;
+$font-body: 'Bodoni MT', Didot, 'Didot LT STD', 'Times', 'Times New Roman', serif;
+$font-monospace: Consolas, "Courier 10 Pitch", "Liberation Mono", Courier, monospace; // monospace stack used by github (amended by Linux-Courier font)
 
+$font-display: 'Arial Black', 'Avenir Next Heavy', Gadget, 'Arial Bold', Sans-Serif;
 $font-serif: Times, 'Times New Roman', Serif;
-$font-monospace: "Courier 10 Pitch", Consolas, "Liberation Mono", Courier, monospace; // monospace stack used by github (amended by Linux-Courier font)
 $font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 // ALTERNATE FONT-FAMILIES
 // SERIF, classic, readable (adapted from) http://www.cssfontstack.com/Book-Antiqua
@@ -62,8 +62,8 @@ $type-scale-huge:   $type-scale-base * 3.665;
 $line-height: 1.45; // @todo find proper solution for molten line-height, expands with window width
 
 // FORM STYLES
-$border-radius: 10px;
-$drop-shadow: 1px 1px 6px rgba(0,0,0,.35);
+$border-radius: 2px;
+$drop-shadow: 3px 3px 0px rgba(0,0,0,.35);
 
 // BREAK POINTS
 $break-wide: 1162px;

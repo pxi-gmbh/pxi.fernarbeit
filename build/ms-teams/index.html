@@ -27,15 +27,71 @@
 
 <main id="main" role="main">
 	<article class="grid grid-margin">
-		
-		
+    <nav id="nav--menu">
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Inhalt: Heimarbeit</label>
+      <input id="nav--toggle" type="checkbox" style="display:none;"> <small class="nav--info"><span class="nav--visited">gelesen</span> <span class="nav--new">neu</span> <sup>∗</sup></small>
+      <h3 id="arbeitvonzuhause">Arbeit von zu Hause</h3>
+      
+      <p>Wie Sie Ihren Arbeitsplatz zu Hause einrichten und mit ihrem Umfeld abstimmen.<br />
+      ▿ <em>ca 5min</em></p>
+      
+      <ul>
+      <li><a href="#arbeitsplatz-20200710"><strong>Arbeitsplatz</strong></a>
+      
+      <ul>
+      <li><a href="#arbeitsplatz-umgebung-20200710">Arbeitsumgebung</a></li>
+      <li><a href="#arbeitsplatz-ausstattung-20200710">Abgrenzung</a></li>
+      <li><a href="#arbeitsplatz-ausstattung-20200710">Ausstattung</a></li>
+      </ul></li>
+      </ul>
+      
+      <h3 id="gesundundproduktivarbeiten">Gesund und produktiv arbeiten</h3>
+      
+      <p>Wie Sie gesunde und produktive Gewohnheiten bei räumlicher Abgeschiedenheit entwickeln.<br />
+      ▿ <em>ca 10min</em></p>
+      
+      <ul>
+      <li><a href="#motivation-20200710"><strong>Motivation und Gesundheit</strong></a>
+      
+      <ul>
+      <li><a href="#motivation-aufmerksamkeit-20200710">Aufmerksamkeit</a></li>
+      <li><a href="#motivation-gemeinschaft-20200710">Gemeinschaft</a></li>
+      <li><a href="#motivation-dranbleiben-20200710">Dranbleiben</a></li>
+      </ul></li>
+      </ul>
+      
+      <h3 id="zurückzurÜbersicht"><a href="/">zurück zur Übersicht</a></h3>
+      
+      <p><small class="nav--info"><sup>∗</sup> bei späterem Aufruf vom gleichen Gerät und Standard-Einstellungen zur Browser-Historie.</small></p>
+    </nav>
+    <div class="md-view">
+		    
+		    
+    </div>
 	</article>
-  <article class="grid grid-margin" style="margin-top:0;">
-    <p><em>Gemeinsam schaffen wir das. Wir stehen für Rückfragen und professionelle Unterstützung in der schwierigen Zeit gern zur Verfügung. Wir finden schon eine Lösung, auch für besondere Bedürfnisse zu Umsetzung und Bezahlung.</em></p>
-    <p class="text-center"><span class="js-email">Kontakt: fernarbeit [at] pxi.gmbh</span></p>
-    <p><em>Bleiben Sie optimistisch, bleiben Sie pragmatisch, bleiben Sie solidarisch!</em></p>
+  <article class="grid grid-margin">
+    <p style="text-align:center;"><em>Regelmäßig neue Erkenntnisse zu vernetzter Arbeit.</em></p>
+    <form id="cta-form" action="https://mail.pxi.gmbh/sendy/subscribe" method="POST" accept-charset="utf-8">
+      <label for="email"><span>E-Mail</span><input placeholder="" type="text" name="email" id="email" required />
+      </label>
+      <input type="submit" name="submit" id="submit" value="Updates erhalten"/>
+      <label for="gdpr">
+        <small><input type="checkbox" name="gdpr" id="gdpr" required checked="checked" style="font-size:0.8em; top:-0.2em"/> Ich möchte über Werkzeuge und Methoden für vernetzte Fernarbeit informiert bleiben. Ich kann Benachrichtigungen jederzeit mit einem Klick abstellen und bin angenehm überrascht, wie ernst <strong>pxi</strong>&nbsp;❘&nbsp;<i>Agentur</i> Datenschutz nimmt:</small>
+      </label>
+      <small><a href="https://agentur.pxi.gmbh/rechtliches.html#datenschutz" target="_blank">keine fremden Server, keine Weitergabe von Daten, kein Ad-Tracking</a></small>
+      <!-- TODO Hinweis und Link: Hier ein früherer Beitrag als Beispiel -->
+      <div style="display:none;">
+        <label for="hp">HP</label><br/>
+        <input type="text" name="hp" id="hp"/>
+      </div>
+      <input type="hidden" name="list" value="tLMHj18gjTtoekiSNSwKog"/>
+      <input type="hidden" name="subform" value="yes"/>
+      <input type="hidden" name="+werkzeuge" value="true"/>
+      <input type="hidden" name="+methoden" value="true"/>
+      <input type="hidden" name="-lp-fernarbeit" value="true"/>
+    </form>
+    
   </article>
-  
 </main>
 		<footer role="contentinfo"><!-- contentinfo: unique role for top level footer -->
 			<section class="grid">

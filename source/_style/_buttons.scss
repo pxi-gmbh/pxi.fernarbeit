@@ -23,13 +23,14 @@ button:focus,
 .button--primary {
   display: block;
   color: $color-light;
-  font-weight: bold;
-  letter-spacing: .05em;
-  max-width: 30ch;
+  font-family: $font-monospace;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: .15em;
+  width: 100%;
+  max-width: 32ch;
   margin: auto;
-  margin-top: .5em;
-  margin-bottom: 1em;
-  background: $color-gradient;
+  background: $color-dark;
   border-radius: $border-radius;
   box-shadow: none;
   border: 0;
@@ -37,16 +38,16 @@ button:focus,
 }
 .button--secondary {
   display: block;
+  font-family: $font-monospace;
   font-variant: small-caps;
   text-transform: lowercase;
   text-align: center;
   text-decoration: none;
-  letter-spacing: .1em;
+  letter-spacing: .15em;
+  width: 100%;
   max-width: 32ch;
   margin: auto;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
   padding: .5em 1em;
-  border: 2px solid $color-contrast;
+  border: 2px solid $color-dark;
   border-radius: $border-radius;
 }

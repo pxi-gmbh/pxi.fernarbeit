@@ -21,7 +21,7 @@ body {
 	line-height: $line-height;
 	text-rendering: optimizeLegibility;
 	* + * {
-		margin-top: #{$line-height}em;
+		margin-top: #{$line-height}rem;
 	}
 }
 	@supports (font-variant-ligatures: common-ligatures) {
@@ -53,10 +53,9 @@ h1,
 .header-1 {
 	font-family: $font-body;
 	font-weight: bolder;
-	font-size: #{$type-scale-huge}em;
+	font-size: calc(#{$type-scale-huge}em + 3vw);
 	font-style: normal;
   letter-spacing: 0.02em;
-	//text-transform: uppercase;
 	clear: both;
 }
 h2,
@@ -90,7 +89,7 @@ h5,
   margin-bottom:0;
   padding: 0;
 }
-//* + h1,
+* + h1,
 * + .header-1,
 * + h2,
 * + .header-2,
@@ -100,11 +99,11 @@ h5,
 * + .header-4,
 * + h5,
 * + .header-5  {
-	margin-top: calc(#{$line-height}em * 2);
+	margin-top: calc(#{$line-height}rem * 2);
 }
 h5 + *,
 .header-5 + * {
-  margin-top: calc(#{$line-height}em * 0.5)
+  margin-top: calc(#{$line-height}rem * 0.5)
 }
 p,
 ul,
@@ -209,7 +208,7 @@ hr {
 	padding-bottom: 1em;
 	clear: both;
 	&::after {
-		content: '— — —';
+		content: '—';
 		display: block;
 		color: $color-muted;
 	}

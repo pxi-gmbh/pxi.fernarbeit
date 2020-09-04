@@ -274,6 +274,10 @@ mit **Word**, **PowerPoint** und **Excel** lassen sich geteilte Dokumente live g
 **Notiz**: *Office ist prima geeignet, um* Artefakte *zu produzieren: Wir basteln damit zum Beispiel PowerPoint, das nicht aussieht, wie PowerPoint. Das lässt sich dann hervorragend in virtuellen Seminaren und Workshops verwenden.* <video poster="" alt="Animations-Sequenzen in PowerPoint" class="drop-shadow" controls loop muted preload="metadata"><source src="ppt-demo.mp4" type="video/mp4">Entschuldigung, Ihr Browser unterstützt das Video-Format nicht.</video>
 
 
+##### [P2](https://wordpress.com/p2/) [P2]
+eine Mischung aus Textdokument zur gemeinsamen Schreib-Arbeit, und Verwaltung der angehängten und verknüpften Dokumente und Unterhaltungen. Eher für asynchrone Arbeit geeignet, aber mit Chat-Anleihen für synchrones Arbeiten. Alles noch in der Entwicklung, dafür in der aktuellen Version gratis zu testen.
+
+
 ## Parallel-Arbeit mit Visualisierungen
 
 *Gerade bei verteilter Arbeit ist es besonders wichtig, allen schnell das gemeinsam Gemeinte zu vermitteln. Design-Teams arbeiten deswegen schon lange mit Whiteboards, wo Klebezettel und Skizzen die Verständigung vereinfachen. Visualisierungen sind Denk-Werkzeuge für gemeinsames Arbeiten. Auch dafür gibt es eine große Auswahl an Apps und Online-Werkzeugen, die live synchronisieren und die gemeinsame Denk-Arbeit abbilden.*
@@ -293,7 +297,7 @@ ist eine kostenlose online App, mit der gemeinsam *Scrums*, *Brainstorming* und 
 
 
 ##### [Cardsmith](https://cardsmith.co/) [Cardsmith]
-ist inspiriert von der Arbeit mit Klebezetteln auf Whiteboards. Es bietet online auf diese Weise gemeinsames Brainstorming oder Erarbeiten von Themen in Echtzeit und die optische Weiterverabeitung und Ordnung der einzelnen Zettel. Das ganze gelingt im Team oder mit Kunden und ist in der Basisform kostenlos. Weitere kostenpflichtige Feature, wie der Datei-Export der erarbeiteten Boards, ist 30 Tage lang kostenlos zu testen.
+ist inspiriert von der Arbeit mit Klebezetteln auf Whiteboards. Es bietet online auf diese Weise gemeinsames Brainstorming oder Erarbeiten von Themen in Echtzeit und die optische Weiter-Verabeitung und Ordnung der einzelnen Zettel. Das ganze gelingt im Team oder mit Kunden und ist in der Basisform kostenlos. Weitere kostenpflichtige Feature, wie der Datei-Export der erarbeiteten Boards, ist 30 Tage lang kostenlos zu testen.
 
 
 ##### [Concept Board](https://conceptboard.com) (★) [Concept Board]
@@ -328,8 +332,10 @@ ist ein Visualisierungs-Werkzeug für Graphen. Zusammenhänge zwischen Knotenpun
 ##### [Metro Retro](https://metroretro.io/) [Metro Retro]
 ist ein kostenloses, auf Notiz-Zettel und Klebchen optimiertes Whiteboard, strukturiert anhand von Kolumnen oder Canvas-Vorlagen (können auch selbst erstellt werden), spezialisiert auf Retrospektiven. Klebezettel können geheim und sichtbar geschaltet werden, für den Wechsel von paralleler zu gemeinsamer Denkarbeit. Es ist browser-basiert und optimiert für Desktop-Browser. Auf mobilen Geräten können nur existierende Whiteboards bespielt werden.
 
+
 ##### [Mindmeister](https://www.mindmeister.com/de) [Mindmeister]
 ist spezialisiert auf Mind-Maps. Das sind unendlich erweiterbare Netze aus Inhalts-Knoten und Verbindungs-Pfaden, mit denen Teilnehmende online gemeinsam Sinn-Zusammenhänge erkunden und visualisieren können. Web-basiert, ohne App-Download.
+
 
 ##### [Miro](https://miro.com) [Miro]
 ist ein Online-Whiteboard (und App) mit Schnittstellen zu diversen anderen Apps für Projektmanagement und Kommunikation. Gratis für drei Boards und eingeschränkter Funktion.  Virtuelle Klebezettel und Vorlagen bis zum Abwinken. Intuitive Menüführung. Anonyme Abstimmung. Mit Video-Integration von der Anmutung her wie ein virtueller Raum für Workshops. Zur produktiven Zusammenarbeit erst in der Bezahlversion zu gebrauchen.
@@ -345,6 +351,10 @@ gibt es als App aus dem Microsoft-[Office356][]-Universum. Klebezettel, Bilder, 
 
 ##### [padlet](https://padlet.com) [padlet]
 bietet die Möglichkeit, in Teams besonders intuitiv Boards, Dokumente und Websites zu erstellen. Dies gelingt mit allen Endgeräten, unterstützt viele Dateitypen und ist in 29 Sprachen verfügbar.
+
+
+##### [RetroTool](https://retrotool.io/) [RetroTool]
+Klebezettel, Abstimmungen und Timer für virtuelle Retros. Export der erstellten Inhalte auf den Klebezetteln in *Markdown* möglich. Gewöhnungsbedürftige Ästhetik, aber schlichtes Bedien-Konzept. Kostenlos in der aktuellen Version.
 
 
 ##### [WhiteboardFox](https://whiteboardfox.com) [WhiteboardFox]

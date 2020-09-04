@@ -15,7 +15,7 @@ Wegweiser für die ersten Schritte, dezentrales Arbeiten in einem Unternehmen ei
 
 ### Verständlich Schreiben
 *ca 15min* | *Leitfaden* | *#kompetenz*
-Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stil, nicht nur in vernetzter Arbeit
+Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stils, nicht nur in vernetzter Arbeit
 [lesen](/schreiben#intro)
 
 ### Vereinbarkeit im Beruf

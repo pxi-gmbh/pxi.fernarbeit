@@ -94,19 +94,14 @@
     </nav>
 
     <h1>Fernarbeit</h1>
-    <img src="hero-image.svg" alt="Illustration: Menschen helfen einander, lehnen sich dabei aus Browser-Fenstern.">
-    <p>Wir sind eine kleine <a href="https://agentur.pxi.gmbh">Strategie-Gestaltungs-Agentur</a> und mussten lernen, quer über die Welt verteilt mit bescheidenen Mitteln zusammen zu arbeiten. Hier unsere Erfahrungen als lebendiger Leitfaden mit Anmerkungen in den <em>Randnotizen</em>. (Auf dem Handy mit ⨭ ausklappen.) <label for="hier-finden-sie" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label></p>
+    <p>Wir sind eine kleine Agentur für <a href="https://agentur.pxi.gmbh">Strategie & Gestaltung</a> und mussten lernen, quer über die Welt verteilt mit bescheidenen Mitteln zusammen zu arbeiten. Hier unsere Erfahrungen als lebendiger Leitfaden mit Anmerkungen in den <em>Randnotizen</em>. (Auf dem Handy mit ⨭ ausklappen.) <label for="hier-finden-sie" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label></p>
     <input id="hier-finden-sie" type="checkbox" class="aside-toggle"/>
-    <p>Hier schreiben wir Begriffs-Klärungen, Quellen-Angaben, weiter führende Links, sowie persönliche Kommentare und Erfahrungen aus unserem Team. Wenn Sie es eilig haben, können Sie sich das Lesen einfach sparen.</p>
-
-    <p>Die Informations-Angebote sind thematisch sortiert. Nach und nach ergänzen wir weitere Bausteine. Hinweise zu Aktuali&shy;sierungen finden Sie im <em>Inhalts-Verzeichnis</em>.</p>
-
+    <p>Hier schreiben wir Begriffs-Klärungen, Quellen-Angaben, weiter führende Links, sowie persönliche Kommentare und Erfahrungen aus unserem Team.</p>
+    <br><br>
     <p><a href="#cta-form" class="button--secondary">für Updates anmelden</a></p>
+    <br>
   </article>
-  <article>
-    <div class="grid grid-margin">
-      <h2 style="width:100%;">Leitfäden, Wegweiser, Kataloge</h2>
-    </div>
+  <article style="margin-top:0;">
     <div class="card-grid">
       <h3>Arbeit von zu Hause aus</h3>
       
@@ -133,7 +128,7 @@
       
       <p><em>ca 15min</em> | <em>Leitfaden</em> | <em>#kompetenz</em></p>
       
-      <p>Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stil, nicht nur in vernetzter Arbeit
+      <p>Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stils, nicht nur in vernetzter Arbeit
       <a href="/schreiben#intro">lesen</a></p>
       
       <h3>Vereinbarkeit im Beruf</h3>
@@ -171,15 +166,20 @@
       <p>...</p>
       
     </div>
+    <div class="grid grid-margin">
+      <p>Die Informations-Angebote sind thematisch sortiert. Nach und nach ergänzen wir weitere Bausteine. Hinweise zu Aktuali&shy;sierungen finden Sie im <em>Inhalts-Verzeichnis</em>.</p>
+    </div>
   </article>
-  <article class="grid grid-margin">
+  <img src="hero-image.svg" alt="Illustration: Menschen helfen einander, lehnen sich dabei aus Browser-Fenstern.">
+
+  <article class="grid grid-margin" style="margin-top:0;">
     <h2>Erfahrung zu vernetzter Arbeit per&nbsp;E-Mail</h2>
     <p>Wir experimentieren ständig mit neuen Methoden und Werkzeugen zu virtuellen Formen der Arbeit. Manchmal entwickeln wir sogar eigene kleine Web-Apps, um unsere Arbeit noch angenehmer und produktiver zu gestalten. Zum Beispiel <a href="https://compad.pxi.gmbh">compad</a>.</p>
     <p>Wenn Sie über unseren neusten Erkenntnisse, Entwicklungen und Erfahrungen informiert bleiben möchten, schicken wir Ihnen gerne eine Nachricht.</p>
     <form id="cta-form" action="https://mail.pxi.gmbh/sendy/subscribe" method="POST" accept-charset="utf-8">
-      <label for="email"><span>E-Mail</span><input placeholder="E-Mail-Adresse" type="text" name="email" id="email" required />
+      <label for="email"><span>E-Mail</span><input placeholder="" type="text" name="email" id="email" required />
       </label>
-      <input class="button--primary" type="submit" name="submit" id="submit" value="Updates erhalten"/>
+      <input type="submit" name="submit" id="submit" value="Updates erhalten"/>
       <label for="gdpr">
         <small><input type="checkbox" name="gdpr" id="gdpr" required checked="checked" style="font-size:0.8em; top:-0.2em"/> Ich möchte über Werkzeuge und Methoden für vernetzte Fernarbeit informiert bleiben. Ich kann Benachrichtigungen jederzeit mit einem Klick abstellen und bin angenehm überrascht, wie ernst <strong>pxi</strong>&nbsp;❘&nbsp;<i>Agentur</i> Datenschutz nimmt:</small>
       </label>

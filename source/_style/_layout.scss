@@ -86,10 +86,12 @@ input.aside-toggle + * {
 	clear: right;
 	margin-right: calc(-7em - 20vw);
 	width: calc(3em + 20vw);
+  padding-top: 1rem;
 	margin-top: calc(-1em * #{$line-height});
-	margin-bottom: calc(1em * #{$line-height});
+	padding-bottom: calc(1em * #{$line-height});
 	font-size: calc(1em * 0.75);
 	line-height: calc(#{$line-height} * 1.25);
+  border-top: 2px solid $color-dark;
 	vertical-align: baseline;
 	position: relative;
 }
@@ -112,10 +114,11 @@ label.aside-toggle {
 	input.aside-toggle:checked + * {
 		display: block;
 		clear: both;
+    float: none;
 		width: 100%;
 		margin: 0;
 		margin-top: calc(0.5em * #{$line-height});
-		margin-bottom: calc(1em * #{$line-height});
+		padding-bottom: 0;
 		vertical-align: baseline;
 		position: relative;
 		-webkit-animation:pop-in 0.3s;
@@ -161,7 +164,7 @@ label.aside-toggle {
   margin: auto;
   margin-top: .1em;
   padding: .5em 1em;
-  border: 1px solid $color-contrast;
+  border: 1px solid $color-dark;
   border-radius: $border-radius;
 }
 .md-view > ol {
