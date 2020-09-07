@@ -1343,6 +1343,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/teams-architektur.png": {
+		"ft": 32768,
+		"iS": 286513,
+		"oA": 0,
+		"oAP": "/build/ms-teams/teams-architektur.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/teams-kategorie-liste.png": {
 		"ft": 32768,
 		"iS": 273441,

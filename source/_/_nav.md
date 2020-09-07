@@ -46,6 +46,9 @@ Wie Sie mit verschiedenen Werkzeugen und Methoden Online-Meetings und Workshops 
 *wird überarbeitet*
 
 
-### MS-Teams
+### [MS-Teams](/ms-teams#intro)
 Wie Sie Microsoft Teams verstehen lernen und sinnvoll für effiziente Zusammenarbeit einsetzen.  
-*wird überarbeitet*
+▿ *ca 30min* | *Leitfaden*
+
+- [Einstieg in MS Teams](/ms-teams#wozu-20200907)
+- [Umgang mit MS Teams](/ms-teams#anleitung-20200907)

@@ -1,4 +1,4 @@
-## Vorteile zentral organisierter Kommunikation in MS-Teams [#wozu-vorteile-20200907]
+## Vorteile zentral organisierter Kommunikation in MS-Teams [wozu-vorteile-20200907]
 
 Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete und die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App nicht auf dem Telefon lief.
 

@@ -1,4 +1,4 @@
-# Was ist MS Teams? [intro]
+# MS Teams [intro]
 
 Microsoft Teams ist Software, mit der Sie Dokumente und Kommunikation in gemeinsamer Arbeit verwalten können. Von kleinen Projekten bis zur Konzern-Struktur, mit allen möglichen Endgeräten und Betriebssystemen über die entsprechenden Apps.
 
@@ -10,6 +10,11 @@ Microsoft Teams bietet dafür einen zentralen Ort der Kommunikation, der Dateive
 **Notiz**: Die *Cloud* ist eigentlich nur ein Computer, den jemand als Dienstleistung für Sie verwaltet. Extra für eine besondere Anwendung eingerichtet, so dass Sie über das Internet darauf zugreifen können.
 
 ![MS-Teams Speicherlogik](teams-speicherlogik.png)
+<label for="aside--dieser-leitfaden-bietet" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label>
+
+<input id="aside--dieser-leitfaden-bietet" type="checkbox" class="aside-toggle"/>
+
+**Download**: Die Architektur von Teams als Poster. <a href="teams-architektur.pdf">PDF, Din A1<br><img src="teams-architektur.png" alt="Schaubild Übersicht Speicherlogik und Architektur Microsoft Teams"></a>
 
 Ein so mächtiges Werkzeug zur Verwaltung von Zugriffsrechten und Kommunikation braucht ein wenig Eingewöhnung — aber wer einmal die Logik dahinter verstanden hat, kann schnell und intuitiv damit arbeiten.
 
@@ -30,5 +35,5 @@ Microsoft Teams ermöglicht Zusammenarbeit, indem es die Absprachen zur Arbeit a
 
 Auch die Kommunikation und Zusammenarbeit und mit externen Personen ist möglich: Personen, die nicht zu Ihrer Organisation gehören, können auch ohne Office365-Lizenz von Ihnen in Arbeitsgruppen eingeladen werden.
 
-[Wozu Teams?](#wozu-20200907)    
+[Wozu und wie mit MS Teams starten](#wozu-20200907)    
 [Einführung in die Oberfläche](#anleitung-20200907)  

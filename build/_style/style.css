@@ -926,48 +926,6 @@ q {
   content: "—";
   text-align: center; }
 
-/* universal margin-notes: designed to work as snippets in markdown documents */
-input.aside-toggle + * {
-  float: right;
-  clear: right;
-  margin-right: calc(-7em - 20vw);
-  width: calc(3em + 20vw);
-  padding-top: 1rem;
-  margin-top: calc(-1em * 1.45);
-  padding-bottom: calc(1em * 1.45);
-  font-size: calc(1em * 0.75);
-  line-height: calc(1.45 * 1.25);
-  border-top: 2px solid #0f0f0f;
-  vertical-align: baseline;
-  position: relative; }
-
-input.aside-toggle {
-  display: none; }
-
-label.aside-toggle {
-  display: none;
-  color: #008CA3;
-  cursor: pointer; }
-
-/* collapse sidenotes on small screens */
-@media all and (max-width: 1162px) {
-  label.aside-toggle {
-    display: inline; }
-  input.aside-toggle + * {
-    display: none; }
-  input.aside-toggle:checked + * {
-    display: block;
-    clear: both;
-    float: none;
-    width: 100%;
-    margin: 0;
-    margin-top: calc(0.5em * 1.45);
-    padding-bottom: 0;
-    vertical-align: baseline;
-    position: relative;
-    -webkit-animation: pop-in 0.3s;
-    animation: pop-in 0.3s; } }
-
 .md-view > * {
   display: none;
   -webkit-animation: slide-in 0.3s;
@@ -990,7 +948,8 @@ label.aside-toggle {
 .md-view *:target ~ pre,
 .md-view *:target ~ table,
 .md-view *:target ~ figure,
-.md-view *:target ~ img {
+.md-view *:target ~ img,
+.md-view *:target ~ video {
   display: block; }
 
 .md-view > p:last-child {
@@ -998,6 +957,9 @@ label.aside-toggle {
 
 .md-view > p:last-child a {
   display: block;
+  font-family: Consolas, "Courier 10 Pitch", "Liberation Mono", Courier, monospace;
+  font-variant: small-caps;
+  text-transform: lowercase;
   text-align: center;
   text-decoration: none;
   letter-spacing: .1em;
@@ -1005,7 +967,7 @@ label.aside-toggle {
   margin: auto;
   margin-top: .1em;
   padding: .5em 1em;
-  border: 1px solid #0f0f0f;
+  border: 2px solid #0f0f0f;
   border-radius: 2px; }
 
 .md-view > ol {
@@ -1013,6 +975,53 @@ label.aside-toggle {
 
 .md-view > ol li + li {
   margin-top: 1.5em; }
+
+/* universal margin-notes: designed to work as snippets in markdown documents */
+input.aside-toggle + * {
+  float: right;
+  clear: right;
+  margin-right: calc(-7em - 20vw);
+  width: calc(3em + 20vw);
+  padding-top: 1rem;
+  margin-top: calc(-1em * 1.45);
+  padding-bottom: calc(1em * 1.45);
+  font-size: calc(1em * 0.75);
+  line-height: calc(1.45 * 1.25);
+  border-top: 2px solid #0f0f0f;
+  vertical-align: baseline;
+  position: relative; }
+
+input.aside-toggle {
+  display: none; }
+
+label.aside-toggle {
+  display: none;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-position: under; }
+
+/* collapse sidenotes on small screens */
+@media all and (max-width: 1162px) {
+  label.aside-toggle {
+    display: inline; }
+  input.aside-toggle + *,
+  .md-view *:target ~ input.aside-toggle + * {
+    /* fix specificity of other display-none layout */
+    display: none; }
+  input.aside-toggle:checked + *,
+  .md-view *:target ~ input.aside-toggle:checked + * {
+    /* fix specificity of other display-none layout */
+    display: block;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin: 0;
+    margin-top: calc(0.5em * 1.45);
+    padding-bottom: 0;
+    vertical-align: baseline;
+    position: relative;
+    -webkit-animation: pop-in 0.3s;
+    animation: pop-in 0.3s; } }
 
 /* tables from divs with flexbox */
 .flex-table {

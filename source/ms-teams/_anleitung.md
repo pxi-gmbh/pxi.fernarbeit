@@ -1,4 +1,4 @@
-# Wie ist Teams aufgebaut? [anleitung-20200907]
+## Wie ist Teams aufgebaut? [anleitung-20200907]
 
 Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spalte erreichen. Wie Sie die jeweils nutzen, erklären wir in den folgenden Abschnitten noch genau. Aber hier ist ein erster Überblick.
 

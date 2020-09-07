@@ -77,6 +77,58 @@
 	text-align: center;
 }
 
+
+
+.md-view > * {
+  display: none;
+  animation: slide-in 0.3s;
+}
+.md-view *:target {
+  display: block;
+  margin-top: -1em;
+  padding-top: 2em;
+}
+.md-view *:target ~ h2,
+.md-view *:target ~ h3,
+.md-view *:target ~ h4,
+.md-view *:target ~ h5,
+.md-view *:target ~ p,
+.md-view *:target ~ ul,
+.md-view *:target ~ ol,
+.md-view *:target ~ dd,
+.md-view *:target ~ blockquote,
+.md-view *:target ~ pre,
+.md-view *:target ~ table,
+.md-view *:target ~ figure,
+.md-view *:target ~ img,
+.md-view *:target ~ video {
+  display: block;
+}
+.md-view > p:last-child {
+  margin-top: 4em;
+}
+.md-view > p:last-child a {
+  display: block;
+  font-family: $font-monospace;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: .1em;
+  max-width: 32ch;
+  margin: auto;
+  margin-top: .1em;
+  padding: .5em 1em;
+  border: 2px solid $color-dark;
+  border-radius: $border-radius;
+}
+.md-view > ol {
+  margin-left: 2em;
+}
+.md-view > ol li + li {
+  margin-top: 1.5em;
+}
+
 /* universal margin-notes: designed to work as snippets in markdown documents */
 // <label for="$NAME" class="aside-toggle">⨭ …<span class="hide-visually">Randbemerkung anzeigen</span></label>
 // <input type="checkbox" id="$NAME" class="aside-toggle"/>
@@ -100,18 +152,22 @@ input.aside-toggle {
 }
 label.aside-toggle {
 	display: none;
-	color: $color-contrast;
+	//color: $color-contrast;
 	cursor: pointer;
+  text-decoration: underline;
+  text-underline-position: under;
 }
 /* collapse sidenotes on small screens */
 @media all and (max-width: $break-wide) {
 	label.aside-toggle {
 		display: inline;
 	}
-	input.aside-toggle + * {
+	input.aside-toggle + *,
+  .md-view *:target ~ input.aside-toggle + * { /* fix specificity of other display-none layout */
 		display: none;
 	}
-	input.aside-toggle:checked + * {
+	input.aside-toggle:checked + *,
+  .md-view *:target ~ input.aside-toggle:checked + * { /* fix specificity of other display-none layout */
 		display: block;
 		clear: both;
     float: none;
@@ -126,52 +182,6 @@ label.aside-toggle {
 		-ms-animation:    pop-in 0.3s;
 		animation:        pop-in 0.3s;
 	}
-}
-
-.md-view > * {
-  display:none;
-  animation: slide-in 0.3s;
-}
-.md-view *:target {
-  display:block;
-  margin-top: -1em;
-  padding-top:2em;
-}
-.md-view *:target ~ h2,
-.md-view *:target ~ h3,
-.md-view *:target ~ h4,
-.md-view *:target ~ h5,
-.md-view *:target ~ p,
-.md-view *:target ~ ul,
-.md-view *:target ~ ol,
-.md-view *:target ~ dd,
-.md-view *:target ~ blockquote,
-.md-view *:target ~ pre,
-.md-view *:target ~ table,
-.md-view *:target ~ figure,
-.md-view *:target ~ img {
-  display: block;
-}
-.md-view > p:last-child {
-  margin-top: 4em;
-}
-.md-view > p:last-child a {
-  display: block;
-  text-align: center;
-  text-decoration: none;
-  letter-spacing: .1em;
-  max-width: 32ch;
-  margin: auto;
-  margin-top: .1em;
-  padding: .5em 1em;
-  border: 1px solid $color-dark;
-  border-radius: $border-radius;
-}
-.md-view > ol {
-  margin-left: 2em;
-}
-.md-view > ol li + li {
-  margin-top: 1.5em;
 }
 
 /* tables from divs with flexbox */

@@ -28,35 +28,39 @@
 <main id="main" role="main">
 	<article class="grid grid-margin">
     <nav id="nav--menu">
-      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Inhalt: Heimarbeit</label>
+      <label id="nav--toggle-button" for="nav--toggle" role="button" aria-pressed="false" aria-label="Navigation anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">Inhalt: MS Teams</label>
       <input id="nav--toggle" type="checkbox" style="display:none;"> <small class="nav--info"><span class="nav--visited">gelesen</span> <span class="nav--new">neu</span> <sup>∗</sup></small>
-      <h3 id="arbeitvonzuhause">Arbeit von zu Hause</h3>
+      <h3 id="dereinstieginmicrosoftteams">Der Einstieg in Microsoft Teams</h3>
       
-      <p>Wie Sie Ihren Arbeitsplatz zu Hause einrichten und mit ihrem Umfeld abstimmen.<br />
-      ▿ <em>ca 5min</em></p>
-      
-      <ul>
-      <li><a href="#arbeitsplatz-20200710"><strong>Arbeitsplatz</strong></a>
-      
-      <ul>
-      <li><a href="#arbeitsplatz-umgebung-20200710">Arbeitsumgebung</a></li>
-      <li><a href="#arbeitsplatz-ausstattung-20200710">Abgrenzung</a></li>
-      <li><a href="#arbeitsplatz-ausstattung-20200710">Ausstattung</a></li>
-      </ul></li>
-      </ul>
-      
-      <h3 id="gesundundproduktivarbeiten">Gesund und produktiv arbeiten</h3>
-      
-      <p>Wie Sie gesunde und produktive Gewohnheiten bei räumlicher Abgeschiedenheit entwickeln.<br />
+      <p>Wie Sie mit Microsoft Teams Kommunikationswege bündeln und mit Ihrer Belegschaft einen erfolgreichen Start planen.<br />
       ▿ <em>ca 10min</em></p>
       
       <ul>
-      <li><a href="#motivation-20200710"><strong>Motivation und Gesundheit</strong></a>
+      <li><a href="#wozu-20200907"><strong>Wozu</strong></a>
       
       <ul>
-      <li><a href="#motivation-aufmerksamkeit-20200710">Aufmerksamkeit</a></li>
-      <li><a href="#motivation-gemeinschaft-20200710">Gemeinschaft</a></li>
-      <li><a href="#motivation-dranbleiben-20200710">Dranbleiben</a></li>
+      <li><a href="#wozu-vorteile-20200907">Vorteile</a></li>
+      <li><a href="#wozu-einfuehrung-20200907">Einführung</a></li>
+      <li><a href="#wozu-verwaltung-20200907">Verwaltung</a></li>
+      </ul></li>
+      </ul>
+      
+      <h3 id="derumgangmitderoberfläche">Der Umgang mit der Oberfläche</h3>
+      
+      <p>Wie Sie mit der Software umgehen und Produktivitäts-Gewinne erschließen.<br />
+      ▿ <em>ca 20min</em></p>
+      
+      <ul>
+      <li><a href="#anleitung-20200907"><strong>Anleitung</strong></a>
+      
+      <ul>
+      <li><a href="#anleitung-apps-20200907">Apps</a></li>
+      <li><a href="#anleitung-kanaele-20200907">Kanäle</a></li>
+      <li><a href="#anleitung-unterhaltungen-20200907">Unterhaltungen</a></li>
+      <li><a href="#anleitung-chat-20200907">Chat</a></li>
+      <li><a href="#anleitung-video-20200907">Video</a></li>
+      <li><a href="#anleitung-benachrichtigungen-20200907">Benachrichtigungen</a></li>
+      <li><a href="#anleitung-Dateien-20200907">Dateien</a></li>
       </ul></li>
       </ul>
       
@@ -65,7 +69,7 @@
       <p><small class="nav--info"><sup>∗</sup> bei späterem Aufruf vom gleichen Gerät und Standard-Einstellungen zur Browser-Historie.</small></p>
     </nav>
     <div class="md-view">
-		    <h1 id="intro">Was ist MS Teams?</h1>
+		    <h1 id="intro">MS Teams</h1>
 		    
 		    <p>Microsoft Teams ist Software, mit der Sie Dokumente und Kommunikation in gemeinsamer Arbeit verwalten können. Von kleinen Projekten bis zur Konzern-Struktur, mit allen möglichen Endgeräten und Betriebssystemen über die entsprechenden Apps.</p>
 		    
@@ -76,10 +80,12 @@
 		    
 		    <p><strong>Notiz</strong>: Die <em>Cloud</em> ist eigentlich nur ein Computer, den jemand als Dienstleistung für Sie verwaltet. Extra für eine besondere Anwendung eingerichtet, so dass Sie über das Internet darauf zugreifen können.</p>
 		    
-		    <figure>
-		    <img src="teams-speicherlogik.png" alt="MS-Teams Speicherlogik" />
-		    <figcaption>MS-Teams Speicherlogik</figcaption>
-		    </figure>
+		    <p><img src="teams-speicherlogik.png" alt="MS-Teams Speicherlogik" />
+		    <label for="aside--dieser-leitfaden-bietet" class="aside-toggle" role="button" aria-pressed="false" aria-label="Randbemerkung anzeigen" onkeypress="toggleButtonKeyPress()" onclick="toggleButtonClick()" tabindex="0">⨭ …</label></p>
+		    
+		    <input id="aside--dieser-leitfaden-bietet" type="checkbox" class="aside-toggle"/>
+		    
+		    <p><strong>Download</strong>: Die Architektur von Teams als Poster. <a href="teams-architektur.pdf">PDF, Din A1<br><img src="teams-architektur.png" alt="Schaubild Übersicht Speicherlogik und Architektur Microsoft Teams"></a></p>
 		    
 		    <p>Ein so mächtiges Werkzeug zur Verwaltung von Zugriffsrechten und Kommunikation braucht ein wenig Eingewöhnung — aber wer einmal die Logik dahinter verstanden hat, kann schnell und intuitiv damit arbeiten.</p>
 		    
@@ -100,7 +106,7 @@
 		    
 		    <p>Auch die Kommunikation und Zusammenarbeit und mit externen Personen ist möglich: Personen, die nicht zu Ihrer Organisation gehören, können auch ohne Office365-Lizenz von Ihnen in Arbeitsgruppen eingeladen werden.</p>
 		    
-		    <p><a href="#wozu-20200907">Wozu Teams?</a><br />
+		    <p><a href="#wozu-20200907">Wozu und wie mit MS Teams starten</a><br />
 		    <a href="#anleitung-20200907">Einführung in die Oberfläche</a></p>
 		    
     </div>
@@ -131,7 +137,7 @@
 		    
     </div>
     <div class="md-view">
-		    <h2 id="vorteilezentralorganisierterkommunikationinms-teamswozu-vorteile-20200907">Vorteile zentral organisierter Kommunikation in MS-Teams <a href="#cn:1" id="cnref:1" title="see citation" class="citation">(1)</a></h2>
+		    <h2 id="wozu-vorteile-20200907">Vorteile zentral organisierter Kommunikation in MS-Teams</h2>
 		    
 		    <p>Vorbei die Zeiten, in denen über private Telefonnummern in WhatsApp-Chats Geschäftliches auf dem vermeintlich „schnellen“ Weg geklärt wurde, während per E-Mail ein wichtiger interner Hinweis einging und auf Aufmerksamkeit wartete und die Videokonferenz nicht von allen betreten werden konnte, weil die dafür eingesetzte App nicht auf dem Telefon lief.</p>
 		    
@@ -144,17 +150,6 @@
 		    <p>Auch die Zusammenarbeit und Kommunikation mit Ihrer Kundschaft können Sie mit MS Teams organisieren. Sie können spezifische [Teams] gründen mit [Kanälen] für Aufträge und Projekte, oder weitere Personen in bestehende Kanäle einladen. Sie können Gäste von außerhalb nämlich in Ihre [Teams] integrieren, indem Sie ihnen einen kontrollierten Zugriff auf alle dort gesammelten Informationen und Inhalte erteilen. Microsoft-Office-Lizenzen brauchen die externen Personen dafür nicht.</p>
 		    
 		    <p><a href="#wozu-einfuehrung-20200907">weiter lesen: Erste Schritte</a></p>
-		    
-		    <div class="citations">
-		    <hr />
-		    <ol>
-		    
-		    <li id="cn:1">
-		    <p>wozu-vorteile-20200907 <a href="#cnref:1" title="return to body" class="reversecitation">&#160;&#8617;</a></p>
-		    </li>
-		    
-		    </ol>
-		    </div>
 		    
     </div>
     <div class="md-view">
@@ -260,7 +255,7 @@
 		    
     </div>
     <div class="md-view">
-		    <h1 id="anleitung-20200907">Wie ist Teams aufgebaut?</h1>
+		    <h2 id="anleitung-20200907">Wie ist Teams aufgebaut?</h2>
 		    
 		    <p>Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spalte erreichen. Wie Sie die jeweils nutzen, erklären wir in den folgenden Abschnitten noch genau. Aber hier ist ein erster Überblick.</p>
 		    
@@ -337,7 +332,7 @@
 		    
     </div>
     <div class="md-view">
-		    <h1 id="anleitung-apps-20200907">Wie können wir Apps in MS Teams einbinden?</h1>
+		    <h2 id="anleitung-apps-20200907">Wie können wir Apps in MS Teams einbinden?</h2>
 		    
 		    <p>Teams zeichnet die Offenheit für externe Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um sowohl Notwendigkeiten als auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren. Und so eine zentrierte, effektive Arbeitsumgebung schaffen.</p>
 		    
@@ -710,7 +705,7 @@
 		    
     </div>
     <div class="md-view">
-		    <h1 id="anleitung-dateien-20200907">Dateien</h1>
+		    <h2 id="anleitung-dateien-20200907">Dateien</h2>
 		    
 		    <p>Die Registerkarte [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf dem SharePoint gespeichert sind.</p>
 		    

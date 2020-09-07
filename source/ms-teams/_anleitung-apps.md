@@ -1,4 +1,4 @@
-# Wie können wir Apps in MS Teams einbinden? [anleitung-apps-20200907]
+## Wie können wir Apps in MS Teams einbinden? [anleitung-apps-20200907]
 
 Teams zeichnet die Offenheit für externe Apps aus: Die Wahl der kompatiblen Werkzeuge ist groß genug, um sowohl Notwendigkeiten als auch Vorlieben und Gewohnheiten gerecht zu werden. Nicht alles muss für Teams neu gelernt und verändert werden. Viele bereits funktionierende Arbeitsabläufe können Sie in Teams integrieren oder optimieren. Und so eine zentrierte, effektive Arbeitsumgebung schaffen.
 

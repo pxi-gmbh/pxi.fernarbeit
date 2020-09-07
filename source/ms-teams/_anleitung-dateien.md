@@ -1,4 +1,4 @@
-# Dateien [anleitung-dateien-20200907]
+## Dateien [anleitung-dateien-20200907]
 
 Die Registerkarte [Dateien] bietet Ihnen Zugriff auf alle Dateien, die auf dem SharePoint gespeichert sind.
 
