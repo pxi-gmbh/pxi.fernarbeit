@@ -1354,6 +1354,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/teams-speicherlogik.png": {
+		"ft": 32768,
+		"iS": 1153257,
+		"oA": 0,
+		"oAP": "/build/ms-teams/teams-speicherlogik.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/teams-suchen-vor-beginn2.png": {
 		"ft": 32768,
 		"iS": 207081,
