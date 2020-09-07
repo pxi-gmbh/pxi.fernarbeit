@@ -18,14 +18,14 @@ Wegweiser für die ersten Schritte, dezentrales Arbeiten in einem Unternehmen ei
 Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Schreib-Stils, nicht nur in vernetzter Arbeit
 [lesen](/schreiben#intro)
 
+### Umgang mit Microsoft Teams
+*ca 30min* | *Leitfaden* | *#werkzeuge*
+Leitfaden zu Kommunikation und Datei-Verwaltung mit der Software aus dem Office365-Universum für vernetztes Arbeiten
+[lesen](/ms-teams#intro)
+
 ### Vereinbarkeit im Beruf
 *ca 5min* | *Wegweiser* | *#kompetenz*
 Wegweiser, zwischen Erwerbsarbeit und anderen Verpflichtungen aus dem privaten Umfeld, Familie und Erholung zu vermitteln
-*in Arbeit*
-
-### Umgang mit Microsoft Teams
-*ca 15min* | *Leitfaden* | *#werkzeuge*
-Leitfaden zu Kommunikation und Datei-Verwaltung mit der Software aus dem Office365-Universum für vernetztes Arbeiten
 *in Arbeit*
 
 ### Interaktive Video-Konferenzen

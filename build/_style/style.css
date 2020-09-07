@@ -1453,7 +1453,6 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(5) {
   order: 13;
-  color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1462,14 +1461,12 @@ label.aside-toggle {
 
 .card-grid h3:nth-of-type(5) + p {
   order: 14;
-  color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(5) + p + p {
   order: 15;
-  color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;

@@ -111,7 +111,6 @@
 
 .card-grid h3:nth-of-type(5) {
   order: 13;
-  color: $color-muted;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid $color-muted;
@@ -120,14 +119,12 @@
 }
 .card-grid h3:nth-of-type(5) + p {
   order: 14;
-  color: $color-muted;
   border: 1px solid $color-muted;
   border-top: 0;
   border-bottom: 0;
 }
 .card-grid h3:nth-of-type(5) + p + p {
   order: 15;
-  color: $color-muted;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid $color-muted;
