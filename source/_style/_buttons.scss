@@ -7,18 +7,19 @@ button,
 	transition: all 0.2s ease-in-out;
 }
 button:hover,
-[role="button"]:hover {
+[role="button"]:hover,
+.button--primary:hover,
+.button--secondary:hover {
   box-shadow: $drop-shadow;
 }
 button:active,
 button:focus,
 [role="button"]:active,
 [role="button"]:focus {
-	border: 1px solid $color-muted;
   box-shadow: $drop-shadow;
 }
 [aria-pressed="true"] {
-	border: 1px solid $color-contrast;
+	border: 2px solid $color-contrast;
 }
 .button--primary {
   display: block;

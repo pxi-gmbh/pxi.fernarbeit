@@ -10,7 +10,7 @@ a {
 	&:hover,
 	&:active,
 	&:focus {
-		color: $color-contrast;
+		text-underline-position: auto;
 	}
 }
 	sup a {

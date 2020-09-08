@@ -173,7 +173,7 @@ a {
           text-decoration-color: #0f0f0f;
   transition: all 0.3s ease; }
   a:hover, a:active, a:focus {
-    color: #008CA3; }
+    text-underline-position: auto; }
 
 sup a {
   color: #008CA3;
@@ -236,18 +236,19 @@ button,
   transition: all 0.2s ease-in-out; }
 
 button:hover,
-[role="button"]:hover {
+[role="button"]:hover,
+.button--primary:hover,
+.button--secondary:hover {
   box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.35); }
 
 button:active,
 button:focus,
 [role="button"]:active,
 [role="button"]:focus {
-  border: 1px solid #cccccc;
   box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.35); }
 
 [aria-pressed="true"] {
-  border: 1px solid #008CA3; }
+  border: 2px solid #008CA3; }
 
 .button--primary {
   display: block;
