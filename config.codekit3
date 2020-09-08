@@ -1158,6 +1158,94 @@
 		"rFN": 1,
 		"uCM": 0
 		},
+	"/source/ms-teams/aktivität-feed-und-schaltflaeche.png": {
+		"ft": 32768,
+		"iS": 335996,
+		"oA": 0,
+		"oAP": "/build/ms-teams/aktivität-feed-und-schaltflaeche.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/anruf-voreinstellung.png": {
+		"ft": 32768,
+		"iS": 958523,
+		"oA": 0,
+		"oAP": "/build/ms-teams/anruf-voreinstellung.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/anrufe-kategorie.png": {
+		"ft": 32768,
+		"iS": 263741,
+		"oA": 0,
+		"oAP": "/build/ms-teams/anrufe-kategorie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/anwesenheitsstatus-nicht-stoeren.png": {
+		"ft": 32768,
+		"iS": 337950,
+		"oA": 0,
+		"oAP": "/build/ms-teams/anwesenheitsstatus-nicht-stoeren.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/app-in-unterhaltung-einfuegen.png": {
+		"ft": 32768,
+		"iS": 292892,
+		"oA": 0,
+		"oAP": "/build/ms-teams/app-in-unterhaltung-einfuegen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/apps-uebersicht.png": {
+		"ft": 32768,
+		"iS": 549774,
+		"oA": 0,
+		"oAP": "/build/ms-teams/apps-uebersicht.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/aufbau-kanal-beitraege.png": {
+		"ft": 32768,
+		"iS": 298202,
+		"oA": 0,
+		"oAP": "/build/ms-teams/aufbau-kanal-beitraege.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/aufbau-kanal-dateien.png": {
+		"ft": 32768,
+		"iS": 227256,
+		"oA": 0,
+		"oAP": "/build/ms-teams/aufbau-kanal-dateien.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/auswahl-browser-app.png": {
 		"ft": 32768,
 		"iS": 70133,
@@ -1180,6 +1268,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/benachrichtigung-mit-erwaehnung.png": {
+		"ft": 32768,
+		"iS": 298457,
+		"oA": 0,
+		"oAP": "/build/ms-teams/benachrichtigung-mit-erwaehnung.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/benachrichtigungen-einstellungen.png": {
+		"ft": 32768,
+		"iS": 376104,
+		"oA": 0,
+		"oAP": "/build/ms-teams/benachrichtigungen-einstellungen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/benutzer-duerfen-gast-einladen.png": {
 		"ft": 32768,
 		"iS": 228364,
@@ -1191,11 +1301,77 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/besprechung-aufzeichnung-starten.png": {
+		"ft": 32768,
+		"iS": 1180666,
+		"oA": 0,
+		"oAP": "/build/ms-teams/besprechung-aufzeichnung-starten.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/besprechung-planen-link2.png": {
 		"ft": 32768,
 		"iS": 307460,
 		"oA": 0,
 		"oAP": "/build/ms-teams/besprechung-planen-link2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/besprechung-ueber-kalender.png": {
+		"ft": 32768,
+		"iS": 239186,
+		"oA": 0,
+		"oAP": "/build/ms-teams/besprechung-ueber-kalender.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/chat-bereich.png": {
+		"ft": 32768,
+		"iS": 250255,
+		"oA": 0,
+		"oAP": "/build/ms-teams/chat-bereich.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/chat-mit-allen-bereichen.png": {
+		"ft": 32768,
+		"iS": 273926,
+		"oA": 0,
+		"oAP": "/build/ms-teams/chat-mit-allen-bereichen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/dateien-kategorie.png": {
+		"ft": 32768,
+		"iS": 331773,
+		"oA": 0,
+		"oAP": "/build/ms-teams/dateien-kategorie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/dateien-tab.png": {
+		"ft": 32768,
+		"iS": 212360,
+		"oA": 0,
+		"oAP": "/build/ms-teams/dateien-tab.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1265,11 +1441,55 @@
 		"oAP": "/build/ms-teams/index.html",
 		"oF": 0
 		},
+	"/source/ms-teams/kalender-besprechung.png": {
+		"ft": 32768,
+		"iS": 225383,
+		"oA": 0,
+		"oAP": "/build/ms-teams/kalender-besprechung.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/konto-erstellen-gast.png": {
 		"ft": 32768,
 		"iS": 1357013,
 		"oA": 0,
 		"oAP": "/build/ms-teams/konto-erstellen-gast.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/kopfzeile-grundeinstellung-profilbild-statusanzeige.png": {
+		"ft": 32768,
+		"iS": 337822,
+		"oA": 0,
+		"oAP": "/build/ms-teams/kopfzeile-grundeinstellung-profilbild-statusanzeige.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/kopfzeile-suche-und-befehle-mit-kontextmenue.png": {
+		"ft": 32768,
+		"iS": 315257,
+		"oA": 0,
+		"oAP": "/build/ms-teams/kopfzeile-suche-und-befehle-mit-kontextmenue.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/kopfzeile-vor-und-zurueck-funktion.png": {
+		"ft": 32768,
+		"iS": 283198,
+		"oA": 0,
+		"oAP": "/build/ms-teams/kopfzeile-vor-und-zurueck-funktion.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1298,11 +1518,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/neues-team-erstellen.png": {
+		"ft": 32768,
+		"iS": 334908,
+		"oA": 0,
+		"oAP": "/build/ms-teams/neues-team-erstellen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/office-365-gruppe-einstellung-externer.png": {
 		"ft": 32768,
 		"iS": 275899,
 		"oA": 0,
 		"oAP": "/build/ms-teams/office-365-gruppe-einstellung-externer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/privater-kanal.png": {
+		"ft": 32768,
+		"iS": 141874,
+		"oA": 0,
+		"oAP": "/build/ms-teams/privater-kanal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/registrierkarten-in-kanal-zufuegen.png": {
+		"ft": 32768,
+		"iS": 409577,
+		"oA": 0,
+		"oAP": "/build/ms-teams/registrierkarten-in-kanal-zufuegen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1339,6 +1592,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/teams-kategorie-liste.png": {
+		"ft": 32768,
+		"iS": 273441,
+		"oA": 0,
+		"oAP": "/build/ms-teams/teams-kategorie-liste.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/teams-speicherlogik.png": {
 		"ft": 32768,
 		"iS": 1153257,
@@ -1350,11 +1614,110 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/ms-teams/teams-suchen-vor-beginn2.png": {
+		"ft": 32768,
+		"iS": 207081,
+		"oA": 0,
+		"oAP": "/build/ms-teams/teams-suchen-vor-beginn2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/unterhaltung-antwort-formatieren.png": {
+		"ft": 32768,
+		"iS": 291487,
+		"oA": 0,
+		"oAP": "/build/ms-teams/unterhaltung-antwort-formatieren.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/unterhaltung-antwort-zusammenklappen.png": {
+		"ft": 32768,
+		"iS": 333141,
+		"oA": 0,
+		"oAP": "/build/ms-teams/unterhaltung-antwort-zusammenklappen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/unterhaltung-antworten.png": {
+		"ft": 32768,
+		"iS": 332802,
+		"oA": 0,
+		"oAP": "/build/ms-teams/unterhaltung-antworten.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/unterhaltung-emailimport.png": {
+		"ft": 32768,
+		"iS": 122431,
+		"oA": 0,
+		"oAP": "/build/ms-teams/unterhaltung-emailimport.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/unterhaltung-gespeichert-emojireaktion2.png": {
+		"ft": 32768,
+		"iS": 389129,
+		"oA": 0,
+		"oAP": "/build/ms-teams/unterhaltung-gespeichert-emojireaktion2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/ms-teams/wartebereich-zulassen.png": {
 		"ft": 32768,
 		"iS": 270292,
 		"oA": 0,
 		"oAP": "/build/ms-teams/wartebereich-zulassen.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/word-dokument-in-kanal-eingefuegt.png": {
+		"ft": 32768,
+		"iS": 252280,
+		"oA": 0,
+		"oAP": "/build/ms-teams/word-dokument-in-kanal-eingefuegt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/word-dokument-in-kanal-eingefuegt2.png": {
+		"ft": 32768,
+		"iS": 302484,
+		"oA": 0,
+		"oAP": "/build/ms-teams/word-dokument-in-kanal-eingefuegt2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/ms-teams/zustellungsoptionen-festlegen-chat.png": {
+		"ft": 32768,
+		"iS": 86533,
+		"oA": 0,
+		"oAP": "/build/ms-teams/zustellungsoptionen-festlegen-chat.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
