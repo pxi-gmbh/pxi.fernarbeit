@@ -39,12 +39,6 @@
 		"oAP": "/build/_drafts",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -1162,7 +1156,7 @@
 		"ft": 32768,
 		"iS": 335996,
 		"oA": 0,
-		"oAP": "/build/ms-teams/aktivität-feed-und-schaltflaeche.png",
+		"oAP": "/build/ms-teams/aktivität-feed-und-schaltflaeche.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1588,7 +1582,7 @@
 		"oAP": "/build/ms-teams/teams-architektur.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3293,7 +3287,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "logo-vue",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 621180917.18041897
+	"lastBuiltDate": 621264650.63015401
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
