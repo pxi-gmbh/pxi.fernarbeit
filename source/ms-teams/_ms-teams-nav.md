@@ -21,4 +21,14 @@ Wie Sie mit der Software umgehen und Produktivitäts-Gewinne erschließen.
     - [Benachrichtigungen](#anleitung-benachrichtigungen-20200907)
     - [Dateien](#anleitung-Dateien-20200907)
 
+
+### Gastzugänge für externen Zugriff einrichten
+Wie Sie Gäste von außerhalb ihrer Organisation und ohne eigenes Office-365-Konto einladen und zur Mitarbeit befähigen.
+▿ *ca 10min*
+
+- [**Gastzugang**](#gastzugang-20200907)
+    - [Rechte](#gastzugang-rechte-20200907)
+    - [Zugang Einrichten](#gastzugang-einrichten-20200907)
+    - [Besprechungen](#gastzugang-besprechungen-20200907)
+
 ### [zurück zur Übersicht](/)
