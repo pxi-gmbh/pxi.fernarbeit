@@ -23,7 +23,7 @@ Wie Sie mit der Software umgehen und Produktivitäts-Gewinne erschließen.
 
 
 ### Gastzugänge für externen Zugriff einrichten
-Wie Sie Gäste von außerhalb ihrer Organisation und ohne eigenes Office-365-Konto einladen und zur Mitarbeit befähigen.
+Wie Sie Gäste von außerhalb ihrer Organisation und ohne eigenes Office-365-Konto einladen und zur Mitarbeit befähigen.  
 ▿ *ca 10min*
 
 - [**Gastzugang**](#gastzugang-20200907)
