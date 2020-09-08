@@ -31,6 +31,14 @@ Eine Anleitung für verständliches Schreiben und die Entwicklung eines eigenen 
 - [Wertschätzung ausdrücken](/schreiben#wertschaetzung-20200710)
 
 
+### [MS-Teams](/ms-teams#intro)
+Wie Sie Microsoft Teams verstehen lernen und sinnvoll für effiziente Zusammenarbeit einsetzen.  
+▿ *ca 40min* | *Leitfaden*
+
+- [Einstieg in MS Teams](/ms-teams#wozu-20200907)
+- [Umgang mit MS Teams](/ms-teams#anleitung-20200907)
+- [Gastzugang in MS Teams](/ms-teams#gastzugang-20200907)
+
 ### Vereinbarkeit
 Wie Sie Ihr Privatleben, Ihre Familie und andere Aufgaben mit der Erwerbsarbeit vereinbaren.  
 *wird überarbeitet*
@@ -44,11 +52,3 @@ Eine verschlagwortete Übersicht von Geräten, Online-Ressourcen und Software, I
 ### Video-Konferenzen
 Wie Sie mit verschiedenen Werkzeugen und Methoden Online-Meetings und Workshops einladender, interaktiver und produktiver gestalten.  
 *wird überarbeitet*
-
-
-### [MS-Teams](/ms-teams#intro)
-Wie Sie Microsoft Teams verstehen lernen und sinnvoll für effiziente Zusammenarbeit einsetzen.  
-▿ *ca 30min* | *Leitfaden*
-
-- [Einstieg in MS Teams](/ms-teams#wozu-20200907)
-- [Umgang mit MS Teams](/ms-teams#anleitung-20200907)

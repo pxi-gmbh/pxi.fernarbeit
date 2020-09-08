@@ -36,4 +36,5 @@ Microsoft Teams ermöglicht Zusammenarbeit, indem es die Absprachen zur Arbeit a
 Auch die Kommunikation und Zusammenarbeit und mit externen Personen ist möglich: Personen, die nicht zu Ihrer Organisation gehören, können auch ohne Office365-Lizenz von Ihnen in Arbeitsgruppen eingeladen werden.
 
 [Wozu und wie mit MS Teams starten](#wozu-20200907)    
-[Einführung in die Oberfläche](#anleitung-20200907)  
+[Einführung in die Oberfläche](#anleitung-20200907)    
+[Gastzugang für externe Mitarbeit](#gastzugang-20200907)

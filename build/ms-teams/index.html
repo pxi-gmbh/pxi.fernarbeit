@@ -107,7 +107,8 @@
 		    <p>Auch die Kommunikation und Zusammenarbeit und mit externen Personen ist möglich: Personen, die nicht zu Ihrer Organisation gehören, können auch ohne Office365-Lizenz von Ihnen in Arbeitsgruppen eingeladen werden.</p>
 		    
 		    <p><a href="#wozu-20200907">Wozu und wie mit MS Teams starten</a><br />
-		    <a href="#anleitung-20200907">Einführung in die Oberfläche</a></p>
+		    <a href="#anleitung-20200907">Einführung in die Oberfläche</a><br />
+		    <a href="#gastzugang-20200907">Gastzugang für externe Mitarbeit</a></p>
 		    
     </div>
     <div class="md-view">
@@ -718,6 +719,170 @@
 		    
 		    <figure>
 		    <img src="dateien-tab.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <hr />
+		    
+		    <p><a href="/">zurück zur Übersicht</a></p>
+		    
+    </div>
+    <div class="md-view">
+		    <h2 id="gastzugang-20200907">Gastzugänge in Microsoft Teams</h2>
+		    
+		    <p>Die Lösungen für digitale Zusammenarbeit enden bei Microsoft Teams nicht an den Grenzen des eigenen Unternehmens. Sie können auch Kundschaft und extern Mitarbeitende in Ihr digitales Arbeitsumfeld integrieren.</p>
+		    
+		    <p>Ihr eigenes Office-365-Abonnement (Business Standard, Enterprise oder Education) reicht als Lizenz aus. Ihr Gast muss lediglich eine E-Mail-Adresse besitzen.</p>
+		    
+		    <p>Zunächst muss der Gastzugriff als organisationsweite Einstellung durch Ihre Administration aktiviert werden. Danach können fünf Gäste pro lizensiertem Team-Mitglied eingeladen werden. Durch erweiterte Einstellungen können Gäste auch die Berechtigung erhalten, selbst Gäste einzuladen.</p>
+		    
+		    <p>Der Gastzugriff in MS Teams ist als eine der Rollen zu verstehen, die die Administration innerhalb der App vergeben kann. Nur in diesem Fall eben an externe Personen. Als Gast gilt, wer kein Mitglied Ihrer Organisation ist und über kein Geschäftskonto bei Ihrer Organisation verfügt.</p>
+		    
+		    <p><a href="#gastzugang-rechte-20200907">jetzt lesen</a></p>
+		    
+    </div>
+    <div class="md-view">
+		    <h2 id="gastzugang-rechte-20200907">Welche Rechte haben Gäste?</h2>
+		    
+		    <p>Jede Person, die nicht Teil Ihrer Organisation ist, kann als Gast in Teams hinzugefügt werden und damit die [Kanal]-Funktionen prinzipiell vollumfänglich nutzen. Als Administration können Sie die Rechte Ihres Gastzugriffs allerdings nachträglich einschränken und den eigenen Bedürfnissen und Sicherheitsanforderungen anpassen.</p>
+		    
+		    <p>Sie können Gäste innerhalb von Azure AD verwalten. Ihre Gäste unterliegen dem gleichen Compliance- und Auditing-Schutz wie alle Personen mit einem Office-365-Abonnement.</p>
+		    
+		    <p>Gäste können standardmäßig folgende Funktionen in Teams zu nutzen:
+		    [Kanäle] erstellen, an [privaten Chats] und [Unterhaltungen] teilnehmen sowie Dateien freigeben. Der Austausch von Dateien in [privaten Chats] ist nicht Teil der Gastfunktionen. Über die [Kanal]-Datei-Ablagen auf SharePoint können Gäste aber auf geteilte Dateien zugreifen und selbst hochladen. Auch ohne eigene Office-Lizenz können Ihre Gäste beispielsweise Word-Dokumente erstellen oder an solchen mitarbeiten.</p>
+		    
+		    <p><a href="#gastzugang-einrichten-20200907">weiter lesen: Gastzugriff einrichten</a></p>
+		    
+    </div>
+    <div class="md-view">
+		    <h2 id="gastzugang-einrichten-20200907">Wie steuern wir den Gastzugriff?</h2>
+		    
+		    <p>Um Gäste in Teams zu integrieren, müssen Sie zunächst auf Organisationsebene den allgemeinen Gastzugriff aktivieren. Dies gelingt Ihnen über das Microsoft Teams Admin Center, welches über den Browser unter admin.microsoft.com zu erreichen ist. Voraussetzungen für den Zugriff auf das Admin Center sind eine gültige Office-365-Business-Lizenz und eine Administrations-Rolle darin.</p>
+		    
+		    <p>Melden Sie sich mit Ihrem Administrations-Konto im Admin Center an und wählen Sie über das App-Start-Symbol oben links die Kachel [Admin] aus. Diese Kachel wird nur Personen mit Administrations-Berechtigung angezeigt.
+		    In der linken Spalte unter [Alle anzeigen] finden Sie das Admin Center [Teams]. Dort können Sie unter [Organisationsweite Einstellungen] im Bereich [Gastzugriff] den Gastzugriff in Teams aktivieren und bestimmen, welche Funktionen Gäste nutzen können. Alle Änderungen in diesem Bereich müssen mit [Speichern] bestätigt werden, um wirksam zu sein.</p>
+		    
+		    <figure>
+		    <img src="gastzugriff-teams-ms-admin-center.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Für den Gastzugriff in Microsoft Teams wird die B2B-Plattform von Azure Active Directory genutzt. Die Standardeinstellungen in Azure Active Directory, SharePoint Online und Office-365-Gruppen sind in der Regel bereits für einen Gastzugriff konfiguriert und bedürfen damit keiner weiteren manuellen Aktivierung.
+		    Hier können Sie aber weitere Einstellungen des Gastzugriffs steuern. Auch das Azure Active Directory Admin Center finden Sie über den Browser im Microsoft 365 Admin Center.
+		    Wählen Sie dort unter [Benutzer], die [Benutzereinstellungen] aus und steuern Sie unter [Externe Benutzer] den Bereich [Externe Einstellungen zur Zusammenarbeit] an.</p>
+		    
+		    <figure>
+		    <img src="azure-active-gastzugriff-konfigurieren.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Hier können Sie nun bestimmen, ob neben der Administration auch andere Team-Mitglieder Externe einladen dürfen oder ob dies sogar Gästen zusteht.</p>
+		    
+		    <p>Die nächste Instanz zur Verwaltung des Gastzugriffs ist die Office-365-Gruppe. Über das Microsoft 365 Admin Center gelangen Sie in der linken Spalte über [Einstellungen] zu [Einstellungen] und dort wird unter [Dienste] der Menüpunkt [Office 365-Gruppen] gelistet. Deren Check-Boxen sind üblicherweise aktiviert und regeln, dass Externe zu Gruppen hinzugefügt werden können und dass Gruppenmitglieder auch von außerhalb Ihrer Organisation auf Gruppeninhalte zugreifen dürfen.</p>
+		    
+		    <figure>
+		    <img src="office-365-gruppe-einstellung-externer.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Unter [Sicherheit und Datenschutz], ebenfalls im Office 365 Admin Center unter [Einstellungen], [Einstellungen] zu finden, können Sie Team-Mitgliedern unter [Teilen] erlauben, neue Gäste zur Organisation hinzuzufügen. Auch diese Einstellung ist üblicherweise bereits aktiviert.</p>
+		    
+		    <figure>
+		    <img src="benutzer-duerfen-gast-einladen.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Navigieren Sie im Admin Center zum SharePoint Admin Center. Klicken Sie dort auf [Websites], [Aktive Websites], wählen Ihr gewünschtes Team an und klicken oberhalb der Liste auf [Teilen]. Mit den Optionen [Jeder] oder [Neue und vorhandene Gäste] können entsprechende Website-Inhalte geteilt werden.
+		    Beachten Sie, dass Änderungen im Admin Center immer mit [Speichern] bestätigt werden müssen.
+		    Im Fall von Änderungen an der Azure Active Directory können bis zu 24 Stunden vergehen, bis die Änderungen aktiv sind und Gäste entsprechenden Zugriff haben.</p>
+		    
+		    <figure>
+		    <img src="seiteninhalte-teilbar-machen-sharepoint-gast.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Direkt in der Teams-App nehmen Sie Gäste auf, indem Sie den gewünschten [Kanal] in der Liste suchen und über dessen Kontextmenü [&#8230;] die Option [Mitglied hinzufügen] wählen. Dort geben Sie die E-Mail-Adresse des externen Kontakts ein.</p>
+		    
+		    <figure>
+		    <img src="gast-hinzufuegen-teams-app.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Über die Editier-Funktion kann der angezeigte Name von Gästen bearbeitet werden.</p>
+		    
+		    <figure>
+		    <img src="name-von-gast-editieren.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Gäste erhalten eine Einladung per E-Mail und können, sofern diese E-Mail-Adresse bereits mit einem Microsoft Konto verknüpft wurde, über [Microsoft Teams öffnen] dem Team beitreten.</p>
+		    
+		    <figure>
+		    <img src="einladung-gast-mail.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Eine noch nicht verknüpfte E-Mail-Adresse erfordert eine einmalige Registrierung dieser bei Microsoft. Es wird dann automatisch ein Microsoft-Konto für die externe Person erstellt und dauerhaft mit der angegeben E-Mail-Adresse verknüpft.</p>
+		    
+		    <figure>
+		    <img src="konto-erstellen-gast.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>[Teams], deren Mitglieder auch aus Externen bestehen, werden sichtbar gekennzeichnet.</p>
+		    
+		    <p><a href="#gastzugang-besprechungen-20200907">weiter lesen: Besprechungen</a></p>
+		    
+    </div>
+    <div class="md-view">
+		    <h2 id="gastzugang-besprechungen-20200907">Gäste in eine Besprechung einladen</h2>
+		    
+		    <p>MS Teams bietet Ihnen die Möglichkeit, Externe an einzelnen Besprechungen teilnehmen zu lassen. Eine Teilnahme ist dabei ganz ohne Anmeldung möglich.</p>
+		    
+		    <p>Hierzu müssen Sie der externen Person einen Link bereitstellen, der direkt in die gewünschte Besprechung führt. Wie Sie den Link teilen, etwa per E-Mail oder Messenger, bleibt Ihnen überlassen. Die Teilnahme über einen Link ist allen Personen mittels der Teams-App möglich, welche auch auf mobilen Geräten mit Mac- oder Android-OS verfügbar ist. Aber auch über einen Browser lässt sich die Besprechung öffnen. Unter Mac-OS eignet sich hierfür der Chrome-Browser, unter Windows Microsoft Edge oder Chrome. Die eingeladene Person erhält über den Link die Wahl, wie sie an der Besprechung teilnehmen will.</p>
+		    
+		    <figure>
+		    <img src="auswahl-browser-app.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Den Link für die Einladung generieren Sie auf zwei Arten:
+		    In der Planung einer Besprechung über den Teams-Kalender, oder in einer laufenden Besprechung.</p>
+		    
+		    <p>Planen Sie eine [+ Neue Besprechung] über den [Kalender], können Sie Personen über deren E-Mail-Adresse im Bereich [Erforderliche Teilnehmer hinzufügen]. Wenn Sie die Planung inklusive der Angabe aller Beteiligten abgeschlossen haben, können Sie über [Kalender] erneut auf die geplante Besprechung zugreifen. Nun wird im Bereich für [Details zu dieser Besprechung] der Hyperlink dargestellt, der weitere Personen zu dieser Besprechung führen kann. Kopieren Sie diesen und teilen Sie ihn mit weiteren Personen, die Sie nicht direkt eingeladen haben.</p>
+		    
+		    <figure>
+		    <img src="besprechung-planen-link2.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Personen, die Sie direkt über die Besprechungs-Planung durch Angabe der E-Mail-Adressen eingeladen haben, erhalten eine E-Mail mit einem Teilnahme-Link und der Möglichkeit, der geplanten Besprechung zuzusagen, diese abzulehnen und eine Synchronisation des Termins mit persönlichen Kalendern vorzunehmen.</p>
+		    
+		    <figure>
+		    <img src="einladung-email.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>In einer laufenden Besprechung können Sie über die Schaltfläche [Teilnehmer anzeigen] im Eingabefeld [Jemanden einladen] Personen direkt einen Beitritts-Link per E-Mail zukommen lassen, indem Sie dort deren E-Mail-Adresse eintragen. Außerdem können Sie den Teilnahme-Link generieren, indem Sie auf [Teilnahmeinfos kopieren] klicken.</p>
+		    
+		    <figure>
+		    <img src="einladen-in-aktive-besprechung.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Der Teilnahme-Link verbirgt sich in beiden Fällen als Hyperlink hinter dem Text [Join Microsoft Teams Meeting]. Sie können den Hyperlink nutzen oder den Link aus dem Hyperlink kopieren und so für die direkte Verwendung in der Adresszeile des Browsers nutzbar machen. Diese Link-URL ist jedoch sehr lang.</p>
+		    
+		    <p>Wird dem Link gefolgt, muss sich die Person vor dem Betreten der Besprechung einen Namen geben, ihre Ton- und Video-Optionen wählen und dies mit [Jetzt teilnehmen] bestätigen.</p>
+		    
+		    <figure>
+		    <img src="name-anmeldung-besprechung.png" alt="" />
+		    <figcaption></figcaption>
+		    </figure>
+		    
+		    <p>Daraufhin befindet sie sich im Wartebereich, was der Person angezeigt wird, die die Besprechung geplant hat. Dies geschieht über eine Pop-Up-Benachrichtigung und ein Symbol in der Steuerleiste Ihrer aktiven Besprechung, welches über [Teilnehmer anzeigen] erscheint. Hier finden Sie auch den Wartebereich, in dem Sie Eingeladene über das Häkchen-Symbol aktiv teilnehmen lassen können.</p>
+		    
+		    <figure>
+		    <img src="wartebereich-zulassen.png" alt="" />
 		    <figcaption></figcaption>
 		    </figure>
 		    
