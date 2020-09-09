@@ -134,7 +134,6 @@
 
 .card-grid h3:nth-of-type(6) {
   order: 16;
-  color: $color-muted;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid $color-muted;
@@ -143,14 +142,12 @@
 }
 .card-grid h3:nth-of-type(6) + p {
   order: 17;
-  color: $color-muted;
   border: 1px solid $color-muted;
   border-top: 0;
   border-bottom: 0;
 }
 .card-grid h3:nth-of-type(6) + p + p {
   order: 18;
-  color: $color-muted;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid $color-muted;
@@ -211,6 +208,32 @@
 }
 .card-grid h3:nth-of-type(9) {
   order: 25;
+  color: $color-muted;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid $color-muted;
+  border-bottom: 0;
+  border-radius: $border-radius $border-radius 0 0;
+}
+.card-grid h3:nth-of-type(9) + p {
+  order: 26;
+  color: $color-muted;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-bottom: 0;
+}
+.card-grid h3:nth-of-type(9) + p + p {
+  order: 27;
+  color: $color-muted;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid $color-muted;
+  border-top: 0;
+  border-radius: 0 0 $border-radius $border-radius;
+}
+/* set placeholder-elements invisible to maintain grid
+.card-grid h3:nth-of-type(9) {
+  order: 25;
   display: none;
 }
 .card-grid h3:nth-of-type(9) + p {
@@ -221,6 +244,7 @@
   order: 27;
   display: none;
 }
+*/
 
 @media screen and (min-width: $break-wide) {
 	/* give more room to breathe on wider screens */
@@ -424,6 +448,32 @@
   }
   .card-grid h3:nth-of-type(9) {
     order: 7;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border: 1px solid $color-muted;
+    border-bottom: 0;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+  .card-grid h3:nth-of-type(9) + p {
+    order: 8;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-bottom: 0;
+  }
+  .card-grid h3:nth-of-type(9) + p + p {
+    order: 9;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid $color-muted;
+    border-top: 0;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+}
+
+
+/* set placeholder-elements invisible to maintain grid
+  .card-grid h3:nth-of-type(9) {
+    order: 7;
     display: block;
     visibility: hidden;
   }
@@ -437,4 +487,4 @@
     display: block;
     visibility: hidden;
   }
-}
+*/

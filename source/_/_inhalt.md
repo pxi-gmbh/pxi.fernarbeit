@@ -23,6 +23,11 @@ Leitfaden mit Formulierungen, Standards und Merk-Hilfen zum Entwickeln eines Sch
 Leitfaden zu Kommunikation und Datei-Verwaltung mit der Software aus dem Office365-Universum für vernetztes Arbeiten
 [lesen](/ms-teams#intro)
 
+### OBS für Video-Konferenzen
+*ca 10min* | *Wegweiser* | *#werkzeuge*
+Wegweiser, wie Sie das kostenlose Open-Source-Programm OBS (Open Broadcaster Software) als virtuelle Webcam einrichten
+[lesen](/obs/#obs-intro-20200909)
+
 ### Vereinbarkeit im Beruf
 *ca 5min* | *Wegweiser* | *#kompetenz*
 Wegweiser, zwischen Erwerbsarbeit und anderen Verpflichtungen aus dem privaten Umfeld, Familie und Erholung zu vermitteln
@@ -37,8 +42,10 @@ Leitfaden zum Umgang mit Video-Konferenz-Software und daran geknüpften Hilfs-Ap
 *Nachschlagewerk* | *#werkzeuge*
 Eine verschlagwortete Übersicht der von uns getesteten und populären Tools und Apps für virtuelle Arbeits-Räume
 *in Arbeit*
-
+{>>
+falls N-3 als Grid nicht hinkommt, auffüllen (3,6,9,12)
 ### ...
 ...
 
 ...
+<<}

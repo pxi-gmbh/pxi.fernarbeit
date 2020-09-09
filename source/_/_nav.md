@@ -39,6 +39,12 @@ Wie Sie Microsoft Teams verstehen lernen und sinnvoll für effiziente Zusammenar
 - [Umgang mit MS Teams](/ms-teams#anleitung-20200907)
 - [Gastzugang in MS Teams](/ms-teams#gastzugang-20200907)
 
+
+### [Open Broadcaster Software](/obs/#obs-intro-20200909)
+Wie Sie mit OBS in virtuellen Workshops und Video-Konferenzen interaktive Bewegtbilder einspielen.  
+▹ *ca 5min* | *Wegweiser*
+
+
 ### Vereinbarkeit
 Wie Sie Ihr Privatleben, Ihre Familie und andere Aufgaben mit der Erwerbsarbeit vereinbaren.  
 *wird überarbeitet*
