@@ -1,5 +1,5 @@
 ### OBS Einführung
-Wie Sie mit der Open Broadcaster Software Bildschirminhalte Ihres PCs aufzeichnen und diese Inhalte in Online-Tools wie Zoom, Teams und Weitere einbinden können.
+Wie Sie mit der Open Broadcaster Software Bildschirminhalte Ihres PCs aufzeichnen und diese Inhalte in Online-Tools wie Zoom, Teams und weitere einbinden können.
 ▿ *ca 5min*
 
 - [**OBS**](#obs-20200909)
