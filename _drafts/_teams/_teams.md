@@ -30,6 +30,17 @@ Wie Sie Gäste von außerhalb ihrer Organisation und ohne eigenes Office-365-Kon
     - [Zugang Einrichten](#gastzugang-einrichten-20200907)
     - [Besprechungen](#gastzugang-besprechungen-20200907)
 
+
+
+### GitHub in Teams integrieren
+Installationsanleitung: Wie sie GitHub in die Teams-App integrieren .
+▿ *ca 2min*
+
+- [**GitHub**](#github-inegrieren-20200924)
+
+
+
+
 ### [zurück zur Übersicht](/)
 
 
@@ -563,6 +574,45 @@ Daraufhin befindet sie sich im Wartebereich, was der Person angezeigt wird, die 
 
 ![](wartebereich-zulassen.png)
 
+
+
+## GitHub in Teams integrieren [github-inegrieren-20200924]
+
+Auch der netzbasierte Dienst zur Versionsverwaltung für Software-Entwicklung GitHub lässt sich zur verbesserten Kollaboration in Microsoft Teams integrieren. Dadurch können Sie issues aufmachen und schließen, issues und pull-requests direkt in Teams kommentieren und allgemein über Vorgänge in Ihren geteilten Repositories informiert werden.
+
+ Hierzu müssen Sie in der Teams-App im App-Store GitHub (Preview) installieren. Navigieren Sie über die die drei Punkte in der linken Seitenleiste in die App-Suchfunktion, suchen GitHub und wählen GitHub (Preview) aus.
+
+![](github-app-installieren.png)
+
+Nach erfolgreicher Installation begrüßt sie GitHub (Preview) in ihrer Teams-App. Antworten Sie hier mit dem Befehl @github (Preview) signin, um Ihren Github-Account mit dem Teams-Account zu verknüpfen.  
+
+![](git-hub-signin.png)
+
+Um in einem Teams-Kanal Benachrichtigungen über Veränderungen wie innerhalb eines Repository zu erhalten - wie pull-requests und issues -, müssen Sie in Teams dem gewünschten Repository in dem gewünschten Kanal, in welchem die Benachrichtigungen stattfinden sollen, subscriben. dies gelingt indem Sie das Kommando @github (Preview) subscribe Organisationsname/Repository-Name als Nachricht eingeben.
+
+Damit dies erfolgreich sein kann, weist Sie GitHub nun darauf hin, dass in ihrem GitHub-Repository die Teams Github-App installiert werden muss. Klicken Sie in diesem Hinweis auf [install app].
+
+![](github-app-in-github-installieren.png)
+
+Nun werden sie im Browser auf Github.com geleitet, wo sie die App für Ihre Organisation installieren können.
+
+![](github-browser-installation.png)
+
+Nun können Sie noch bestimmen, ob über die App Zugriff auf bestimmte oder alle Repositories genehmigt werden soll. Genehmigen sie auf alle Repositories Zugriff, werden auch künftige neue private Repositories in Microsoft Teams über den Befehl @github (Preview) subscribe Organisationsname/Repository-Name abonniert. Andernfalls müssen Sie diesen Vorgang entsprechend erneut durchführen.
+
+Die App kann nur durch die Person installiert werden, die den Account/Organisation besitzt. Jede Person kann aber die Installation einleiten, diese wird beantragt und wartet dann auf Freischaltung durch die berechtigte Person, welche in den Organisations-Einstellungen vorgenommen wird.
+
+
+![](github-brwoser-installation-repsitory-auswahl.png)
+Der Befehl @github (Preview) subscribe Organisationsname/Repository-Name abonniert alle zur verfügung stehenden Benachrichtigungen aus dem Repository, @github (Preview) unsubscribe Organisationsname/Repository-Name deabonniert diese wieder.
+Den Umfang der Benachrichtigungen können Sie nach Ihren Bedürfnissen anpassen. Zur Auswahl stehen dabei die features: issues, pulls, commits und comments. Mit dem Befehl @github (Preview) subscribe Organisationsname/Repository-Name feature können Sie einzelne Benachrichtigungen abonieren oder mit dem Befehl @github (Preview) unsubscribe Organisationsname/Repository-Name/feature einzelne Bnachrichtigungen abwählen.
+
+Mit der Eingabe @github (Preview) erhalten Sie als Antwort eine Übersicht der möglichen Befehle/Interaktionen.
+
+
 ---
+
+
+
 
 [zurück zur Übersicht](/)
