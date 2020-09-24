@@ -17,7 +17,7 @@ Wie Sie mit der Open Broadcaster Software Bildschirminhalte Ihres PCs aufzeichne
 
 Open Broadcaster Software, kurz OBS, ist ein frei erhältliches Open-Source-Programm, mit dem Sie Videos aufzeichnen live online in einem Stream verbreiten können.
 
-Die Videos können aus Kamera- oder Bildschirm-Aufnahmen bestehen. Sie können also alles integrieren, was Sie auf Ihrem Bildschirm nutzen und sehen. Das funktioniert auch, wenn Sie Programme wie PowerPoint oder Browser aufzeichnen und mit Ihren eigenen Webcam-Bildern und Audio-Aufzeichnungen kombinieren. Sowohl live als auch geplant als Aufnahme.
+Die Videos können aus Kamera- oder Bildschirm-Aufnahmen bestehen. Sie können also alles integrieren, was Sie auf Ihrem Bildschirm nutzen und sehen. Das funktioniert auch, wenn Sie Programme wie PowerPoint oder Ihren Browser aufzeichnen und mit Ihren eigenen Webcam-Bildern und Audio-Aufzeichnungen kombinieren. Sowohl live als auch geplant als Aufnahme.
 
 Als Ausrüstung benötigen Sie einen Computer (bevorzugt Windows), ein Mikrofon und eine Kamera. Um eine verbesserte Audio- und Video-Qualität zu erreichen, empfehlen wir Ihnen, auf ein externes Mikrofon oder ein Headset sowie eine qualitativ hochwertigere Webcam zurückzugreifen. Zur Not tut es aber auch die Hardware, die in einem Laptop bereits integriert ist.
 Für einen optimalen Einsatz von OBS raten wir zu einem zusätzlichen Monitor, der die Steureung der Videokomposition deutlich vereinfacht.
