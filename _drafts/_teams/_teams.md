@@ -36,7 +36,7 @@ Wie Sie Gäste von außerhalb ihrer Organisation und ohne eigenes Office-365-Kon
 Installationsanleitung: Wie sie GitHub in die Teams-App integrieren .
 ▿ *ca 2min*
 
-- [**GitHub**](#github-inegrieren-20200924)
+- [**GitHub**](#github-integrieren-20200924)
 
 
 
