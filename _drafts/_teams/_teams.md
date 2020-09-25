@@ -576,7 +576,7 @@ Daraufhin befindet sie sich im Wartebereich, was der Person angezeigt wird, die 
 
 
 
-## GitHub in Teams integrieren [github-inegrieren-20200924]
+## GitHub in Teams integrieren [github-integrieren-20200924]
 
 Auch der netzbasierte Dienst zur Versionsverwaltung für Software-Entwicklung GitHub lässt sich zur verbesserten Kollaboration in Microsoft Teams integrieren. Dadurch können Sie issues aufmachen und schließen, issues und pull-requests direkt in Teams kommentieren und allgemein über Vorgänge in Ihren geteilten Repositories informiert werden.
 
