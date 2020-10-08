@@ -587,14 +587,19 @@ Hierzu müssen Sie die App zunächst innerhalb Teams installieren: Navigieren Si
 
 ![](github-app-installieren.png)
 
-Nach erfolgreicher Installation begrüßt sie GitHub (Preview) in Ihrer Teams-App. 
+Nach erfolgreicher Installation begrüßt sie GitHub (Preview) in Ihrer Teams-App.
 Antworten Sie hier mit dem Befehl "@github (Preview) signin", um Ihren Github-Account mit dem Teams-Account zu verknüpfen.
+
+Um mit Github zu interagieren, müssen Sie als Kommentar ein @ direkt gefolgt von dem vollen Namen "Github (Preview)" als Nachricht eingeben und im Anschluss den Befehl signin schreiben. Dabei wird kein Leerzeichen zwischen @ und Github (Preview) geschrieben. Github (Preview) wird dann auch als Link blau dargestellt und ein Dropdownmenü zur vereinfachten Interaktion eingeblendet. An den blau dargestellten Link Github (Preview) können Sie mit einem Leerzeichen getrennt aber auch den gewünschten Befehl direkt eingeben.   
+Dabei muss der Befehl ausgeschrieben werden, durch Kopieren-Einfügen eines Befehls an Github, wird die App nicht erreicht, auch daran zu erkennen, dass Github (Preview) nicht als Link in blau dargestellt wird.
+Als Beispiel - Der Befehl wäre:
+​​​​​​​@GitHub (Preview) signin
 
 {>>Jule: Auf der folgenden Grafik ist der Text sehr klein und folglich nicht lesbar. Ich denke, hier könnte man das Bild um das obere Drittel beschneiden, sodass nur noch die Konversation zu sehen ist.<<}
 
 ![](git-hub-signin.png)
 
-Jetzt können Sie in Teams-Kanälen Benachrichtigungen über Veränderungen in GitHub erhalten. 
+Jetzt können Sie in Teams-Kanälen Benachrichtigungen über Veränderungen in GitHub erhalten.
 
 Hierfür müssen Sie den gewünschten Kanal auswählen und dort das gewünschte Repository abonnieren. Dies gelingt, indem Sie das Kommando ""@github (Preview) subscribe *Organisations-Name/Repository-Name*" als Nachricht eingeben.
 
@@ -606,28 +611,26 @@ Nun werden Sie im Browser auf Github.com geleitet, wo Sie die App für Ihre Orga
 
 ![](github-browser-installation.png)
 
-Nun können Sie noch festlegen, ob über die App Zugriff auf bestimmte oder alle Repositories genehmigt werden soll. 
+Nun können Sie noch festlegen, ob über die App Zugriff auf bestimmte oder alle Repositories genehmigt werden soll.
 Genehmigen Sie auf alle Repositories Zugriff, werden auch künftige private Repositories in Microsoft Teams über den Befehl "@github (Preview) subscribe *Organisations-Name/Repository-Name*" abonniert.
-Andernfalls müssen Sie diesen Vorgang entsprechend erneut durchführen.
 
-{>>Jule: Das verstehe ich nicht ganz. Was heißt "Andernfalls müssen Sie diesen Vorgang entsprechend erneut durchführen."? Welchen Vorgang? Bitte erklär das nochmal irgendwie anders und dann schaue ich, ob ich es dann verstehe.<<}
 
-Die App kann nur durch die Person installiert werden, die den Account oder die Organisation besitzt und Zugriff zu den entsprechenden Einstellungen hat. 
+Die App kann nur durch die Person installiert werden, die den Account oder die Organisation besitzt und Zugriff zu den entsprechenden Einstellungen hat.
 Beantragt werden kann die Installation allerdings auch von anderen. In dem Fall wartet sie auf Freischaltung durch die berechtigte Person.
 
 ![](github-brwoser-installation-repsitory-auswahl.png)
 
-Der Befehl "@github (Preview) subscribe *Organisationsname/Repository-Name*" abonniert alle zur Verfügung stehenden Benachrichtigungen aus dem Repository. 
+Der Befehl "@github (Preview) subscribe *Organisationsname/Repository-Name*" abonniert alle zur Verfügung stehenden Benachrichtigungen aus dem Repository.
 Der Befehl "@github (Preview) unsubscribe *Organisationsname/Repository-Name*" deabonniert diese wieder.
 
-Den Umfang der Benachrichtigungen können Sie nach Ihren Bedürfnissen anpassen. Zur Auswahl stehen dabei folgende Funktionen: Issues, Pull-/Push-Commits und -Comments. 
+Den Umfang der Benachrichtigungen können Sie nach Ihren Bedürfnissen anpassen. Zur Auswahl stehen dabei folgende Funktionen: Issues, Pulls, Commits und Comments.
 
-{>>Jule: Vorher stand hier: "die features: issues, pulls, commits und comments". Das klang irgendwie so, als würde Push fehlen - aber was tatsächlich richtig ist, weiß ich nicht. Wenn meine Änderung falsch ist, dann nimm sie wieder zurück.<<}
 
-Mit dem Befehl "@github (Preview) subscribe *Organisations-Name/Repository-Name Feature-Name*" können Sie einzelne Benachrichtigungen abonieren. 
+Mit dem Befehl "@github (Preview) subscribe *Organisations-Name/Repository-Name Feature-Name*" können Sie einzelne Benachrichtigungen abonieren.
 Mit dem Befehl "@github (Preview) unsubscribe *Organisations-Name/Repository-Name Feature-Name*" können Sie einzelne Benachrichtigungen abwählen.
+Als Beispiel - Der Befehl, um keine Commits eines Repository Namens Testrepository der Organisation Namens Testorganisation mehr zu erhalten, wäre:
+​​​​​​​@GitHub (Preview) unsubscribe Testorganisation/Testrepostitory commits
 
-{>>Jule: Hier hatten sich deine Befehle im Fall subscribe/ unsubscribe leicht unterschieden ("Organisationsname/Repository-Name feature" vs. "Organisiationsname/Repository-Name/feature"). Schau deshalb bitte nochmal, ob meine Version jetzt so richtig ist und füge zum besseren Verständis für die Leser vllt. noch ein ausformuliertes Beispiel an. Für die Befehle in den oberen Absätzen sollte man das vllt. auch noch machen, damit es idiotensicher ist.<<}
 
 Wenn Sie in einer [Unterhaltung] in das Eingabefeld "@github (Preview)" eingeben, und dann im erscheinenden Menü für Vorschläge auf [GitHub (Preview)] klicken, erscheint die Option [Was kann ich tun?]. Wenn Sie diese anklicken, erhalten Sie eine Übersicht aller möglichen Befehle und Interaktionen.
 
