@@ -265,6 +265,10 @@ ist ein kostenloser Git Client für Windows und MacOS, der *Repositories* zur ve
 *Manchmal möchten Sie mit anderen gleichzeitig an einem Dokument arbeiten, um schneller zu einem gemeinsamen Verständnis zu kommen oder einfach schneller Inhalt zu produzieren. Einige Werkzeuge synchronisieren live. Für asynchrone Arbeit, wenn es nicht gleichzeitig sein muss, empfiehlt sich die Arbeit mit [Versions-Kontrolle][]*
 
 
+##### [Atom Teletype](https://teletype.atom.io) [Teletype]
+Atom ist ein Texteditor - so richtig zum Programmieren. Aber auch zum Schreiben an anderen Arten von Text. Er ist quelloffen (Win, Mac, Linux) und lässt sich mit vielen *Plugins* für spezielle Anforderungen erweitern. **Teletype** ist eines der Kern-Plugins. Damit können mehrere Personen gleichzeitig am gleichen Dokument schreiben: Der Editor wird quasi zum Server und stellt auf Einladung eine Verbindung zum anderen Editor her.
+
+
 ##### [Etherpad](https://etherpad.org) [Etherpad]
 ist ein Werkzeug zur ad-hoc Text-Kollaboration. Einfach eine der angebotenen Instanzen im Browser starten. Autorschaft wird farblich markiert, mit einer Zeitleiste können Änderungen vor- und zurück-gespult werden. Datensparsames Open-Source-Projekt mit vielen Erweiterungen und Geschmacksrichtungen. Eventuell kurzfristig die [Corona-Edition](https://video.etherpad.com) mit integriertem Video-Chat nutzen.
 
@@ -482,6 +486,10 @@ bietet mittels Drag-And-Drop die Möglichkeit, Umfragen innerhalb von Minuten ei
 ist ein kostenloses Tool für Online-Umfragen. Es funktioniert ohne Anmeldung, eine Umfrage wird online erstellt, per Link geteilt und ausgewertet.
 
 
+##### [Konferenz-Guide](https://konferenz.guide) [Konferenz-Guide]
+mehr als ein Umfrage-Tool ist es eine Webanwendung zur Verwaltung von Beiträgen und Sessions in Bar-Camps. Kostenlos beim Verweis auf den Anbieter.
+
+
 ##### [Lamapoll](https://www.lamapoll.de/) [Lamapoll]
 ist BSI geprüft und damit 100% DSGVO-konform. Der Datenschutz liegt bei diesem Umfrage-Tool im Fokus. Eine kostenlose Version steht für bis zu 50 Teilnehmer bereit.
 
@@ -523,6 +531,11 @@ ist eine freie Open-Source-Lösung, um lange Links und URLs einzukürzen. Links 
 
 *Videos können Informationen kompakt vermitteln, wenn Zusammenhänge visuell leichter zugänglich sind. Sowohl für asynchrone Kommunikation (für späteres Anschauen) als auch für den live-Einsatz gibt es Werkzeuge, die dabei helfen, noch schneller noch mehr Information zusammen zu fassen.*
 
+
+##### [Descript](https://www.descript.com)
+bringt Audio- und Video-Bearbeitung mit der Nutzungs-Oberfläche *Text* zusammen. Transkription von Inhalten ist in beschränktem Umfang in der kostenlosen Version enthalten. Die Magie beginnt bei der Profi-Klasse: Das Werkzeug kann Text auch in Stimme verwandeln, wenn die Künstliche Intelligenz dafür (nach Einwilligung) trainiert wurde.
+
+
 ##### [Loom](https://www.loom.com/blog/coronavirus-response)
 ist ein Werkzeug zum Teilen und Erläutern von Bildschirminhalten, einen Monat gratis und für ein paar Monate kostenreduziert
 
@@ -538,6 +551,8 @@ hebt den Maus-Zeiger beim Teilen von Bildschirm-Inhalten hervor und macht Aktion
 ##### [Mouseposé](https://boinx.com/mousepose/) [Mouspose]
 visualisiert Mauszeiger-Aktionen und Tastatureingaben auf macOS. Bei Aktivierung wird der Bildschirm abgedunkelt und ein Spotlight rund um den Mauszeiger kreiert, um die Aufmerksamkeit der Zuschauer in den beleuchteten Bereich des Bildschirms zu lenken. Als freie Testversion verfügbar.
 
+##### [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) [ZoomIt]
+Gratisprogramm zum Annotieren (Herumkritzeln) auf dem Bildschirm mit der Maus von Microsoft. Für Windows. Und ja, zum Ranzoomen. Wird mit Tastatur-Kürzeln gesteuert.
 
 
 ## Prokrastinations-Bekämpfung

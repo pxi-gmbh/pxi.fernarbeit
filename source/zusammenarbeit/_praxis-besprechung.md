@@ -1,4 +1,4 @@
-## Praxis: Video-Besprechungen [praxis-besprechung-20200710]
+## Praxis: Video-Besprechungen [praxis-besprechungen-20200710]
 
 Meetings. Manchmal müssen Sie sein.
 
