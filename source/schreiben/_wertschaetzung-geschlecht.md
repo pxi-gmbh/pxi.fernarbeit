@@ -34,6 +34,7 @@ Verzichten Sie möglichst auf „man“ als Umschreibung von Personen. Das ist n
 > *Schlecht:* Man kann sich beim Schreiben schnell verzetteln.  
 > *Besser:* Sie können sich beim Schreiben schnell verzetteln.
 
+
 ### Geschlechter-Rollen in Beispielen aufbrechen
 
 Durchbrechen Sie gezielt herrschende Klischees, wenn Sie Beispiele von Rollen im Alltag oder der Arbeitswelt anführen. Es ist ein sehr starkes Signal für Wertschätzung, wenn Ihr Publikum sich in Anekdoten repräsentiert findet.
@@ -42,6 +43,7 @@ Das gilt insbesondere, wenn Teile Ihres Publikums diese Repräsentation wegen Kl
 
 > *Umständlich:* Was erwarten Sie von der Sie behandelnden Person im ärztlichen Dienst?  
 > *Besser:* Was erwarten Sie von Ihrer Ärztin?
+
 
 ### Nicht-binäre oder Trans-Geschlechter
 
@@ -52,5 +54,11 @@ Die Benennung von weiblichem, männlichem und einem neutralen Geschlecht ist ein
 
 > *Schlecht:* Das Team besteht aus Frauen und Trans-Frauen.  
 > *Besser:* Das Team besteht aus Cis- und Trans-Frauen.
+
+### Schreiben für Technologie mit dem *Gender-Gap*
+
+Sie können Wertschätzung als Offenheit für unterschiedliche Geschlechter-Rollen auch mit einer kurzen Pause in der Doppelnennung von weiblichen und männlichen Geschlechts-Endungen anzeigen. Diese Pause wird durch den Glottis-Schlag hörbar. Das ist der Laut, der im Deutschen am Wortanfang gesprochen wird, wenn ein Vokal als erster Laut steht. Oder wie in „beinhalten” zwischen zwei Vokalen.
+
+Liebe Leser:innen, so eine Äußerung sollte auch von Assistenz-Systemen umgesetzt werden, mit denen blinde Menschen zum Beispiel im Internet lesen. Dafür können Sie im Wort einen Doppelpunkt setzen. Der wird von den populärsten Screen-Readern als kurze Pause vorgelesen.
 
 [weiter lesen: Respektvolle Bezeichnung](#wertschaetzung-respekt-20200710)

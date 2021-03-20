@@ -40,7 +40,7 @@ bietet  per App oder Browser Cloud-Content-Management und Schnittstellen der Zus
 
 
 ##### [Basecamp](https://basecamp.com) [basecamp--datei-verwaltung]
-ist eine integrierte Lösung zu Projekt-Management, Dateiverwaltung und interner Kommunikation. Lohnt sich anzuschauen. [Siehe Eintrag unter *Aufgaben-Verwaltung*][Basecamp--aufgaben-verwaltung]{>>jakob: hier ein Beispiel für einen Querverweis<<}
+ist eine integrierte Lösung zu Projekt-Management, Dateiverwaltung und interner Kommunikation. Lohnt sich anzuschauen. [Siehe Eintrag unter *Aufgaben-Verwaltung*](Basecamp--aufgaben-verwaltung)
 
 
 ##### [CryptPad](https://cryptpad.fr) [CryptPad]
@@ -586,3 +586,5 @@ ist eine Verknüpfung von virtueller Realität mit Video-Konferenzen. In einem z
 
 ##### [Vispa](https://vispa.io/en) [Vispa]
 ist ein interaktiver Workshop-Raum in einer virtuellen 3D-Umgebung. Elemente wie Whiteboards oder Videos können als Stellwände selbst erzeugt und angepasst werden. Dann mit Klebezetteln versehen, gemeinschaftlich beschriften und sortieren. Wird erst richtig eindrücklich, wenn auch VR-Technologie für den Zugang verwendet wird. Die Testphase ist für zwei Monate kostenlos, danach funktioniert die App nur gegen monatliche Bezahlung pro Zugang.
+
+##### test

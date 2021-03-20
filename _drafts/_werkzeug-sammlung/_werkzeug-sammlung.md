@@ -583,3 +583,7 @@ ist eine Android-App, die spielerisch hilft, das Handy vorübergehend wegzulegen
 
 ##### [MozillaHubs](https://hubs.mozilla.com/) [MozillaHubs]
 ist eine soziale VR-Begegnungs-Umgebung. Es ist Kostenlos und erweiterbar. Vermutlich zu verspielt für offene Einladungen, aber eventuell eine gute virtuelle Kaminfeuer-Umgebung (insbesondere, wenn der Raum eingerichtet wird und Interaktions-Möglichkeiten beschränken werden können). Distanz, die sich in Lautstärke abbildet, bildet fluide Grüppchen-Bildung um Gespräche ab.
+
+##### [Workadventure](https://workadventu.re/events) [Workadventure]
+
+16-bit retro Event-Rollenspiel im Browser. Jitsi und iFrames sind als interaktive Elemente integriert. Ihr steuert einen Avatar in einer (bei Bedarf selbst gestalteten) kleinen Welt herum und begegnet anderen Teilnehmenden am Event; wenn sich Spielfiguren nahe genug kommen, öffnet sich automatisch ein Fenster mit einer Video-Konferenz. Ihr könnt außerdem mit manchen Elementen der Umwelt interagieren. Gratis für bis zu 25 Teilnehmende.

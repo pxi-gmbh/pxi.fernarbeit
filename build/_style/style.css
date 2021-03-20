@@ -21,7 +21,6 @@ html {
   font-feature-settings: "calt" on, "liga" on, "dlig" on, "kern" on;
   -webkit-text-size-adjust: 100%;
      -moz-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
           text-size-adjust: 100%;
   max-width: 160em; }
 
@@ -879,7 +878,8 @@ q {
 .center-horizontal {
   position: absolute;
   left: 50%;
-  transform: translateX(-50%); }
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%); }
 
 .full-width {
   /* to stretch elements (like images) inside of centered columns beyond their parent container to fullscreen window width */
@@ -1026,10 +1026,14 @@ label.aside-toggle {
 
 /* tables from divs with flexbox */
 .flex-table {
+  display: -webkit-flex;
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
   margin: 0;
   padding: 0;
   -webkit-hyphens: auto;
@@ -1085,30 +1089,40 @@ label.aside-toggle {
 @keyframes pop-in {
   0% {
     opacity: 0;
-    transform: scale(0.7); }
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }
   100% {
     opacity: 1;
-    transform: scale(1); } }
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
 
 @-webkit-keyframes slide-in {
   0% {
     opacity: 0;
-    transform: scale(0.8);
-    transform: translateY(20%); }
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%); }
   100% {
     opacity: 1;
-    transform: scale(1);
-    transform: translateY(0); } }
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
 
 @keyframes slide-in {
   0% {
     opacity: 0;
-    transform: scale(0.8);
-    transform: translateY(20%); }
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%); }
   100% {
     opacity: 1;
-    transform: scale(1);
-    transform: translateY(0); } }
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
 
 @-webkit-keyframes fade-in {
   0% {
@@ -1344,11 +1358,14 @@ label.aside-toggle {
   padding: 1em; }
 
 .card-grid {
+  display: -webkit-flex;
   display: flex;
   /* flexbox based grid system. No Flexbox support = single column layout */
-  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+          flex-flow: row wrap;
   /* items will start a new row when there's not enough room on the current one */
-  justify-content: space-between;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
   max-width: 75ch;
   padding-left: 2.5%;
   padding-right: 2.5%;
@@ -1365,7 +1382,8 @@ label.aside-toggle {
   color: #cccccc; }
 
 .card-grid h3:nth-of-type(1) {
-  order: 1;
+  -webkit-order: 1;
+          order: 1;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1373,13 +1391,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(1) + p {
-  order: 2;
+  -webkit-order: 2;
+          order: 2;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(1) + p + p {
-  order: 3;
+  -webkit-order: 3;
+          order: 3;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1387,7 +1407,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(2) {
-  order: 4;
+  -webkit-order: 4;
+          order: 4;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1395,13 +1416,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(2) + p {
-  order: 5;
+  -webkit-order: 5;
+          order: 5;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(2) + p + p {
-  order: 6;
+  -webkit-order: 6;
+          order: 6;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1409,7 +1432,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(3) {
-  order: 7;
+  -webkit-order: 7;
+          order: 7;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1417,13 +1441,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(3) + p {
-  order: 8;
+  -webkit-order: 8;
+          order: 8;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(3) + p + p {
-  order: 9;
+  -webkit-order: 9;
+          order: 9;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1431,7 +1457,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(4) {
-  order: 10;
+  -webkit-order: 10;
+          order: 10;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1439,13 +1466,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(4) + p {
-  order: 11;
+  -webkit-order: 11;
+          order: 11;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(4) + p + p {
-  order: 12;
+  -webkit-order: 12;
+          order: 12;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1453,7 +1482,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(5) {
-  order: 13;
+  -webkit-order: 13;
+          order: 13;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1461,13 +1491,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(5) + p {
-  order: 14;
+  -webkit-order: 14;
+          order: 14;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(5) + p + p {
-  order: 15;
+  -webkit-order: 15;
+          order: 15;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1475,7 +1507,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(6) {
-  order: 16;
+  -webkit-order: 16;
+          order: 16;
   padding-top: 1rem;
   margin-top: 1rem;
   border: 1px solid #cccccc;
@@ -1483,13 +1516,15 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(6) + p {
-  order: 17;
+  -webkit-order: 17;
+          order: 17;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(6) + p + p {
-  order: 18;
+  -webkit-order: 18;
+          order: 18;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #cccccc;
@@ -1497,7 +1532,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(7) {
-  order: 19;
+  -webkit-order: 19;
+          order: 19;
   color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
@@ -1506,14 +1542,16 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(7) + p {
-  order: 20;
+  -webkit-order: 20;
+          order: 20;
   color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(7) + p + p {
-  order: 21;
+  -webkit-order: 21;
+          order: 21;
   color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
@@ -1522,7 +1560,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(8) {
-  order: 22;
+  -webkit-order: 22;
+          order: 22;
   color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
@@ -1531,14 +1570,16 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(8) + p {
-  order: 23;
+  -webkit-order: 23;
+          order: 23;
   color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(8) + p + p {
-  order: 24;
+  -webkit-order: 24;
+          order: 24;
   color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
@@ -1547,7 +1588,8 @@ label.aside-toggle {
   border-radius: 0 0 2px 2px; }
 
 .card-grid h3:nth-of-type(9) {
-  order: 25;
+  -webkit-order: 25;
+          order: 25;
   color: #cccccc;
   padding-top: 1rem;
   margin-top: 1rem;
@@ -1556,14 +1598,16 @@ label.aside-toggle {
   border-radius: 2px 2px 0 0; }
 
 .card-grid h3:nth-of-type(9) + p {
-  order: 26;
+  -webkit-order: 26;
+          order: 26;
   color: #cccccc;
   border: 1px solid #cccccc;
   border-top: 0;
   border-bottom: 0; }
 
 .card-grid h3:nth-of-type(9) + p + p {
-  order: 27;
+  -webkit-order: 27;
+          order: 27;
   color: #cccccc;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
@@ -1600,171 +1644,198 @@ label.aside-toggle {
     margin: 0;
     padding: 0 1rem; }
   .card-grid h3:nth-of-type(1) {
-    order: 1;
+    -webkit-order: 1;
+            order: 1;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(1) + p {
-    order: 2;
+    -webkit-order: 2;
+            order: 2;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(1) + p + p {
-    order: 3;
+    -webkit-order: 3;
+            order: 3;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(2) {
-    order: 1;
+    -webkit-order: 1;
+            order: 1;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(2) + p {
-    order: 2;
+    -webkit-order: 2;
+            order: 2;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(2) + p + p {
-    order: 3;
+    -webkit-order: 3;
+            order: 3;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(3) {
-    order: 1;
+    -webkit-order: 1;
+            order: 1;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(3) + p {
-    order: 2;
+    -webkit-order: 2;
+            order: 2;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(3) + p + p {
-    order: 3;
+    -webkit-order: 3;
+            order: 3;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(4) {
-    order: 4;
+    -webkit-order: 4;
+            order: 4;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(4) + p {
-    order: 5;
+    -webkit-order: 5;
+            order: 5;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(4) + p + p {
-    order: 6;
+    -webkit-order: 6;
+            order: 6;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(5) {
-    order: 4;
+    -webkit-order: 4;
+            order: 4;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(5) + p {
-    order: 5;
+    -webkit-order: 5;
+            order: 5;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(5) + p + p {
-    order: 6;
+    -webkit-order: 6;
+            order: 6;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(6) {
-    order: 4;
+    -webkit-order: 4;
+            order: 4;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(6) + p {
-    order: 5;
+    -webkit-order: 5;
+            order: 5;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(6) + p + p {
-    order: 6;
+    -webkit-order: 6;
+            order: 6;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(7) {
-    order: 7;
+    -webkit-order: 7;
+            order: 7;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(7) + p {
-    order: 8;
+    -webkit-order: 8;
+            order: 8;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(7) + p + p {
-    order: 9;
+    -webkit-order: 9;
+            order: 9;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(8) {
-    order: 7;
+    -webkit-order: 7;
+            order: 7;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(8) + p {
-    order: 8;
+    -webkit-order: 8;
+            order: 8;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(8) + p + p {
-    order: 9;
+    -webkit-order: 9;
+            order: 9;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
     border-top: 0;
     border-radius: 0 0 2px 2px; }
   .card-grid h3:nth-of-type(9) {
-    order: 7;
+    -webkit-order: 7;
+            order: 7;
     padding-top: 1rem;
     margin-top: 1rem;
     border: 1px solid #cccccc;
     border-bottom: 0;
     border-radius: 2px 2px 0 0; }
   .card-grid h3:nth-of-type(9) + p {
-    order: 8;
+    -webkit-order: 8;
+            order: 8;
     border: 1px solid #cccccc;
     border-top: 0;
     border-bottom: 0; }
   .card-grid h3:nth-of-type(9) + p + p {
-    order: 9;
+    -webkit-order: 9;
+            order: 9;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border: 1px solid #cccccc;
