@@ -16,10 +16,10 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./build/
         exclude: .git*
-        - .git*/**
-        -  **/.git*/**
-        - */_drafts
-        - */source
-        - .lnk
-        - .config.codekit3
-        - README.md
+          - .git*/**
+          -  **/.git*/**
+          - */_drafts
+          - */source
+          - .lnk
+          - .config.codekit3
+          - README.md

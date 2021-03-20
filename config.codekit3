@@ -15,7 +15,7 @@
       "oAP" : "\/build\/_drafts",
       "oF" : 0
     },
-    "\/_drafts - Verknüpfung.lnk" : {
+    "\/_drafts - Verknüpfung.lnk" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
@@ -23,27 +23,19 @@
       "oAP" : "\/build\/_drafts - Verknüpfung.lnk",
       "oF" : 0
     },
-    "\/.github\/workflows\/main.yml" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/.github\/workflows\/main.yml",
+    "\/.github" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/build\/.github",
       "oF" : 0
     },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/.gitignore",
-      "oF" : 0
-    },
-    "\/build" : {
-      "ft" : 65536,
       "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
+      "oAP" : "\/build\/.gitignore",
+      "oF" : 1
     },
     "\/README.md" : {
       "cB" : 0,
@@ -1204,7 +1196,7 @@
       "rFN" : 1,
       "uCM" : 0
     },
-    "\/source\/ms-teams\/aktivität-feed-und-schaltflaeche.png" : {
+    "\/source\/ms-teams\/aktivität-feed-und-schaltflaeche.png" : {
       "ft" : 32768,
       "iS" : 335996,
       "oA" : 0,
@@ -3959,7 +3951,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "logo-vue",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 637946877.638183
+    "lastBuiltDate" : 637947819.71290505
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -6047,7 +6039,7 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
-    "skippedFoldersString" : "\/_drafts",
+    "skippedFoldersString" : "\/_drafts,\/.github",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
     "tsAllowSyntheticDefaultImports" : 0,
