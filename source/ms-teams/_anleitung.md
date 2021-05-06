@@ -4,7 +4,7 @@ Alle wichtigen Funktionen können Sie über die Schaltflächen in der linken Spa
 
 **[Aktivität]** - Ein Feed, der Sie chronologisch über Erwähnungen, Nachrichten, Änderungen und weitere Vorgänge in Ihren [Teams] informiert.
 
-![](aktivität-feed-und-schaltflaeche.png)
+![](aktivitaet-feed-und-schaltflaeche.png)
 
 **[Chat]** - Ermöglicht Ihnen den schnellen Austausch mit anderen Mitgliedern.
 

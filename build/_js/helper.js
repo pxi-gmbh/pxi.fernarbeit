@@ -61,6 +61,18 @@ function datenschutzEmail() {
 	for (var i = 0; i < spans.length; i++)
 		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
 }
+function teilhabeEmail() {
+	var eml  = 'teilhabe'   // The email address...
+	eml += '@'
+	eml += 'leitfaden-fernarbeit.de'
+
+	var link = document.createElement("a");
+	link.setAttribute("href", "mailto:" + eml);
+	link.appendChild(document.createTextNode(eml));
+	var spans = getElementsByClass("span", "js--teilhabe-email");
+	for (var i = 0; i < spans.length; i++)
+		spans[i].parentNode.replaceChild(link.cloneNode(true), spans[i]);
+}
 
 // FRAMEBREAKER
 // (disable viewing this site in iframes)
