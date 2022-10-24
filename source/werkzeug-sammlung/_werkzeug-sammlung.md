@@ -150,8 +150,11 @@ minimalistische Web-App für einen Timer und geteilte Notizen in Online-Meetings
 
 
 ##### [Toggl](https://toggl.com/) [Toggl]
-ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Einstiegs-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahl-Plans. 
+ist ein Zeiterfassungs-Werkzeug, das plattform-übergreifend per App oder Browser einsetzbar ist. Dabei bietet es verschiedene Formen der Zeiterfassung, die den Nutzenden hilft, den Arbeitsalltag zu strukturieren und dem Team einen Austausch über die Produktivität des Arbeitstages bietet. Der Einstiegs-Plan mit einfacher Zeiterfassung für Teams von bis zu 5 Mitgliedern ist kostenlos. Für 30 Tage besteht zudem eine kostenfreie Nutzung des Bezahl-Plans.
 
+##### [qlndr](https://qlndr.io/) [qlndr]
+
+erzeugt aus einer Eingabemaske für Event-Details QR-Codes, die auf dem Smartphone automatisch Kalender-Einträge erstellen lassen. Für Präsentationen oder Informations-Material zu Veranstaltungen. Kostenlos. Ohne Cookies, ohne Tracking.
 
 
 ## Finanz-Verwaltung
